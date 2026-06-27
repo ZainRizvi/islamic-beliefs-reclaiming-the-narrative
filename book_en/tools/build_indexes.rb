@@ -1,106 +1,87 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 #
-# Concepts-index preprocessor.
+# Concepts-index preprocessor — NON-DESTRUCTIVE.
 #
-#   ruby tools/build_indexes.rb [src_dir]   (default: ./src)
+#   ruby tools/build_indexes.rb               (default src=./src, out=./build/render)
+#   ruby tools/build_indexes.rb SRC OUTDIR
 #
-# Scans the .adoc sources for concept markers of the form
+# Reads the AsciiDoc sources (which contain concept markers of the form
+#   @@CX(Primary Term | optional sub-aspect)@@
+# placed inline at the sentence that expresses the idea) and writes a PROCESSED
+# COPY of the whole src tree into OUTDIR, in which each marker is replaced by an
+# inline anchor [[concept-NNNN]]. It also writes OUTDIR/_generated/concepts-index.adoc
+# (a description list grouped by primary, each sub-aspect linking via xref to its
+# anchor so the PDF prints real page numbers).
 #
-#     @@CX(Primary Term | optional sub-aspect)@@
+# CRUCIAL: the committed sources under SRC are NEVER modified. The concept TERM
+# TEXT lives permanently in the @@CX(...)@@ markers in the source, so nothing here
+# is lossy — delete OUTDIR anytime and rebuild.
 #
-# placed inline at the sentence that expresses the idea. For each marker it:
-#   1. assigns a stable anchor id (concept-NNNN),
-#   2. rewrites the marker in place to that inline anchor `[[concept-NNNN]]`
-#      (so the prose renders unchanged and Asciidoctor can resolve its page),
-#   3. records (primary, secondary, anchor) for the index.
-#
-# It then writes `src/_generated/concepts-index.adoc`, a description-list grouped
-# by primary term (mushaf-independent alpha sort), each sub-aspect linking via
-# `xref:concept-NNNN[]` so the PDF prints real page numbers. The master document
-# includes that file at the "Index of Concepts and Key Ideas" placeholder.
-#
-# Idempotent: markers already rewritten to anchors are left alone; re-running only
-# processes any new @@CX(...)@@ markers and regenerates the index file.
+# The master render doc is OUTDIR/book.adoc; build.sh renders from there.
 
 require 'fileutils'
 
 SRC = ARGV[0] || File.join(__dir__, '..', 'src')
-GEN_DIR = File.join(SRC, '_generated')
-OUT = File.join(GEN_DIR, 'concepts-index.adoc')
-
+OUTDIR = ARGV[1] || File.join(__dir__, '..', 'build', 'render')
 MARKER = /@@CX\((.+?)\)@@/
 
-# Collect existing anchors so ids stay stable across runs and never collide.
-existing = []
-Dir.glob(File.join(SRC, '**', '*.adoc')).each do |f|
-  next if f.start_with?(GEN_DIR)
-  File.read(f).scan(/\[\[(concept-\d+)\]\]/) { |m| existing << m[0][/\d+/].to_i }
-end
-next_id = (existing.max || 0) + 1
+FileUtils.rm_rf(OUTDIR)
+FileUtils.mkdir_p(OUTDIR)
 
-entries = []   # {primary:, secondary:, anchor:}
-
-# First, harvest already-anchored concepts? We can't recover their term text from
-# the anchor alone, so the index is rebuilt only from live @@CX markers PLUS a
-# persisted registry. Keep a registry so anchors created on prior runs still index.
-REGISTRY = File.join(GEN_DIR, 'concepts-registry.tsv')
-FileUtils.mkdir_p(GEN_DIR)
-registry = {}   # anchor -> [primary, secondary]
-if File.exist?(REGISTRY)
-  File.foreach(REGISTRY) do |line|
-    a, p, s = line.chomp.split("\t", 3)
-    registry[a] = [p, s.to_s]
+# Copy the whole source tree to OUTDIR (so includes resolve identically).
+Dir.glob(File.join(SRC, '**', '*')).each do |path|
+  rel = path.sub(/\A#{Regexp.escape(SRC)}\/?/, '')
+  dest = File.join(OUTDIR, rel)
+  if File.directory?(path)
+    FileUtils.mkdir_p(dest)
+  else
+    FileUtils.mkdir_p(File.dirname(dest))
+    FileUtils.cp(path, dest)
   end
 end
 
-files = Dir.glob(File.join(SRC, '**', '*.adoc')).reject { |f| f.start_with?(GEN_DIR) }.sort
-files.each do |path|
+# Walk the COPIES, replace markers with anchors, collect (primary, sub, anchor).
+entries = []   # [primary, sub, anchor]
+counter = 0
+Dir.glob(File.join(OUTDIR, '**', '*.adoc')).sort.each do |path|
+  next if path.include?('/_generated/')
   text = File.read(path)
   next unless text =~ MARKER
-  changed = text.gsub(MARKER) do
+  text = text.gsub(MARKER) do
     raw = Regexp.last_match(1)
-    primary, secondary = raw.split('|', 2).map { |x| x.to_s.strip }
-    anchor = "concept-#{next_id}"
-    next_id += 1
-    registry[anchor] = [primary, secondary.to_s]
+    primary, sub = raw.split('|', 2).map { |x| x.to_s.strip }
+    counter += 1
+    anchor = "concept-#{counter}"
+    entries << [primary, sub.to_s, anchor]
     "[[#{anchor}]]"
   end
-  File.write(path, changed)
+  File.write(path, text)
 end
 
-# Persist registry.
-File.open(REGISTRY, 'w') do |f|
-  registry.sort_by { |a, _| a[/\d+/].to_i }.each { |a, (p, s)| f.puts([a, p, s].join("\t")) }
-end
-
-# Build the grouped index from the registry.
+# Build the grouped index.
 grouped = Hash.new { |h, k| h[k] = [] }
-registry.each { |anchor, (primary, secondary)| grouped[primary] << [secondary, anchor] }
+entries.each { |primary, sub, anchor| grouped[primary] << [sub, anchor] }
 
-lines = []
-lines << '// GENERATED by tools/build_indexes.rb — do not edit by hand.'
-grouped.keys.sort_by { |k| k.downcase }.each do |primary|
+lines = ['// GENERATED by tools/build_indexes.rb — do not edit by hand.']
+grouped.keys.sort_by { |k| k.gsub(/[^a-zA-Z0-9]/, '').downcase }.each do |primary|
   subs = grouped[primary]
-  bare = subs.select { |sec, _| sec.nil? || sec.empty? }
-  withsub = subs.reject { |sec, _| sec.nil? || sec.empty? }
+  bare = subs.select { |s, _| s.nil? || s.empty? }
+  withsub = subs.reject { |s, _| s.nil? || s.empty? }
   if withsub.empty?
-    refs = bare.map { |_, a| "xref:#{a}[▸]" }.join(', ')
-    lines << "*#{primary}*:: #{refs}"
+    lines << "*#{primary}*:: #{bare.map { |_, a| "xref:#{a}[▸]" }.join(', ')}"
   else
     lines << "*#{primary}*::"
-    # any page refs attached directly to the primary
-    unless bare.empty?
-      lines << "  (general)::: #{bare.map { |_, a| "xref:#{a}[▸]" }.join(', ')}"
-    end
-    withsub.sort_by { |sec, _| sec.downcase }
-           .group_by { |sec, _| sec }
-           .each do |sec, group|
-      refs = group.map { |_, a| "xref:#{a}[▸]" }.join(', ')
-      lines << "  #{sec}::: #{refs}"
+    lines << "  (general)::: #{bare.map { |_, a| "xref:#{a}[▸]" }.join(', ')}" unless bare.empty?
+    withsub.group_by { |s, _| s }.sort_by { |s, _| s.downcase }.each do |sub, grp|
+      lines << "  #{sub}::: #{grp.map { |_, a| "xref:#{a}[▸]" }.join(', ')}"
     end
   end
 end
 
-File.write(OUT, lines.join("\n") + "\n")
-puts "Concepts index: #{registry.size} entries across #{grouped.size} primary terms -> #{OUT.sub(%r{\A.*/src/}, 'src/')}"
+gen_dir = File.join(OUTDIR, '_generated')
+FileUtils.mkdir_p(gen_dir)
+File.write(File.join(gen_dir, 'concepts-index.adoc'), lines.join("\n") + "\n")
+
+puts "Concepts index: #{entries.size} entries across #{grouped.size} primary terms"
+puts "Render tree: #{OUTDIR.sub(%r{\A.*/book_en/}, '')}"

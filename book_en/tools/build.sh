@@ -6,20 +6,27 @@
 #
 # Layout:
 #   src/book.adoc            master document (includes the parts/chapters)
-#   src/**/*.adoc            chapter + front/back matter sources
+#   src/**/*.adoc            chapter + front/back matter sources (NEVER mutated)
 #   tools/extensions/*.rb    custom Asciidoctor extensions (Qur'an index, etc.)
+#   tools/build_indexes.rb   builds a processed render tree from the sources
 #   tools/validate.rb        footnote / citation / index consistency checks
+#   build/render/            processed copy of src (markers->anchors); rendered from here
 #   build/                   rendered output (gitignored)
+#
+# The concepts index is produced non-destructively: build_indexes.rb copies src/
+# to build/render/, turning @@CX(...)@@ markers into anchors there. The committed
+# sources keep the full marker text, so nothing is ever lost.
 
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-SRC="$ROOT/src/book.adoc"
+SRC_DIR="$ROOT/src"
+RENDER_DIR="$ROOT/build/render"
+RENDER_SRC="$RENDER_DIR/book.adoc"
 OUT="$ROOT/build"
 EXT="$ROOT/tools/extensions"
 mkdir -p "$OUT"
 
-# Collect any custom extensions as -r flags (none yet is fine).
 ext_flags=()
 if [ -d "$EXT" ]; then
   while IFS= read -r -d '' f; do ext_flags+=( -r "$f" ); done \
@@ -27,52 +34,46 @@ if [ -d "$EXT" ]; then
 fi
 
 require_src() {
-  if [ ! -f "$SRC" ]; then
-    echo "ERROR: $SRC not found. The AsciiDoc sources haven't been created yet." >&2
-    echo "       (Conversion from the Markdown originals is a separate step.)" >&2
+  if [ ! -f "$SRC_DIR/book.adoc" ]; then
+    echo "ERROR: $SRC_DIR/book.adoc not found." >&2
     exit 2
   fi
 }
 
-# Regenerate the concepts index from @@CX(...)@@ markers (rewrites markers to
-# anchors in place, writes src/_generated/concepts-index.adoc). Idempotent.
-prepare_indexes() {
-  if [ -f "$ROOT/tools/build_indexes.rb" ]; then
-    echo ">> Preparing concepts index"
-    ruby "$ROOT/tools/build_indexes.rb" "$ROOT/src"
-  fi
+# Build the processed render tree (src copy with concept markers -> anchors +
+# the generated concepts index). Non-destructive: sources are untouched.
+prepare_render() {
+  echo ">> Building render tree (concepts index)"
+  ruby "$ROOT/tools/build_indexes.rb" "$SRC_DIR" "$RENDER_DIR"
 }
 
 build_pdf() {
-  require_src
-  prepare_indexes
+  require_src; prepare_render
   echo ">> Rendering PDF -> build/Islamic-Beliefs-Reclaiming-the-Narrative.pdf"
   asciidoctor-pdf "${ext_flags[@]}" \
     -a pdf-theme="$ROOT/tools/theme/book-theme.yml" \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$SRC"
+    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
 }
 
 build_epub() {
-  require_src
-  prepare_indexes
+  require_src; prepare_render
   echo ">> Rendering EPUB -> build/Islamic-Beliefs-Reclaiming-the-Narrative.epub"
   asciidoctor-epub3 "${ext_flags[@]}" \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$SRC"
+    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
 }
 
 build_html() {
-  require_src
-  prepare_indexes
+  require_src; prepare_render
   echo ">> Rendering HTML -> build/Islamic-Beliefs-Reclaiming-the-Narrative.html"
   asciidoctor "${ext_flags[@]}" \
     -a toc=left -a sectnums \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.html" "$SRC"
+    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.html" "$RENDER_SRC"
 }
 
 validate() {
   if [ -f "$ROOT/tools/validate.rb" ]; then
     echo ">> Running consistency validators"
-    ruby "$ROOT/tools/validate.rb" "$ROOT/src"
+    ruby "$ROOT/tools/validate.rb" "$SRC_DIR"
   else
     echo ">> No validator present yet (tools/validate.rb); skipping."
   fi
