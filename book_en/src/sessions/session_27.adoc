@@ -4,7 +4,7 @@
 [.session-subtitle]
 _در پیرامون ولایت (۲) — delivered Tuesday, 23 Mehr 1353 / 28 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="al-Naḥl",s=16,a="98-100"]
+[role="verse quran",surah="al-Naḥl",s=16,a="98-100"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:98–100):* "So when you recite the Qur'an, seek refuge in Allah from the accursed Satan. Indeed, he has no authority over those who have believed and rely upon their Lord. His authority is only over those who take him as their guardian and who associate others with Him."
@@ -20,7 +20,7 @@ So Tāghūt is not a proper name — as some imagine, that Tāghūt is the name 
 
 What is the relationship between Satan and the Tāghūt? Do they have a relationship with each other? Yes — and they have more than a relationship. Satan is the very Tāghūt; the Tāghūt is the very Satan. The verse of the Qur'an says this. I want to recite the verse only for a verbal inference, so that it may become clear that Tāghūt is equivalent to Satan. The verse of the Qur'an says:
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="76"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="76"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:76):* "Those who believe fight in the way of Allah" — those who have believed, who have become believers, their fighting and struggle is in the way of God; "and those who disbelieve fight in the way of the Tāghūt" — those who have disbelieved in and rejected the religion, their fighting, their struggle, their war is in the way of the Tāghūt. Then He says: "So fight against the allies of Satan" — fight, oppose, and combat the _awliyāʾ_, the comrades, the adherents, and the dependents of Satan; "indeed, the plotting of Satan is weak" — for the scheme of Satan, the contrivance of Satan, the trickery of Satan, is weak.footnote:s27-1[Sūrat al-Nisāʾ / verse 76.]
@@ -36,7 +36,7 @@ If you pay attention, this sequence I have laid out — these words and these se
 
 This is the verse of the Qur'an — this verse that I am reciting for you from Sūrat al-Nisāʾ — a verse very worthy of attention and reflection. Even I myself, although I do not have the habit — that is, I am less in the habit of reading the Qur'an without attention and reflection — at times, when a greater reflection is applied and I find and sense something fresh in the Qur'an, I am all the more grieved that we still reflect so little upon the Qur'an. This verse, which we have written down here, which we have rendered, and which I will also explain now:
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="115"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="115"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:115):* "And whoever opposes the Messenger after guidance has become clear to him" — whoever rises up in dispute and contention with the Prophet after the path of guidance has become clear to him, separating himself from the Messenger, branching his road off from the road of prophethood, the very road that we earlier mapped out for you; "and follows other than the way of the believers" — and follows a way other than the way of the believers and the Islamic community and the goals of faith, withdrawing himself from the company of the upright, purposeful, directed Muslim; "We give him over to what he has turned to" — that very thing which he himself has cast around his own neck, We make fast upon his neck. That very _wilāyat_ which he himself accepted with his own hand, We make the fixed coloring of his wretched life. With his own hand he had gone to that region and taken up residence there; We make him stay right there, broken-footed. "Indeed, Allah does not change the condition of a people until they change what is in themselves."footnote:s27-3[Sūrat al-Raʿd / verse 11.] You yourself went and gave your reins over to Satan; so let these reins remain in the hand of Satan. This is Our way; this is the law of creation.footnote:s27-4[Refer to the polycopy (handout) at the end of the session.]
@@ -85,7 +85,7 @@ ____
 "From the Commander of the Faithful ʿAbd al-Malik ibn Marwan to the people of Kufa. O people of Kufa, peace be upon you." — Suddenly from the whole mosque a voice rose up: "And upon the Commander of the Faithful, peace." They returned his greeting. A satisfied smile took shape upon Hajjaj's lips; in his heart he said: The work is done. And indeed the work was done. The work of the people of Kufa was finished right there.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="115"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="115"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:115):* "And whoever opposes the Messenger after guidance has become clear to him, and follows other than the way of the believers, We give him over to what he has turned to."
@@ -114,31 +114,31 @@ It is not amiss for me to add this word too: that this very Hajjaj, at the hands
 
 Let me explain the verses for you:
 
-[.verse,quran,surah="al-Naḥl",s=16,a="98"]
+[role="verse quran",surah="al-Naḥl",s=16,a="98"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:98):* "So when you recite the Qur'an" — when you have recited the Qur'an; "seek refuge in Allah from the accursed Satan" — then seek refuge in God from the harm of the outcast Satan. Now that you have recited the Qur'an, now that you have learned the teachings of Islam — O brother, you who until now did not understand, now that you have understood — keep yourself safe from the satanic harm that wants you not to know and not to understand the Qur'an. What does "keep yourself safe" mean? It means: strive that he not take from you the Qur'anic knowledge that has been heaped up in your heart; that he not close upon you the road of action and the road of fuller understanding. "So seek refuge in Allah" — seek refuge in God — "from the accursed Satan" — from the evil of the outcast Satan.
 ____
 
-[.verse,quran,surah="al-Naḥl",s=16,a="99"]
+[role="verse quran",surah="al-Naḥl",s=16,a="99"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:99):* "Indeed, he has no authority." Can I, then, take refuge in God? Can I, then, flee from the evil of Satan? Yes. "Indeed, he has no authority over those who have believed and rely upon their Lord." Indeed Satan — the evil-creating, corruption-creating, powerful one — has no mastery or might over those who come to believe in God and put their trust and reliance upon God. Those who place themselves under the _wilāyat_ of God, and strive and hasten toward the region of the _wilāyat_ of God — over them Satan has no mastery.
 ____
 
-[.verse,quran,surah="al-Naḥl",s=16,a="100"]
+[role="verse quran",surah="al-Naḥl",s=16,a="100"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:100):* "His authority is only over those who take him as their guardian." Indeed, the mastery of Satan is only over those who have accepted his _wilāyat_. The mastery of Hajjaj is only over those who accepted his harsh speech, who with their own hand gave the rope around their own neck into his hand. "His authority is only" — solely and only the power and mastery of Satan — "over those who take him as their guardian" — over those who have accepted his _wilāyat_; "and over those who associate others with Him" — and those who have taken him as a partner with God.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="115"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="115"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:115):* "And whoever opposes the Messenger" — whoever separates himself, whoever wars in contention with the Prophet; "after guidance has become clear to him" — after the path of guidance has become clear and manifest to him, and yet he separates himself from the path of the Prophet; he does not submit his body and neck to the commitment of faith, to the profession of prophethood, to faith in prophethood, and to bearing witness to prophethood; "and follows other than the way of the believers" — and follows a way other than the way of the true believers; "We give him over to what he has turned to" — every thing and every one whom he has accepted into _wilāyat_, We make a _walī_ and ruler over him. "We give him over" — We make him his ruler, We make him his _walī_; "to what he has turned to" — whatever he himself has accepted into _wilāyat_. "And We will burn him in Hell" — and We hurl him down into Hell — "and evil it is as a destination" — and how evil a fate and end Hell is.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="116"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="116"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:116):* "Indeed, Allah does not forgive that He should be associated with." God does not pass over the one by whom He is associated with partners. Go back to the discussion of _tawḥīd_ and the meaning of _tawḥīd_ and _shirk_; see what _shirk_ is, what _tawḥīd_ is — and what is the sin that God does not pass over, which God does not forgive? "Indeed, Allah does not forgive that He should be associated with." If I want to be more precise and exact, there is still more to say. God does not extend His forgiveness to the one who has accepted _shirk_. The one who has become a polytheist has entered into the _wilāyat_ of other than God, has surrendered the domain of God's influence to other than God; those wounds that have settled upon his soul from sin and disobedience, from evil and wretchedness and disorder, will never be healed — that is, he attains no forgiveness. This is the meaning of _maghfirah_, after all; I explained it to you. The forgiveness of sin means the smoothing-over and healing of that wound which arises in the human soul on account of sin and error and slipping and deviation. When it is smoothed over, forgiveness and pardon have included him; when that wound and distress, which had come upon your soul by way of evil conduct, of a wrong course, of not walking the path of God — once it has healed — then you have become forgiven. _Ghufrān_ means this. And if you are under the _wilāyat_ of other than God, that wound which had arisen from sin will never heal; the blow and kick of sin will never be made good. "And He forgives what is less than that for whom He wills" — but the sins less than and lower than this, He brings under forgiveness for whomever He wills.
@@ -146,7 +146,7 @@ ____
 
 Of course, God's willing is not arbitrary either. The one who repents, the one who makes amends, the one who turns toward God — him God wills to place under forgiveness. "And whoever associates others with Allah" — again it comes back to the matter of _shirk_: whoever assumes a partner for God and a peer — "has certainly gone far astray" — has gone astray very, very far from the path of guidance. There is a time when you lose your way from the road in the wilderness, but you are only one kilometer apart from it. There is a time when, in the desert, you lose your way from the road and you have become tens of kilometers apart from the road; returning from that is not easy. It requires greater effort, greater alertness, a stronger guide. Those who have associated partners with God have likewise gone very, very far from the straight and middle path of guidance; "has certainly gone far astray" — they have fallen into bewilderment and a far-reaching misguidance.
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="117"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="117"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:117):* There is a narration in connection with this phrase that those who are people of hadith should consult and examine; I do not relate it.
@@ -157,13 +157,13 @@ ____
 "They call upon none besides Him but female deities" — other than God, whatever they call upon are nothing but a few female idols. "And they call upon none but a rebellious Satan" — and they call upon none but God except a Satan who is rebellious and far from virtue and devoid of goodness. We have rendered _marīd_ here as "rebellious"; but you may also write, beside "rebellious," "devoid of goodness and virtue" — this too is a meaning of _marīd_.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="118"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="118"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:118):* "Allah cursed him" — a Satan who is outcast from God. "And he said" — from the very beginning, Satan made his pact with God; the front of Satan and the front of God, by their very nature and disposition, are not capable of reconciliation. "And he said" — He is speaking of the nature of the satan-like ones and the satans; all the satans, and the class of Satan, are essentially this way. "I will surely take from among Your servants an appointed portion." Satan has pledged and said: I will, O God, set apart for myself a fixed portion and an allotted share from among Your servants; that is, I will drag a number of Your servants from the straight path into misguidance; I will seize their reason; I will blind their insight and intellect; and instead of their being under Your _wilāyat_, I will bring them under my own _wilāyat_ and rule.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="119"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="119"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:119):* "And I will surely lead them astray" — I will lead them severely astray. "And I will surely arouse in them desires" — I will bind them severely to far-flung, long desires. Dwell a little upon the phrase "and I will surely arouse in them desires." Far-flung, long desires — that which holds a human being back from every effort in the path of God. The desire to live for another ten years in pleasure and comfort and welfare; the desire to marry off the eldest son and find husbands for the daughters; the desire to enlarge this small two-room house and make it three rooms; to make this one-room shop a two-room one; the desire to become the head and director of such-and-such an office and organization and to draw such-and-such an amount of money; the desire that they call my son "Mr. Engineer," or call me that — far-flung, long desires. Desires that, like a millstone fallen upon a human being's neck, bend the head, double the back, and bring a human being to his knees; desires that, if you draw out the tooth of their greed and cast it away, suddenly you find yourself free, you find yourself light, you find that no shackle or bond has tied your hand and foot in the path of God. "And I will surely arouse in them desires" — I will bind them to far-flung, long desires.
@@ -181,13 +181,13 @@ ____
 
 Satan's pact with God is a pact of this sort, a pact of obstinacy and a pact of defiance against God. "This is how we are, O God!" This is the scroll, the placard of the program of all the satans. The work of all the satans of the world is this very work. Be assured that if a people want to live by the God-given _fiṭrah_ and nature, Satan will not allow it; the Satan who holds _wilāyat_ over them will not allow it — it is impossible that he should allow it. And by whatever means, those who are under his _wilāyat_, under his _wilāyat_ and dominion, he draws them away from God-given creation and _fiṭrah_; because without this, his work does not get done — Satan's satanity goes lame. Therefore, after this, God says — and the address is to me and to you:
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="119"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="119"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:119, conclusion):* "And whoever takes Satan as a guardian instead of Allah" — whoever accepts Satan, instead of God, into _wilāyat_; "has certainly suffered a manifest loss" — has incurred a very plain and evident loss, has suffered injury.
 ____
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="120"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="120"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:120):* "He promises them" — Satan makes promises to these people: your future, your lifetime, your life — all lies. "He promises them and arouses desire in them" — and he afflicts them with far-flung desires and fancies. "But Satan does not promise them except delusion" — and Satan gives a human being no promise but delusion and deception and falsehood. And Satan gives them nothing but deluding and beguiling promises. This too is one verse.

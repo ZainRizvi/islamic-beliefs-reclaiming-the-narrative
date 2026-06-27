@@ -4,7 +4,7 @@
 [.session-subtitle]
 _ایمان و پایبندی به تعهدات — delivered Monday, 1 Mehr 1353 / 6 Ramaḍān al-Mubārak 1394_
 
-[.verse,quran,surah="al-Nūr",s=24,a="51"]
+[role="verse quran",surah="al-Nūr",s=24,a="51"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:51):* "The only saying of the believers, when they are called to God and His Messenger so that he may judge between them, is that they say: 'We hear and we obey.' And it is they who are the successful. And whoever obeys God and His Messenger, and fears God and is mindful of Him — it is they who are the triumphant."
@@ -20,7 +20,7 @@ There is a saying: _Asadun ʿalayya wa-fi'l-ḥurūbi naʿāmatun_ — "A lion a
 
 Commitment is not seasonal; commitment is not occasional. It is not directed at one time and not at another; it is not directed at one person and not at another. Commitment is universal, all-encompassing, and perpetual. The Noble Qur'an names the Jews — those who in one place would say that our brethren — meaning the Jews — must be preserved like dear ones; but in the place where their personal interests came into play, they would kill these very brethren in wars, take them captive, sell them, and consume the price. The Qur'an, in the position of rebuking the Children of Israel, says:
 
-[.verse,quran,surah="al-Baqarah",s=2,a="85"]
+[role="verse quran",surah="al-Baqarah",s=2,a="85"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:85):* "Do you believe in part of the Book and disbelieve in part?"
@@ -32,7 +32,7 @@ Our great Imam, Imam al-Bāqir — God's blessings and peace be upon him — in 
 
 Those who, if the truth is on their side in some affair, submit to the judgment and rule of the Prophet, but where the truth is not on their side and they know that the ruling will go against them, do not submit to the rule and judgment of the Prophet — of these the Qur'an asks: did they fear? Did some doubt arise in them? Did they fall into uncertainty about the rightness and soundness of the religion? Its other half is this:
 
-[.verse,quran,surah="al-Nūr",s=24,a="50"]
+[role="verse quran",surah="al-Nūr",s=24,a="50"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:50):* "Or do they fear that God and His Messenger will be unjust to them?"
@@ -48,7 +48,7 @@ I want to say: if it is to be the case that we accept some portion of the religi
 
 Well, here religion is a very good religion, a delightful religion, a good religion, a harmless religion, a religion that attracts affection, draws sentiment, makes the people well-disposed — these are good things. But this religion which says that its Prophet was sent for the teaching and the training of the people:
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="164"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="164"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:164):* "Indeed God conferred a favor upon the believers when He sent among them a Messenger from among themselves, reciting to them His verses, and purifying them, and teaching them the Book and the wisdom."
@@ -70,7 +70,7 @@ Who has done these things? Upon whose shoulders is the sin of the people's not u
 
 Here, what is our duty? Did you take note? Faced with a man like Muʿāwiya, a man like Shurayḥ, a man like al-Mughīra, a man like Zayd ibn ʿAmr of the time of Muʿāwiya — it makes no difference, in whatever class — when it comes to judging this human being, how must we judge him? In some places he has accepted the religion and the faith in a committed way; in some places he has left no sign, trace, or token of religion and faith in his life. What shall we say to this man? Shall we regard him as a believer? The Qur'an explicitly states that a man of this kind is not a believer. So the faith that is valid in the Islamic way of thinking is not the faith of men of this sort — whose like in our age are countless, may God preserve us — but rather it is the firm faith of those men who are, everywhere, with everyone, at all times, in every condition, preserved — with their commitment, with their action:
 
-[.verse,quran,surah="al-Nūr",s=24,a="55"]
+[role="verse quran",surah="al-Nūr",s=24,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:55):* "Indeed those who believe and do righteous deeds…" — and so on to the end.
@@ -82,7 +82,7 @@ And the promises that have been given for faith and for the believers are for th
 
 Now let me translate these verses; listen.
 
-[.verse,quran,surah="al-Nūr",s=24,a="46"]
+[role="verse quran",surah="al-Nūr",s=24,a="46"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:46):* "Indeed We have sent down clarifying verses."
@@ -201,7 +201,7 @@ ____
 
 Indeed the saying of the believers was — when they were called toward God and His Messenger, so that God and the Prophet might judge between them, their statement was this, that they said, "We hear and we obey." Which, as I have said, "we hear" means we have understood — not we heard with the ear; "we hear" means we have given heed. The terminology of "hearing" (_samʿ_):
 
-[.verse,quran,surah="Qāf",s=50,a="37"]
+[role="verse quran",surah="Qāf",s=50,a="37"]
 [quote]
 ____
 *Qur'an, Sūrat Qāf (50:37):* "Or gives ear while he is a witness."
@@ -260,7 +260,7 @@ ____
 
 The next two verses do not have much bearing on our discussion; I want to get to the verse after them:
 
-[.verse,quran,surah="al-Nūr",s=24,a="55"]
+[role="verse quran",surah="al-Nūr",s=24,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:55):* "God has promised those who believe…"

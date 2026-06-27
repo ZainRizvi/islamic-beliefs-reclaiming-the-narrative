@@ -4,7 +4,7 @@
 [.session-subtitle]
 _تأثیرات روانی توحید — delivered Tuesday, 9 Mehr 1353 / 14 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="172-173"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="172-173"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:172–173):* "Those who responded to God and the Messenger after the wound had befallen them — for those of them who did good and were mindful of God there is a great reward. Those to whom people said, 'The people have gathered against you, so fear them,' yet it only increased them in faith, and they said, 'God is sufficient for us, and how excellent a Guardian He is.'"footnote:s13-1[Sūrat Āl ʿImrān (The Family of ʿImrān), verses 172–173.]footnote:s13-2[This is the opening epigraph of the session, comprising Āl ʿImrān 3:172–173.]
@@ -12,7 +12,7 @@ ____
 
 In the field of the effects that tawhid produces within the fabric of society, and the shape it gives to human community and to a monotheistic community, a number of discussions were undertaken. There are, of course, still other discussions on this subject, but for various reasons we set aside continuing with them. The most important of these reasons is the following. For instance, the effect of tawhid and of the monotheistic outlook upon the financial affairs of a tawhid-based society — which is one of the important planks of the tawhid "resolution" — is a topic that, of course, requires a great deal of discussion. But to derivefootnote:s13-3[(Translator's/editor's note) _istintāj_: drawing a conclusion, inference.] this matter from the verses of the Qur'an is a somewhat exacting and delicate task, and it is not a subject suited to public sessions and general gatherings. Although the Qur'an, with the expression _"and give them of the wealth of God which He has given you"_footnote:s13-4[Sūrat al-Nūr (Light), verse 33.] — that is, give of the wealth of God, the wealth that God has given you and which is God's wealth; meaning give it to the needy and to cases of need and want — does show the monotheistic outlook in the matter of worldly wealth, these points do exist. But to take the totality of the verses dealing with wealth and, in light of the monotheistic outlook, draw inferences and make use of them, is a task that belongs to more scholarly settings. It is delicate, it is exacting, and it is not really suitable for us to write out on these mimeographed pages, hand them to people, and then sit here for an hour and debate it. So we set those discussions aside.
 
-[.verse,quran,surah="al-Nūr",s=24,a="33"]
+[role="verse quran",surah="al-Nūr",s=24,a="33"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:33):* "…and give them of the wealth of God which He has given you…"footnote:s13-4[]
@@ -70,7 +70,7 @@ Now, in any case, this passage that we have selected today from the Noble Qur'an
 
 Which verse did we say? 172. Yes! Verse 172. Sūrat Āl ʿImrān, verse 172:
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="172"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="172"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:172):* "Those who responded to God and the Messenger after the wound had befallen them — for those of them who did good and were mindful of God there is a great reward."
@@ -80,7 +80,7 @@ Of course, the preamble to the verse is lengthy; even this portion that I have s
 
 This verse relates to the Battle of Uḥud. You know that at the Battle of Uḥud a group had fled, and the Prophet of God was calling out to them; some were afraid and did not come, and some, even though they were wounded, came. The Commander of the Faithful on that day sustained seventy-one wounds — seventy-one, perhaps fewer, perhaps more; I do not exactly recall right now — he sustained many wounds, and a number of the other companions of the Prophet likewise, a little fewer. Some responded and accepted the call of God and the Messenger, and some did not accept and fled. This verse declares the recompense and reward of that group who did not flee but accepted and responded.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="173"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="173"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:173):* "Those to whom people said…"
@@ -92,7 +92,7 @@ And this is a point in the Qur'an that I have perhaps noted on suitable occasion
 
 Noah the Prophet — an old man, white-bearded, very advanced in years — and this, his young son, his beloved son, he says to him: "Come, board; come, board; you will drown." He says: "No indeed, I will not board, nor will I drown; I will go up the mountain, and I have no need of you either." In the midst of these very exchanges and conversations, a wave comes between them as a barrier, and the father no longer sees the son, and the son drowns. The matter comes to its end. Noah's heart, from its human side, is somewhat troubled — well, his son perished in this event. He lays his trouble before the Lord of the worlds, saying: "My Lord, You had promised that You would save my family, that You would save my household; well, my son too, who was of my household — would that he had been saved." Then, from the Lord of the worlds, an address comes:
 
-[.verse,quran,surah="Hūd",s=11,a="46"]
+[role="verse quran",surah="Hūd",s=11,a="46"]
 [quote]
 ____
 *Qur'an, Sūrat Hūd (11:46):* "Indeed he is not of your family; indeed it is an unrighteous deed."footnote:s13-13[Sūrat Hūd, verse 46.]
@@ -102,7 +102,7 @@ _"Innahu laysa min ahlika"_ — he is not of your family; _"innahu ʿamalun ghay
 
 Again, when a person looks into the narrations as well, he finds abundant indications and many pieces of evidence for this principle. I have seen a narration from the Imam, peace be upon him, who says: _"The believer is the brother of the believer through his father and his mother"_ (_al-muʾminu akhū al-muʾmini li-abīhi wa-ummih_)footnote:s13-14[Hadith no. 34. (_"Al-muʾminu akhū al-muʾmini li-abīhi wa-ummih"_ — "The believer is the brother of the believer through his father and his mother.")] — the believer is a brother through father and mother; that is, you may be as distant from your full brother — your brother through father and mother — as the East is from the West, but with a believer on the other side of the world you may be a brother through father and mother; with one who thinks like you, with one on your front, with one whose faith matches your faith. This is an Islamic principle. In these Qur'anic accounts, pay attention to these points; see what it means to say, what principle, what idea, what historical reality — which may perhaps be repeated in a hundred other places — it is stating. Now pay attention to this verse.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="173"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="173"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:173):* "Those to whom people said…"
@@ -112,7 +112,7 @@ _"Alladhīna qāla lahum al-nāsu"_footnote:s13-15[Sūrat Āl ʿImrān (The Fami
 
 _"Ḥasbunā Allāhu wa-niʿma al-wakīl"_ — God is enough for us. What does "God is enough for us" mean? "God is enough for us" has several meanings, all of them correct. God is enough for us, and He aids us with His own help. God is enough for us — He has set, and sets, the forces of nature in the direction of our course, which is the direction of the truth. God is enough for us — meaning, even if we do not attain the sweetness of this world, may God be pleased with us; God is enough for us. And each of these meanings, and the other meanings that you may take from _"ḥasbunā Allāhu wa-niʿma al-wakīl,"_ is correct. _"Fa-zādahum īmānan"_ — when it was said to them, _"fa-khshawhum,"_ "fear the people, fear the enemies," their faith was increased, _"wa-qālū"_ — and they said: _"ḥasbunā Allāhu wa-niʿma al-wakīl"_ — God is enough for us, and He is the best guardian and support.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="174"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="174"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:174):* "So they returned with a blessing from God and bounty; no evil touched them, and they followed the good pleasure of God; and God is the possessor of great bounty."
@@ -122,7 +122,7 @@ _"Fa-nqalabū bi-niʿmatin mina Allāhi wa-faḍlin lam yamsashum sūʾ"_ — _"
 
 _"Innamā dhālikum al-shayṭānu yukhawwifu awliyāʾah"_ — remember this verse, keep it in mind, recite it often and learn it. _"Innamā dhālikum al-shayṭānu yukhawwifu awliyāʾah"_ — it is nothing but that these speakers are Satan. It is Satan who frightens his own friends. He says: "Sir, they have laid a plot for you, they have hatched a conspiracy against you, the enemies have gathered an army, the hypocrites have joined hands with the Quraysh unbelievers, the hypocrite has fastened a sword beneath his cloak, he is about to strike you, he is about to kill you, he is about to do such-and-such." The one who frightens you — that is Satan.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="175"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="175"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:175):* "It is only Satan who frightens his friends; so do not fear them, but fear Me, if you are believers."
@@ -130,7 +130,7 @@ ____
 
 _"Innamā dhālikum al-shayṭān"_ — the one who frightens you of the enemy of God is Satan, and Satan frightens. But — you? Do you take fright at Satan's word? Are you made afraid? It depends on who you are. He succeeds in frightening his own friends. If you were his friend, you would be afraid; if you were not his friend, you would not be afraid. See how short the verse is and at the same time how pithy and full of meaning. _"Innamā dhālikum al-shayṭān"_ — indeed this is Satan; _"yukhawwifu awliyāʾah"_ — who frightens his friends — the time is short; I want to translate quickly — _"fa-lā takhāfūhum"_ — so do not fear them; _"wa-khāfūn"_ — but fear Me, observe My command, fear My chastisement and My wrath; _"in kuntum muʾminīn"_ — if you are believers.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="176"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="176"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:176):* "And let not those who race toward unbelief grieve you; they will not harm God in the least. God wants to assign them no portion in the Hereafter, and for them is a great chastisement."

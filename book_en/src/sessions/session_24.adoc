@@ -4,13 +4,13 @@
 [.session-subtitle]
 _پیوندهای امت اسلامی — delivered Saturday, 20 Mehr 1353 / 25 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="51"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="51"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:51):* "O you who have believed, do not take the Jews and the Christians as allies (awliyāʾ). Some of them are allies of one another. And whoever is an ally to them among you — then indeed, he is one of them. Indeed, God does not guide the wrongdoing people."
 ____
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="52"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="52"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:52):* "So you see those in whose hearts is disease hastening into [allegiance with] them, saying, 'We fear lest a turn of fortune strike us.' But perhaps God will bring [you] victory, or a decision from Him, and they will become, over what they had concealed within themselves, regretful."
@@ -30,7 +30,7 @@ If two units within the Islamic Ummah rise up against one another in war — for
 
 It is a verse of the Qur'an:
 
-[.verse,quran,surah="al-Ḥujurāt",s=49,a="9"]
+[role="verse quran",surah="al-Ḥujurāt",s=49,a="9"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥujurāt (49:9):* "And if two factions among the believers fight, then make reconciliation between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the command of God."
@@ -60,7 +60,7 @@ In a society, if all the forces are to be put to work, and all to work in one di
 
 The Imam means that ruler and leader who is appointed in the society on the part of the Lord. This that I say, "on the part of God," what does it mean? It means either that God appoints [him] by name and designation — as He appointed the Commander of the Faithful, Imam Ḥasan, Imam Ḥusayn, and the rest of the Imams; the Prophet himself too is an Imam; the Prophet himself too is an Imam:
 
-[.verse,quran,surah="al-Baqarah",s=2,a="124"]
+[role="verse quran",surah="al-Baqarah",s=2,a="124"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:124):* "Indeed, I will make you an Imam for the people."
@@ -78,7 +78,7 @@ A servant [of God] who deems the Qur'an incapable of being understood — of cou
 
 If you reflect well, brothers, this meaning which I have given of Wilayat is the most precise and most subtle meaning that can be expounded, that can be expressed, concerning Wilayat; and this too emerges from the Qur'an. Now listen so that I may read the verses of the Qur'an for you, for in these verses of the Qur'an from Sūrat al-Mā'idah, eloquent allusions have been made to all these things: to the positive aspect of Wilayat — that is, the internal bond; to the negative aspect of Wilayat — that is, the severing of external bonds; and to that other dimension of Wilayat — that is, the connection and link with the walī (the walī meaning that pole, meaning that heart, meaning that ruler and Imam). Now pay attention so that the matter may be grasped.
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="51-56"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="51-56"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:51–56)*
@@ -90,7 +90,7 @@ ____
 
 What does God say in answer to these [people]? He says: "But perhaps God will bring victory, or a decision from Him (fa-ʿasā-llāhu an yaʾtiya bi-l-fatḥi aw amrin min ʿindihi)" — it is hoped that God will grant victory to the front of the believers, or will bring about, on His own [initiative], some event in their favor. After this happens, then: "and they will become, over what they had concealed within themselves, regretful (fa-yuṣbiḥū ʿalā mā asarrū fī anfusihim nādimīn)" — so that these wretches who had aligned with them may become regretful, may be put to shame, may say: "Did you see what a blunder we made; if we had known that the front of the believers would be so victorious and powerful, we would not have aligned with the enemy of religion, with the enemy of God; we would not have disgraced ourselves."
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="53"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="53"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:53):* "And those who believed will say, 'Are these the ones who swore by God their strongest oaths that indeed they were with you?' Their deeds have become worthless, and they have become losers."
@@ -100,7 +100,7 @@ ____
 
 Well, this was concerning external relations. Now, concerning internal relations, pay attention:
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="54"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="54"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:54):* "O you who have believed, whoever of you reverts from his religion — God will bring a people whom He loves and who love Him, humble toward the believers, mighty against the disbelievers; they strive in the way of God and do not fear the blame of any blamer. That is the favor of God; He gives it to whom He wills. And God is all-Encompassing, all-Knowing."
@@ -114,7 +114,7 @@ Well, this is one property and attribute: that affection and love between them a
 
 Then, concerning the connection and bond of the parts of the Islamic society with that heart, with that power, with that Imam, with that leader, the next verse comes following the previous verses. See how fitting and beautiful it is. See how much pondering (tadabbur) in the Qur'an enlightens a person regarding these matters which he had thought were not Qur'anic — how eloquently the Qur'an speaks. It spoke of external relations, it spoke of internal bonds; now it states the heart of the internal bonds — that is, the leader, the guide, the Imam.
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="55"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:55):* "Your walī is only God and His Messenger and those who have believed — those who establish prayer and give zakat while they are bowing (in rukūʿ)."
@@ -122,7 +122,7 @@ ____
 
 It says: "Innamā waliyyukumu-llāh" — your walī, and the one who upholds the command, the one to whom all the energies and activities of the society and the Islamic Ummah must return and from whom they must draw inspiration, is God. Well, but God does not become embodied to come and sit among the people and command and forbid — so who else? "And His Messenger (wa-rasūluh)" — it is evident that between the Messenger and God there is never any rivalry or contention or mutual aversion;footnote:s24-13[(n-f-r) to feel aversion to and distance from one another.] the Messenger is His Messenger after all. [It is] God and His Messenger. Well, but the Messenger does not always remain:
 
-[.verse,quran,surah="al-Zumar",s=39,a="30"]
+[role="verse quran",surah="al-Zumar",s=39,a="30"]
 [quote]
 ____
 *Qur'an, Sūrat al-Zumar (39:30):* "Indeed, you will die, and indeed, they will die."
@@ -138,7 +138,7 @@ We who are conducting this discussion wish to establish Shiʿism; we do not wish
 
 We are expounding Islam just as we understand and know it in the school of Shiʿism. We are not concerned now with other factions who may know and understand it in another way; we do not even debate with them; for now, we have neither quarrel nor conflict nor opposition with them — we are brothers, we even extend the hand of friendship. Why? Because we have an enemy, because outside the house an enemy stands. We two brothers have no right right now to beat each other about the head and face. This too is our way, which I wanted to mention so that you gentlemen may know: the discussion concerning Shiʿism and the Shiʿa is for the sake of the authenticity of Shiʿism, for the sake of the fact that we believe in Shiʿism, for the sake of the fact that we see Islam from the viewpoint of Shiʿism — not for the sake of wishing to create disagreement between Shiʿa and Sunni; never. We deem this disagreement forbidden too.
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="55"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:55):* "Your walī is only God and His Messenger and those who have believed — those who establish prayer and give zakat while they are bowing."
@@ -146,7 +146,7 @@ ____
 
 Well, now, if we observe Wilayat, what comes of it? Does it have an effect for us too? If Wilayat, which up to now has had three dimensions — one, the preservation of internal bonds; one, the severing of bond and dependence upon the opposing external poles — these two — and one, the preservation of a permanent and deep connection with the heart of the body of Islam and the heart of the Islamic Ummah, that is, the Imam and leader — the three dimensions of Wilayat which we have expounded — now, if we observe these three dimensions, how will it be? The verse of the Qur'an answers us:
 
-[.verse,quran,surah="al-Mā'idah",s=5,a="56"]
+[role="verse quran",surah="al-Mā'idah",s=5,a="56"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mā'idah (5:56):* "And whoever takes God and His Messenger and those who have believed as allies — then indeed, the party of God — they are the victorious."footnote:s24-14[Continuation of verse 56: "And whoever takes God and His Messenger and those who have believed as allies — then indeed, the party of God — they are the victorious (wa-man yatawalla-llāha wa-rasūlahu wa-alladhīna āmanū fa-inna ḥizba-llāhi humu al-ghālibūn)."]

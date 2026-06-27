@@ -4,7 +4,7 @@
 [.session-subtitle]
 _روح توحید: نفی عبودیت غیر خدا — Sunday, 7 Mehr 1353 / 12 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="al-Anʿām",s=6,a="114-116"]
+[role="verse quran",surah="al-Anʿām",s=6,a="114-116"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:114–116):* "…Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[Sūrat al-Anʿām, verses 114–116.]
@@ -14,13 +14,13 @@ footnote:s11-2[This verse is translated here; please refer to the mimeographed h
 
 As it happens, the verses of the Qur'an too, in keeping with this very importance, in many places and in various tones, have spoken about Tawhid. And even if I were to go on speaking about this important principle of belief and practice for several more days, one could still bring from the noble verses of the Qur'an testimonies, verses, and examples to clarify the point we have in view. Now, what we are reading today again draws attention to a fresh aspect of Tawhid, one that was alluded to yesterday as well, and which today will be addressed in fuller detail.
 
-[.verse,quran,surah="al-Anʿām",s=6,a="114-116"]
+[role="verse quran",surah="al-Anʿām",s=6,a="114-116"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:114–116):* "In the name of God, the Most Merciful, the Most Compassionate. Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[]
 ____
 
-[.verse,quran,surah="al-Anʿām",s=6,a="116"]
+[role="verse quran",surah="al-Anʿām",s=6,a="116"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:116):* "…they follow nothing but conjecture, and they do nothing but guess."
@@ -28,7 +28,7 @@ ____
 
 These are from several verses, which of course we have translated herefootnote:s11-3[Please refer to the mimeographed handout at the end of the session.] and at the end will explain — briefly. And:
 
-[.verse,quran,surah="al-Anʿām",s=6,a="121"]
+[role="verse quran",surah="al-Anʿām",s=6,a="121"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:121):* "And do not eat of that over which the name of God has not been mentioned; that is indeed a transgression. And truly the satans inspire their friends to dispute with you; and if you obey them, you are surely idolaters (mushrikūn)."footnote:s11-4[Sūrat al-Anʿām, verse 121.]
@@ -44,7 +44,7 @@ What is the second meaning of worship? The second meaning of worship is very sim
 
 ʿAdī ibn Ḥātim al-Ṭāʾīfootnote:s11-7[ʿAdī ibn Ḥātim, son of Ḥātim al-Ṭāʾī, who after his father took over the leadership of the tribe. In the ninth year of the Hijrah, influenced by the character and conduct of the Prophet, he became a Muslim. He was among the companions and devotees of the Commander of the Faithful, present in the battles of the Jamal, Ṣiffīn, and Nahrawān, and he offered three of his sons to Islam in the Battle of Ṣiffīn. He died in the year sixty-seven of the Hijrah.] — the son of the famous Ḥātim, though the rank of this ʿAdī himself is far higher and more honored than that of his father Ḥātim — when he entered Medina, the Noble Messenger began reciting this verse to him, on account of seeing a cross-cord (zunnār)footnote:s11-8[The cord by which Christians used to hang the cross around their necks.] hung around his neck:
 
-[.verse,quran,surah="al-Tawbah",s=9,a="31"]
+[role="verse quran",surah="al-Tawbah",s=9,a="31"]
 [quote]
 ____
 *Qur'an, Sūrat al-Tawbah (9:31):* "They took their rabbis and their monks as lords besides God, and also the Messiah, son of Mary; yet they were commanded to worship none but One God."footnote:s11-9[Sūrat al-Tawbah, verse 31.]
@@ -54,7 +54,7 @@ The meaning of the verse is that the Christians and Jews took their rabbis and t
 
 In answer to this notion of ʿAdī ibn Ḥātim, the Noble Prophet replied: Yes — you did not prostrate before them (I am conveying the substance of the Prophet's words), but whatever they said, you accepted unconditionally.
 
-[.hadith]
+[role="hadith"]
 [quote]
 ____
 *Hadith:* "But they made lawful for you what was forbidden, and forbade you what was lawful."footnote:s11-10[Hadith no. 39.]
@@ -66,7 +66,7 @@ According to the culture of the Qur'an, worship of a being other than God — wh
 
 Let me read here a narration, so that it may become clear how widespread this Qur'anic culture is throughout the Islamic sources, and especially the Shīʿī sources — both Qur'an and Hadith. The narration is from Imam al-Jawād (the blessings and peace of God upon him), who says:
 
-[.hadith]
+[role="hadith"]
 [quote]
 ____
 *Hadith:* "Whoever lends an ear to a speaker has worshipped him."footnote:s11-12[Hadith no. 45.]
@@ -78,7 +78,7 @@ To obey a being who is of this sort — who is not even a political power, not e
 
 See how broad a person's horizon becomes. See how the events of history become interpretable for a person. The prophets, when they came, all came with the idea of Tawhid. In the discussion concerning the prophets and specifically prophethood, we will expound this from the Qur'an. All the great divine prophets came to make people monotheists. To make them monotheists — what does that mean? It means to unfasten the chains of obedience to other than God from their hands and necks. And the Qur'an itself explicitly states this meaning in one place:
 
-[.verse,quran,surah="al-Aʿrāf",s=7,a="157"]
+[role="verse quran",surah="al-Aʿrāf",s=7,a="157"]
 [quote]
 ____
 *Qur'an, Sūrat al-Aʿrāf (7:157):* "…that He may lift from them their burden and the shackles that were upon them"footnote:s11-15[Sūrat al-Aʿrāf, verse 157.] — that He may take from their shoulders the heavy load and unfasten from them the fetters that were placed upon them.
@@ -106,13 +106,13 @@ I have found two portions of the verses related to today's discussion; you searc
 
 The first portion is from Sūrat al-Anʿām. Of course, one must attend to the tone of the Qur'an. The Qur'an is not like ordinary books that say, "Chapter so-and-so, on the meaning of obedience and worship" — it is not like that. The level of expression and content of the Qur'an, and the Speaker of the Qur'an, is far above these ordinary levels. For the Lord of the worlds, all created things and all beings are on a single level; that is why, in the manner that the occasion of revelation required, a verse came down regarding a given matter. From the verse's allusions, from the expressions and sentences within the verse, from the manner of its construction (siyāq),footnote:s11-22["Siyāq": style and manner, the manner of constructing sentences.] you find the point you have in view.
 
-[.verse,quran,surah="al-Anʿām",s=6,a="114"]
+[role="verse quran",surah="al-Anʿām",s=6,a="114"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:114):* "Shall I then seek a judge (ḥakam) other than God?" — Shall I accept and seek anyone other than God as judge? "Ḥakam," the commentators have said, means both arbiter and ruler. The one from whom a person seeks judgment — that is, from whom he seeks command, or from whom he seeks arbitration — both are called "ḥakam." And God Most High is both the best arbiter and the best ruler. The command, too, must be given by God:
 ____
 
-[.verse,quran,surah="al-Aʿrāf",s=7,a="54"]
+[role="verse quran",surah="al-Aʿrāf",s=7,a="54"]
 [quote]
 ____
 *Qur'an, Sūrat al-Aʿrāf (7:54):* "Surely His are the creation and the command."footnote:s11-23[Sūrat al-Aʿrāf, verse 54.]
@@ -136,7 +136,7 @@ Second: let us properly dissect the matter of slaughter and ritual purification 
 
 Begin with "Bismillāh," even eating. Begin with "Bismillāh," even the act of mating. Begin with "Bismillāh" — even entering, going, coming out, going into the house, the door of the shop — every act. What does this mean? It means that all the orientations of your life, for the meeting of any need, even the primary needs, must be in accord with God's command and in the direction of the path of God (sabīl Allāh).
 
-[.verse,quran,surah="al-Anʿām",s=6,a="162-163"]
+[role="verse quran",surah="al-Anʿām",s=6,a="162-163"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:162–163):* "Indeed my prayer, my rites of devotion, my living and my dying are for God, the Lord of the worlds"footnote:s11-30[Sūrat al-Anʿām, verses 162 and 163.] — my prayer, my worship, my life, my death — yes, even my death — Abraham says: "for God, the Lord of the worlds," for God, that Disposer and Lord of the affairs of all the worlds. "He has no partner" — He has no partner whatsoever. The Lord of the worlds has no partner in any single domain of my life, even in my eating. Not only in my praying — in my movements, in my efforts, in my exertions, I admit no partner alongside God. This realm of my being is wholly at God's disposal and within the domain of His power and command. So when you slaughter the animal, slaughter it in this way.
@@ -144,19 +144,19 @@ ____
 
 But the Qurayshī disbeliever in one way, and the non-Qurayshī disbeliever in another way, when he slaughters the animal, when he kills the sheep, when he eats food, when he lives, when he opens his shop — not only is it not in the name of God, not with the remembrance of God, but it is in the name of other than God and with the remembrance of other than God. Take this slaughtered animal as a symbol; take the name of God at the time of slaughtering the sheep as a symbol. Although it is itself a ruling, a juristic ruling — and of course the name of God must definitely be pronounced — but take this as a symbol, a symbol of the essential and genuine needs of a human being: the slaughtering of the sheep. This must be with the name of God; what does this mean? It means that even your most essential, most fundamental, most primary, most genuine needs you must regard as for the sake of God, and seek for the sake of God. Even the morsel of bread you eat to relieve your hunger, eat it for the sake of God; for the sake of God relieve your hunger and breathe strength into your body. Well, it is evident that the strength which has come to a person's body for the sake of God must also be expended for the sake of God. This is the logical conclusion, plain as two and two make four. See how precise it is.
 
-[.verse,quran,surah="al-Anʿām",s=6,a="118-119"]
+[role="verse quran",surah="al-Anʿām",s=6,a="118-119"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:118–119):* "Eat of that over which the name of God has been mentioned" — eat of that over which the name of God has been pronounced — "if you are believers in His signs," if you are believers in the signs of God. "And why should you not eat of that over which the name of God has been mentioned?"footnote:s11-31[Sūrat al-Anʿām, verses 119 and 120.] — what is the matter with you, that is, for what reason, why "should you not eat" — "of that over which the name of God has been mentioned"? "When He has set out in detail for you what He has forbidden you, except that to which you are compelled" — whereas God has, in detail, by way of explanation, set forth for you what is forbidden to you, except in the state of necessity; apart from that, everything is lawful for you. "And surely many lead astray by their desires, without knowledge" — many lead people astray by their own whims, without any knowledge, without any insight. By the sheer caprice of their own whims and desires they draw people into deviation and error. "Surely your Lord — He knows best the transgressors" — your Lord indeed knows best the transgressors and the aggressors. These who draw people into deviation and error without possessing knowledge and learning are, according to the indication of this verse, transgressors (muʿtadīn), aggressors, those committing aggression and enmity.
 ____
 
-[.verse,quran,surah="al-Anʿām",s=6,a="120"]
+[role="verse quran",surah="al-Anʿām",s=6,a="120"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:120):* "And forsake the outward and inward of sin" — set aside that whose sin is outward and that whose sin is hidden and inward. There are some acts whose flaws, whose evil consequences, are outward: that the killing of a soul is an evil deed is plain; to take the life of a living being, without warrant, is plainly a wrongful act; its being a sin is outward. And there are some acts whose being a sin is not properly evident, manifest, and visible. There are many things a person does not realize how great they are: speaking without knowledge, following other than knowledge, treating the name and remembrance of God lightly and as trivial, obeying other than God, hearing and heeding the command of other than God — these are things a person does not imagine could have such great harms and evil consequences; their being a sin is hidden, concealed. Yet, even so, one must set aside both. Whatever is sin, whether overt or hidden, must be forsaken. "And forsake the outward and inward of sin" — set aside and abandon those things which are outwardly sinful, whose being a sin is outward, and those that are inwardly sinful, whose being a sin is inward and concealed. "Surely those who commit sin will be requited for what they used to perpetrate" — those who make sin their acquisition and earning will be requited for the deeds they used to commit. "And do not eat of that over which the name of God has not been mentioned" — do not eat of that over which the name of God has not been pronounced — "for that is indeed a transgression (fisq)" — this is fisq, a going out from religion. Here He places emphasis on the importance of the remembrance of God and the name of God.
 ____
 
-[.verse,quran,surah="al-Anʿām",s=6,a="121"]
+[role="verse quran",surah="al-Anʿām",s=6,a="121"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:121):* "And truly the satans inspire…" — most of our emphasis is on this segment. Of course, from the beginning of these verses we have recited up to here, there were step by step indications useful to us for the point we have set forth here. And of course, the more you ponder, the clearer it becomes. But the principal portion of our argument and citation is this final segment of the verse: "And truly the satans inspire their friends to dispute with you" — the satans and the poles of wickedness inspire their friends and confederates and allies to dispute with you. The satans and the poles of corruption and decay fill up their agents, their friends, their confederates and adherents, so that they may come and argue with you, contend with you, and dispute with you. What is your duty before these friends of Satan? "And truly the satans inspire their friends to dispute with you" — but as for you — "and if you obey them, you are surely idolaters (mushrikūn)" — if you obey them, follow them, you are idolaters. See — an idolater, very plainly. So obedience to Satan — that is, the pole of wickedness, set over against the All-Merciful; Satan over against the All-Merciful; Satan over against God — obedience to Satan, that is, the pole of wickedness, or obedience to the friends of Satan, that is, his hirelings, his instruments, his friends, his confederates, his servants: obedience to these causes you to become an idolater. "And if you obey them" — and if you obey them — "you are surely" — you indeed — "idolaters" — you are certainly idolaters.
@@ -164,7 +164,7 @@ ____
 
 That is one chapter. The second portion is from Sūrat al-Shuʿarāʾ, which we now do not have much time to translate in full detail; I will give a very brief translation so that we may conclude. The most striking and penetrating expressions on many themes, whether in the Qur'an or in Hadith, are set forth for people in the form of images and scene-settings of the Resurrection. When they wish to vividly portray a matter for the listener — and it is the same in the hadiths — to make it clear so that it may penetrate to the depths of his soul, they depict for him a scene of the Resurrection; that affair is reflected there, and the present passage is of this kind.
 
-[.verse,quran,surah="al-Shuʿarāʾ",s=26,a="90"]
+[role="verse quran",surah="al-Shuʿarāʾ",s=26,a="90"]
 [quote]
 ____
 *Qur'an, Sūrat al-Shuʿarāʾ (26:90):* "And Paradise will be brought near for the God-fearing."footnote:s11-32[Sūrat al-Shuʿarāʾ, verses 90–103.]

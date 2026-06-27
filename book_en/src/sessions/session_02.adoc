@@ -4,13 +4,13 @@
 [.session-subtitle]
 _ایمان (۲) — delivered Friday, 29 Shahrīvar 1353 / 3 Ramaḍān al-Mubārak 1394_
 
-[.verse,quran,surah="al-Anfāl",s=8,a="2-4"]
+[role="verse quran",surah="al-Anfāl",s=8,a="2-4"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:2–4):* "The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers; for them are ranks with their Lord, and forgiveness, and a generous provision."
 ____
 
-[.verse,quran,surah="al-Anfāl",s=8,a="1"]
+[role="verse quran",surah="al-Anfāl",s=8,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:1):* "They ask you — O Prophet — about the spoils (al-anfāl)…"footnote:s02-1[Sūrat al-Anfāl, verse 1.]
@@ -36,7 +36,7 @@ What is the command of God? Whatever it is, it is evident that God, concerning a
 
 Now, on the occasion of the name "believer" at the end of this verse, the next verse continues the discourse concerning the attributes of the believers and the conditions of faith:
 
-[.verse,quran,surah="al-Anfāl",s=8,a="2-4"]
+[role="verse quran",surah="al-Anfāl",s=8,a="2-4"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:2–4):* "The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers."footnote:s02-6[Sūrat al-Anfāl, verses 2 to 4.]
@@ -58,7 +58,7 @@ From this verse and from this sentence we derive that, through the recitation of
 
 The continuation of the verse: *"and upon their Lord they rely."* Another sign of the believers is that they rely and depend upon the Lord. *"And when His signs are recited to them, it increases them in faith"* — this is the second condition, the second trait. *"And upon their Lord they rely"* — that is, what does it mean that they rely (tawakkul)? Does it mean they fold their hands together and say, "Let God set it right Himself"? No, the meaning of tawakkul is not this. The one who folds his hands together in the face of the obligations and commitments and responsibilities, and instead of holding his own power responsible, presumes a divine miracle to be responsible — such a man should know that the Qur'an has rejected this deed, in the form of a firm blow to the mouth of the Children of Israel, who said to Moses:
 
-[.verse,quran,surah="al-Māʾidah",s=5,a="24"]
+[role="verse quran",surah="al-Māʾidah",s=5,a="24"]
 [quote]
 ____
 *Qur'an, Sūrat al-Māʾidah (5:24):* "Go, you and your Lord, and fight; we will sit here."footnote:s02-13[Sūrat al-Māʾidah, verse 24.]
@@ -80,7 +80,7 @@ Third: *"and upon their Lord they rely."* Fourth: *"those who keep up the prayer
 
 Several possibilities can be supposed, and it may be that all of these possibilities are correct. One is that we say: the establishment of prayer, the keeping up of prayer, means performing the prayer in a complete form, in an all-around form, in a perfect form: *"those who keep up the prayer."* And "establishment" (iqāmah), in the Arabic language, in Arabic usage, is precisely in these very meanings — that is, carrying out the work in a complete form:
 
-[.verse,quran,surah="al-Rūm",s=30,a="30"]
+[role="verse quran",surah="al-Rūm",s=30,a="30"]
 [quote]
 ____
 *Qur'an, Sūrat al-Rūm (30:30):* "So set your face toward the religion, devoted purely (to it)."footnote:s02-19[Sūrat al-Rūm, verse 30.]
@@ -92,7 +92,7 @@ This is one possibility. The other possibility is that *"those who keep up the p
 
 What is the sign of faith? The establishment of prayer — keeping up the prayer in society, making everyone a praying people — not in the sense that everyone performs a single act of worship. (I want you to take your mind out of the mold of the words, to think more broadly. I too think in just that way. Words are small and inadequate and deficient.) Not that so-and-so is not a prayer-performer, so let us make him a prayer-performer; rather, a praying society means a society that is always remembering God and on God's path. A society that says:
 
-[.verse,quran,surah="al-Fātiḥah",s=1,a="5"]
+[role="verse quran",surah="al-Fātiḥah",s=1,a="5"]
 [quote]
 ____
 *Qur'an, Sūrat al-Fātiḥah (1:5):* "You alone do we worship, and from You alone do we seek help."footnote:s02-23[Sūrat al-Fātiḥah, verse 5.]

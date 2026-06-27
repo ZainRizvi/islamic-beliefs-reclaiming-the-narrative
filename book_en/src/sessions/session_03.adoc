@@ -4,7 +4,7 @@
 [.session-subtitle]
 _ایمان از روی آگاهی — delivered Saturday, 30 Shahrivar 1353 / 4 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="190-191"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="190-191"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:190–191):* "Indeed, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for those endowed with understanding — those who remember God standing and sitting and lying upon their sides, and who reflect upon the creation of the heavens and the earth, [saying:] 'Our Lord, You did not create this in vain. Glory be to You! Protect us, then, from the punishment of the Fire.'"
@@ -22,7 +22,7 @@ Such is the standing of a number of leaders who are politicians remote from spir
 
 Faith is one of the characteristics found in the prophets of God; and here is acceptance with one's whole being, belief in what one says. Faith means belief, acceptance, and reception with one's whole being — belief in what one says. And the sign of belief is precisely this: that one oneself, ahead of others, takes a step on that road and moves forward. Thus the verse of the Qur'an teaches us in this way; it says:
 
-[.verse,quran,surah="al-Baqarah",s=2,a="285"]
+[role="verse quran",surah="al-Baqarah",s=2,a="285"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:285):* "The Messenger has believed in what was sent down to him from his Lord, and so have the believers. Each one has believed in God, His angels, His scriptures, and His messengers. [They say:] 'We make no distinction between any of His messengers.' And they say: 'We hear and we obey. [Grant us] Your forgiveness, our Lord, and to You is the [final] return.'"
@@ -55,7 +55,7 @@ After all, a hundred years ago, there did not exist this multitude of highwaymen
 
 In any case, this is a truth and a certain point in Islam; brothers! Worthy faith is aware faith. It is faith joined with understanding and perception; it is a faith that has come into being out of insight, with open eyes, without fear of difficulties. As for that faith which a certain Muslim man has — to preserve which we must say: let him not read the newspaper, let him not read such-and-such a book, let him not walk in the street and bazaar, let him not speak with such-and-such a person, let him not suffer cold or heat, let him not see sun or moon, so that it may last — this faith, alas, will not last. What is needed is a faith chosen so consciously that, in the harshest of conditions, that faith is not taken from him.
 
-[.verse,quran,surah="al-Naḥl",s=16,a="106"]
+[role="verse quran",surah="al-Naḥl",s=16,a="106"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:106):* "…except one who is compelled while his heart is at rest in faith…"footnote:s03-16[Sūrat al-Naḥl, verse 106.]
@@ -65,7 +65,7 @@ Concerning ʿAmmār Yāsir, the verse of the Qur'an says: if under torture, in o
 
 When faith out of clarity, out of understanding, out of thought, with correct reckonings, has been accomplished, then there is no need for us to place this faith in cloth and in rags and in a strongbox and in a strongroom, lest heat and cold and dust and grime harm it; no harm reaches it. It is these unaware faiths that keep a person constantly anxious, in dread: lest, lest, lest. If we want faiths to be firm, if we want faiths not to be effaced, if we want faith to be aware faith, we must continually give awareness to those whom we want to be believers. Let us not dread their becoming aware; let us not take pleasure in their remaining shut of eye and ear. The way is this: until a good substance of awareness comes into being in the minds and hearts and thoughts, and with that awareness a correct, sturdy faith — a reinforced concrete footnote:s03-17[Concrete reinforced by the insertion of steel rebar.] — is built within the heart; then, even with a shrapnel cannon,footnote:s03-18[A type of old cannon inside whose main shell are placed numerous explosive projectiles. The main shell, after being fired, explodes along its trajectory near the target and releases the projectiles within it, which scatter over a large area and cause many casualties.] as the old young men used to say, it is not to be effaced. Islam says faith must be aware. These verses at the end of Sūrat Āl ʿImrān introduce aware faith to us.
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="190-193"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="190-193"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:190–193):*footnote:s03-19[Sūrat Āl ʿImrān, verses 190 to 193.] "Indeed, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for those endowed with understanding…"
@@ -85,7 +85,7 @@ Well, _Rabbanā_ — these wise, intelligent ones, these _ulū al-albāb_, these
 
 There is also a third point, which I will state very briefly (since unfortunately a portion of the time was taken up by the beginning of our session). The third point is this: that since aware faith is what is desired in Islam, and since God Most High does not accept unaware faith and assigns it no honor or worth — therefore in several places in the Qur'an it severely rebukes the blind, imitative, prejudiced faiths — for often, too, such faiths slam a person to the ground head-first — it severely censures such faiths. We have written one of its verses here, though if I want to find it in the Qur'an it becomes a bit difficult.
 
-[.verse,quran,surah="al-Māʾidah",s=5,a="104"]
+[role="verse quran",surah="al-Māʾidah",s=5,a="104"]
 [quote]
 ____
 *Qur'an, Sūrat al-Māʾidah (5:104):* "And when it is said to them, 'Come to what God has sent down and to the Messenger…'"footnote:s03-23[Sūrat al-Māʾidah, verse 104.]

@@ -4,7 +4,7 @@
 [.session-subtitle]
 _بعثت در نبوت — Thursday, 11 Mehr 1353 / 16 Ramaḍān al-Mubārak 1394_
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="1-8"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="1-8"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:1–8):* "Read in the name of your Lord who created — created man from a clinging clot. Read, and your Lord is the most generous — who taught by the pen, taught man what he did not know. No indeed! Truly man transgresses when he sees himself self-sufficient. Truly, to your Lord is the return."footnote:s15-1[Sūrat al-ʿAlaq (96), verses 1–8.]
@@ -14,7 +14,7 @@ The subject of our talk today is this: the prophet and messenger — at the mome
 
 You know that in the Qur'an, whenever there is talk of a prophet's coming, generally the talk is of his bi'that — his being commissioned and sent forth. As the verse says:
 
-[.verse,quran,surah="al-Naḥl",s=16,a="36"]
+[role="verse quran",surah="al-Naḥl",s=16,a="36"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:36):* "We raised up a messenger in every nation."footnote:s15-3[Sūrat al-Naḥl (16), verse 36.]
@@ -24,7 +24,7 @@ We commissioned Moses, Abraham, and the other prophets. Bi'that — what does th
 
 Bi'that means a being-roused, a being-stirred-up. What does being-roused mean? It means motion, movement after lethargy, slackness, and stagnation. A dead person who has lain for years in some graveyard, whose bodily parts have become dust, when by the power of the Lord he rises up on the Day of Resurrection — they say he has been raised up. As the verse says:
 
-[.verse,quran,surah="al-Rūm",s=30,a="56"]
+[role="verse quran",surah="al-Rūm",s=30,a="56"]
 [quote]
 ____
 *Qur'an, Sūrat al-Rūm (30:56):* "This is the Day of the Raising-up."footnote:s15-4[Sūrat al-Rūm (30), verse 56.]
@@ -40,7 +40,7 @@ In prophethood there is a transformation and an upheaval — I should say two tr
 
 What is the prophet's condition before prophethood? Two points concerning the life of every prophet, before prophethood, exist in a manner that seems contradictory. Of course, when I say "contradictory," I do not mean that there is a real contradiction; it may merely appear contradictory. The first is that the prophet, even though he has not yet been commissioned, possesses very strong and deep human reserves — more than the rest of the people. His capacity for understanding, his capacity for movement, his capacity for outburst, is not comparable to that of other people, other human beings. His capacity for the worship and servitude of God, his readiness to be a servant of God, is to a degree that is inconceivable for other human beings. All the reserves that draw a human being out of the abasementfootnote:s15-7[From the root ḥ-ḍ-ḍ, meaning "lowness, debasement" (ḥaḍīḍ).] of being mere dust and raise him to the summit of:
 
-[.verse,quran,surah="al-Baqara",s=2,a="156"]
+[role="verse quran",surah="al-Baqara",s=2,a="156"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqara (2:156):* "Truly we belong to God, and truly to Him we return,"footnote:s15-8[Sūrat al-Baqara (2), verse 156.]
@@ -54,7 +54,7 @@ The second point is this: that the prophet, before the bi'that and before prophe
 
 You see Moses son of ʿImrān — peace and blessings upon him — living in Pharaoh's house. As one of the elders of a few years back put it, he was eating Pharaoh's pilaf and roast, even playing the young nobleman; in the marketplace, out of zeal for being of the lineage of the Children of Israel and for those who believed in his idea, he even kills a man. Later, when he is commissioned to prophethood and messengership — while returning from the presence of Shuʿayb and from Midian (after he returns from Shuʿayb and Midian, he is commissioned to messengership there) — concerning that killing of his on that day he says:
 
-[.verse,quran,surah="al-Shuʿarāʾ",s=26,a="20"]
+[role="verse quran",surah="al-Shuʿarāʾ",s=26,a="20"]
 [quote]
 ____
 *Qur'an, Sūrat al-Shuʿarāʾ (26:20):* "...and I was among those who go astray."footnote:s15-13[Sūrat al-Shuʿarāʾ (26), verse 20.]
@@ -64,7 +64,7 @@ I was astray. What does "I was astray" mean? It means: I had not yet found this 
 
 Or the Noble Prophet himself — God's blessings be upon him and his Family — the verse of the Sūra "By the Forenoon" makes the matter quite clear. (It is in these writings;footnote:s15-14[Please refer to the mimeographed handout at the end of the session.] and I will now explain it.) The commentators have said various things here, and there are also narrations beneath the Sūra, which I examined: the narrations are interpretation (taʾwīl), not exegesis (tafsīr). What the narration beneath the noble Sūra "By the Forenoon" says — like ninety percent of the narrations beneath the verses of the Qur'an — is not exegesis of the apparent wording; the apparent wording gives its own meaning, which we will now explain and which we wrote there. That is taʾwīl, the addition of a point to the points of this verse; otherwise the verse itself is clear. The Imam — peace and blessings upon him — does not wish to construe the apparent wording of the verse contrary to its apparent sense; rather, the apparent sense of the verse remains preserved in its place, and they wish to add something. What you and I do not understand in an ordinary glance at the verse, the Imam — peace be upon him — teaches us as well; this is what is called taʾwīl. Incidentally, a portion of this very discussion of today's is precisely that our recitation today is "By the Forenoon."
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="1"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:1):* "By the forenoon."footnote:s15-15[Sūrat al-Ḍuḥā (93), verses 1 to 8.]
@@ -72,7 +72,7 @@ ____
 
 By the brightness of the mid-morning. Al-ḍuḥā means before noon. Notice, this oath itself is meaningful; this very swearing by that time is meaningful. Perhaps there is an allusion in it, and it is clear that, since the discourse is about the bi'that and messengership of the Prophet, therefore this "forenoon" is an allusion to that light which, through the bi'that of the Prophet of Islam and the prophethood of Islam, encompassed all the horizons of the world.
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="1-2"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="1-2"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:1–2):* "By the forenoon, and by the night when it grows still."
@@ -80,7 +80,7 @@ ____
 
 And by the night, when its darkness covers all the horizons.
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="3"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="3"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:3):* "Your Lord has not forsaken you, nor does He despise you."
@@ -88,7 +88,7 @@ ____
 
 It seems that after revelation had begun, when a period had passed, the revelation was cut off. The Prophet — after that being-roused had come into being within him, after that fervor and excitement had arisen in him, after he had grown intimate with the bearer of God's revelation, Gabriel — suddenly sees that the revelation has been cut off; he was intensely grieved. How long did the period of fatra (interval) last?footnote:s15-16[The fatra: the period between two intervals (of revelation).] They call it the period of fatra. Some have said forty days, others have said more — up to two or three years. Then the Sūra "By the Forenoon" is the first glad-tidings Sūra that addresses the Noble Prophet, saying:
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="3"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="3"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:3):* "Your Lord has not forsaken you, nor does He despise you."
@@ -96,7 +96,7 @@ ____
 
 Your Lord did not abandon you, did not cast you off, and did not grow angry with you. "Nor does He despise you" — He did not grow angry with you.
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="4"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="4"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:4):* "And surely the Hereafter is better for you than the former [life]."
@@ -104,7 +104,7 @@ ____
 
 The Hereafter, the future, is better for you than the beginning, than the past; the end of your affair is better than the beginning of your affair.
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="5"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="5"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:5):* "And surely your Lord will give to you, and you will be satisfied."
@@ -114,7 +114,7 @@ And your Lord will give to you, as much as will make you well-pleased. Of course
 
 In sum:
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="6"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:6):* "Did He not find you an orphan and give shelter?"
@@ -122,7 +122,7 @@ ____
 
 Did God not find you an orphan and give you refuge? God Most High found you an orphan, without kin, without refuge, and gave you shelter. You had no father — before your birth your father had departed this world; your mother too departed this world a short while later; your grandfather too, after a few brief years, departed this world; you remained, alone, you and you alone, under the guardianship of your uncle Abū Ṭālib. And we sheltered you, the orphan — who were an orphan from the very beginning — at every moment; we kept you in the embrace of our affection and love, O our Prophet. This is giving hope; it means to say: God's shelter is always with you; it was there from childhood, and now too, when a burden of messengership this heavy is upon your shoulder and in your hands. Do not fear, do not be apprehensive, never imagine that God has abandoned you — never; God will not abandon you, when on that day He gave you shelter.
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="7"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="7"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:7):* "And He found you lost (astray), and guided you."
@@ -134,7 +134,7 @@ The apparent meaning of the verse is something else; the apparent meaning of the
 
 Well:
 
-[.verse,quran,surah="al-Ḍuḥā",s=93,a="7-8"]
+[role="verse quran",surah="al-Ḍuḥā",s=93,a="7-8"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḍuḥā (93:7–8):* "And He found you lost, and guided you. And He found you in want, with dependents, and made you free of need."
@@ -146,7 +146,7 @@ He found you needy, with a family to support, and made you free of need. What, t
 
 The Prophet lives along the ordinary course of the collective life of that society — and suddenly the divine revelation arrives. A deep transformation comes into being within his being and within his inner self. So strange is this transformation, so intense is it, that it even affects the body of the Prophet, even affects the nerves of the Prophet. When the Noble Prophet, on the Mountain of Light (Jabal al-Nūr), was struck by the first flame of revelation upon his soul, he caught fire; he saw that the bearer of God's message was saying:
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="1"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:1):* "Read!"
@@ -154,7 +154,7 @@ ____
 
 The Prophet, since he did not know how to read, said: "But I cannot read"footnote:s15-18[Al-Burhān fī Tafsīr al-Qurʾān (Sayyid Hāshim ibn Sulaymān al-Baḥrānī, d. 1107 AH), under the exegesis of Sūrat al-ʿAlaq.] — what shall I read? Or, I do not read, I cannot read — that is, "mā" being either negating "mā" or interrogative "mā"footnote:s15-19[Negating "mā": placed before a verb, it makes its meaning negative. Interrogative "mā": placed before a verb, it makes its meaning a question.] — "and what shall I read?":
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="1-5"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="1-5"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:1–5):* "Read in the name of your Lord who created — created man from a clinging clot. Read, and your Lord is the most generous — who taught by the pen, taught man what he did not know."footnote:s15-20[Sūrat al-ʿAlaq (96), verses 1 to 5.]
@@ -174,7 +174,7 @@ The Prophet — first fire was set to his own soul, first his own heart was tran
 
 For another of the portions of today's recitation is the Sūra "Read."
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="1"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:1):* "In the name of God, the All-Merciful, the Ever-Merciful. Read in the name of your Lord who created."
@@ -184,7 +184,7 @@ Read in the name of your Lord, the One who created. Notice, it begins an orderly
 
 When this matter settles in the mind, it goes up one step, it establishes something higher than creation:
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="2"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:2):* "Created man from a clinging clot."
@@ -196,7 +196,7 @@ Man, in the first instance, does not understand the importance of man and the as
 
 In short, the power of thought and the power of free choice and the power of will and the power of innovation in man — these are things that have set man apart from the rest of the creatures. Man is altogether something else compared with them. Of course, the materialist scholars too, more or less, in recent times have arrived at this point, saying that man is an astounding species. Although they make no distinction, still — an astounding species. And all these distinctions that exist in man are by virtue of the outpouringfootnote:s15-25[From the root f-y-ḍ, "outpouring, overflowing" (fayaḍān).] of God's spirit in him; the manifestation of God's spirit in man, as in the verse:
 
-[.verse,quran,surah="al-Ḥijr / Ṣād",s=15,a="29"]
+[role="verse quran",surah="al-Ḥijr / Ṣād",s=15,a="29"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥijr (15:29) / Sūrat Ṣād (38:72):* "And I breathed into him of My spirit."footnote:s15-26[Sūrat al-Ḥijr (15), verse 29; Sūrat Ṣād (38), verse 72.]
@@ -204,7 +204,7 @@ ____
 
 In sum, suddenly God draws the Prophet's attention to something higher than dry, bare creation: the creation of man, the creation of reason, the creation of the power of understanding and perception — and that, from what?
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="2"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:2):* "From a clinging clot."
@@ -212,7 +212,7 @@ ____
 
 From clotted, congealed blood — from where to where? "What is dust and what is the Lord of lords!"footnote:s15-27["Where is dust and where is the Lord of lords!" — an idiom for the immense distance between man and the Lord.] How is it that something which has no soul, no power of movement, no power of understanding, is transformed into an Einstein! Transformed into a great human being, transformed into a Socrates, into a thinker, into a philosopher, into a prophet — how does this happen? Is it anything other than the mighty handiwork of the Lord in the world?
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="2"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:2):* "Created man from a clinging clot."
@@ -220,7 +220,7 @@ ____
 
 In the beginning of revelation, they drew our Prophet's attention to this very important point. Notice, it wishes a transformation to come into being within him; it wishes to put a shoe of steel upon his foot, to place a staff of steel in his hand, so that he may go — to such a degree that fatigue no longer has any meaning for him. From the very start they fashion him with these words.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="2"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:2):* "Created man from a clinging clot."
@@ -228,7 +228,7 @@ ____
 
 He created man from a clinging clot — that is, from clotted, congealed blood.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="1,3"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="1,3"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:1, 3):* "Read... and your Lord is the most generous."
@@ -236,7 +236,7 @@ ____
 
 Read; God is higher than even this. "And your Lord is the most generous" — He is greater and more noble and more bounteous than even this. "Read, and your Lord is the most generous" — read, and your Lord is the most generous of all.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="4"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="4"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:4):* "Who taught by the pen."
@@ -244,7 +244,7 @@ ____
 
 The One who taught by means of the pen. Once again He raises for the Prophet the matter of teaching in man. And this you know: that if there were no pen, if there were no writing, mankind would not have progressed, even so. That which lays the advancement of one generation before the next generation — so that the next generation may use it like a staircase, set its foot upon the experience of the previous generation, and itself construct yet another experience — that is nothing other than the pen. If the scientific discoveries, the scholarly research of the previous generation, were not placed at the disposal of the next generation, the next generation could not add anything to it — know this. If the book of Aristotle had not been at the disposal of Avicenna (Bū ʿAlī Sīnā),footnote:s15-28[Abū ʿAlī Sīnā (Avicenna) (370–428 AH) was born in a village near Bukhara. With extraordinary talent he gained mastery in various sciences, including the rational sciences and medicine. He authored works in various fields, among them al-Qānūn in Islamic medicine and al-Shifāʾ in philosophy, theology, the natural sciences, and logic.] Avicenna would not have become Avicenna — who is higher than Aristotle, for example. If the jurisprudential book of Shaykh Ṭūsī,footnote:s15-29[Shaykh Abū Jaʿfar Muḥammad ibn Ḥasan ibn ʿAlī al-Ṭūsī (385–460 AH), known as Shaykh al-Ṭāʾifa, was born in Ṭūs. To complete his studies he went to Iraq and studied under masters such as Shaykh al-Mufīd and Sayyid Murtaḍā ʿAlam al-Hudā. Many works remain from Shaykh al-Ṭūsī, among them the two books Tahdhīb al-Aḥkām and al-Istibṣār, which are among the four principal ḥadīth books of the Shīʿa.] for example, or ʿAllāma Ḥillī,footnote:s15-30[Ḥasan ibn Yūsuf al-Ḥillī (648–726 AH) was born into a family of learning. He studied under masters such as Muḥaqqiq al-Ḥillī and Khwāja Naṣīr al-Dīn al-Ṭūsī, and through the mastery he attained in various sciences such as jurisprudence and ḥadīth, theology and philosophy, mathematics and geometry, he was given the title "ʿAllāma" (the most learned). ʿAllāma Ḥillī, after the death of Muḥaqqiq Ḥillī, attained the leadership and religious authority (marjaʿiyya) of the Shīʿa at the age of twenty-eight. Through the ʿAllāma's debates with the scholars of the Sunnis, Öljaitü, the Mongol ruler of Iran, adopted the Shīʿa school and chose the name Muḥammad Khudābanda for himself.] had not been at the disposal of Shaykh Anṣārīfootnote:s15-31[Shaykh Murtaḍā (1214–1281 AH), a descendant of Jābir ibn ʿAbdullāh al-Anṣārī, was born in the city of Dezful. Before his birth, his mother had seen in a dream Imam al-Ṣādiq giving her a gilded Qur'an. After beginning his studies in Dezful, he set out for Karbala and benefited from the presence of scholars such as Shaykh Mūsā Kāshif al-Ghiṭāʾ, Sayyid Muḥammad Mujāhid, and Ḥājj Mullā Aḥmad Narāqī. After the passing of the late Ṣāḥib al-Jawāhir, he assumed the religious authority and leadership of the Shīʿa. His jurisprudential works, such as the book al-Makāsib, are still a reference for the learning of students and scholars.] and Mīrzā Shīrāzīfootnote:s15-32[The late Ayatollah Muḥammad Ḥasan Ḥusaynī Shīrāzī (1230–1312 AH) was among the distinguished students of the late Shaykh Anṣārī. After the passing of Shaykh Anṣārī in the year 1281 AH, he attained the universal religious authority. With the migration of Mīrzā Shīrāzī from Najaf to Samarra, the religious seminary of Samarra was founded. Among the influential measures of Mīrzā Shīrāzī is the proclamation of the fatwa prohibiting tobacco. This fatwa, and the people's compliance with it, brought about the annulment of the Régie concession between the Iranian government and England.] — who are more accomplished and more learned than those forebears, more learned than the scholars of a thousand years before themselves — if those scholars' books had not been at their disposal, if the product of their research had not been at their disposal, then certainly these latter ones would not have reached that level; it is quite clear. The first person has five tomans; he gives it to the second person; with his own five tomans, the second makes it ten tomans; he gives it to the third person, who also has five tomans, and it becomes fifteen tomans. The third person is now wealthier than the first person — he has fifteen tomans. But where does this fifteen tomans come from? If the first person had not existed, would he have this fifteen tomans? If the second person too had not existed, would he still have fifteen tomans? Never — he would have had even that five tomans only by force. It is the product of the past experiences and discoveries of man that reaches later generations — and by what means? By means of the pen, by means of writing and inscription.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="4-5"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="4-5"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:4–5):* "Who taught by the pen, taught man what he did not know."
@@ -252,7 +252,7 @@ ____
 
 So, higher than the very principle of creation and bringing-into-being, there is something in God.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="3"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="3"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:3):* "Read, and your Lord is the most generous."
@@ -260,7 +260,7 @@ ____
 
 Read, and your Lord is the most generous.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="4-5"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="4-5"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:4–5):* "Who taught by the pen — taught man what he did not know."
@@ -268,7 +268,7 @@ ____
 
 Who gave instruction by means of the pen. "Taught man what he did not know" — He taught man the things he did not know. These are blessings of God concerning man. Well, then man ought to give thanks for these blessings. When God has taught man, when God has shown man the way, has given man the pen, has made man rational and given him instruction — then man ought to go toward the loftiest summit; then man ought not to have a single instant of decline. Man ought no longer to have any backsliding and misery — is it so? The next verse answers; it is as though it confronts an imagining of this kind: that if God creates and nurtures humanity in this way, and gives it the pen, and shows it grace, and treats it with such generosity — if it is so, then mankind ought to have no misery and waywardness and corruption and error and the like — has it turned out so?
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="6"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:6):* "No indeed!"
@@ -276,7 +276,7 @@ ____
 
 No, it is not so as you suppose and as you speak. The state of mankind — how is it? No; rather:
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="6-7"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="6-7"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:6–7):* "No indeed! Truly man transgresses when he sees himself self-sufficient."
@@ -286,7 +286,7 @@ The transgression of mankind, the rebellions and the arrogance of feeble human b
 
 And transgression arises from the sense of being free of need. Self-sufficiency, wealth, the amassing of riches, the heaping up of treasures and fortunes, raises up necks; and when the necks are raised, when un-divine powers come into being and take shape, then it is that mankind no longer reaches that destination. Notice — these are the inspirations of God at the outset of the rousing; these are that very flame which set the Prophet of God ablaze, set him afire.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="6"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:6):* "No indeed!"
@@ -294,7 +294,7 @@ ____
 
 No, it is not as you suppose. You imagine and expect that mankind has reached a state of being set in order? No!
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="6"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:6):* "Truly man transgresses."
@@ -302,7 +302,7 @@ ____
 
 Man assuredly transgresses and is arrogant.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="7"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="7"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:7):* "When he sees himself self-sufficient."
@@ -310,7 +310,7 @@ ____
 
 — that he sees himself as free of need.
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="8"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="8"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:8):* "Truly, to your Lord is the return."
@@ -318,7 +318,7 @@ ____
 
 Will these transgressors ultimately be successful? No! Again, the return is to your Lord; the end belongs to God; the conclusion of the affair is in favor of God and the divine front. That very path which the Lord of the world has appointed — in the end, mankind will, upon that very path, reach the destination, there is no doubt:
 
-[.verse,quran,surah="al-ʿAlaq",s=96,a="8"]
+[role="verse quran",surah="al-ʿAlaq",s=96,a="8"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAlaq (96:8):* "Truly, to your Lord is the return."
@@ -328,7 +328,7 @@ And then there are other matters in this noble Sūra. In sum, notice with what t
 
 Again, in the Sūra "By the Star," of which we cited a portion of its verses here, there is an allusion to this very inner transformation of the Prophet — and there are, of course, many other verses, which I did not see the need to cite all of here. But since the discussion is a very precise, subtle, and sweet one, and since I myself, in the discussions I had studied, had not come across this point being attended to with precision, I wished to explain this point a little more, since knowing it is useful for acting as well.
 
-[.verse,quran,surah="al-Najm",s=53,a="1"]
+[role="verse quran",surah="al-Najm",s=53,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:1):* "In the name of God, the All-Merciful, the Ever-Merciful. By the star when it sets."footnote:s15-33[Sūrat al-Najm (53), verses 1 to 12.]
@@ -336,7 +336,7 @@ ____
 
 By the star, at the time it sets.
 
-[.verse,quran,surah="al-Najm",s=53,a="2"]
+[role="verse quran",surah="al-Najm",s=53,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:2):* "Your companion has not gone astray nor erred."
@@ -344,7 +344,7 @@ ____
 
 Your companion and comrade has not gone astray, nor inclined toward falsehood. This pertains to the matter of the Miʿrāj (the Ascension), as it is found in many of the commentaries. Although it alludes to the inner transformation of the Prophet and to the state of receiving revelation, yet the occasion of the Sūra "By the Star" is this: that the Prophet, when he would recount the episodes of the night journey, the journey of the Ascension, these people would not listen; the verse is speaking in this context.
 
-[.verse,quran,surah="al-Najm",s=53,a="3"]
+[role="verse quran",surah="al-Najm",s=53,a="3"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:3):* "Nor does he speak from caprice."
@@ -352,7 +352,7 @@ ____
 
 He does not speak out of whim.
 
-[.verse,quran,surah="al-Najm",s=53,a="4"]
+[role="verse quran",surah="al-Najm",s=53,a="4"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:4):* "It is naught but a revelation revealed."
@@ -360,7 +360,7 @@ ____
 
 It is nothing but a revelation that has reached him from the side of the Lord.
 
-[.verse,quran,surah="al-Najm",s=53,a="5"]
+[role="verse quran",surah="al-Najm",s=53,a="5"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:5):* "Taught to him by one mighty in power."
@@ -370,7 +370,7 @@ He has been taught by that one of surpassing power, that one possessing great st
 
 "One mighty in power" means surpassingly powerful.
 
-[.verse,quran,surah="al-Najm",s=53,a="6"]
+[role="verse quran",surah="al-Najm",s=53,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:6):* "Possessor of soundness/sagacity (dhū mirra)."
@@ -378,7 +378,7 @@ ____
 
 That sagacious, wise one — yes; "mirra" meaning sagacity and wisdom and judgment — which the commentators have said is an allusion to Gabriel: that what he (the Prophet) reports, he reports on the authority of Gabriel, and God taught him these things by means of Gabriel.
 
-[.verse,quran,surah="al-Najm",s=53,a="6"]
+[role="verse quran",surah="al-Najm",s=53,a="6"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:6):* "...so he stood upright."
@@ -386,7 +386,7 @@ ____
 
 This divine revelation came to him, and he stood erect upon his own feet — "so he stood upright."
 
-[.verse,quran,surah="al-Najm",s=53,a="7"]
+[role="verse quran",surah="al-Najm",s=53,a="7"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:7):* "And he was on the highest horizon."
@@ -394,7 +394,7 @@ ____
 
 And he was on the loftier and higher horizon. "Highest" means the most lofty; the horizon, too, is clear. The Prophet stands upon a loftier horizon.
 
-[.verse,quran,surah="al-Najm",s=53,a="8"]
+[role="verse quran",surah="al-Najm",s=53,a="8"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:8):* "Then he drew near and came down."
@@ -402,7 +402,7 @@ ____
 
 Perhaps it can be construed in this way: "And he was on the highest horizon" means the Prophet stood upon a higher level, by which he was able to become a prophet. As we said, the Prophet, before prophethood, lived with reserves more brimming than the ordinary, among ordinary people. "Then he drew near" — then he approached; "and came down" — then he drew nearer. On the supposition that the one meant is the Prophet: that is, the Prophet drew near to God, and nearer — through acts of worship, through ascetic disciplines, through reflections and ponderings, and through the special graces that God had bestowed upon him, his spirit drew near and nearer to God and became ready to receive revelation. Some have said that what is meant by "he drew near" is that Gabriel drew near to the Prophet, and "came down" — and hung over him; that is, he brought himself to the Prophet in order to convey the revelation to him. In any case it makes no difference; but the first meaning seems to us nearer and more apparent. That second meaning too I wrote, "or he drew near and hung down," in parentheses, so that it may allude to the second meaning. The first meaning I myself prefer more.
 
-[.verse,quran,surah="al-Najm",s=53,a="9"]
+[role="verse quran",surah="al-Najm",s=53,a="9"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:9):* "Until he was at the distance of two bows' lengths, or nearer."
@@ -410,7 +410,7 @@ ____
 
 The Prophet drew near to God, and so he reached the distance of two bows' lengths, or less. Do not say, "What does 'two bows' lengths' mean, what special significance does it have?" — at the measure of two bows, taking each bow to be one meter, at a distance of two meters from God. Where was God, that the Noble Prophet reached within two meters of Him? No — these are figurative, metaphorical expressions. He drew near to Him, not in respect of place; "two bows' lengths" means he drew very near, very near; the holy spirit of the Prophet drew so near to God, drew so near, that nearer than that is inconceivable for any human being — the very nearest of the near.
 
-[.verse,quran,surah="al-Najm",s=53,a="8-10"]
+[role="verse quran",surah="al-Najm",s=53,a="8-10"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:8–10):* "Then he drew near and came down, until he was at the distance of two bows' lengths or nearer, and He revealed to His servant what He revealed."
@@ -418,7 +418,7 @@ ____
 
 So God revealed to His servant what He revealed.
 
-[.verse,quran,surah="al-Najm",s=53,a="11"]
+[role="verse quran",surah="al-Najm",s=53,a="11"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:11):* "The heart did not lie about what it saw."
@@ -426,7 +426,7 @@ ____
 
 The heart did not lie about what it saw. What are the observations of the Prophet's heart — it did not lie to the Prophet, it saw correctly, it did not see in error.
 
-[.verse,quran,surah="al-Najm",s=53,a="12"]
+[role="verse quran",surah="al-Najm",s=53,a="12"]
 [quote]
 ____
 *Qur'an, Sūrat al-Najm (53:12):* "Will you then dispute with him about what he saw?"

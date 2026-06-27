@@ -4,7 +4,7 @@
 [.session-subtitle]
 _در پیرامون ولایت (۳): هجرت — delivered Wednesday, 24 Mehr 1353 / 29 Ramadan al-Mubārak 1394_
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="100"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="100"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:100):* "And whoever emigrates in the way of God will find in the earth many a place of refuge and abundance; and whoever goes forth from his house as an emigrant to God and His Messenger, and then death overtakes him — his reward has fallen due upon God; and God is ever Forgiving, Merciful."
@@ -12,7 +12,7 @@ ____
 
 The question of _hijrah_ (emigration) relates to the question of _wilāyah_, with that breadth in which we have framed the question of wilāyah here. We said that wilāyah consists of forging a firm bond and connection among the elements of the believing ranks with one another, and of severing every form of attachment between the believing ranks and the non-believing ranks; and, at a further level, of forging a most powerful and strong bond between every individual of the believing ranks and that central point and concentrated authority upon whom the administration of the Islamic society rests — that is, the _imam_, the _walī_, the ruler, the leader. Alongside this, we then discussed who the _walī_ and leader is within the Islamic society. The Qur'an gave us our answer:
 
-[.verse,quran,surah="al-Māʾidah",s=5,a="55"]
+[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Māʾidah (5:55):* "Your guardian (_walī_) is only God, and His Messenger, and those who believe — those who establish the prayer and pay the alms while bowing."footnote:s28-1[Sūrat al-Māʾidah, verse 55.]
@@ -28,7 +28,7 @@ The first part is that a person be under the wilāyah of Satan. What does it mea
 
 The wilāyah of the Tāghūt and the wilāyah of Satan is just such a thing. This is why the verse of the Qur'an says:
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="41"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="41"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:41):* "And We made them leaders (_aʾimmah_) who call to the Fire."footnote:s28-3[Sūrat al-Qaṣaṣ, verse 41.] — There exist leaders and chiefs who drag their followers and those under their command toward the Fire of Hell, drag them toward wretchedness.
@@ -36,7 +36,7 @@ ____
 
 Another verse of the Qur'an says:
 
-[.verse,quran,surah="Ibrāhīm",s=14,a="28-29"]
+[role="verse quran",surah="Ibrāhīm",s=14,a="28-29"]
 [quote]
 ____
 *Qur'an, Sūrat Ibrāhīm (14:28–29):* "Have you not regarded those who exchanged the bounty of God for ingratitude and settled their people in the abode of perdition — Hell, which they shall enter? And what an evil place of settlement!"footnote:s28-4[Sūrat Ibrāhīm, verses 28 and 29.]
@@ -76,7 +76,7 @@ And as for groups: the group of the Shīʿah around the Imams, peace be upon the
 
 A noble hadith has been related in _al-Kāfī_ in several wordings. The book _Uṣūl al-Kāfī_, which is among the most reliable and most ancient of Shīʿī books, has related this hadith in several phrasings; the one that I shall recite is one of those several phrasings. The gentlemen can refer to _al-Kāfī_, the _Kitāb al-Ḥujjah_; the title of its chapter, apparently, is this: _Bāb man dāna Allāh ʿazza wa jalla bi-ghayri imāmin min Allāh_footnote:s28-13[One who obeys God while under the sway of a ruler who is not from God.] (the chapter on whoever serves God while under a leader who is not from God). It says, on the authority of the Imam, peace be upon him, and the Imam on the authority of God, that God Most High has said:
 
-[.hadith]
+[role="hadith"]
 [quote]
 ____
 «I shall surely punish every flock (_raʿiyyah_) in Islam that gave its allegiance (_dānat bi-wilāyah_) to an unjust leader (_imām jāʾir_) who is not from God, even if the flock was, in its own deeds, godfearing and pious; and I shall surely pardon every flock in Islam that gave its allegiance to a just leader from God, even if the flock was, in itself, wrongdoing and evildoing.»footnote:s28-14[Hadith no. 32.]
@@ -90,7 +90,7 @@ In the first example, the driver was a trustworthy driver, a driver who knew the
 
 What are they to do? What are they to do? Here the verse of the Qur'an gives the answer. The verse of the Qur'an gives the answer to this "what are they to do"; it says:
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="97-100"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="97-100"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:97–100):* "Indeed, those whom the angels take in death while they were wronging themselves..."footnote:s28-15[Sūrat al-Nisāʾ, verses 97 to 100.]
@@ -106,7 +106,7 @@ The _mustaḍʿafīn_ of the earth are those who, within a society, have no news
 
 The _mustaḍʿafīn_ in a society are these — the majority, the uninformed mass of the people. Of course, in societies other than those administered by a sound system — not those societies that set a value on the jewel of humanity; not those societies that hold a dignity for the human being and for the human will; not that society whose leader is the Prophet, of whom, although he is the Prophet, the Qur'an says:
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="159"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="159"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:159):* "And consult them in the affair."footnote:s28-18[Sūrat Āl ʿImrān, verse 159.]
@@ -142,7 +142,7 @@ ____
 
 And Islam wants this. Islam wants every person, to the measure of his own ability — the amount that he can, and is able and capable of — to move in the way of God.
 
-[.verse,quran,surah="al-Nisāʾ",s=4,a="100"]
+[role="verse quran",surah="al-Nisāʾ",s=4,a="100"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nisāʾ (4:100):* "Whoever goes forth from his house as an emigrant to God and His Messenger..." — that one who goes forth from his house, while he is making _hijrah_ toward God and His Messenger — "_thumma yudrikhu l-mawt_" — then death overtakes him along the way — "_faqad waqaʿa ajruhu ʿala Allāh_" — then his reward has assuredly fallen due upon God and is upon the responsibility of God — "_wa kāna Allāhu ghafūran raḥīman_" — and God is Forgiving, possessed of mercy.

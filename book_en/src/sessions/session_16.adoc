@@ -6,7 +6,7 @@ _رستاخیز اجتماعی نبوت — delivered Friday, 12 Mehr 1353 / 17 
 
 Today's recitation is drawn from two places: one from the blessed Sūrat al-Qaṣaṣ, and the other from the blessed Sūrat al-Ṣaff. So that some of the brothers who have not yet found a place in the prayer hall may be able to find somewhere, look at these verses on the printed sheets while I read the Arabic text once.
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="1-6"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="1-6"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:1–6):*
@@ -59,7 +59,7 @@ If I wanted to give examples of the famous figures and personalities other than 
 
 If the Prophet, when he entered society, when he uttered his revolutionary speech — that is, when he said to Pharaoh that you must not sit there and must not put the Children of Israel under so much pressure and must not build different social classes — when he said this to Pharaoh, if Pharaoh had said, "Certainly, I am ready, I hear your command, I will come down from there," then the Prophet would begin, with his own powerful, skilled hand,footnote:s16-7[(root ṣ-n-ʿ) Skilled, fine-crafting.] to build society, and not a ripple of water would be stirred. The reason conflict and clash arise in the revolutions of the prophets — as God says in the Qur'an —
 
-[.verse,quran,surah="Āl ʿImrān",s=3,a="146"]
+[role="verse quran",surah="Āl ʿImrān",s=3,a="146"]
 [quote]
 ____
 *Qur'an, Sūrat Āl ʿImrān (3:146):* "And how many a prophet there was alongside whom many devoted servants of God fought."footnote:s16-8[Sūrat Āl ʿImrān (3), verse 146.]
@@ -97,7 +97,7 @@ The verses that I chose from Sūrat al-Qaṣaṣ to be recited describe this ver
 
 In summary, in these few verses that we recite here it is mentioned, and these are what is intended, so now we present their translation to the gentlemen. (I beg you to look at these sheets, and whoever has a Qur'an in his hand, let him look at the Qur'an.)
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="1"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:1):* "In the name of God, the Most Merciful, the Most Compassionate. Ṭā Sīn Mīm."footnote:s16-15[Sūrat al-Qaṣaṣ (28), verses 1 to 6.]
@@ -105,7 +105,7 @@ ____
 
 This cipher at the opening of the surah is, of course, among the very minor discussions that may be raised concerning some of the verses of the Qur'an — namely, what these ciphers are, as the commentators have said. We have no business with that.
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="2"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:2):* "These are the verses of the clear Book."
@@ -113,7 +113,7 @@ ____
 
 These are the verses of the clear and clarifying Book.
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="3"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="3"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:3):* "We recite to you something of the account of Moses and Pharaoh, in truth."
@@ -127,7 +127,7 @@ The gist of the matter is this: "Indeed Pharaoh exalted himself in the land." Ph
 
 And his pressure was this, that "slaughtering their sons" — he killed their young men. He did not let the young generation of theirs come up; he sensed that among them there was a movement and a ferment, and he knew that the one who could bring this movement and ferment to its conclusion was the young generation. And because in that era and in the social conditions of that age the women perhaps had no involvement in these and social matters, and the burden was on the shoulders of the sons, for this reason the pressure was greater on the sons. Of course, you know this from outside the verse; in the accounts and narrations that have come down on this subject, we have heard and have word that he knew that among these very youths a Moses was to come forth, and it is that Moses who in the end would transform and overturn the world upon him. Either he knew it specifically — as is apparent from the narrations — that a soothsayer had said: "A son with these traits will be born whose name is Moses." Or he did not know it specifically, but he was a clear-sighted man; he understood, he understood that ultimately, among this young generation that is in the Pharaonic society among the Children of Israel, with much fervor and idea and uproar, ultimately a Moses, a great human being, a self-sacrificing man would appear among them — and he feared this; therefore he killed the young men.
 
-[.verse,quran,surah="al-Qaṣaṣ",s=28,a="4"]
+[role="verse quran",surah="al-Qaṣaṣ",s=28,a="4"]
 [quote]
 ____
 *Qur'an, Sūrat al-Qaṣaṣ (28:4):* "and sparing their women."
@@ -137,7 +137,7 @@ And he kept their women alive — either in order to corrupt them, or in order t
 
 Well, this drawing-up of lines between these two groups: on one side Pharaoh has such a condition, which at the end of the verse says: "Indeed he was of the corrupters." Truly and certainly he was of the corrupters and the fomenters of corruption. He created corruption in nature (fiṭrah), created corruption in society, created corruption in the world — as in that other verse, in Sūrat al-Baqarah:
 
-[.verse,quran,surah="al-Baqarah",s=2,a="205"]
+[role="verse quran",surah="al-Baqarah",s=2,a="205"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:205):* "And when he turns away (or gains authority), he strives to spread corruption in the land and to destroy crops and offspring; and God does not love corruption."footnote:s16-16[Sūrat al-Baqarah (2), verse 205: "And when he turns away (or gains a position of leadership), he strives to spread corruption in the land and to destroy the crops and the offspring, and God does not love corruption."]

@@ -4,7 +4,7 @@
 [.session-subtitle]
 _ایمان زاینده و همراه با تعهدات عملی — delivered Sunday, 31 Shahrīvar 1353 / 5 Ramaḍān al-Mubārak 1394_
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="77-78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="77-78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:77–78):* "…And strive for Allah with the striving due to Him. He has chosen you and has not laid upon you in religion any hardship — the faith of your father Abraham. It is He who named you Muslims before and in this [Revelation], that the Messenger may be a witness over you and that you may be witnesses over mankind. So establish prayer and give zakat and hold fast to Allah. He is your Protector — and excellent is the Protector, and excellent is the Helper."footnote:s04-1[Sūrat al-Ḥajj (the blessed surah), verses 77 and 78.]
@@ -30,7 +30,7 @@ If mere recognition and heart-felt faith and belief were enough, then ʿAmr ibn 
 
 This statement is correct, and because it is correct, I turn the discourse back upon ourselves once again, and I say: by this very reasoning, can you and I believe and be certain that we are Shīʿa? Are we acting upon the commitments of being a Shīʿa? Are we bound by them? And the word of the Qur'an on this matter is clear, undoubting, and unambiguous. (This meaning is present both in today's recitation and in tomorrow's.) It explicitly denies faith to those who are utterly unbound by the commitments of their faith. Therefore, the faith that is valid in Islam — and these are among the doctrinal principles of Islam and of Shīʿism — is productive, commitment-creating faith. It is the faith that is accompanied by practical commitments; and if it is not so accompanied, then do not wait for its fruits either, do not wait for victory in this world, do not wait for security in this world.
 
-[.verse,quran,surah="al-Anʿām",s=6,a="82"]
+[role="verse quran",surah="al-Anʿām",s=6,a="82"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anʿām (6:82):* _«alladhīna āmanū wa lam yalbisū īmānahum bi-ẓulmin ulāʾika lahum al-amnu wa hum muhtadūn»_ — "Those who believed and did not clothe their faith in wrongdoing — for them is security, and they are rightly guided."footnote:s04-11[Sūrat al-Anʿām (the blessed surah), verse 82.]
@@ -52,7 +52,7 @@ How pure of soul! Muʿāwiya too sets out and works in the hope of the Prophet's
 
 In any case, for years — and for long years — they have been working upon minds, so as to say: Islam minus action, faith without action; in the heart, love and faith and belief — and not in action, in movement and effort and effect. For years they have wanted to make us believe this. And the Qur'an, all the while, raises its call, alive and fresh:
 
-[.verse,quran,surah="al-Nūr",s=24,a="47"]
+[role="verse quran",surah="al-Nūr",s=24,a="47"]
 [quote]
 ____
 *Qur'an, Sūrat al-Nūr (24:47):* _«wa mā ulāʾika bi'l-muʾminīn»_ — "and those are not the believers."footnote:s04-15[Sūrat al-Nūr (the blessed surah), verse 47.]
@@ -60,7 +60,7 @@ ____
 
 Those who do not have these works (whose recitation we shall see either today or tomorrow) are not believers; they have no faith. Those are believers, those are with you, those are encompassed by the grace of God and by brotherhood and Muslim fellowship, who move in the path of God, in accordance with faith, in a committed manner — who strive, who work, who labor. This is the logic of the Qur'an.
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="77"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="77"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:77):* _«yā ayyuhā'lladhīna āmanū»_ — "O you who have believed" — _«irkaʿū wa'sjudū»_ — bow, prostrate, humble yourselves before God; _«waʿbudū rabbakum»_ — render servitude and worship to your Lord; _«wafʿalu'l-khayr»_ — do good; _«laʿallakum tufliḥūn»_ — that perhaps you may succeed, may be saved.footnote:s04-16[Sūrat al-Ḥajj (the blessed surah), verses 77 and 78.]
@@ -68,7 +68,7 @@ ____
 
 If you do these works, there is felicity and salvation and success and triumph.footnote:s04-17[_najāḥ_ (from the root n-j-ḥ): victory, success.] But if it were only _«yā ayyuhā'lladhīna āmanū»_ — "O you who have believed" — and there were no _«irkaʿū wa'sjudū waʿbudū rabbakum wafʿalu'l-khayr»_ — bow, prostrate, worship your Lord, and do good — would there be felicity and salvation? The answer is up to you.
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:78):* _«wa jāhidū fi'llāhi ḥaqqa jihādih»_ — "And strive for God with the striving due to Him."
@@ -76,7 +76,7 @@ ____
 
 Strive in the path of God in the manner that striving deserves. For a single day's income, from sunrise to sunrise,footnote:s04-18[An idiom for a full day, a full twenty-four hours ("from sunrise to sunrise").] what do you do, how much do you toil? How much do you strive? In that same proportion, see how much you must strive for God. Everything is in the main text, while the work of God is in the margin. The general state of our lives, the general layout of our lives, is like this: all the works are in the main text — teaching, learning, earning money, toiling, exercising, and so on — all of it is the main text of life; and in those margins, that work of God either is there or is not. But if you look correctly, that effort which must be made for God and in the path of God — its volume, its quality, its depth, its tirelessness and steadfastness — ought to be, in proportion to the greatness and majesty of God Himself, greater than all other efforts, more enduring, more tireless, more indefatigable.
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:78):* _«wa jāhidū fi'llāhi ḥaqqa jihādihi huwa'jtabākum»_ — "…strive for God with the striving due to Him. He has chosen you."
@@ -86,7 +86,7 @@ O community of Islam! What does "He has chosen you" mean? Does it mean He has se
 
 Among ten of you, you look and see that this one's face is more resolute, his body more ready, his complexion more vigorous, his fist stronger, his arms and chest broader and firmer; you say, "Sir, this heavy load — you must lift it; I chose you for this task." And this one steps forward. If he lifts it, if he is able to do this task — that is, if he wills it (the capacity was undoubtedly in him) — if he resolves and lifts this load, then he rises above the level of his peersfootnote:s04-19[_aqrān_ (from the root q-r-n): plural of _qirn_, meaning equal and peer; intimates/contemporaries.] and becomes a select, distinguished individual. And if he does not lift it? If he does not lift it, he becomes more downtrodden and more wretched than the others. They say to him, "Poor wretch! The others could not, and We did not ask them; but We asked you, and you did not do it." The selection of the Ummah of Islam is of this kind, like the selection of the Ummah of the Children of Israel. The Children of Israel in their time, and the Muslims in their time, were the worthiest of communities and individuals to bear the trust of Islam, the leadership and guidance of mankind; that is why this trust was given to them. Did they bear it or not? If they bore it — if they delivered this trust to its destination — then of course they are the best, the most select, and the worthiest of Muslims; but if not, then what? If they did not bear it, they have the very condition that the Jews acquired as a result of not bearing the trust:
 
-[.verse,quran,surah="al-Baqarah",s=2,a="61"]
+[role="verse quran",surah="al-Baqarah",s=2,a="61"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:61):* _«wa ḍuribat ʿalayhimu'dh-dhillatu wa'l-maskanatu wa bāʾū bi-ghaḍabin mina'llāh»_ — "And humiliation and wretchedness were stamped upon them, and they incurred the wrath of God."footnote:s04-20[Sūrat al-Baqarah (the blessed surah), verse 61: "And the stamp of humiliation and want was set upon them, and they were visited with the wrath of God."]
@@ -94,7 +94,7 @@ ____
 
 This is for their world; _maʾwāhum jahannam_ — "their abode is Hell" — and that is for their Hereafter.
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:78):* _«huwa'jtabākum»_ — "He has chosen you."
@@ -102,7 +102,7 @@ ____
 
 He has chosen you, He has selected you for the bearing of this load. _«wa mā jaʿala ʿalaykum fi'd-dīni min ḥaraj»_ — "and He has not laid upon you in religion any hardship": in religion He has placed upon you no hardship, no pressure, no difficulty; there is no constraint. This load is not so very heavy; bearing it is not so much a torment and torture; it is bearable. _«wa mā jaʿala ʿalaykum fi'd-dīni min ḥaraj»_ — He has laid upon you in the matter of religion no constraint, no difficulty, no pressure. _«millata abīkum Ibrāhīm»_ — this is the very creed of your father Abraham. _«huwa sammākumu'l-muslimīna min qablu wa fī hādhā»_ — He has named you, in the past and in this present time, Muslims and submitters, surrendered to God — _«wa min dhurriyyatinā ummatan muslimatan lak»_footnote:s04-21[Sūrat al-Baqarah (the blessed surah), verse 128.] (this is in the prayer of Abraham in Sūrat al-Baqarah, a reference to that) — _«huwa sammākumu'l-muslimīna min qablu wa fī hādhā»_: We gave you this load, We carried out this selection regarding you. For what? So that what may come about? So that you may do what and reach where?
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:78):* _«li-yakūna'r-rasūlu shahīdan ʿalaykum wa takūnū shuhadāʾa ʿala'n-nās»_ — "…that the Messenger may be a witness over you and that you may be witnesses over mankind."
@@ -112,7 +112,7 @@ Your direct overseer is the Prophet, and you are responsible for all humanity �
 
 _«li-yakūna'r-rasūlu shahīdan ʿalaykum»_ — that the Prophet may be a witness and guardian and watchman over you; _«wa takūnū shuhadāʾa ʿala'n-nās»_ — and that you may be over the people and over humanity and over the nations and the masses, watchmen and guardians and overseers. Now that it is so, now that your responsibility is heavy, now that you are being dispatched on a difficult mission on behalf of the Lord — _«fa-aqīmu'ṣ-ṣalāt»_ — then establish prayer. Once again duty, once again commitment — dry and empty faith?! _«fa-aqīmu'ṣ-ṣalāt»_ — establish the prayer; _«wa ātu'z-zakāt»_ — and give the zakat. (_«aqīmu'ṣ-ṣalāt»_ I explained on one of the past days.)
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="78"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:78):* _«waʿtaṣimū bi'llāh»_ — "and hold fast to God."
@@ -122,7 +122,7 @@ And cling to God and to the divine creed; take refuge in God, rely upon God; fea
 
 We have several more verses, from the end of Sūrat al-Anfāl. (Here too, again, there is another section, a small explanation I wrote at the head of it, before these verses of al-Anfāl: _social commitments._) The commitments of faith of the kind of zakat, of the kind of prayer, of the kind of holding fast to God — that is one kind, which was repeated in those verses, the verses at the end of Sūrat al-Ḥajj. Now another kind of the commitments of faith, from another standpoint, from another angle — another kind of commitment — is raised in these verses.
 
-[.verse,quran,surah="al-Anfāl",s=8,a="72"]
+[role="verse quran",surah="al-Anfāl",s=8,a="72"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:72):* _«inna'lladhīna āmanū»_ — "Indeed those who believed" — _«wa hājarū»_ — and emigrated.footnote:s04-23[Sūrat al-Anfāl (the blessed surah), verse 72.]
@@ -132,7 +132,7 @@ What does it mean to emigrate? Does it mean, firstly, that they went from Mashha
 
 From another angle, emigration means carrying a single brick for the building of the mighty palace of the Islamic society. Consider now: here a building is to be constructed. Suppose that a hundred pieces of timber, or thousands of pieces of brick, are to be placed here one upon another. If every child carries even one and brings it here, then this is built. If every person lays a single stone, a magnificent palace comes into being. The Islamic society that had come into being in Medina was in need of believing, active, hardworking, capable, seasoned, Islam-understanding elements, lovers of and believers in this path, with hearts brimming with faith. The one who emigrated from Mecca passed up familiarity and affection and memory and ease and pleasure and merriment, and came to Medina. From Mecca to Medina, this person had in truth taken a great step in the building of such a society, according to his own share, to his own measure; therefore he had worth, he was decisive. So see what these verses say.
 
-[.verse,quran,surah="al-Anfāl",s=8,a="72"]
+[role="verse quran",surah="al-Anfāl",s=8,a="72"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:72):* _«inna'lladhīna āmanū»_ — "Indeed those who believed" — _«wa hājarū»_ — and also emigrated — _«wa jāhadū bi-amwālihim wa anfusihim fī sabīli'llāh»_ — and strove with their wealth and their lives, with life and property, in the path of God — _«wa'lladhīna āwaw»_ — and those who gave shelter, to these homeless, helpless ones uprooted from their houses — _«wa naṣarū»_ — and aided them — all of these: _«ulāʾika baʿḍuhum awliyāʾu baʿḍ»_ — these are some of them the allies of others.
@@ -140,7 +140,7 @@ ____
 
 These are bound together and joined together and on one front with each other. These are all one element; these are the bricks and mortar of one wall and one roof. _«Mathalu'l-muʾmini ka-mathali'l-bunyāni yashuddu baʿḍuhu baʿḍā»_footnote:s04-25[Close to hadith no. 1.] — "The likeness of the believer is the likeness of a building: one part of it reinforces another." Have you seen how these bricks are interlocked, in these vaulted ceilings? Each brick is a believer; each believer is a brick, interlocked, and holds in place dozens of other bricks. In a vaulted ceiling, pull out a single brick with effort, and ten bricks around it fall — this one had held those ten in place, just as those ten in turn, each for its part, had held this one in place. _«baʿḍuhum awliyāʾu baʿḍ»_ — some of them are the allies of others.
 
-[.verse,quran,surah="al-Anfāl",s=8,a="72"]
+[role="verse quran",surah="al-Anfāl",s=8,a="72"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:72):* _«wa'lladhīna āmanū»_ — "and those who believed" —
@@ -150,7 +150,7 @@ pay attention here — but those who believed, who have the heart-faith too, but
 
 (Well, did I write down the continuation of this verse over there? I did not write it; so this much is enough. As it happens, I myself have grown tired now. Now pay attention. Today our reciter is the esteemed Mr. Rūḥānī, who is coming, who is doing us the honor of coming here to read these verses. First the verses at the end of Sūrat al-Ḥajj — or he may add two or three verses to the verses of Sūrat al-Ḥajj — or, by my preference (which now seems to me better this way): first the verses of Sūrat al-Ḥajj, those same two or three verses we translated; first he recites those, and you listen well. Once again, when you have heard these verses in that beautiful melody, they will settle more firmly in your mind and in your soul. First he reads the verses at the end of Sūrat al-Ḥajj, then he returns to this very verse that I just read, [continuing] to the end of the surah — that is, up to the beginning of _«barāʾatun mina'llāh»_, Sūrat al-Tawba — these very verses he reads too. Because today, just now, between the two prayers, when I was looking at the Qur'an, I saw that after this verse, two or three verses on,) there is again a sentence there that serves our purpose much better. That sentence is very apt for the testimony of our point; now I will read that very sentence for you. One, two, three verses later He says:
 
-[.verse,quran,surah="al-Anfāl",s=8,a="74"]
+[role="verse quran",surah="al-Anfāl",s=8,a="74"]
 [quote]
 ____
 *Qur'an, Sūrat al-Anfāl (8:74):* _«wa'lladhīna āmanū wa hājarū wa jāhadū fī sabīli'llāh»_ — "And those who believed and emigrated and strove in the path of God" — (which I did not write down on this sheet) — _«wa'lladhīna āwaw wa naṣarū»_ — and those who gave shelter and aided — _«ulāʾika humu'l-muʾminūna ḥaqqā»_footnote:s04-27[Sūrat al-Anfāl (the blessed surah), verse 74.] — these are the true believers.

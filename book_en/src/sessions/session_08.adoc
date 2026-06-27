@@ -4,7 +4,7 @@
 [.session-subtitle]
 _توحید در جهان‌بینی اسلام — delivered Thursday, 4 Mehr 1353 / 9 Ramadan al-Mubārak 1394_
 
-[.verse,quran,surah="al-Baqarah",s=2,a="255"]
+[role="verse quran",surah="al-Baqarah",s=2,a="255"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:255):* "God — there is no deity but He, the Living, the Self-Subsisting. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is there that can intercede with Him except by His permission? He knows what lies before them and what lies behind them, and they encompass nothing of His knowledge except what He wills. His Throne extends over the heavens and the earth, and the guarding of them does not weary Him. He is the Most High, the Most Great." (255)
@@ -24,7 +24,7 @@ Therefore, you brothers and sisters who are present in this gathering, and who w
 
 And of course, as we have said in many of our discussions, lectures, and lessons: we never expect, even from a single person, that he should accept what we say one hundred percent and as a certainty — no. On the contrary, we expect of our friends, brothers, and sisters, at whatever level you are: that which is given to you as nourishment and intellectual substance — even if you are not like this elsewhere, here be like this — that which is given to you, place under the laboratoryfootnote:s08-1[A scientific and technical laboratory.] of your own perception, understanding, discernment, and independent judgment, and make yourselves an instance of this noble verse of the Qur'an, which says:
 
-[.verse,quran,surah="al-Zumar",s=39,a="17-18"]
+[role="verse quran",surah="al-Zumar",s=39,a="17-18"]
 [quote]
 ____
 *Qur'an, Sūrat al-Zumar (39:17–18):* "So give good news to My servants — those who listen to the word and follow the best of it."footnote:s08-2[Sūrat al-Zumar, verses 17 and 18.] Give good news to My servants — to those who hear the word and choose its finest part and follow it.)
@@ -52,7 +52,7 @@ In the worldview of Islam, tawhid is just such a thing; tawhid means that the wo
 
 We turn to the verses of the Qur'an, and we see that the Lord of the universe has mentioned precisely this same matter in the Quranic verses. From two places in the Qur'an we have selected verses to be recited and translated today. The first is from Sūrat al-Baqarah, the verse famous as Āyat al-Kursī. The first part of Āyat al-Kursī is in this field, which we will now recite, translate, and reflect upon. It is verse 255.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="255"]
+[role="verse quran",surah="al-Baqarah",s=2,a="255"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:255):* "In the name of God, the Most Merciful, the Most Compassionate. God — there is no deity but He."footnote:s08-5[In the sessions held during the year 1352, at the Mosque of Karāmat in Mashhad, when the author was devoting himself to the translation of the invocations of the prayer, he presented a translation comprehensible to the general public of these verses. The sixth discourse of the collected discourses titled _Ṣahbā_, under the title "The Detailed Translation of Āyat al-Kursī," is devoted to that lecture.]
@@ -66,7 +66,7 @@ _Allāhu lā ilāha illā Huwa_ — what is the distinctive quality of this Alla
 
 _Lā taʾkhudhuhū sinatun wa-lā nawm_ — neither drowsiness nor sleep takes hold of Him; light sleep — let alone heavy sleep. It does not seize Him away from Himself. What does this mean? It means that a moment of heedlessness, a moment of inattention, has no way into His being and into His life. The other beings, the false lords, are heedless — of themselves, of the people under their authority, of the world that is in their grip; they are heedless from head to foot, constantly in heedlessness; and even where they claim awareness and knowledge, their awareness and knowledge is false. What prevails over them is heedlessness and ignorance.
 
-[.verse,quran,surah="Ibrāhīm",s=14,a="28-29"]
+[role="verse quran",surah="Ibrāhīm",s=14,a="28-29"]
 [quote]
 ____
 *Qur'an, Sūrat Ibrāhīm (14:28–29):* "Have you not seen those who exchanged the blessing of God for ingratitude, and brought their people down into the abode of ruin — Hell, which they will enter; and an evil place of settlement it is."footnote:s08-8[Sūrat Ibrāhīm, verses 28 and 29.]
@@ -100,7 +100,7 @@ From the overall situation of this verse — which is Āyat al-Kursī — this m
 
 The other verse is in Sūrat Maryam; we have selected from Sūrat Maryam, verse 88 onward:
 
-[.verse,quran,surah="Maryam",s=19,a="88"]
+[role="verse quran",surah="Maryam",s=19,a="88"]
 [quote]
 ____
 *Qur'an, Sūrat Maryam (19:88):* "And they said, 'The Most Merciful has taken a son.'"
@@ -108,7 +108,7 @@ ____
 
 They said that the Merciful God has chosen a son for Himself. The disbelievers have voiced this claim in various forms: the Christians in one way, the Jews in another, the polytheists of Quraysh and the polytheists of Arabia in another, the polytheists of other places in yet another. Some said God has a daughter; some said He has a son; some said He has a daughter and a son; some said He has one; some said He has an infinite number — He has a household! In any case, they said: _Ittakhadha al-Raḥmānu waladā_ — God has a child. From what angle did they say "He has a child"? Note this point carefully: that God having a child — which was claimed by a group of polytheists, or Christians, or Jews — meant that among the creatures of the universe, among the beings, there is one individual whose relation to God is not the relation of being a servant — note this carefully — but the relation of being a child. He is a young lord's son, not a bondsman; though he is not the lord himself. The Jews, who used to say _ʿUzayr ibn Allāh_ — that is, the prophet ʿUzayr is the son of God — wanted to say that, even if all the beings of the universe are servants and thralls of God, ʿUzayr is outside this category; he is no longer a servant of God, he is the young lord's son of God, the light of the eye of God. The Christians, too, who voiced this claim concerning the Messiah; and the disbelievers, too, who said concerning al-Lāt, Manāt, and al-ʿUzzāfootnote:s08-15[In verses 19 and 20 of Sūrat al-Najm, the names of these three idols of the polytheists are mentioned.] that these are the daughters of God; and the polytheists of Greece and Rome, who likewise held that God had numerous god-sons and lordly sons — all of them held this same view. That is, in reality, these two ranks that we have considered — one the rank of God, and one the rank of all the servants and beings, all of whom are humbled before God — these two ranks they were turning into three ranks. They said: God; the servants; and the elite [a class in between] — a child, a young lord's son, a god-son, something. The verses of Sūrat Maryam negate this matter. Pay close attention to the verses through to the end.
 
-[.verse,quran,surah="Maryam",s=19,a="88-91"]
+[role="verse quran",surah="Maryam",s=19,a="88-91"]
 [quote]
 ____
 *Qur'an, Sūrat Maryam (19:88–91):* "And they said, 'The Most Merciful has taken a son.' Surely you have brought forth a monstrous, grievous thing. The heavens are nearly torn apart by it, and the earth split asunder, and the mountains brought down in collapse — that they should ascribe a son to the Most Merciful."
@@ -118,7 +118,7 @@ _Wa-qālū ittakhadha al-Raḥmānu waladā_ — they said that the Merciful God
 
 It is plain that the matter is very grave. God is not such that some obscenity, some bad word, would offend Him; the Lord of the universe is not subject to feelings. That which He gives to the people as a belief is that which has a part in securing the divine aims. And that which He negates as a corrupt belief is that which, believing in it, has a part in securing the corruption of society. The negation of a corrupt belief means the negation of a vein of corruption in human society. And the belief that God has offspring — has a god-son and a lordly son, has a child — the belief in an intermediary between God and humankind, a separating link, this belief has corrupting effects in society, the corruptions of which, of course, will become clear gradually in the course of the tawhidi discussions. This is, in reality, a pretext for the servants, besides becoming the servant of God, to become the servant of yet another as well.
 
-[.verse,quran,surah="Maryam",s=19,a="92-94"]
+[role="verse quran",surah="Maryam",s=19,a="92-94"]
 [quote]
 ____
 *Qur'an, Sūrat Maryam (19:92–94):* "And it does not befit the Most Merciful that He should take a son. There is none in the heavens and the earth but that he comes to the Most Merciful as a servant. He has indeed counted them and numbered them, numbering."

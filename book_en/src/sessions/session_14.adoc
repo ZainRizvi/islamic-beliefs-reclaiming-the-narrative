@@ -4,7 +4,7 @@
 [.session-subtitle]
 _فلسفۀ نبوت — delivered Wednesday, 10 Mehr 1353 / 15 Ramaḍān al-Mubārak 1394_
 
-[.verse,quran,surah="al-Jumuʿah",s=62,a="2"]
+[role="verse quran",surah="al-Jumuʿah",s=62,a="2"]
 [quote]
 ____
 *Qur'an, Sūrat al-Jumuʿah (62:2):* "He it is who raised up among the unlettered a Messenger from among themselves, who recites to them His verses, purifies them, and teaches them the Book and wisdom — though before that they had been in manifest error — and [He raised him] also for others among them who have not yet joined them. He is the Mighty, the Wise."footnote:s14-jumuah-blessed[Sūrat al-Jumuʿah, the Blessed [Sūrah], verse 2.]
@@ -16,7 +16,7 @@ Of course, in the field of prophethood there is a series of discussions that are
 
 Concerning the discussion of prophethood: it is true that the question of how much divine knowledge or human knowledge a prophet possesses is itself a discussion; or the question of knowing whether our Prophet — who did not write and did not read, as the eloquent Qur'an states:
 
-[.verse,quran,surah="al-ʿAnkabūt",s=29,a="48"]
+[role="verse quran",surah="al-ʿAnkabūt",s=29,a="48"]
 [quote]
 ____
 *Qur'an, Sūrat al-ʿAnkabūt (29:48):* "And you did not write any book with your right hand, otherwise the falsifiers would surely have fallen into doubt."footnote:s14-ankabut[Sūrat al-ʿAnkabūt, the Blessed Sūrah / verse 48: "And you would not write any book with your right hand, otherwise the falsifiers would certainly have fallen into doubt."]
@@ -30,7 +30,7 @@ The first matter that we discuss concerning prophethood is the philosophy of pro
 
 Concerning the philosophy of prophethood we will not speak much; it is one word, and that one word is this: that the senses of man, the instincts of man, and the intellect of man fall short of guiding and taking the hand of man. One word. A series of creatures can be managed by their senses. Some animals we perhaps know to be of this sort, that they draw only upon their own senses — the outward senses. Most kinds of animals draw on their instincts in order to be guided; that is, the honeybee's instinct tells it: go and alight upon the flower, upon the fragrant flower, and suck from its perfume and its essence; then go to the house, the hive; build the houses in that six-cornered, hexagonal footnote:s14-hexagonal[(s-d-s) six-sided, hexagonal.] form; and there, with certain arrangements, enter the houses and exit; and have a queen and helpers footnote:s14-helpers[(ʿ-w-n) helpers, companions.] and guards — in short, a bee civilization. If you imagine that one day the bees sat down together and a great conference of the chiefs of the bees of the hives or regions was convened, and they said, "How is it better for us to build the house?" — one said octagonal, one said square, one said hexagonal; then they studied it and saw, no, the hexagonal is more suitable — if you imagine it happened this way, I must say you have made a mistake. No such situation occurred.
 
-[.verse,quran,surah="al-Naḥl",s=16,a="68-69"]
+[role="verse quran",surah="al-Naḥl",s=16,a="68-69"]
 [quote]
 ____
 *Qur'an, Sūrat al-Naḥl (16:68–69):* "And your Lord revealed to the honeybee: Take houses for yourselves in the mountains, and in the trees, and in what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord, in humble obedience."footnote:s14-nahl[Sūrat al-Naḥl, the Blessed Sūrah / verses 68 and 69: "And your Lord revealed to the honeybee: make houses for yourself from some of the mountains, and from some of the trees, and from what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord in humble obedience."]
@@ -54,7 +54,7 @@ So the prophets, with the force of revelation that they have, do not go to war a
 
 When the human intellect and the experience of human knowledge recognizes alcohol, knows the harms of alcohol, understands its blow and injury to the body, to the nerves, to the spirit, and to the general condition of society — why should I not be able and not have the courage to recite the verse of the Qur'an with power?
 
-[.verse,quran,surah="al-Māʾidah",s=5,a="90"]
+[role="verse quran",surah="al-Māʾidah",s=5,a="90"]
 [quote]
 ____
 *Qur'an, Sūrat al-Māʾidah (5:90):* "Indeed, wine, gambling, idols, and divining-arrows are an abomination from the work of Satan, so avoid it."footnote:s14-maidah[Sūrat al-Māʾidah, the Blessed Sūrah / verse 90.]
@@ -64,7 +64,7 @@ Why should I not raise the verse of the Qur'an? Why should I not appeal to what 
 
 That which you have heard that Imam al-Sajjād, may God's blessings and peace be upon him, said — "The religion of God is not attained by the intellects" (dīn Allāh lā yuṣābu bi-l-ʿuqūl)footnote:s14-hadith30[Hadith no. 30.] — its meaning is something else. That is, the divine creed cannot be discovered by reason. What does "cannot be discovered" mean? It means that if you have no narration (riwāyah) telling you that the noon prayer is four cycles, you cannot understand by reason that the noon prayer is four cycles — and this is a very correct point too. If the Qur'an itself does not state the time of prayer:
 
-[.verse,quran,surah="al-Isrāʾ",s=17,a="78"]
+[role="verse quran",surah="al-Isrāʾ",s=17,a="78"]
 [quote]
 ____
 *Qur'an, Sūrat al-Isrāʾ (17:78):* "Establish the prayer from the declining of the sun until the darkness of the night, and the Qur'an of dawn (the dawn prayer and its supererogatory prayer)."footnote:s14-isra[Sūrat al-Isrāʾ, the Blessed Sūrah / verse 78: "From the first declining of the sun until the utmost darkness of the night (until its midpoint) establish the prayer, and also the Qur'an of dawn (the dawn prayer and the supererogatory prayer of dawn)."]
@@ -78,19 +78,19 @@ In sum, keep this word in mind: the summary of the discussion comes to this, tha
 
 Because it is so — because we are deficient, because human knowledge and insight are not sufficient for our guidance — a hand must come out from the unseen and guide us. The place for a hand to come out from the unseen is here, not there where, when I have gone a little hungry, I do not go after a morsel of bread but wait for a hand to come out from the unseen. No — it is not for the place where, when I am confronted with a sin, I content myself with regret and sorrow and grief and wait for a hand to come out from the unseen for me; no — it is not for the place where I do not perform my divine duty, do not enjoin good, do not forbid evil, do not tread the path of God, and wait for a hand to come out from the unseen and do something footnote:s14-hafez["The city is empty of lovers; perhaps from some quarter / A hand may come out from the unseen and do something" (Ḥāfiẓ).] — contrary to the verse of the Qur'an:
 
-[.verse,quran,surah="al-Māʿūn",s=107,a="1-3"]
+[role="verse quran",surah="al-Māʿūn",s=107,a="1-3"]
 [quote]
 ____
 *Qur'an, Sūrat al-Māʿūn (107:1–3):* "Have you seen the one who denies the Religion? That is the one who drives away the orphan and does not urge the feeding of the needy."footnote:s14-maun[Sūrat al-Māʿūn, the Blessed Sūrah / verses 1 to 3.]
 ____
 
-[.verse,quran,surah="al-Muddaththir",s=74,a="43-44"]
+[role="verse quran",surah="al-Muddaththir",s=74,a="43-44"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muddaththir (74:43–44):* "[They will say:] We were not among those who prayed, nor did we feed the needy."footnote:s14-muddaththir1[Sūrat al-Muddaththir, the Blessed Sūrah / verses 43 and 44.]
 ____
 
-[.verse,quran,surah="al-Muddaththir",s=74,a="46"]
+[role="verse quran",surah="al-Muddaththir",s=74,a="46"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muddaththir (74:46):* "And we used to deny the Day of Judgment."footnote:s14-muddaththir2[Sūrat al-Muddaththir, the Blessed Sūrah / verse 46.]
@@ -106,7 +106,7 @@ What is the starting point of the work of the prophets? From where do they begin
 
 The verses that exist in this field are very pithy and very meaningful verses. My first thought was to explain in detail today this very verse that I am now reciting; then I saw that if I wished to explain it, besides the fact that the matter about prophethood that I wished to say would remain unsaid — it might be put off to tomorrow or the day after — I cannot fully explain even the meaning of this verse in this one hour. It is very interesting; of course I refer the good minds and thought of the friends to be sure to consult and look at this verse in the light of the Qur'an,footnote:s14-taleqani[A reference to _In the Light of the Qur'an_ (_Partuvī az Qurʾān_), a commentary (tafsīr) written by Ayatollah Ṭāleqānī.] for there is a relatively good discussion in that field there. I will content myself with only a brief translation.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213):* "Mankind was one community (ummah)."footnote:s14-baqarah[Sūrat al-Baqarah, the Blessed Sūrah / verse 213.]
@@ -118,7 +118,7 @@ The people were all one ummah and one group. About this the commentators have an
 
 So human beings, naturally and ordinarily, were one community (ummah wāḥidah), with identical needs, with equal and similar capacities, which we have specified in the translation.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "So God sent the prophets" (fa-baʿatha Llāhu l-nabiyyīn).
@@ -126,7 +126,7 @@ ____
 
 Among these human beings of equal capacities, God the Exalted raised up the prophets. Among these of the same level, the Lord of the worlds singled out one human being — higher, stronger, deeper, more ardent, and of greater capacity — and raised him up. To do what? "as bearers of glad tidings" (mubashshirīn) — bringers of good news — "and warners" (wa mundhirīn) — and givers of warning. Of what do the prophets give glad tidings? They give the glad tidings of Paradise, they give the glad tidings of the felicity of this world, they give the glad tidings of the ideal city, they give the glad tidings of the establishment of security and peace and welfare, they give the glad tidings of the disappearance of poverty and despair and fear and insecurity and ignorance; they are bringers of glad tidings; and at last they give human beings the glad tidings of the establishment of a virtuous government and a righteous city, and after that the glad tidings of going to Paradise and connection to the good pleasure (riḍwān) of the Lord — they give glad tidings. And they are warners; they frighten — they frighten of the fire of Hell too, they frighten of the narrowness of the bridge of Ṣirāṭ too, they frighten of the wretchedness of this world too, they frighten of the domination of the demon footnote:s14-demon[An ugly and frightful being; in common parlance applied to satans and jinn.] of ignorance and poverty too, they frighten of the fall into the valley and the slope of corruption too, they frighten of the destruction of the human capacities too; they are bringers of warning, they are warners.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "So God sent the prophets as bearers of glad tidings and warners, and He sent down with them the Book with the truth" (wa anzala maʿahum al-kitāba bi-l-ḥaqq).
@@ -134,7 +134,7 @@ ____
 
 It is not all just that they should say "People, fear" and "People, glad tidings be to you." What do you have with you? A book from the side of the Lord. He sent down with them a book by the truth, in accordance with the truth. I have explained "the truth" (ḥaqq) several times (now I can no longer explain it; I think that if I wished to explain "the truth" again, I would have to speak about that point alone for some ten or twelve minutes). In sum, that which conforms with the nature (fiṭrah) of the world, that which accompanies the natural course of the world — that is the truth. That which conforms with the nature of man and the disposition of the universe — that they call the truth. The book of the prophets too is the truth; it drives man forward on his natural path, on his innate course, on his ordinary bed and evolutionary course; it advances him, aids him. The book of the prophets carries the truth with it.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "He sent down with them the Book with the truth, that it might judge among the people concerning that wherein they differed" (li-yaḥkuma bayna l-nāsi fīmā ikhtalafū fīhi).
@@ -142,7 +142,7 @@ ____
 
 Until that book — "that it might judge" (li-yaḥkuma); that is, until the book judges among the people, in those things about which they differ with one another. After all, people are not free of difference; differences among human beings are a custom (sunnah), and their existence is necessary, and their absence is harmful. Know this: the existence of difference is good, for the reason that difference is a cause of evolution. In the matter of differences — of course this thing I said, that its absence is harmful, in this word I must reconsider; I do not know whether it is harmful or not. At any rate, I must elaborate and interpret. Its existence at any rate is beneficial; "its absence is harmful," I do not know — I take that statement back. The book comes to judge among the people, to render judgment, to rule, concerning the things about which they have differed. What do we understand here? We understand that the government which the prophets bring into being is not the government of the individual prophet, the government of a person, the government of despotism; rather, it is the government of law, the government of the Book. When the prophet comes, he makes a society in which the ruler in that society, in meaning and in reality, is that very book — that is, the law.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "that it might judge among the people concerning that wherein they differed. And none differed concerning it except those who were given it" (wa mā ikhtalafa fīhi illā lladhīna ūtūhu).
@@ -150,7 +150,7 @@ ____
 
 Concerning this book no difference arose; they did not differ — "except those who were given it," except those people to whom the book had been given, those people for whom this very heavenly book came; they themselves differed concerning the heavenly book. What does this show us? It shows the existence of distortion (taḥrīf) in the heavenly religions, among the sayings of the prophets. When the prophets came, they brought the book, the law, the school; then those very people to whom this book and law and school had been given differed about it. They differed — meaning what? Meaning that one type spoke the truth, and one type spoke contrary to fact. So therefore there are those who are followers of a religion and who speak the word of religion, but speak contrary to fact — an allusion to the existence of abrogation (naskh) and distortion (taḥrīf) in the religions.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "after the clear proofs had come to them, out of mutual envy" (min baʿdi mā jāʾathumu l-bayyinātu baghyan baynahum).
@@ -158,7 +158,7 @@ ____
 
 Out of enmity and transgression with one another.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "Then God guided those who believed to the truth concerning that wherein they differed, by His leave" (fa-hadā Llāhu lladhīna āmanū limā ikhtalafū fīhi mina l-ḥaqqi bi-idhnih).
@@ -166,7 +166,7 @@ ____
 
 Those people who are believers, who have inclined to the true religion — God guided them to the answer to that wherein they had differed, by His leave and permission.
 
-[.verse,quran,surah="al-Baqarah",s=2,a="213"]
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqarah (2:213) [continued]:* "And God guides whom He wills to a straight path" (wa Llāhu yahdī man yashāʾu ilā ṣirāṭin mustaqīm).
@@ -176,7 +176,7 @@ And God guides whomever He wills to the straight path. (This is one portion of t
 
 Let those who have a Qur'an with them bring Sūrat al-Jumuʿah, in the twenty-eighth part (juzʾ):
 
-[.verse,quran,surah="al-Jumuʿah",s=62,a="1"]
+[role="verse quran",surah="al-Jumuʿah",s=62,a="1"]
 [quote]
 ____
 *Qur'an, Sūrat al-Jumuʿah (62:1):* "In the name of God, the Most Merciful, the Most Compassionate. Whatever is in the heavens and whatever is in the earth glorifies God, the Sovereign, the Holy, the Mighty, the Wise."

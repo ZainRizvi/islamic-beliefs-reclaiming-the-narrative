@@ -4,7 +4,7 @@
 [.session-subtitle]
 _بهشت ولایت — delivered Sunday, 21 Mehr 1353 / 26 Ramadan al-Mubarak 1394_
 
-[.verse,quran,surah="al-Ḥajj",s=22,a="41"]
+[role="verse quran",surah="al-Ḥajj",s=22,a="41"]
 [quote]
 ____
 *Qur'an, Sūrat al-Ḥajj (22:41):* "[They are] those who, if We give them authority in the land, establish the prayer and pay the alms-due and enjoin what is right and forbid what is wrong; and to God belongs the final outcome of all affairs."footnote:s25-1[Sūrat al-Ḥajj (22:41). «الذین ان مکناهم فی الارض اقاموا الصلاة و آتوا الزکاة و امروا بالمعروف و نهوا عن المنکر و لله عاقبة الامور».]
