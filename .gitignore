@@ -1,0 +1,8 @@
+# Ignore everything by default
+/*
+
+# Track only the English book folder
+!/book_en/
+
+# Always keep this .gitignore tracked
+!/.gitignore
