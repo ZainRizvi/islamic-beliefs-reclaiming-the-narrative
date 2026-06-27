@@ -1,0 +1,101 @@
+# Asciidoctor PDF theme for the book — 6x9 trade paperback.
+# Fonts are resolved from the system dirs inside the Docker image (Noto Serif for
+# Latin + transliteration diacritics; Amiri for Arabic Qur'an text). The build
+# passes -a pdf-fontsdir="tools/theme/fonts;GEM_FONTS_DIR" plus the system dirs;
+# we register the absolute system paths here via the catalog using the system dir.
+
+extends: default
+
+font:
+  catalog:
+    merge: true
+    # Full Noto Serif (system) — has the diacritics the bundled subset lacks.
+    Noto Serif:
+      normal: /usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf
+      bold: /usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf
+      italic: /usr/share/fonts/truetype/noto/NotoSerif-Italic.ttf
+      bold_italic: /usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf
+    # Amiri — Arabic Qur'an verses.
+    Amiri:
+      normal: /usr/share/fonts/opentype/fonts-hosny-amiri/Amiri-Regular.ttf
+      bold: /usr/share/fonts/opentype/fonts-hosny-amiri/Amiri-Bold.ttf
+      italic: /usr/share/fonts/opentype/fonts-hosny-amiri/Amiri-Italic.ttf
+      bold_italic: /usr/share/fonts/opentype/fonts-hosny-amiri/Amiri-BoldItalic.ttf
+  fallbacks: [Amiri]
+
+page:
+  size: [6in, 9in]
+  margin: [0.7in, 0.65in, 0.75in, 0.65in]
+  margin-inner: 0.8in
+  margin-outer: 0.55in
+
+base:
+  font-family: Noto Serif
+  font-size: 10.5
+  line-height: 1.45
+  text-align: justify
+
+heading:
+  font-family: Noto Serif
+  font-style: bold
+  h1-font-size: 22
+  h2-font-size: 16
+  h3-font-size: 13
+  line-height: 1.2
+  margin-top: 12
+  margin-bottom: 6
+
+title-page:
+  align: center
+  title:
+    font-size: 26
+    margin-top: 2in
+  subtitle:
+    font-size: 14
+    font-style: italic
+
+# Verse / hadith quote blocks.
+quote:
+  font-style: italic
+  border-color: '#999999'
+  border-width: 0
+  border-left-width: 2.5
+  padding: [4, 12, 4, 14]
+  cite-font-size: 9
+
+footnotes:
+  font-size: 8.5
+  item-spacing: 2
+
+running-content:
+  start-at: after-toc
+
+header:
+  height: 0.6in
+  recto:
+    right:
+      content: '{chapter-title}'
+  verso:
+    left:
+      content: '{document-title}'
+  font-size: 8.5
+  font-style: italic
+  border-width: 0
+
+footer:
+  height: 0.6in
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+  font-size: 9
+
+toc:
+  indent: 14
+  line-height: 1.4
+
+index:
+  columns: 2
+  column-gap: 18
