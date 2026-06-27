@@ -49,25 +49,25 @@ prepare_render() {
 
 build_pdf() {
   require_src; prepare_render
-  echo ">> Rendering PDF -> build/Islamic-Beliefs-Reclaiming-the-Narrative.pdf"
+  echo ">> Rendering PDF -> build/pdf-Islamic-Beliefs-Reclaiming-the-Narrative.pdf"
   asciidoctor-pdf "${ext_flags[@]}" \
     -a pdf-theme="$ROOT/tools/theme/book-theme.yml" \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
+    -D "$OUT" -o "pdf-Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
 }
 
 build_epub() {
   require_src; prepare_render
-  echo ">> Rendering EPUB -> build/Islamic-Beliefs-Reclaiming-the-Narrative.epub"
+  echo ">> Rendering EPUB -> build/epub-Islamic-Beliefs-Reclaiming-the-Narrative.epub"
   asciidoctor-epub3 "${ext_flags[@]}" \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
+    -D "$OUT" -o "epub-Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
 }
 
 build_html() {
   require_src; prepare_render
-  echo ">> Rendering HTML -> build/Islamic-Beliefs-Reclaiming-the-Narrative.html"
+  echo ">> Rendering HTML -> build/html-Islamic-Beliefs-Reclaiming-the-Narrative.html"
   asciidoctor "${ext_flags[@]}" \
     -a toc=left -a sectnums \
-    -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.html" "$RENDER_SRC"
+    -D "$OUT" -o "html-Islamic-Beliefs-Reclaiming-the-Narrative.html" "$RENDER_SRC"
 }
 
 validate() {
