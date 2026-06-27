@@ -1,0 +1,8 @@
+# Keep the build context small and the image clean.
+build/
+*.pdf
+*.epub
+*.html
+.git/
+reviews/
+.DS_Store

@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+# AsciiDoc single-source toolchain for the book.
+# Pinned for reproducible builds across machines and CI.
+
+gem "asciidoctor", "~> 2.0"        # core: AsciiDoc -> HTML, DocBook
+gem "asciidoctor-pdf", "~> 2.3"    # native PDF (Prawn), with back-of-book index support
+gem "asciidoctor-epub3", "~> 2.3"  # EPUB3
+gem "rouge", "~> 5.0"              # source highlighting (if ever needed)
+
+# Used by our custom build/validation tooling under tools/.
+gem "rexml"                        # XML handling for DocBook-based checks

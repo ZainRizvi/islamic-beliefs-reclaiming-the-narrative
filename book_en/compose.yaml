@@ -1,0 +1,49 @@
+# Build commands for the book, run inside the reproducible Docker image.
+#
+# Usage:
+#   docker compose build              # build the toolchain image (once / on Gemfile change)
+#   docker compose run --rm pdf       # render the PDF
+#   docker compose run --rm epub      # render the EPUB
+#   docker compose run --rm html      # render standalone HTML
+#   docker compose run --rm validate  # run footnote/citation/index validators
+#   docker compose run --rm all       # validate, then render all formats
+#   docker compose run --rm shell     # interactive shell in the environment
+
+services:
+  # Base service the others extend: mounts the book dir, caches gems in a volume.
+  book: &book
+    build: .
+    image: islamic-beliefs-book:latest
+    working_dir: /book
+    volumes:
+      - .:/book
+      - bundle:/usr/local/bundle
+    # The main entry: src/ holds the AsciiDoc sources, build/ holds rendered output.
+    command: bash
+
+  shell:
+    <<: *book
+    command: bash
+
+  pdf:
+    <<: *book
+    command: bash tools/build.sh pdf
+
+  epub:
+    <<: *book
+    command: bash tools/build.sh epub
+
+  html:
+    <<: *book
+    command: bash tools/build.sh html
+
+  validate:
+    <<: *book
+    command: bash tools/build.sh validate
+
+  all:
+    <<: *book
+    command: bash tools/build.sh all
+
+volumes:
+  bundle:
