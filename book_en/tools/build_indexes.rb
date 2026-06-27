@@ -42,20 +42,26 @@ Dir.glob(File.join(SRC, '**', '*')).each do |path|
 end
 
 # Walk the COPIES, replace markers with anchors, collect (primary, sub, anchor).
+# Skip AsciiDoc line comments (// ...) so a marker shown literally in a doc
+# comment (e.g. the explanatory note in book.adoc) is not treated as real.
 entries = []   # [primary, sub, anchor]
 counter = 0
 Dir.glob(File.join(OUTDIR, '**', '*.adoc')).sort.each do |path|
   next if path.include?('/_generated/')
   text = File.read(path)
   next unless text =~ MARKER
-  text = text.gsub(MARKER) do
-    raw = Regexp.last_match(1)
-    primary, sub = raw.split('|', 2).map { |x| x.to_s.strip }
-    counter += 1
-    anchor = "concept-#{counter}"
-    entries << [primary, sub.to_s, anchor]
-    "[[#{anchor}]]"
+  lines = text.lines.map do |line|
+    next line if line.lstrip.start_with?('//')   # leave comment lines untouched
+    line.gsub(MARKER) do
+      raw = Regexp.last_match(1)
+      primary, sub = raw.split('|', 2).map { |x| x.to_s.strip }
+      counter += 1
+      anchor = "concept-#{counter}"
+      entries << [primary, sub.to_s, anchor]
+      "[[#{anchor}]]"
+    end
   end
+  text = lines.join
   File.write(path, text)
 end
 
