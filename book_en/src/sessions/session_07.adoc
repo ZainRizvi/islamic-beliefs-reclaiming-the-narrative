@@ -4,16 +4,11 @@
 [.session-subtitle]
 _نویدها ۲ — delivered Wednesday, 3 Mehr 1353 / 8 Ramaḍān al-Mubārak 1394_
 
-[.quranverse]
-****
-[.arabic]
-ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَـَٔابٖ
-
-"…those who believe and whose hearts find rest in the remembrance of God. Verily, in the remembrance of God do hearts find rest. Those who believe and do righteous deeds — blessedness is theirs, and a goodly return."
-
-[.verse-cite]
-— Sūrat al-Raʿd (13:28-29)
-****
+[role="verse quran",surah="al-Raʿd",s=13,a="28-29"]
+[quote]
+____
+*Qur'an, Sūrat al-Raʿd (13:28–29):* "…those who believe and whose hearts find rest in the remembrance of God. Verily, in the remembrance of God do hearts find rest. Those who believe and do righteous deeds — blessedness is theirs, and a goodly return."
+____
 
 We have stated that God the Exalted, in the Qur'an, gives the believers the glad tidings and the promise of every element of felicity.@@CX(Faith | God promises the believers every element of felicity)@@ Those things which we, at the level of thought and conception, identify as the elements of felicity — ten or twelve of which we set out in the previous written note and the previous recitation — all of these have been given to the believers in the Qur'an in the form of decisive promises. Two of those promises — guidance and light — we observed yesterday in the course of the noble verses of the Qur'an; they were recited, and we benefited from them. Two more we shall raise today, reading their verses briefly, and the rest we leave to you, my friends, so that, following the very order which I arranged in the previous note, you take up the subjects one by one. When you study the Qur'an and recite it — those of you who know Arabic, from the text of the Qur'an itself; those who do not know Arabic, with attention to a translation of the Qur'an — try to find those subjects.
 
@@ -21,40 +16,25 @@ For example, one of those subjects is the reward of the Hereafter — one of tho
 
 (One of those present: _wa antum al-aʿlawna in kuntum muʾminīn_.footnote:s07-1[Sūrat Āl ʿImrān (the blessed sūrah), verse 139.]) Very well, that was one verse — _wa lā tahinū wa lā taḥzanū wa antum al-aʿlawna in kuntum muʾminīn_ —
 
-[.quranverse]
-****
-[.arabic]
-وَلَا تَهِنُواْ وَلَا تَحۡزَنُواْ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِينَ
-
-"Do not lose heart and do not grieve, for you are the higher ones, if you are believers."
-
-[.verse-cite]
-— Sūrat Āl ʿImrān (3:139)
-****
+[role="verse quran",surah="Āl ʿImrān",s=3,a="139"]
+[quote]
+____
+*Qur'an, Sūrat Āl ʿImrān (3:139):* "Do not lose heart and do not grieve, for you are the higher ones, if you are believers."
+____
 
 Yes, this is a verse: that if indeed you are believers, you are superior; the upper hand, the stronger hand, is at your disposal in relation to your enemies.@@CX(Faith | victory and superiority over the enemy are promised to believers)@@ There are numerous other verses that give the promise and the glad tidings to the believers that they gain a decisive victory over the enemies and the opposing ranks:
 
-[.quranverse]
-****
-[.arabic]
-كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+[role="verse quran",surah="al-Mujādilah",s=58,a="21"]
+[quote]
+____
+*Qur'an, Sūrat al-Mujādilah (58:21):* "God has decreed: 'I shall surely prevail, I and My messengers.'"footnote:s07-2[Sūrat al-Mujādilah (the blessed sūrah), verse 21.]
+____
 
-"God has decreed: 'I shall surely prevail, I and My messengers.'"footnote:s07-2[Sūrat al-Mujādilah (the blessed sūrah), verse 21.]
-
-[.verse-cite]
-— Sūrat al-Mujādilah (58:21)
-****
-
-[.quranverse]
-****
-[.arabic]
-وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ
-
-"And verily Our host — they shall be the victors."footnote:s07-3[Sūrat al-Ṣāffāt (the blessed sūrah), verse 173.]
-
-[.verse-cite]
-— Sūrat al-Ṣāffāt (37:173)
-****
+[role="verse quran",surah="al-Ṣāffāt",s=37,a="173"]
+[quote]
+____
+*Qur'an, Sūrat al-Ṣāffāt (37:173):* "And verily Our host — they shall be the victors."footnote:s07-3[Sūrat al-Ṣāffāt (the blessed sūrah), verse 173.]
+____
 
 Verses of this kind are abundant. Keep these in mind. When you look at the Qur'an, when you study it, instead of making your aim to finish a _juzʾ_(((juzʾ))) or to finish a _sūrah_(((sūrah))), let your aim be to understand the Qur'an.@@CX(the Qur'an | aim of recitation is understanding, not finishing a juzʾ or sūrah)@@ As it is reported from the Imam, peace be upon him, or from the Prophet of God, may God's blessings be upon him and his family, that during the recitation of the Qur'an your concern should not be to finish the _sūrah_ or to finish the _juzʾ_.footnote:s07-4[Ḥadīth no. 36.] Whether it is finished or not, recite a single verse — with reflection, with care. See whether, in this verse, there is something of these promises which we have mentioned — the pillars and elements that are necessary and effective for attaining felicity — whether you find something of these elements in the Qur'an that has been promised to them. Has the glad tidings and the promise been given, or not? By this means I want you yourselves to refer to the Qur'an.
 
@@ -84,16 +64,11 @@ There is also a person who, when he has entered, when he has reached this road, 
 
 When this person, with this strong attraction, with this strong disposition, has entered a road and become occupied with traversing that road, then the attraction of wife and child and the other things — the beauties and the comforts and the pleasures and the delights and the merrymaking — no longer have any effect on him. Who is this person? This is the assured person:
 
-[.quranverse]
-****
-[.arabic]
-يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ
-
-"O soul at peace! Return to your Lord, well-pleased and pleasing."footnote:s07-8[Sūrat al-Fajr (the blessed sūrah), verses 27 and 28: "O soul at peace! ✷ Return to your Lord, while you are well-pleased with Him and He is well-pleased with you."]
-
-[.verse-cite]
-— Sūrat al-Fajr (89:27-28)
-****
+[role="verse quran",surah="al-Fajr",s=89,a="27-28"]
+[quote]
+____
+*Qur'an, Sūrat al-Fajr (89:27–28):* "O soul at peace! Return to your Lord, well-pleased and pleasing."footnote:s07-8[Sūrat al-Fajr (the blessed sūrah), verses 27 and 28: "O soul at peace! ✷ Return to your Lord, while you are well-pleased with Him and He is well-pleased with you."]
+____
 
 The one who can traverse the road of God to the end, and attain the resting-place and the intended purpose and destination, is the one who is assured — in whom there is the state of assurance and repose. Assurance means this: that an attraction draws him; the attraction of faith, the attraction of love for God, the attraction of love for the goal, captivates him so and draws him toward itself so that all the other attractions appear to him empty and absurd — empty and absurd. The meaning is not that the earth, with this immensity, whose gravity draws every body toward itself — that this should not exist. But suppose then that some body, some mountain — even Mount Himalaya, even the greatest mountains of the world — should also display itself; a stone that you fling, should Mount Himalaya draw it toward itself? No. Mount Himalaya has gravity, but in the face of the earth's gravity, its gravity is zero, it is neutralized, it does not act. Mount Himalaya, and any body of that magnitude, exerts its effect and draws smaller objects toward itself only where there is no greater body, like the earth, beside it. When the earth's gravity is present, the gravity of Mount Himalaya is nothing.
 
@@ -103,59 +78,39 @@ I only want to explain these two or three words. Assurance — so what does assu
 
 Next, the second word is _sukūn_ (repose). _Sukūn_, too, has this very meaning.
 
-[.quranverse]
-****
-[.arabic]
-ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ
-
-"Then God sent down His _sakīnah_ (tranquility) upon His Messenger…"footnote:s07-9[Sūrat al-Tawbah (the blessed sūrah), verse 26.]
-
-[.verse-cite]
-— Sūrat al-Tawbah (9:26)
-****
+[role="verse quran",surah="al-Tawbah",s=9,a="26"]
+[quote]
+____
+*Qur'an, Sūrat al-Tawbah (9:26):* "Then God sent down His _sakīnah_ (tranquility) upon His Messenger…"footnote:s07-9[Sūrat al-Tawbah (the blessed sūrah), verse 26.]
+____
 
 God sent down _sakīnah_ upon the Prophet. In five or six places of the Qur'an this expression occurs, one of which is among these very verses that I think we shall now read. Of those verses that pertain to the _sakīnah_ of the self — it seems that, unfortunately, I have brought nothing here. (Because, since time is so short and space is so short and our resources, too, are truly meager, I keep thinking that if I bring two more verses, these two pages will become three pages — how are we to mimeograph this? You understand! Our resources in these matters are this scant and weak. I say this so that you know that if the print of this has come out faint, you should know that, had it not come out faint, it would not have come out at all! Suppose, for example, that our situation is now like this: we cannot easily and conveniently provide even two ordinary sheets of paper. Otherwise, I gathered all these verses pertaining to security and assurance and _sakīnah_; I took pains to gather them, it is much trouble too — searching and finding them is very difficult; at the least a person must search and work for one or two hours just to find the verses, let alone drawing the conclusions. Even though I gathered the verses, I was always troubled by this: that if we were to bring two more verses, this one and a half pages would become two and a half or three pages, and mimeographing that would be a difficult task. See our resources — I want you to bear this in mind, that our resources are this degree of weak.)
 
 In any case: there are five or six verses in the Qur'an that concern _sakīnah_ at critical moments. For example, one is in the Battle of Ḥunayn.footnote:s07-10[One of the battles of the Noble Prophet, which occurred after the conquest of Mecca.] In the Battle of Ḥunayn(((Ḥunayn, Battle of))), after the Prophet's troops, on account of an unwarranted pride, on account of becoming conceited about their own force and thinking that today no one would gain victory over them — and according to the way of God, that a conceited person must fall flat on his face, and that every conceited group must become heedless and take a blow; constant alertness and sensitivity are necessary for every person and every community and every nation, such that the Commander of the Faithful(((Commander of the Faithful))), may God's blessings be upon him, said, "I am not like that dazed, dumb animal that is put to sleep with a lullaby, in _Nahj al-Balāghah_: _wa-Allāhi lā akūnu kal-ḍibʿi tanāmu ʿalā ṭūl al-ladm_ —footnote:s07-11[Ḥadīth no. 13. (From _Nahj al-Balāghah_: "By God, I am not like the hyena that sleeps to the long [coaxing of those who hunt it].")] with lullabies, like the hyena: they go to its den and sing it lullabies; this makes it fall asleep, then they catch it. He says: I am not the sort to be put to sleep with a lullaby and become heedless — I am constantly alert, and it is the way of God that a person who is not constantly alert is bound to see and take the blow."@@CX(taqwā | constant alertness is the law of God; conceit breeds heedlessness and defeat)@@ These people became heedless on the field of battle, and they had reason to:
 
-[.quranverse]
-****
-[.arabic]
-لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ
-
-"…when your great numbers pleased you, but they availed you nothing."footnote:s07-12[Sūrat al-Tawbah (the blessed sūrah), verses 25 and 26.]
-
-[.verse-cite]
-— Sūrat al-Tawbah (9:25-26)
-****
+[role="verse quran",surah="al-Tawbah",s=9,a="25-26"]
+[quote]
+____
+*Qur'an, Sūrat al-Tawbah (9:25–26):* "…when your great numbers pleased you, but they availed you nothing."footnote:s07-12[Sūrat al-Tawbah (the blessed sūrah), verses 25 and 26.]
+____
 
 They were many, and this being-many of the host brought them to wonder, brought them to amazement. Wonder! Are we all this multitude? "But it availed you nothing" — this very pride of yours caused you to be heedless in the war and to be defeated.@@CX(taqwā | reliance on numbers and self-conceit brings heedlessness and defeat)@@ After they were defeated by the enemy — yet not a decisive and final defeat, a partial breaking — they immediately came to themselves. A number of good soldiers, a number of steadfast, seriously believing commanders — the Commander of the Faithful and a few others — with every effort and exertion, finally turned back the troops, who were being routed. Then, there, the Lord says:
 
-[.quranverse]
-****
-[.arabic]
-ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ
-
-"Then God sent down His _sakīnah_ upon His Messenger."
-
-[.verse-cite]
-— Sūrat al-Tawbah (9:26)
-****
+[role="verse quran",surah="al-Tawbah",s=9,a="26"]
+[quote]
+____
+*Qur'an, Sūrat al-Tawbah (9:26):* "Then God sent down His _sakīnah_ upon His Messenger."
+____
 
 God returned to you the peace and the _sakīnah_ of the spirit — peace, _sakīnah_.
 
 One instance is at the time when, beneath that tree, the Muslims renewed their allegiance to the Prophet.footnote:s07-13[This renewal of allegiance, which took place during the episode of the Truce of Ḥudaybiyya, became known as the Bayʿat al-Riḍwān (the Pledge of Riḍwān). Verse 18 of Sūrat al-Fatḥ (the blessed sūrah) refers to this pledge: "Indeed God was well-pleased with the believers when they pledged allegiance to you beneath the tree; He knew what was in their hearts, so He sent down tranquility (_sakīnah_) upon them and rewarded them with a near victory." — truly, God was well-pleased with the believers when they pledged allegiance to you beneath that tree, and He recognized what was in their hearts and sent down upon them tranquility and rewarded them with a near victory.] One instance is for the time when the Prophet had fled from Mecca(((Mecca))) toward Medina(((Medina))), with the aim of forming the Islamic society, with the plan of dangerous decisions for the unbelievers and the enemies, with a thousand resolves and powerful determinations, with a thousand thoughts.@@CX(hijrah | the Prophet's migration aimed at forming the Islamic society)@@ The Prophet has come out, and he must convey himself to Medina; the condition for the realization of all those aims and those thoughts, those plans of the Prophet, is that the Prophet arrive safely in Medina. Otherwise, if the unbelievers were able to kill him on the road, to destroy him, none of those visions would take the form of occurrence. The Prophet has taken refuge in a cave, and there too God says:
 
-[.quranverse]
-****
-[.arabic]
-إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
-
-"…so God sent down His _sakīnah_ upon him."footnote:s07-14[Sūrat al-Tawbah (the blessed sūrah), verse 40.]
-
-[.verse-cite]
-— Sūrat al-Tawbah (9:40)
-****
+[role="verse quran",surah="al-Tawbah",s=9,a="40"]
+[quote]
+____
+*Qur'an, Sūrat al-Tawbah (9:40):* "…so God sent down His _sakīnah_ upon him."footnote:s07-14[Sūrat al-Tawbah (the blessed sūrah), verse 40.]
+____
 
 God sent down His _sakīnah_ and peace upon the heart of the Prophet in that critical situation. And there are several other instances. The believer possesses _sakīnah_; _sakīnah_(((sakīnah))) means this. So _sakīnah_, peace, repose of the self — again, it does not mean the absence of movement and falling asleep and becoming heedless.@@CX(Iṭmīnān | sakīnah is God-given repose of the self, not inertia or heedlessness)@@
 
@@ -163,216 +118,141 @@ And the last phrase and the last word — security. Of course, it is evident tha
 
 The verse of Sūrat al-Raʿd, verses 28 and 29 — two short verses:footnote:s07-15[Please refer to the mimeographed sheet at the end of the session.]
 
-[.quranverse]
-****
-[.arabic]
-ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ
-
-"…those who believe, and whose hearts find rest in the remembrance of God."
-
-[.verse-cite]
-— Sūrat al-Raʿd (13:28)
-****
+[role="verse quran",surah="al-Raʿd",s=13,a="28"]
+[quote]
+____
+*Qur'an, Sūrat al-Raʿd (13:28):* "…those who believe, and whose hearts find rest in the remembrance of God."
+____
 
 Of course, the verse is perhaps a continuation of the previous verses, but mentioning the previous verses would take a little long. "Those who believe, and whose hearts find rest" — those who brought faith and whose hearts found peace — "in the remembrance of God" — in the remembrance of God. See, this remembrance of God is that very strong attraction. That same strong attraction that I said erases the small attractions, neutralizes their effect — this is precisely _dhikr Allāh_(((dhikr Allāh))) (the remembrance of God).@@CX(dhikr Allāh | remembrance of God is the strong attraction that gives the heart rest)@@ Why did they place such great emphasis on the prayer (_ṣalāt_)(((prayer, ṣalāt)))? Why did they say that if the prayer is not accepted, the other deeds are not accepted? Why have they said that Mecca [the pilgrimage](((pilgrimage, ḥajj))) is once in a lifetime, fasting once a year, _zakāt_(((zakāt))) for a specific case, _khums_(((khums))) likewise, and the rest of the acts of worship likewise — but the prayer they have said is every day, and that five times a day, and if you do more, it is better? Why have they said this? Because the prayer — I have spoken about the prayer in detail over several sessions; some of the honored attendees may remember — the prayer is a capsule of the remembrance of God. The prayer, from head to foot, is _dhikr Allāh_.@@CX(prayer | ṣalāt is a capsule of the remembrance of God)@@ That is why the Qur'an itself, after it says:
 
-[.quranverse]
-****
-[.arabic]
-ٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَۖ إِنَّ ٱلصَّلَوٰةَ تَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۗ وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ وَٱللَّهُ يَعۡلَمُ مَا تَصۡنَعُونَ
-
-"Surely the prayer restrains from indecency and wrongdoing…"footnote:s07-16[Sūrat al-ʿAnkabūt (the blessed sūrah), verse 45.]
-
-[.verse-cite]
-— Sūrat al-ʿAnkabūt (29:45)
-****
+[role="verse quran",surah="al-ʿAnkabūt",s=29,a="45"]
+[quote]
+____
+*Qur'an, Sūrat al-ʿAnkabūt (29:45):* "Surely the prayer restrains from indecency and wrongdoing…"footnote:s07-16[Sūrat al-ʿAnkabūt (the blessed sūrah), verse 45.]
+____
 
 — that the prayer forbids and restrains from indecency and wrongdoings — follows it with: "and the remembrance of God is greater" (_wa la-dhikru Allāhi akbar_). The remembrance of God is higher. This aspect and this dimension of the prayer is more important — that it is the remembrance of God; this is higher; the greatest property of the prayer is this. And the property of _dhikr Allāh_ is this: the remembrance of God, attention to God, ever seeing God, knowing Him, considering Him present with oneself — one of its important properties is this: that it keeps this heart away from agitations, from temptations, from anxieties, from the various attractions, in every undertaking, on every road. This heart finds peace.@@CX(dhikr Allāh | keeps the heart free of agitation, temptation, and anxiety)@@ Like a weight placed upon a boat of that sort, which makes it a little heavier, reduces a little of its movement and agitation. This is _dhikr Allāh_.
 
 "Those who believe" — those who… (allow me to read the translation from this very note, so that there is again opportunity for you to correct it) — those who brought faith, and whose hearts attained steadiness and assurance through the remembrance of God — I deliberately brought in here the word "steadiness," that is, that state of calm — are guided toward God. This "are guided toward God" I wrote in parentheses; why? Because, as I stated, the verse is connected to what precedes, and in the previous verse it was said that they are guided toward God: "and He guides to Himself whoever turns" — those who believe — to the end of the verse. Therefore the "are guided" that we wrote in parentheses — "are guided toward God" — this translation is with attention and regard to the previous verse, where the guidance of this group is derived from the previous verse.
 
-[.quranverse]
-****
-[.arabic]
-ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ
-
-"Surely, by the remembrance of God do hearts find rest."
-
-[.verse-cite]
-— Sūrat al-Raʿd (13:28)
-****
+[role="verse quran",surah="al-Raʿd",s=13,a="28"]
+[quote]
+____
+*Qur'an, Sūrat al-Raʿd (13:28):* "Surely, by the remembrance of God do hearts find rest."
+____
 
 — indeed, by means of the remembrance of God, hearts take on tranquility and steadiness. The remembrance of God has this astonishing property, and you see how effective tranquility and repose and steadiness are for the success of a person. The believer has this distinction; he enjoys this astonishing spiritual capacity. Its continuation:
 
-[.quranverse]
-****
-[.arabic]
-ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَـَٔابٖ
-
-"Those who believe and do righteous deeds — blessedness is theirs, and a goodly return."
-
-[.verse-cite]
-— Sūrat al-Raʿd (13:29)
-****
+[role="verse quran",surah="al-Raʿd",s=13,a="29"]
+[quote]
+____
+*Qur'an, Sūrat al-Raʿd (13:29):* "Those who believe and do righteous deeds — blessedness is theirs, and a goodly return."
+____
 
 — those who brought faith and did good works, "blessedness is theirs, and a goodly return." (Of course, here again is a translation that I myself brought in this sheet; allow me to read it.) Those who brought faith and did righteous deeds — righteous deed meaning that they carried out the necessary commitments commensurate with faith — blessed be their today, and goodly be their morrow. This is a conclusionfootnote:s07-17[_muḥaṣṣal_ (root: ḥ-ṣ-l): that which has been concluded; a drawn-out result.] that I drew from "blessedness is theirs, and a goodly return"; its translation differs a little from this sentence that I have written, but in summary and as a drawn conclusion it is this: their today good, their tomorrow too good; their world goodly, their Hereafter too goodly. And the reality, too, is just this. The believing society — and that, a believer who acts upon the commitments of faith — its world too is flourishing, its Hereafter too is flourishing; its world too is paradise, its Hereafter too is paradise.@@CX(Faith | the believer who acts on faith flourishes in this world and the Hereafter)@@ This is one verse.
 
 Then we wrote a short commentary here, all of which I no longer wish to read now. The discussion is the disputation of Abraham(((Abraham))) with his people. Abraham, the Friend of the Merciful and the herald of monotheism in olden and ancient times, used to dispute and arguefootnote:s07-18[_mujādalah_ (root: j-d-l): to dispute, to wrangle; _muḥājjah_ (root: ḥ-j-j): to bring forth a proof/argument.] with his own people and his own folk.@@CX(Tawhid | Abraham was the herald of monotheism who disputed with his idolatrous people)@@ They would argue with him, and he would argue with them and give answers to their words. The Qur'an narrates and recalls this disputation. It says, "And his people disputed with him"footnote:s07-19[Sūrat al-Anʿām (the blessed sūrah), verses 80 to 82.] — and his people, the people of Abraham, took to disputing with him, took to arguing with him. The Qur'an does not say what they said, how they argued with him, what their words were; but from the answer that Abraham gave them, which the Qur'an narrates, one guesses what their words were. I will first read the answer; then you yourselves guess what they were saying to Abraham.
 
-[.quranverse]
-****
-[.arabic]
-وَحَآجَّهُۥ قَوۡمُهُۥۚ قَالَ أَتُحَـٰٓجُّوٓنِّي فِي ٱللَّهِ وَقَدۡ هَدَىٰنِۚ وَلَآ أَخَافُ مَا تُشۡرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّي شَيۡـٔٗاۚ وَسِعَ رَبِّي كُلَّ شَيۡءٍ عِلۡمًاۚ أَفَلَا تَتَذَكَّرُونَ
-
-"He said: Do you dispute with me concerning God…"footnote:s07-20[Sūrat al-Anʿām (the blessed sūrah), verses 80 to 82.]
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:80)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="80"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:80):* "He said: Do you dispute with me concerning God…"footnote:s07-20[Sūrat al-Anʿām (the blessed sūrah), verses 80 to 82.]
+____
 
 When they took to disputing and arguing with Abraham, "He said: Do you dispute with me concerning God?" — do you argue with me about God? — "while He has guided me" — whereas God has guided me; that is, I am clear, I have no doubt in my own road, that you might wish to exploit that doubt of mine and, with argument and dispute, turn me back from my road. "And He has guided me" — I have been guided; I have found the way, I am clear, I know what I am doing — "and I do not fear what you associate with Him, except that my Lord should will something" — and from what you have set up as partners to God, I have no fear at all, save that God should will something concerning me; that is, in truth, I fear God. From the events that God may place on my road, and from the future that God may intend for me, I am apprehensive, and that is all; but of those things which you have set up as partners to God, I have no apprehension. From here a little becomes evident, and later more becomes evident; from this answer it is derived that they were saying to Abraham: Abraham, fear these partners that we have set up for God, fear them. These will wither you, these will torment you, will blacken your world, will embitter your days — no doubt that is so! Abraham, in answer, says: I do not fear them, I have no apprehension of them at all.@@CX(Fear | the monotheist fears only God, never the false partners men set up)@@ From the continuation of the verse and Abraham's speech, this point becomes clearer and more manifest.
 
-[.quranverse]
-****
-[.arabic]
-وَحَآجَّهُۥ قَوۡمُهُۥۚ قَالَ أَتُحَـٰٓجُّوٓنِّي فِي ٱللَّهِ وَقَدۡ هَدَىٰنِۚ وَلَآ أَخَافُ مَا تُشۡرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّي شَيۡـٔٗاۚ وَسِعَ رَبِّي كُلَّ شَيۡءٍ عِلۡمًاۚ أَفَلَا تَتَذَكَّرُونَ
-
-"My Lord encompasses all things in knowledge."
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:80)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="80"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:80):* "My Lord encompasses all things in knowledge."
+____
 
 — my Lord's knowledge is extended over everything. _wasiʿa_ — is extended; _rabbī_ — my Lord; _kulla shayʾin_ — over everything; _ʿilman_ — in respect of knowledge. The fluent and simple Persian rendering of which becomes just what we wrote here: my Lord's knowledge is extended over everything. "Will you not then take heed?" _a-fa-lā tatadhakkarūn_ — with all this, do you not come to yourselves? _tatadhakkarūn_ — that is, do you not become aware? Do you not become attentive? Do you not find the state of coming to yourselves? Do you not call to mind? These all mean one thing; so that in the Persian translation that I wrote here, it comes to just what I stated: _a-fa-lā tatadhakkarūn_ — that is, with all this, do you not come to yourselves? Well, Abraham's speech with his people still continues. This was one portion of it. (Today our work has become a little difficult on account of the situation of the mimeographing of this paper. Nonetheless, we have a responsibility to read this, and to read it correctly; this too — let us read it, and you correct it, and let us also at times compare with one another, at any rate.)
 
 Following this matter, Abraham says: (here it has come out very poorly in my copy; gentlemen, correct it.)
 
-[.quranverse]
-****
-[.arabic]
-وَكَيۡفَ أَخَافُ مَآ أَشۡرَكۡتُمۡ وَلَا تَخَافُونَ أَنَّكُمۡ أَشۡرَكۡتُم بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ عَلَيۡكُمۡ سُلۡطَٰنٗاۚ فَأَيُّ ٱلۡفَرِيقَيۡنِ أَحَقُّ بِٱلۡأَمۡنِۖ إِن كُنتُمۡ تَعۡلَمُونَ
-
-"And how should I fear what you associate, while you do not fear that you have associated with God that for which He has sent down upon you no authority?"
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:81)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="81"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:81):* "And how should I fear what you associate, while you do not fear that you have associated with God that for which He has sent down upon you no authority?"
+____
 
 Here it becomes well clarified what argument and disputation they had with Abraham. Abraham says: How is it that I should fear?! It is you who should fear. Should I fear those whom you, without reason, have set up as partners to God and rivals to God in dominion and rule and command and creation and direction — whereas God has guided me, the matter is clear to me — and you do not fear that you have set up, without reason, without logic, without cause, with no rational warrant whatsoever, partners and rivals and peers to the Lord of the worlds? You should fear, not I. From here it becomes evident that they, in their argument with Abraham, were saying: Fear! Fear! Now, fear whom? Fear what? Whether the inanimate partners of God, or the living partners of God, or both — this is no longer evident. Which partners they said one must fear is not clear.
 
 In summary, they set up all sorts and kinds of partners for God the Exalted. The calf-worshipers set up the calf, the stone- and wood-worshipers the stone and the wood, the Pharaoh- and Nimrod-worshipers Pharaoh(((Pharaoh))) and Nimrod(((Nimrod))). And from what we discussed concerning _tawhīd_(((tawḥīd))), it becomes evident that that calf and that stone and that Pharaoh and that Nimrod are all kindling for one fire, are all filth of one valley, and have no difference among them.@@CX(shirk | all false partners — idols, Pharaoh, Nimrod — are one in kind, kindling for one fire)@@ At any rate, these people were saying that one must fear the partners of God. Now the partners of God — whether the human partners, the partners among the jinn, the living partners, the inanimate partners, and the like — this, again, is not evident.
 
-[.quranverse]
-****
-[.arabic]
-وَكَيۡفَ أَخَافُ مَآ أَشۡرَكۡتُمۡ وَلَا تَخَافُونَ أَنَّكُمۡ أَشۡرَكۡتُم بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ عَلَيۡكُمۡ سُلۡطَٰنٗاۚ فَأَيُّ ٱلۡفَرِيقَيۡنِ أَحَقُّ بِٱلۡأَمۡنِۖ إِن كُنتُمۡ تَعۡلَمُونَ
-
-"And how should I fear what you have associated…"
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:81)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="81"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:81):* "And how should I fear what you have associated…"
+____
 
 — how should I fear what you have set up as partners to God — "while you do not fear that you have associated with God…" — and you do not fear that you have set up partners to God? "…that for which He has sent down upon you no authority" — something for which you have no proof or argument at all. The translation we wrote here is this: How should I fear what you have set up as partners to God, while you do not fear that you have associated partners with Him — even though you have no proof or demonstration whatsoever in this?
 
 Then its continuation:
 
-[.quranverse]
-****
-[.arabic]
-وَكَيۡفَ أَخَافُ مَآ أَشۡرَكۡتُمۡ وَلَا تَخَافُونَ أَنَّكُمۡ أَشۡرَكۡتُم بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ عَلَيۡكُمۡ سُلۡطَٰنٗاۚ فَأَيُّ ٱلۡفَرِيقَيۡنِ أَحَقُّ بِٱلۡأَمۡنِۖ إِن كُنتُمۡ تَعۡلَمُونَ
-
-"…So which of the two parties has more right to security, if you but knew?"
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:81)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="81"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:81):* "…So which of the two parties has more right to security, if you but knew?"
+____
 
 — we or you? — I am more deserving and more fitting to be spiritually secure, to have spiritual security, to have no disquiet and anxiety; or you? I, whose heart is attached to God — Abraham says — I, who am the object of God's guidance, am I more free of disquiet, or you, wretched one, who in the road and the work you have taken up have no proof or argument, while to me the matter is clear? "So which of the two parties has more right to security, if you but knew?" — which of the two of us, I, Abraham, or you idol-worshipers, is more deserving of security? Abraham was saying. Then in parentheses I have explained: I, who have known God and have found the way to Him with insight and awareness, or you, who have no proof at all for your vain conjecture. "If you but knew!" — that is, it is evident what the result is, it is evident what the answer is, it is evident who is condemned to disquiet and fear and dread, and who is not condemned to these miseries and is assured.
 
 And at the end He says:
 
-[.quranverse]
-****
-[.arabic]
-ٱلَّذِينَ ءَامَنُواْ وَلَمۡ يَلۡبِسُوٓاْ إِيمَٰنَهُم بِظُلۡمٍ أُوْلَـٰٓئِكَ لَهُمُ ٱلۡأَمۡنُ وَهُم مُّهۡتَدُونَ
-
-"Those who believe and do not clothe their faith with wrongdoing — for them is security, and they are the rightly guided."
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:82)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="82"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:82):* "Those who believe and do not clothe their faith with wrongdoing — for them is security, and they are the rightly guided."
+____
 
 Those who have brought faith and have not stained their faith with injustice and oppression — to them alone belongs security, and they are the rightly guided ones. This is concerning security.
 
 Then we wrote: "4 — Being fruitful." What does this mean? It means that the fourth promise is this: being fruitful. One of the things that, if this traveler on the road of his goal and purpose has it, he can move better and there is greater likelihood of his arriving; and if he does not have it, he moves more slowly and the likelihood of his not arriving is also great — this is that he should consider his work fruitful or not. If he considered this road, his movement and his work and his step, fruitful — if he felt that this does not go to waste, his deed is not ruined, that upon this movement, upon this step, some effect follows, that each movement of his creates a wave that brings him nearer to the resting-place — if he believed this, he goes forward faster, works better, his fatigue is less, he moves more easily. If he did not believe this — alas! The believer is of this sort: the believer considers his own work fruitful, and the Qur'an has taught him this.@@CX(Faith | the believer regards his striving as fruitful, never wasted, which speeds his progress)@@ The Qur'an, of course, has abundant instances:
 
-[.quranverse]
-****
-[.arabic]
-وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ
+[role="verse quran",surah="Hūd",s=11,a="115"]
+[quote]
+____
+*Qur'an, Sūrat Hūd (11:115):* "Indeed God does not let the reward of those who do good go to waste."footnote:s07-21[Sūrat Hūd (the blessed sūrah), verse 115.]
+____
 
-"Indeed God does not let the reward of those who do good go to waste."footnote:s07-21[Sūrat Hūd (the blessed sūrah), verse 115.]
-
-[.verse-cite]
-— Sūrat Hūd (11:115)
-****
-
-[.quranverse]
-****
-[.arabic]
-إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا
-
-"…the reward of one who does good work [We do not let go to waste]."footnote:s07-22[Sūrat al-Kahf (the blessed sūrah), verse 30.]
-
-[.verse-cite]
-— Sūrat al-Kahf (18:30)
-****
+[role="verse quran",surah="al-Kahf",s=18,a="30"]
+[quote]
+____
+*Qur'an, Sūrat al-Kahf (18:30):* "…the reward of one who does good work [We do not let go to waste]."footnote:s07-22[Sūrat al-Kahf (the blessed sūrah), verse 30.]
+____
 
 — from the beginning to the end of the Qur'an, beyond count. I have brought one instance of it from the beginning of the Qur'an, which was ready to hand, from Sūrat al-Baqarah. Ten instances, fifteen more instances — you yourselves find them too. (It is from Sūrat al-Baqarah; of course, we did not write its address here, but its address is Sūrat al-Baqarah, verse 147 or 8 — pardon me, 143 or 4 — because these verse numbers in this Qur'an are written very small and poorly.)
 
 The verse is about the _qibla_(((qibla))). Let me first state the history of the _qibla_ in a few words. When the Muslims were in Mecca, they used to pray facing the House of the Kaʿba(((Kaʿba))). Before the migration, for prayer, for worship, facing the House of the Kaʿba. When they came to Medina — at the first entry into Medina — they used to pray facing Jerusalem(((Jerusalem, Bayt al-Maqdis))) (Bayt al-Maqdis); by the command of the Lord, of course. The very thing the Jews(((Jews))) too were doing. At that same time, the Jews of Medina too used to worship facing Jerusalem, and the Muslims likewise. Some time passed, and a verse was revealed:
 
-[.quranverse]
-****
-[.arabic]
-قَدۡ نَرَىٰ تَقَلُّبَ وَجۡهِكَ فِي ٱلسَّمَآءِۖ فَلَنُوَلِّيَنَّكَ قِبۡلَةٗ تَرۡضَىٰهَاۚ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَحَيۡثُ مَا كُنتُمۡ فَوَلُّواْ وُجُوهَكُمۡ شَطۡرَهُۥۗ وَإِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ
-
-"…so turn your face toward the Sacred Mosque."footnote:s07-23[Sūrat al-Baqarah (the blessed sūrah), verse 144.]
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:144)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="144"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:144):* "…so turn your face toward the Sacred Mosque."footnote:s07-23[Sūrat al-Baqarah (the blessed sūrah), verse 144.]
+____
 
 — turn toward the House of God, toward the Kaʿba, the Sacred Mosque. And again the Muslims took to praying toward that direction. The episode of the _qibla_ has come in detail at the beginning of Sūrat al-Baqarah — numerous verses; perhaps seven, eight, ten verses about the _qibla_ are at the beginning of Sūrat al-Baqarah, which explain the various dimensions of this episode. It is itself lengthy, and for now there is no need that we expound it.
 
 One of these verses is this; which says to the believers, says to the Prophet — that the reason we, when you had come from Mecca, at the first entry into Medina, set your _qibla_ toward Jerusalem, was this: We wanted a test to be carried out upon you. You, before you became Muslims, when you were in Mecca, even before becoming Muslims, held respect for the House of the Kaʿba, held a sanctity for it; and then, when you became Muslims, your prayer in Mecca was toward the House of the Kaʿba. Now that you have come to Medina, We wished to take from you, all at once and temporarily, an ancestral, forefathers' custom — to see how ready you are, for the sake of God, to trample customs underfoot.@@CX(Faith | the change of qibla tested the believers' readiness to abandon ancestral custom for God)@@ This is very important; this itself is a point. It is not connected to our discussion, but it is a very important point. You who are believers — are you ready, for the sake of God, to suddenly trample underfoot an ancestral, forefathers' custom, something to which you became attached, in which you took interest, for which you hold respect, or not? Not that you should imagine that the prayers which, during the time you were in Medina, at first you prayed facing Jerusalem — that We count these prayers as nothing, do not accept them, that the _qibla_ of Jerusalem was a false _qibla_ — no, certainly not. The things you did, all of them, in all their degrees, are accepted. Your efforts and your endeavors, O believers, both in the matter of the _qibla_ and in general, are the object of God's confirmation and affirmation and the object of His reward and thanks. But this interval that took place was for this: that We might test. The verse is on this category. Now see from which part of the verse we wish to draw our point.
 
-[.quranverse]
-****
-[.arabic]
-وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ
-
-"And We did not appoint the _qibla_ which you were upon…"footnote:s07-24[Sūrat al-Baqarah (the blessed sūrah), verse 143.]
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:143)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="143"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:143):* "And We did not appoint the _qibla_ which you were upon…"footnote:s07-24[Sūrat al-Baqarah (the blessed sūrah), verse 143.]
+____
 
 — We did not appoint, O Prophet, that _qibla_ which you were upon, that is, Jerusalem. So when was the verse revealed? At the time when they had turned back from Jerusalem to the Kaʿba; they were praying toward the Kaʿba. God says: that _qibla_ which you formerly used to face — that is, Jerusalem — for what did We appoint it? "And We did not appoint the _qibla_ which you were upon" — We did not appoint, did not ordain, the _qibla_ which you were formerly upon — "except" — "that We might know" — except that it might become known — "who follows the Messenger from him who turns back on his heels" — those who follow the Prophet, distinct and separate from those who incline and lean toward their predecessors and turn back to the past, so that they become evident. So this is a test that He carried out upon you. The translation we made of the verse in this sheet is like this: We had not appointed your former _qibla_, Jerusalem (Bayt al-Maqdis or Bayt al-Maqdas), in parentheses, except that the true followers of the Prophet might become known and distinguished from the followers of pagan customs. "And it was indeed grievous, except for those whom God has guided" — though it appeared exceedingly great and important, except for those whom God has guided. Those whose hearts had been guided — this matter was for them ordinary, was usual; they could digest it. The unguided, no.
 
 Then the next phrase: "And God was never to let your faith go to waste" — this phrase is the object of our argument and citation. And God would never let your faith go to waste. It was not so that your faith and your deed and your work would remain wasted and void and without effect, that for a span of time you would mark time or not go forward. No! Each step of yours, every movement of yours, every footstep of yours has brought you one step, one footstep nearer to the goal. And by that same measure we advanced on the road of perfection and drew near to the goal. So your faith is not wasted.@@CX(Faith | God never lets faith and deed go to waste; each step advances on the road of perfection)@@
 
-[.quranverse]
-****
-[.arabic]
-وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ
-
-"Indeed God is, toward the people, most kind, merciful."
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:143)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="143"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:143):* "Indeed God is, toward the people, most kind, merciful."
+____
 
 — indeed God is, toward the people, compassionate and possessed of mercy. Well, take note: both this verse, and several or many other verses in the Qur'an, give the believers the promise of this matter: that your works, your faith, your belief, your deed do not go to waste, are not without effect, are not neutralized; that is to say what? They are fruitful. And if indeed this state comes to exist in the believers, it is very clear and inevitable that the traversing of the road of perfection becomes easier and simpler for him.
 

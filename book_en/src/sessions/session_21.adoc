@@ -4,16 +4,11 @@
 [.session-subtitle]
 _فرجام نبوت (۲) — delivered Wednesday, 17 Mehr 1353 / 22 Ramadan al-Mubarak 1394_
 
-[.quranverse]
-****
-[.arabic]
-إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ يَوۡمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡهُدَىٰ وَأَوۡرَثۡنَا بَنِيٓ إِسۡرَـٰٓءِيلَ ٱلۡكِتَٰبَ هُدٗى وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ
-
-"Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise — the Day when their excuses will be of no benefit to the wrongdoers; and theirs is the curse, and theirs is the evil abode. And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."footnote:s21-1[Qur'an, Sūrat al-Muʾmin (Ghāfir), verses 51–54.]
-
-[.verse-cite]
-— Sūrat Ghāfir (40:51-54)
-****
+[role="verse quran",surah="Ghāfir",s=40,a="51-54"]
+[quote]
+____
+*Qur'an, Sūrat al-Muʾmin / Ghāfir (40:51–54):* "Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise — the Day when their excuses will be of no benefit to the wrongdoers; and theirs is the curse, and theirs is the evil abode. And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."footnote:s21-1[Qur'an, Sūrat al-Muʾmin (Ghāfir), verses 51–54.]
+____
 
 Yesterday we said that God's promise to the prophets and messengers — His promise concerning their mission among the people — is a promise full of hope and glad tidings.@@CX(Prophethood | God's promise of victory to the prophets)@@ That is to say, God the Exalted has promised to grant His prophets, and those who bear the trust of the prophetic mission, and likewise everyone who calls toward religion, truth, and reality — victory over their enemies both in this world, and in the next world a recompense, a reward, and a return. And the whole of what can be said about the victory of the prophets, peace be upon them, I summarized into two points.
 
@@ -33,31 +28,21 @@ Some of the prophets did not have this opportunity. Like whom? Like Zachariah, w
 
 The requisite for victory and progress is present in the call of the prophets — because the prophets speak in accordance with truth, they act in accordance with truth, and truth is victorious. Truth is in accordance with the nature and disposition of the world, and therefore it is successful and victorious.@@CX(Faith | truth accords with the nature of the world and so prevails)@@ The prophets too are speaking in accordance with the disposition of the world; therefore the substance and the requisite of success in the movement of the prophets, in the revolution of the prophets, is completely present. If you see that some prophet in history was defeated, do not take this as proof that the word of truth must be defeated — no, the word of truth must be victorious, the order of truth must prevail, the hand of truth must strike falsehood upon the head and shatter it to pieces. So why, then, does a prophet sometimes meet defeat? Because the followers of the prophet either do not have sufficient faith or sufficient patience; they do not exert patience.@@CX(Faith | a prophet's defeat traces to followers lacking faith or patience)@@ Otherwise, the verse of the Qur'an — that very verse we recited yesterday — says:
 
-[.quranverse]
-****
-[.arabic]
-وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا ٱلۡمُرۡسَلِينَ إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ
-
-"And Our word has already gone forth to Our servants, the messengers: that it is they who will be helped, and that it is Our host that will surely be the victors."footnote:s21-5[Qur'an, Sūrat al-Ṣāffāt, verses 171–173.]
-
-[.verse-cite]
-— Sūrat al-Ṣāffāt (37:171-173)
-****
+[role="verse quran",surah="al-Ṣāffāt",s=37,a="171-173"]
+[quote]
+____
+*Qur'an, Sūrat al-Ṣāffāt (37:171–173):* "And Our word has already gone forth to Our servants, the messengers: that it is they who will be helped, and that it is Our host that will surely be the victors."footnote:s21-5[Qur'an, Sūrat al-Ṣāffāt, verses 171–173.]
+____
 
 Our host, Our army, Our people are the ones who prevail — this word of God is not subject to default. If somewhere you saw that those who utter the word of truth were defeated, know that they were not the host of God; the conditions for being the host of God were not present in them. Those others who arranged for that victory, who arranged for that defeat and prepared its ground — they were not the host of God. The Islamic society: on the day that it is the host of God, it pushes forward; on the day that it falls behind, it is not the host of God, it is not the army of God, it is not the troops of God.@@CX(Ummah | victory belongs to the society only while it is the host of God)@@
 
 The upshot is summed up in two words: the cause of defeats on the one hand, and of victories and triumphs on the other. Wherever the followers of the prophet brought about within themselves complete faith and complete certainty, and stood firm upon the word of truth, they assuredly succeeded and pushed forward; defeat had no place in their affair. Yesterday I related something, on the authority of one of the great ones of our own near-contemporary history,footnote:s21-6[A reference to one of the great figures of our own near-contemporary history, who counseled continued struggle even in the face of certain defeat.] who used to say to his friends: "When you are able, struggle. When you see that you are being defeated, struggle still — until you reach that moment when you become certain that, yes, you will surely be defeated — even then, struggle on. When, at the very moment that you are certain you will be defeated, you still continue your effort, your striving, and your struggle, then victory and triumph will be granted to you."@@CX(Ṣabr | struggle on even when certain of defeat, and victory will be granted)@@ A verse of the Qur'an says almost this same thing — or, indeed, says it definitively. It says:
 
-[.quranverse]
-****
-[.arabic]
-حَتَّىٰٓ إِذَا ٱسۡتَيۡـَٔسَ ٱلرُّسُلُ وَظَنُّوٓاْ أَنَّهُمۡ قَدۡ كُذِبُواْ جَآءَهُمۡ نَصۡرُنَا فَنُجِّيَ مَن نَّشَآءُۖ وَلَا يُرَدُّ بَأۡسُنَا عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِينَ
-
-"…until, when the messengers despaired and thought that they had been denied, Our help came to them…"footnote:s21-7[Qur'an, Sūrat Yūsuf, verse 110.]
-
-[.verse-cite]
-— Sūrat Yūsuf (12:110)
-****
+[role="verse quran",surah="Yūsuf",s=12,a="110"]
+[quote]
+____
+*Qur'an, Sūrat Yūsuf (12:110):* "…until, when the messengers despaired and thought that they had been denied, Our help came to them…"footnote:s21-7[Qur'an, Sūrat Yūsuf, verse 110.]
+____
 
 It reached a point where the pressures, the blows, and the strikes of the opposing front against the prophets were so severe that the prophets themselves grew hopeless. It reached a point where the prophets and the people who were with the prophets had their hearts shaken — not as regards faith; their faith did not vanish, they did not lose their belief in God — but because they had believed that they would be victorious, their faith and certainty in victory fell into decline, and they imagined that they had misunderstood.@@CX(Ṣabr | God's help arrives at the very point of despair)@@ They had been certain that God had told them, "You will surely be victorious." The matter would reach a point where they began to think that perhaps they had misunderstood, that God had not in fact made them such a promise. _Wa ẓannū annahum qad kudhibū_ — "and they thought that they had been denied" — _jāʾahum naṣrunā_ — "Our help came to them": in that very moment when, from the intensity of the pressure and the severity of the enemy's blows and strikes, the front of truth and the front of religion felt that, yes, it was now surely being destroyed, it was perishing, the enemy was gaining the upper hand, the roads were closed upon it — in that very moment, because it still persevered, because it still strove, the help and succor of God arrived. This is the verse of the Qur'an.
 
@@ -101,74 +86,49 @@ At any rate, the summary of the matter comes to this: that the divine prophets, 
 
 Now let us return to the verses of the Qur'an. Today I have chosen verses from several places in the Noble Qur'an — the written text of which will, of course, reach your hands tomorrow — and I saw that there are even more verses of glad tiding in the Qur'an than these. One is in Sūrat al-Muʾmin (Ghāfir), where He says — and there is no need for me to read those verses here now:
 
-[.quranverse]
-****
-[.arabic]
-إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ
-
-"Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise."
-
-[.verse-cite]
-— Sūrat Ghāfir (40:51)
-****
+[role="verse quran",surah="Ghāfir",s=40,a="51"]
+[quote]
+____
+*Qur'an, Sūrat al-Muʾmin / Ghāfir (40:51):* "Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise."
+____
 
 Allow me to read them, there is no harm in it; I would regret not explaining these verses today, since tomorrow too I will not have time to explain them. Sūrat al-Muʾmin, verse 51, according to this Qur'an. _Innā la-nanṣuru rusulanā wa alladhīna āmanū_ — "Indeed, We will surely help Our messengers and those who believe."footnote:s21-15[Qur'an, Sūrat al-Muʾmin (Ghāfir), verses 51–55.] The _lām_ in _la-nanṣuru_ is for certainty, verification, and emphasis; and _innā_ too is in this same sense of verification and emphasis. That is to say: We, definitively and without any doubt, help — _rusulanā_, "Our messengers." Only the messengers? No — _wa alladhīna āmanū_, "and those who believe," the believers as well. The believer who moves along the path of the prophet — this promise is for him too. The pure-natured human beings who set out following the call of the prophets — this promise is for them too: _wa alladhīna āmanū_. Where do We help them? _Fī al-ḥayāti al-dunyā_ — "in the life of this world": right here, in this very worldly life, We help them; We do not leave it for later. _Wa yawma yaqūmu al-ashhād_ — "and on the Day when the witnesses arise." This — that the witnesses arise — is in some commentaries interpreted as the Day of Resurrection.
 
 There is a tradition concerning this noble verse in which the Imam, peace be upon him, said to Jamīl ibn Darrāj(((Jamīl ibn Darrāj))) — according to that tradition — that what is meant by God's help to the prophets is their being helped in the world of the Return (rajʿah)(((Return, rajʿah))).footnote:s21-16[Imam al-Ṣādiq, in _Tafsīr Nūr al-Thaqalayn_, on verse 51 of Sūrat al-Muʾmin.] That is to say, after the Wali of the Age, may God's blessings be upon him, comes, and that all-encompassing divine government comes into being in this world, and the banner of the Qur'an and Islam is planted across the entire world, and all the people move toward religion, God, and monotheism, and the single divine government comes into being — after that, God the Exalted brings back to life the prophets, the messengers, the executors of the prophets (awṣiyāʾ), the martyrs, and the righteous among the believers — in accordance with verses of the Qur'an interpreted to this meaning, and traditions that are explicit on this meaning. I will not now go into the discussion of the Return. In this narration the Imam says that this is for the Return — this verse is connected to the Return, and the help is for the Return. I myself imagine that the Imam, peace be upon him, does not wish to interpret this phrase — _fī al-ḥayāti al-dunyā_ — as referring to the Return. The Imam does not wish to say that what God has stated — that We help them in the life of this world — means "in the Return within the life of this world." I think that _yawma yaqūmu al-ashhād_ is being interpreted as the Return, and not as the Resurrection — for what helping is there in the Resurrection? In the era of the Return, God the Exalted helps the prophets. This I offer as a probability, and I draw this inference from this narration only as a probability. At any rate,footnote:s21-17[_ʿAlā ayyi ḥāl_ — "in any case, at all events."] even if we set aside this benefit altogether, the phrase _fī al-ḥayāti al-dunyā_ itself, on its apparent meaning, and by the indication of the verses that come afterward as well, shows that God the Exalted gives an explicit promise to the prophets and to the believers that, in this very worldly life, We will help you.@@CX(Prophethood | God's help is promised in this very worldly life)@@
 
-[.quranverse]
-****
-[.arabic]
-يَوۡمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ
-
-"The Day when their excuse will not benefit the wrongdoers; and theirs is the curse, and theirs is the evil abode."
-
-[.verse-cite]
-— Sūrat Ghāfir (40:52)
-****
+[role="verse quran",surah="Ghāfir",s=40,a="52"]
+[quote]
+____
+*Qur'an, Sūrat al-Muʾmin / Ghāfir (40:52):* "The Day when their excuse will not benefit the wrongdoers; and theirs is the curse, and theirs is the evil abode."
+____
 
 _Yawma yaqūmu al-ashhād_ — who is it that arises? When do the witnesses arise? At that time when the apology of the wrongdoers will be of no benefit to them. There is another verse in the Qur'an:
 
-[.quranverse]
-****
-[.arabic]
-هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَـٰٓئِكَةُ أَوۡ يَأۡتِيَ رَبُّكَ أَوۡ يَأۡتِيَ بَعۡضُ ءَايَٰتِ رَبِّكَۗ يَوۡمَ يَأۡتِي بَعۡضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفۡسًا إِيمَٰنُهَا لَمۡ تَكُنۡ ءَامَنَتۡ مِن قَبۡلُ أَوۡ كَسَبَتۡ فِيٓ إِيمَٰنِهَا خَيۡرٗاۗ قُلِ ٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ
-
-"…the Day when a sign of your Lord comes, no soul will benefit from its faith if it did not believe before…"footnote:s21-18[Qur'an, Sūrat al-Anʿām, verse 158.]
-
-[.verse-cite]
-— Sūrat al-Anʿām (6:158)
-****
+[role="verse quran",surah="al-Anʿām",s=6,a="158"]
+[quote]
+____
+*Qur'an, Sūrat al-Anʿām (6:158):* "…the Day when a sign of your Lord comes, no soul will benefit from its faith if it did not believe before…"footnote:s21-18[Qur'an, Sūrat al-Anʿām, verse 158.]
+____
 
 This too is interpreted as the era of the coming of the Wali of the Age — it is possible this is the same. _Wa lahumu al-laʿnah_ — the curse is upon the wrongdoers. _Wa lahum sūʾu al-dār_ — theirs is a most ill-omened, evil abode.
 
 Then, to bring a witness to the fact that We help the prophets, He cites the episode of Moses; for since, before this verse, from the early part of Sūrat al-Muʾmin, the discourse is mostly about Moses and his struggles against Pharaoh(((Pharaoh))), here too — where He gives the promise of help to all the prophets — He says, as one type, one instance, one example:
 
-[.quranverse]
-****
-[.arabic]
-وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡهُدَىٰ وَأَوۡرَثۡنَا بَنِيٓ إِسۡرَـٰٓءِيلَ ٱلۡكِتَٰبَ هُدٗى وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ
-
-"And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."
-
-[.verse-cite]
-— Sūrat Ghāfir (40:53-54)
-****
+[role="verse quran",surah="Ghāfir",s=40,a="53-54"]
+[quote]
+____
+*Qur'an, Sūrat al-Muʾmin / Ghāfir (40:53–54):* "And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."
+____
 
 _Wa laqad ātaynā Mūsā al-hudā_ — "We gave Moses guidance and right-guidedness." _Wa awrathnā Banī Isrāʾīla al-kitāb_ — "and We bequeathed the Book to the Children of Israel as an inheritance." The Children of Israel(((Children of Israel))) remained possessors of the Book, possessors of the collection of divine knowledge and ordinances — and this shows that they succeeded; otherwise, had the unbelievers and tyrants of the age prevailed over the Children of Israel, they would not have allowed them to act according to their own heavenly Book; they would have destroyed the Book from among them. _Hudan wa dhikrā li-ulī al-albāb_ — that this Book is guidance, is right-guidance, and is awareness for those endowed with intellect and reason.
 
 _Fa-ṣbir_ — then, when this matter is concluded, He addresses the Seal of the Prophets, saying: _Fa-ṣbir_ — "so be patient, persevere, resist the impulses that bring about decline." _Inna waʿda'llāhi ḥaqq_ — without doubt, God's promise is true. This promise that God has given — that He has said you will be victorious; that promise which was in Sūrat al-Ṣāffāt: _Wa laqad sabaqat kalimatunā li-ʿibādinā al-mursalīn, innahum lahumu al-manṣūrūn_ — and likewise the other promises that are in the Qur'an — these are true, these are correct. You will surely be victorious, O Prophet, in accordance with the divine promise; but the condition for it is patience. _Fa-ṣbir_ — you must be patient, you must resist and persevere, you must not turn back from the sacred contest you have undertaken.
 
-[.quranverse]
-****
-[.arabic]
-فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ
-
-"So be patient — indeed, the promise of God is true — and seek forgiveness for your sin, and glorify your Lord with praise in the evening and the morning."
-
-[.verse-cite]
-— Sūrat Ghāfir (40:55)
-****
+[role="verse quran",surah="Ghāfir",s=40,a="55"]
+[quote]
+____
+*Qur'an, Sūrat al-Muʾmin / Ghāfir (40:55):* "So be patient — indeed, the promise of God is true — and seek forgiveness for your sin, and glorify your Lord with praise in the evening and the morning."
+____
 
 _Fa-ṣbir inna waʿda'llāhi ḥaqq, wa-staghfir li-dhanbik_ — "and seek forgiveness for your sin." Of course, the Prophet's sin, the sin in the Prophet's category, is not of the type of our sins. The Prophet is infallible — this is certain. By the explicit text of the Qur'anic verses and by the judgment of reason, the Prophet does not sin. This "sin" is of the kind of sins and lapses that, for a human being of that station, count as a lapse — even though, if you and I were to do the very same thing, it would be no lapse at all. It is those sins He speaks of, those lapses He speaks of. _Wa-staghfir li-dhanbik_ — ask pardon, seek forgiveness, and seek to make amends for your small lapses of the past. _Wa sabbiḥ bi-ḥamdi rabbika bi-l-ʿashiyyi wa-l-ibkār_ — "and glorify, and praise your Lord, in every evening and every morning." This verse teaches us very clearly that the outcome of the prophets' work is the help of God.
 
@@ -176,74 +136,49 @@ And now as for the verses of Sūrat al-Anbiyāʾ(((Sūrat al-Anbiyāʾ))) — th
 
 He says:
 
-[.quranverse]
-****
-[.arabic]
-وَمَآ أَرۡسَلۡنَا قَبۡلَكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ
-
-"And We did not send before you any but men to whom We revealed…"footnote:s21-19[Qur'an, Sūrat al-Anbiyāʾ, verses 7–18.]
-
-[.verse-cite]
-— Sūrat al-Anbiyāʾ (21:7)
-****
+[role="verse quran",surah="al-Anbiyāʾ",s=21,a="7"]
+[quote]
+____
+*Qur'an, Sūrat al-Anbiyāʾ (21:7):* "And We did not send before you any but men to whom We revealed…"footnote:s21-19[Qur'an, Sūrat al-Anbiyāʾ, verses 7–18.]
+____
 
 — these are the verses at the beginning of the sura — He says: before you, We sent prophets and gave them revelation. _Wa mā jaʿalnāhum jasadan lā yaʾkulūna al-ṭaʿām_ (21:8) — "We did not make them bodies that did not eat food": We did not make them into angels having no body, who require no food. _Wa mā kānū khālidīn_ — _khālidīn_: nor were they immortal, eternal, everlasting. They too died at some point. But — _thumma ṣadaqnāhumu al-waʿd_ (21:9) — "then We fulfilled for them the promise": We made Our promise to them come true, the promise of victory. _Fa-anjaynāhum wa man nashāʾ_ — "We saved them and whomever We willed": We saved them, and whomever We willed We saved along with them. _Wa ahlaknā al-musrifīn_ — "and We destroyed the transgressors": We destroyed the transgressors. _Laqad anzalnā ilaykum kitāban fīhi dhikrukum, a-fa-lā taʿqilūn_ (21:10) — "We have sent down to you a Book in which is your remembrance": now to you too, O believers, We have sent down a Book, a Qur'an, in which is the remembrance, the awareness, and the reminder of you. _A-fa-lā taʿqilūn_ — "do you not, then, use reason? Do you not reflect?"
 
 Then He arrives at verse eleven, and He says:
 
-[.quranverse]
-****
-[.arabic]
-وَكَمۡ قَصَمۡنَا مِن قَرۡيَةٖ كَانَتۡ ظَالِمَةٗ وَأَنشَأۡنَا بَعۡدَهَا قَوۡمًا ءَاخَرِينَ
-
-"And how many a town that was wrongdoing have We shattered…"
-
-[.verse-cite]
-— Sūrat al-Anbiyāʾ (21:11)
-****
+[role="verse quran",surah="al-Anbiyāʾ",s=21,a="11"]
+[quote]
+____
+*Qur'an, Sūrat al-Anbiyāʾ (21:11):* "And how many a town that was wrongdoing have We shattered…"
+____
 
 _Wa kam qaṣamnā min qaryatin_ — this is truly a hymn of the victory of the prophets, a stirring anthem that shows how the prophets, with the divine, unseen aids that lie within the womb of this world — and not unseen aids of the sort that the common people wish for and love, that a hand should come from the unseen and strike the chest of the enemy; no — unseen aids that are concealed within the very womb of this world, in keeping with the disposition of the world and the nature of man and the cosmos: with these unseen aids, how greatly did the Lord of the world grant the prophets success.@@CX(Faith | God's unseen aid works through the natural order, not magical intervention)@@ _Wa kam qaṣamnā min qaryatin_ — how many, and how often, did We shatter — did We shatter the settlement and society that _kānat ẓālimah_, that was wrongdoing. The wrongdoing society, the wrongdoing order, the wrongdoing civilization — that society in whose very construction injustice has been employed, in which class divisions have arisen, in which exploitation has been established, in which the exploitation of man by man has been set up; this is "the wrongdoing town," this is "the wrongdoing society," in whose foundation tyranny has been employed — how many of these did We shatter!@@CX(social class | God shatters the wrongdoing society built on class divisions and exploitation)@@ _Wa kam qaṣamnā_ — that is, "how many did We shatter, We crushed." _Wa qaṣamnā_ means "We shattered, We pulverized." _Min qaryatin kānat ẓālimatan wa ansh'anā baʿdahā qawman ākharīn_ — "and after them We raised up another people": and after them We brought into being and made manifest another people, another group, another class, and set them to the work.
 
-[.quranverse]
-****
-[.arabic]
-فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ
-
-"Then, when they perceived Our might, at once they fled from it. [It was said:] Do not flee, but return to the luxury you were given and to your dwellings, that you might be questioned. They said: Woe to us, indeed we were wrongdoers! And that did not cease to be their cry until We made them stubble, extinguished."
-
-[.verse-cite]
-— Sūrat al-Anbiyāʾ (21:12-15)
-****
+[role="verse quran",surah="al-Anbiyāʾ",s=21,a="12-15"]
+[quote]
+____
+*Qur'an, Sūrat al-Anbiyāʾ (21:12–15):* "Then, when they perceived Our might, at once they fled from it. [It was said:] Do not flee, but return to the luxury you were given and to your dwellings, that you might be questioned. They said: Woe to us, indeed we were wrongdoers! And that did not cease to be their cry until We made them stubble, extinguished."
+____
 
 _Fa-lammā aḥassū baʾsanā_ — a description of the misery of the wrongdoers at the moment they behold the punishment of God. _Fa-lammā aḥassū baʾsanā_ — the very moment those wrongdoers sensed Our wrath and anger — whether, for instance, suppose a heavenly punishment descended, or whether they saw that the believers, alongside their prophet, had charged upon them and were about to bring down the sword of God's wrath upon their heads — the moment they sensed Our wrath, _idhā hum minhā yarkuḍūn_ — suddenly, from those settlements, from that civilization, from that society, they took to flight, they set to fleeing and running away. _Lā tarkuḍū_ — "do not flee"; _wa-rjiʿū ilā mā utriftum fīhi_ — "and return to the luxury you were given": return to your places of luxurious ease, return to those palaces in which you lived in luxury, return into the midst of the society and city in which you lorded over others and boasted — where are you fleeing to? _Wa-rjiʿū ilā mā utriftum fīhi wa masākinikum_ — "and to your dwellings." Return to your dwellings; _laʿallakum tusʾalūn_ — "that you might be questioned": perhaps they wish to interrogate you, perhaps they wish to question you — where are you going? _Qālū yā waylanā innā kunnā ẓālimīn_ — they said, "Woe to us! Woe to us, for we were oppressors and wrongdoers." _Fa-mā zālat tilka daʿwāhum_ — this remained their cry, their speech; _ḥattā jaʿalnāhum ḥaṣīdan khāmidīn_ — "and they kept on speaking in this way until We made them all prey to death and annihilation."
 
 Pay attention. There are two or three more verses; let me read these. These following verses, in truth, state the intellectual foundation of this historical reality. Why did things become this way? Why must the wrongdoers be destroyed and the oppressed take their place? Why must the call of the prophet surely advance and his opponents be crushed — why? The cause is this:
 
-[.quranverse]
-****
-[.arabic]
-وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ
-
-"And We did not create the heaven and the earth and what is between them in play. Had We wished to take a diversion, We would have taken it from within Ourselves — if We were to do so."
-
-[.verse-cite]
-— Sūrat al-Anbiyāʾ (21:16-17)
-****
+[role="verse quran",surah="al-Anbiyāʾ",s=21,a="16-17"]
+[quote]
+____
+*Qur'an, Sūrat al-Anbiyāʾ (21:16–17):* "And We did not create the heaven and the earth and what is between them in play. Had We wished to take a diversion, We would have taken it from within Ourselves — if We were to do so."
+____
 
 _Wa mā khalaqnā al-samāʾa wa-l-arḍa wa mā baynahumā lāʿibīn_ — We did not create the heaven and the earth and what is between them in vain. _Law aradnā an nattakhidha lahwan la-attakhadhnāhu min ladunnā in kunnā fāʿilīn_ — had We wished to do a frivolous thing, We would certainly have done it; We would have done it of Our own self — if We were the doers of such a thing — but We never do. The Lord of the world does not do a vain thing, does not act in accordance with falsehood, does not act in futility. What does this mean? It means that this heaven and earth, and what is between them — if We created them, We created them according to a purpose; We created them for the attainment of an aim and a goal. Truth (ḥaqq) means the line of progression of this heaven and earth, and of whatever is in this heaven and earth, toward that goal — that is, truth.@@CX(Tawhid | truth is the line of creation's progression toward its purpose)@@ That path which brings the heaven and the earth and their creatures to that destination, that aim and goal for which they were created — that line of progression is truth. Any means that brings human beings to that destination — that means is truth. These things are not made explicit in the Qur'anic verse; this is the import of the verse. That is, by reflection upon the verse, it is quite clear; and the foundation of the Qur'an is this: that mostly, many of the things which are understood and clear and which the human intellect arrives at, it does not bother to make explicit.
 
 Then He continues, saying:
 
-[.quranverse]
-****
-[.arabic]
-بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ
-
-"Rather, We hurl the truth against falsehood, and it crushes it, and at once it vanishes. And woe to you for what you describe."
-
-[.verse-cite]
-— Sūrat al-Anbiyāʾ (21:18)
-****
+[role="verse quran",surah="al-Anbiyāʾ",s=21,a="18"]
+[quote]
+____
+*Qur'an, Sūrat al-Anbiyāʾ (21:18):* "Rather, We hurl the truth against falsehood, and it crushes it, and at once it vanishes. And woe to you for what you describe."
+____
 
 _Bal naqdhifu bi-l-ḥaqqi ʿalā al-bāṭili_ — rather, We strike falsehood with the means of truth. This path of truth, this correct way, this innate and natural way of man and the world, will in the end be victorious over falsehood; rather, We make the truth prevail over falsehood.@@CX(Faith | truth is hurled against falsehood and crushes it)@@ _Fa-yadmaghuhu_ — so this truth utterly effaces and annihilates falsehood. _Fa-idhā huwa zāhiq_ — then you see falsehood as it perishes, heading toward annihilation. _Wa lakumu al-waylu mimmā taṣifūn_ — then for you, O wrongdoers, O oppressors, O followers of falsehood and deniers of truth, is woe; for you is wretchedness and ruin. _Wa lakumu al-waylu mimmā taṣifūn_ — woe to you for what you have described and asserted.
 

@@ -4,16 +4,11 @@
 [.session-subtitle]
 _فلسفۀ نبوت — delivered Wednesday, 10 Mehr 1353 / 15 Ramaḍān al-Mubārak 1394_
 
-[.quranverse]
-****
-[.arabic]
-هُوَ ٱلَّذِي بَعَثَ فِي ٱلۡأُمِّيِّـۧنَ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٖ وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ
-
-"He it is who raised up among the unlettered a Messenger from among themselves, who recites to them His verses, purifies them, and teaches them the Book and wisdom — though before that they had been in manifest error — and [He raised him] also for others among them who have not yet joined them. He is the Mighty, the Wise."footnote:s14-jumuah-blessed[Sūrat al-Jumuʿah, the Blessed [Sūrah], verses 2–3.]
-
-[.verse-cite]
-— Sūrat al-Jumuʿah (62:2-3)
-****
+[role="verse quran",surah="al-Jumuʿah",s=62,a="2-3"]
+[quote]
+____
+*Qur'an, Sūrat al-Jumuʿah (62:2–3):* "He it is who raised up among the unlettered a Messenger from among themselves, who recites to them His verses, purifies them, and teaches them the Book and wisdom — though before that they had been in manifest error — and [He raised him] also for others among them who have not yet joined them. He is the Mighty, the Wise."footnote:s14-jumuah-blessed[Sūrat al-Jumuʿah, the Blessed [Sūrah], verses 2–3.]
+____
 
 The discussion that we intend to pursue today from the Qur'an, God willing, is a discussion about prophethood. As you can see in these notes that are in your hands, and as you will see — or have already seen — the text, we have set before ourselves several topics in the field of prophethood, so that, relying upon and seeking help from the blessed verses of the Qur'an, we may, God willing, come to understand these several discussions. The brothers of course know that prophethood is one of the principles of all religions. If it can be called a principle among the principles of religion — indeed, one must say something higher than that. When I said "if it can be called a principle among the principles of religion," I do not mean by this that anyone would deny its being a principle. No; rather, it is something higher than a principle: religion has no meaning at all without belief in prophethood.@@CX(Prophethood | religion has no meaning without it)@@ Religion means that program, that path, that school, that creed which has come by way of a messenger from God the Exalted. So the coming of a messenger, and a coming from the side of God — this is among the essential elements of religion. The very subsistence of religion rests upon this. Therefore, in the field of prophethood, it is fitting that we discuss and speak about it as one of the important and fundamental matters of religion.
 
@@ -21,16 +16,11 @@ Of course, in the field of prophethood there is a series of discussions that are
 
 Concerning the discussion of prophethood: it is true that the question of how much divine knowledge or human knowledge a prophet possesses is itself a discussion; or the question of knowing whether our Prophet — who did not write and did not read, as the speaking Qur'an states:
 
-[.quranverse]
-****
-[.arabic]
-وَمَا كُنتَ تَتۡلُواْ مِن قَبۡلِهِۦ مِن كِتَٰبٖ وَلَا تَخُطُّهُۥ بِيَمِينِكَۖ إِذٗا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ
-
-"And you did not write any book with your right hand, otherwise the falsifiers would surely have fallen into doubt."footnote:s14-ankabut[Sūrat al-ʿAnkabūt, the Blessed Sūrah / verse 48: "And you would not write any book with your right hand, otherwise the falsifiers would certainly have fallen into doubt."]
-
-[.verse-cite]
-— Sūrat al-ʿAnkabūt (29:48)
-****
+[role="verse quran",surah="al-ʿAnkabūt",s=29,a="48"]
+[quote]
+____
+*Qur'an, Sūrat al-ʿAnkabūt (29:48):* "And you did not write any book with your right hand, otherwise the falsifiers would surely have fallen into doubt."footnote:s14-ankabut[Sūrat al-ʿAnkabūt, the Blessed Sūrah / verse 48: "And you would not write any book with your right hand, otherwise the falsifiers would certainly have fallen into doubt."]
+____
 
 The Prophet neither wrote nor read. Was it that he did not write and did not read because he was unable to? That is, in the ordinary expression of today, was he entirely illiterate? Or rather, was he able, and yet did not write and did not read? Well, it is a discussion, after all. Or the question of which religion, which creed, among the religions and creeds of the world, the Prophet of Islam believed in and practiced before his prophethood and his Biʿthah — of course it is a discussion, but how necessary is this discussion for us? How necessary for us is the discussion before it? How necessary for us is the discussion before that one? It is not necessary at all.
 
@@ -40,16 +30,11 @@ The first matter that we discuss concerning prophethood is the philosophy of pro
 
 Concerning the philosophy of prophethood we will not speak much; it is one word, and that one word is this: that the senses of man, the instincts of man, and the intellect of man fall short of guiding and taking the hand of man.@@CX(Prophethood | needed because senses, instinct, and intellect fall short)@@ One word. A series of creatures can be managed by their senses. Some animals we perhaps know to be of this sort, that they draw only upon their own senses — the outward senses. Most kinds of animals draw on their instincts in order to be guided; that is, the honeybee's instinct tells it: go and alight upon the flower, upon the fragrant flower, and suck from its perfume and its essence; then go to the house, the hive; build the houses in that six-cornered, hexagonal footnote:s14-hexagonal[(s-d-s) six-sided, hexagonal.] form; and there, with certain arrangements, enter the houses and exit; and have a queen and helpers footnote:s14-helpers[(ʿ-w-n) helpers, companions.] and guards — in short, a bee civilization. If you imagine that one day the bees sat down together and a great conference of the chiefs of the bees of the hives or regions was convened, and they said, "How is it better for us to build the house?" — one said octagonal, one said square, one said hexagonal; then they studied it and saw, no, the hexagonal is more suitable — if you imagine it happened this way, I must say you have made a mistake. No such situation occurred.
 
-[.quranverse]
-****
-[.arabic]
-وَأَوۡحَىٰ رَبُّكَ إِلَى ٱلنَّحۡلِ أَنِ ٱتَّخِذِي مِنَ ٱلۡجِبَالِ بُيُوتٗا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعۡرِشُونَ ثُمَّ كُلِي مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسۡلُكِي سُبُلَ رَبِّكِ ذُلُلٗاۚ يَخۡرُجُ مِنۢ بُطُونِهَا شَرَابٞ مُّخۡتَلِفٌ أَلۡوَٰنُهُۥ فِيهِ شِفَآءٞ لِّلنَّاسِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَتَفَكَّرُونَ
-
-"And your Lord revealed to the honeybee: Take houses for yourselves in the mountains, and in the trees, and in what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord, in humble obedience."footnote:s14-nahl[Sūrat al-Naḥl, the Blessed Sūrah / verses 68 and 69: "And your Lord revealed to the honeybee: make houses for yourself from some of the mountains, and from some of the trees, and from what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord in humble obedience."]
-
-[.verse-cite]
-— Sūrat al-Naḥl (16:68-69)
-****
+[role="verse quran",surah="al-Naḥl",s=16,a="68-69"]
+[quote]
+____
+*Qur'an, Sūrat al-Naḥl (16:68–69):* "And your Lord revealed to the honeybee: Take houses for yourselves in the mountains, and in the trees, and in what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord, in humble obedience."footnote:s14-nahl[Sūrat al-Naḥl, the Blessed Sūrah / verses 68 and 69: "And your Lord revealed to the honeybee: make houses for yourself from some of the mountains, and from some of the trees, and from what they build as trellises. Then eat of all the fruits, and tread the paths of your Lord in humble obedience."]
+____
 
 This is divine revelation (waḥy)(((revelation, waḥy))) to the bee. The divine revelation to the bee does not mean that the bee sits down and Gabriel(((Gabriel))) descends upon it; the bee's structure is like this, the bee's instinct is like this — there is an instinctual pull that draws the bee, compels it; it cannot do otherwise. Naturally and instinctually the bee is compelled, it is fashioned footnote:s14-fashioned[(f-ṭ-r) created, made.] to build the house, to build it in this form, to find flower and plant from such-and-such a place and suck from them. If a bee were to deviate — if instead of flower and plant it were to smell and suck foul-smelling and rotten plants — they would behead it right there at the entrance of the hive. All this is their nature (fiṭrah)(((fiṭrah))) and their instinct.@@CX(fiṭrah | instinct suffices to guide the animal)@@
 
@@ -69,31 +54,21 @@ So the prophets, with the force of revelation that they have, do not go to war a
 
 When the human intellect and the experience of human knowledge recognizes alcohol, knows the harms of alcohol, understands its blow and injury to the body, to the nerves, to the spirit, and to the general condition of society — why should I not be able and not have the courage to recite the verse of the Qur'an with power?
 
-[.quranverse]
-****
-[.arabic]
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ
-
-"Indeed, wine, gambling, idols, and divining-arrows are an abomination from the work of Satan, so avoid it."footnote:s14-maidah[Sūrat al-Māʾidah, the Blessed Sūrah / verse 90.]
-
-[.verse-cite]
-— Sūrat al-Māʾidah (5:90)
-****
+[role="verse quran",surah="al-Māʾidah",s=5,a="90"]
+[quote]
+____
+*Qur'an, Sūrat al-Māʾidah (5:90):* "Indeed, wine, gambling, idols, and divining-arrows are an abomination from the work of Satan, so avoid it."footnote:s14-maidah[Sūrat al-Māʾidah, the Blessed Sūrah / verse 90.]
+____
 
 Why should I not raise the verse of the Qur'an? Why should I not appeal to what human knowledge has understood in this field? Why should I not say that it is from the work of Satan(((Satan))) — that is, it is the satans who give this to you, and it is the satans who profit from the drinking of that wretched drinker? Why should we not say this?
 
 That which you have heard that Imam al-Sajjād(((Imam al-Sajjād))), may God's blessings and peace be upon him, said — "The religion of God is not attained by the intellects" (dīn Allāh lā yuṣābu bi-l-ʿuqūl)footnote:s14-hadith30[Hadith no. 30.] — its meaning is something else. That is, the divine creed cannot be discovered by reason. What does "cannot be discovered" mean? It means that if you have no narration (riwāyah) telling you that the noon prayer is four cycles, you cannot understand by reason that the noon prayer is four cycles — and this is a very correct point too. If the Qur'an itself does not state the time of prayer:
 
-[.quranverse]
-****
-[.arabic]
-أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودٗا
-
-"Establish the prayer from the declining of the sun until the darkness of the night, and the Qur'an of dawn (the dawn prayer and its supererogatory prayer)."footnote:s14-isra[Sūrat al-Isrāʾ, the Blessed Sūrah / verse 78: "From the first declining of the sun until the utmost darkness of the night (until its midpoint) establish the prayer, and also the Qur'an of dawn (the dawn prayer and the supererogatory prayer of dawn)."]
-
-[.verse-cite]
-— Sūrat al-Isrāʾ (17:78)
-****
+[role="verse quran",surah="al-Isrāʾ",s=17,a="78"]
+[quote]
+____
+*Qur'an, Sūrat al-Isrāʾ (17:78):* "Establish the prayer from the declining of the sun until the darkness of the night, and the Qur'an of dawn (the dawn prayer and its supererogatory prayer)."footnote:s14-isra[Sūrat al-Isrāʾ, the Blessed Sūrah / verse 78: "From the first declining of the sun until the utmost darkness of the night (until its midpoint) establish the prayer, and also the Qur'an of dawn (the dawn prayer and the supererogatory prayer of dawn)."]
+____
 
 If the Qur'an does not state this, you cannot understand by way of reason and thought and ordinary intellect when the time of prayer is. The Qur'an must state this; the hadith must state this; revelation must state this to us. This is what Imam al-Sajjād means; the outward of his statement too is just this — "The religion of God is not attained by the intellects." Its meaning is not that we cannot see the rulings of religion and the teachings of religion with the vision of reason and with the eyeglass of reason and human intellect — such that a group of ignorant people, in the name of defending religion, with fervor, with heat, cry out, "Sir, do not set forth a philosophy for religion!" Why should we not? Why should we not set it forth? Of course we always say, we repeat, we confess, that what we understand is not a thousandth of the deep teachings of religion; what we can apply and explain is far less than what may in reality be done and exist — there is no doubt in this. But I say one word, the next person says one word, the person after him says one word. Along the lengthwise line of human history, when you reckon, after two hundred years, five hundred years, you see that humanity, humankind, is far more believing, more confessing, more acknowledging of the depth of religion than in the age when these thoughts and these reflections and these applications had not yet come to it.
 
@@ -103,38 +78,23 @@ In sum, keep this word in mind: the summary of the discussion comes to this, tha
 
 Because it is so — because we are deficient, because human knowledge and insight are not sufficient for our guidance — a hand must come out from the unseen and guide us. The place for a hand to come out from the unseen is here, not there where, when I have gone a little hungry, I do not go after a morsel of bread but wait for a hand to come out from the unseen. No — it is not for the place where, when I am confronted with a sin, I content myself with regret and sorrow and grief and wait for a hand to come out from the unseen for me; no — it is not for the place where I do not perform my divine duty, do not enjoin good, do not forbid evil, do not tread the path of God, and wait for a hand to come out from the unseen and do something footnote:s14-hafez["The city is empty of lovers; perhaps from some quarter / A hand may come out from the unseen and do something" (Ḥāfiẓ).] — contrary to the verse of the Qur'an:
 
-[.quranverse]
-****
-[.arabic]
-أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ
+[role="verse quran",surah="al-Māʿūn",s=107,a="1-3"]
+[quote]
+____
+*Qur'an, Sūrat al-Māʿūn (107:1–3):* "Have you seen the one who denies the Religion? That is the one who drives away the orphan and does not urge the feeding of the needy."footnote:s14-maun[Sūrat al-Māʿūn, the Blessed Sūrah / verses 1 to 3.]
+____
 
-"Have you seen the one who denies the Religion? That is the one who drives away the orphan and does not urge the feeding of the needy."footnote:s14-maun[Sūrat al-Māʿūn, the Blessed Sūrah / verses 1 to 3.]
+[role="verse quran",surah="al-Muddaththir",s=74,a="43-44"]
+[quote]
+____
+*Qur'an, Sūrat al-Muddaththir (74:43–44):* "[They will say:] We were not among those who prayed, nor did we feed the needy."footnote:s14-muddaththir1[Sūrat al-Muddaththir, the Blessed Sūrah / verses 43 and 44.]
+____
 
-[.verse-cite]
-— Sūrat al-Māʿūn (107:1-3)
-****
-
-[.quranverse]
-****
-[.arabic]
-قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ
-
-"[They will say:] We were not among those who prayed, nor did we feed the needy."footnote:s14-muddaththir1[Sūrat al-Muddaththir, the Blessed Sūrah / verses 43 and 44.]
-
-[.verse-cite]
-— Sūrat al-Muddaththir (74:43-44)
-****
-
-[.quranverse]
-****
-[.arabic]
-وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ
-
-"And we used to deny the Day of Judgment."footnote:s14-muddaththir2[Sūrat al-Muddaththir, the Blessed Sūrah / verse 46.]
-
-[.verse-cite]
-— Sūrat al-Muddaththir (74:46)
-****
+[role="verse quran",surah="al-Muddaththir",s=74,a="46"]
+[quote]
+____
+*Qur'an, Sūrat al-Muddaththir (74:46):* "And we used to deny the Day of Judgment."footnote:s14-muddaththir2[Sūrat al-Muddaththir, the Blessed Sūrah / verse 46.]
+____
 
 The verse of the Qur'an counts among the deniers of religion those who do not incite the feeding of the destitute. They do not stir up and rouse the people to feeding the destitute and — with a broader, deeper view, and an interpretation closer to the very text of Islam — to uprooting poverty and hunger. That person who does not conform himself to this verse takes not a single step on the path of eliminating hungers, advances not a single pace on the path of destroying the root of poverty, and sits waiting for a hand to come out from the unseen and do something. Such people must know that if a hand were to come out from the unseen, it would first strike upon their own brains, to throw these spoiled and void existences away, to bring them down. There is such a thing as a hand coming out from the unseen and doing something — but this is the point I made: it is necessary, for the guidance of man, that a hand should come from the unseen, and that is the hand of the prophet, the hand of prophethood; that is the skill of the messengership which comes and guides human beings, in just the manner we have stated: to rouse the force of reason within them.
 
@@ -146,16 +106,11 @@ What is the starting point of the work of the prophets? From where do they begin
 
 The verses that exist in this field are very pithy and very meaningful verses. My first thought was to explain in detail today this very verse that I am now reciting; then I saw that if I wished to explain it, besides the fact that the matter about prophethood that I wished to say would remain unsaid — it might be put off to tomorrow or the day after — I cannot fully explain even the meaning of this verse in this one hour. It is very interesting; of course I refer the good minds and thought of the friends to be sure to consult and look at this verse in the light of the Qur'an,footnote:s14-taleqani[A reference to _In the Light of the Qur'an_ (_Partuvī az Qurʾān_), a commentary (tafsīr) written by Ayatollah Ṭāleqānī.] for there is a relatively good discussion in that field there. I will content myself with only a brief translation.
 
-[.quranverse]
-****
-[.arabic]
-كَانَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِيَحۡكُمَ بَيۡنَ ٱلنَّاسِ فِيمَا ٱخۡتَلَفُواْ فِيهِۚ وَمَا ٱخۡتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ بَغۡيَۢا بَيۡنَهُمۡۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ لِمَا ٱخۡتَلَفُواْ فِيهِ مِنَ ٱلۡحَقِّ بِإِذۡنِهِۦۗ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٍ
-
-"Mankind was one community (ummah)."footnote:s14-baqarah[Sūrat al-Baqarah, the Blessed Sūrah / verse 213.]
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:213)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="213"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:213):* "Mankind was one community (ummah)."footnote:s14-baqarah[Sūrat al-Baqarah, the Blessed Sūrah / verse 213.]
+____
 
 The people were all one ummah(((Ummah))) and one group. About this the commentators have an extensive discussion among themselves. Were they one ummah — a good ummah? Or were they one ummah — a bad ummah? On either supposition, the parties to the dispute raise an objection. Some say that "Mankind was one community" alludes to the primitive and initial communalism (ishtirākiyyat)(((communalism, ishtirākiyyat))) of the prehistoric eras. I say that there is no evidence for this meaning, except that the name of the communalist and primitive era is on people's tongues, and we feel it a pity that our Qur'an too should have no share of that cloak footnote:s14-proverb[It is a proverb, alluding to having a benefit and share of something.] — only that. Otherwise, "Mankind was one community" alludes to an era when human beings lived with the primitive and original communalism, as the gentlemen say, like — let me put it this way — animals, naked and bare and in herds, going about in the deserts and performing feats of strength, scraping stone with their claws and catching animals, eating them, and sometimes eating one another too. Should we take such a being, or ourselves, to be the referent in this verse "Mankind was one community"? No, no! We never attempt to attach something to our Qur'an from elsewhere. No; what we understand from our Qur'an, that is enough for us. If we understand it, we have done a great feat. Our Qur'an has no need that we should give it some marginal note or appendix from the sayings of others and the cultures of others, and exalt it thereby. No; the Qur'an does not want this kind of exaltation.
 
@@ -221,16 +176,11 @@ And God guides whomever He wills to the straight path. (This is one portion of t
 
 Let those who have a Qur'an with them bring Sūrat al-Jumuʿah, in the twenty-eighth part (juzʾ):
 
-[.quranverse]
-****
-[.arabic]
-يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ ٱلۡمَلِكِ ٱلۡقُدُّوسِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ
-
-"In the name of God, the Most Merciful, the Most Compassionate. Whatever is in the heavens and whatever is in the earth glorifies God, the Sovereign, the Holy, the Mighty, the Wise."
-
-[.verse-cite]
-— Sūrat al-Jumuʿah (62:1)
-****
+[role="verse quran",surah="al-Jumuʿah",s=62,a="1"]
+[quote]
+____
+*Qur'an, Sūrat al-Jumuʿah (62:1):* "In the name of God, the Most Merciful, the Most Compassionate. Whatever is in the heavens and whatever is in the earth glorifies God, the Sovereign, the Holy, the Mighty, the Wise."
+____
 
 This is Sūrat al-Jumuʿah, up to "and God is the possessor of mighty bounty" (wa Llāhu dhū l-faḍli l-ʿaẓīm). (Of course, this sūrah I have explained several times up to now, both here and in that mosque,footnote:s14-mosque[The Mosque of Karāmat, in holy Mashhad.] on various occasions; because on Thursday nights we usually recite this sūrah in the maghrib prayer, so that the believers and friends who participate in that prayer may know its meaning — on this account, I have explained Sūrat al-Jumuʿah several times up to now and have given a brief commentary too; and it may be that many of you gentlemen who are present here have heard from me the commentary on Sūrat al-Jumuʿah. Besides that, I am now tired. And as for the translation, which I have done, in these very papers that are in your hands the translation has been written — this much, in our view, is sufficient for now.)
 

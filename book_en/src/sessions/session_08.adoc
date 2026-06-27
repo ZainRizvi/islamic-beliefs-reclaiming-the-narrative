@@ -52,16 +52,11 @@ In the worldview of Islam, tawhid is just such a thing; tawhid means that the wo
 
 We turn to the verses of the Qur'an, and we see that the Lord of the universe has mentioned precisely this same matter in the Quranic verses. From two places in the Qur'an we have selected verses to be recited and translated today. The first is from Sūrat al-Baqarah, the verse famous as Āyat al-Kursī. The first part of Āyat al-Kursī is in this field, which we will now recite, translate, and reflect upon. It is verse 255.
 
-[.quranverse]
-****
-[.arabic]
-ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ
-
-"In the name of God, the Most Merciful, the Most Compassionate. God — there is no deity but He."footnote:s08-5[In the sessions held during the year 1352, at the Mosque of Karāmat in Mashhad, when the author was devoting himself to the translation of the invocations of the prayer, he presented a translation comprehensible to the general public of these verses. The sixth discourse of the collected discourses titled _Ṣahbā_, under the title "The Detailed Translation of Āyat al-Kursī," is devoted to that lecture.]
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:255)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="255"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:255):* "In the name of God, the Most Merciful, the Most Compassionate. God — there is no deity but He."footnote:s08-5[In the sessions held during the year 1352, at the Mosque of Karāmat in Mashhad, when the author was devoting himself to the translation of the invocations of the prayer, he presented a translation comprehensible to the general public of these verses. The sixth discourse of the collected discourses titled _Ṣahbā_, under the title "The Detailed Translation of Āyat al-Kursī," is devoted to that lecture.]
+____
 
 "Allah" — this is a name for which an equivalent, by way of exposition and elucidation, cannot be found. What is "Allah"? It is God. And who is God? He is that being of whom it is said: _Lā ilāha illā Huwa_ — there is no deity but He. Understand _ilāh_ as "object of worship." _Ilāh_ means any being before whom the human being submits in the manner of sanctification,footnote:s08-6[From the root _(q-d-s)_: to deem pure / hallow.] of veneration and reverence — hands over his own free will to him, entrusts the reins of his life to him, sets him up as one given a free hand and unrestrainedfootnote:s08-7[Without restraint or bond.] over his own life. This, in Quranic terminology, is called _ilāh_. Those who make the desire of the self the holder of the reins of their lives — their _ilāh_ is the desire of their self. Those who give a free hand to a rebellious, transgressing human being in the affairs of their lives — their _ilāh_ is that very Satan. Those who submit, unconditionally and unreservedly, to hollow customs and beliefs — their _ilāh_ is that very hollow custom and belief. Whatever, in the human being's existence and in the human being's life, has a free hand unconditionally, and rules and dominates — that is an _ilāh_.@@CX(servitude | whatever rules a person's life unconditionally becomes that person's ilāh)@@
 
@@ -71,16 +66,11 @@ _Allāhu lā ilāha illā Huwa_ — what is the distinctive quality of this Alla
 
 _Lā taʾkhudhuhū sinatun wa-lā nawm_ — neither drowsiness nor sleep takes hold of Him; light sleep — let alone heavy sleep. It does not seize Him away from Himself. What does this mean? It means that a moment of heedlessness, a moment of inattention, has no way into His being and into His life. The other beings, the false lords, are heedless — of themselves, of the people under their authority, of the world that is in their grip; they are heedless from head to foot, constantly in heedlessness; and even where they claim awareness and knowledge, their awareness and knowledge is false. What prevails over them is heedlessness and ignorance.
 
-[.quranverse]
-****
-[.arabic]
-۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ
-
-"Have you not seen those who exchanged the blessing of God for ingratitude, and brought their people down into the abode of ruin — Hell, which they will enter; and an evil place of settlement it is."footnote:s08-8[Sūrat Ibrāhīm, verses 28 and 29.]
-
-[.verse-cite]
-— Sūrat Ibrāhīm (14:28-29)
-****
+[role="verse quran",surah="Ibrāhīm",s=14,a="28-29"]
+[quote]
+____
+*Qur'an, Sūrat Ibrāhīm (14:28–29):* "Have you not seen those who exchanged the blessing of God for ingratitude, and brought their people down into the abode of ruin — Hell, which they will enter; and an evil place of settlement it is."footnote:s08-8[Sūrat Ibrāhīm, verses 28 and 29.]
+____
 
 It was this verse of the Qur'an that Mūsā ibn Jaʿfar(((Mūsā ibn Jaʿfar))) (peace be upon him) recited to Hārūn al-Rashīd.(((Hārūn al-Rashīd))) "Have you not seen those who showed ingratitude for the blessings of God, who were unthankful, and who led their own people and their own followers into the valley of destruction, nonexistence, perdition, and wretchedness? Where is that valley of wretchedness and nonexistence? Hell! They themselves too entered Hell, and they dragged their wretched followers after them into Hell as well — and what an evil dwelling-place Hell is." Mūsā ibn Jaʿfar (peace be upon him) was saying to Hārūn, "You are among them."footnote:s08-9[_Tafsīr Nūr al-Thaqalayn_, under verse 28 of Sūrat Ibrāhīm.] Well, if Hārūn is not heedless, why would he drag himself and his people into the Fire? So the other gods are heedless from head to foot.@@CX(Tāghūt | the false lords are heedless and drag their followers into ruin)@@
 
@@ -110,44 +100,29 @@ From the overall situation of this verse — which is Āyat al-Kursī — this m
 
 The other verse is in Sūrat Maryam; we have selected from Sūrat Maryam, verse 88 onward:
 
-[.quranverse]
-****
-[.arabic]
-وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗا
-
-"And they said, 'The Most Merciful has taken a son.'"
-
-[.verse-cite]
-— Sūrat Maryam (19:88)
-****
+[role="verse quran",surah="Maryam",s=19,a="88"]
+[quote]
+____
+*Qur'an, Sūrat Maryam (19:88):* "And they said, 'The Most Merciful has taken a son.'"
+____
 
 They said that the Merciful God has chosen a son for Himself. The disbelievers have voiced this claim in various forms: the Christians in one way, the Jews in another, the polytheists of Quraysh and the polytheists of Arabia in another, the polytheists of other places in yet another. Some said God has a daughter; some said He has a son; some said He has a daughter and a son; some said He has one; some said He has an infinite number — He has a household! In any case, they said: _Ittakhadha al-Raḥmānu waladā_ — God has a child. From what angle did they say "He has a child"? Note this point carefully: that God having a child — which was claimed by a group of polytheists, or Christians, or Jews — meant that among the creatures of the universe, among the beings, there is one individual whose relation to God is not the relation of being a servant — note this carefully — but the relation of being a child. He is a young lord's son, not a bondsman; though he is not the lord himself. The Jews,(((Jews))) who used to say _ʿUzayr ibn Allāh_ — that is, the prophet ʿUzayr(((ʿUzayr))) is the son of God — wanted to say that, even if all the beings of the universe are servants and thralls of God, ʿUzayr is outside this category; he is no longer a servant of God, he is the young lord's son of God, the light of the eye of God. The Christians, too, who voiced this claim concerning the Messiah; and the disbelievers, too, who said concerning al-Lāt, Manāt, and al-ʿUzzāfootnote:s08-15[In verses 19 and 20 of Sūrat al-Najm, the names of these three idols of the polytheists are mentioned.] that these are the daughters of God; and the polytheists of Greece and Rome, who likewise held that God had numerous god-sons and lordly sons — all of them held this same view. That is, in reality, these two ranks that we have considered — one the rank of God, and one the rank of all the servants and beings, all of whom are humbled before God — these two ranks they were turning into three ranks. They said: God; the servants; and the elite [a class in between] — a child, a young lord's son, a god-son, something.@@CX(shirk | claiming God has a son inserts a privileged third rank between God and His servants)@@ The verses of Sūrat Maryam negate this matter. Pay close attention to the verses through to the end.
 
-[.quranverse]
-****
-[.arabic]
-وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗا لَّقَدۡ جِئۡتُمۡ شَيۡـًٔا إِدّٗا تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرۡنَ مِنۡهُ وَتَنشَقُّ ٱلۡأَرۡضُ وَتَخِرُّ ٱلۡجِبَالُ هَدًّا أَن دَعَوۡاْ لِلرَّحۡمَٰنِ وَلَدٗا
-
-"And they said, 'The Most Merciful has taken a son.' Surely you have brought forth a monstrous, grievous thing. The heavens are nearly torn apart by it, and the earth split asunder, and the mountains brought down in collapse — that they should ascribe a son to the Most Merciful."
-
-[.verse-cite]
-— Sūrat Maryam (19:88-91)
-****
+[role="verse quran",surah="Maryam",s=19,a="88-91"]
+[quote]
+____
+*Qur'an, Sūrat Maryam (19:88–91):* "And they said, 'The Most Merciful has taken a son.' Surely you have brought forth a monstrous, grievous thing. The heavens are nearly torn apart by it, and the earth split asunder, and the mountains brought down in collapse — that they should ascribe a son to the Most Merciful."
+____
 
 _Wa-qālū ittakhadha al-Raḥmānu waladā_ — they said that the Merciful God has chosen and taken a son; _laqad jiʾtum shayʾan iddā_ — you have indeed brought forth an awful and weighty saying. See what God's expression is: a weighty saying, an awful saying, a very dangerous belief you have advanced. _Laqad jiʾtum shayʾan iddā_ — truly a heavy and awful saying you have brought forth. _Takādu al-samāwātu yatafaṭṭarna minhu wa-tanshaqqu al-arḍu wa-takhirru al-jibālu haddā_ — the heavens were near to bursting apart from one another, to splitting open, and the earth to rending asunder, and the mountains to crumbling down in ruin. _An daʿaw li-l-Raḥmāni waladā_ — that they called upon the Merciful a son and held a son for Him.
 
 It is plain that the matter is very grave. God is not such that some obscenity, some bad word, would offend Him; the Lord of the universe is not subject to feelings. That which He gives to the people as a belief is that which has a part in securing the divine aims. And that which He negates as a corrupt belief is that which, believing in it, has a part in securing the corruption of society. The negation of a corrupt belief means the negation of a vein of corruption in human society.@@CX(Tawhid | God affirms or negates beliefs according to their social benefit or corruption)@@ And the belief that God has offspring — has a god-son and a lordly son, has a child — the belief in an intermediary between God and humankind, a separating link, this belief has corrupting effects in society, the corruptions of which, of course, will become clear gradually in the course of the tawhidi discussions. This is, in reality, a pretext for the servants, besides becoming the servant of God, to become the servant of yet another as well.@@CX(shirk | belief in an intermediary becomes a pretext for serving someone besides God)@@
 
-[.quranverse]
-****
-[.arabic]
-وَمَا يَنۢبَغِي لِلرَّحۡمَٰنِ أَن يَتَّخِذَ وَلَدًا إِن كُلُّ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ إِلَّآ ءَاتِي ٱلرَّحۡمَٰنِ عَبۡدٗا لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدّٗا
-
-"And it does not befit the Most Merciful that He should take a son. There is none in the heavens and the earth but that he comes to the Most Merciful as a servant. He has indeed counted them and numbered them, numbering."
-
-[.verse-cite]
-— Sūrat Maryam (19:92-94)
-****
+[role="verse quran",surah="Maryam",s=19,a="92-94"]
+[quote]
+____
+*Qur'an, Sūrat Maryam (19:92–94):* "And it does not befit the Most Merciful that He should take a son. There is none in the heavens and the earth but that he comes to the Most Merciful as a servant. He has indeed counted them and numbered them, numbering."
+____
 
 _Wa-mā yanbaghī li-l-Raḥmāni an yattakhidha waladā_ — it does not befit the Merciful that He should take a son. _In kullu man fī al-samāwāti wa-l-arḍi illā ātī al-Raḥmāni ʿabdā_ — all who are in the heavens and the earth are nothing but ones who come before God in servitude and servanthood; all are servants of God, all are God's servants. _Laqad aḥṣāhum wa-ʿaddahum ʿaddā_ — He has enumerated them, He has taken them in His grip and counted them, a thorough counting. This too is the other verse that was in Sūrat Maryam.
 

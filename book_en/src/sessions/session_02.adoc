@@ -4,27 +4,17 @@
 [.session-subtitle]
 _ایمان (۲) — delivered Friday, 29 Shahrīvar 1353 / 3 Ramaḍān al-Mubārak 1394_
 
-[.quranverse]
-****
-[.arabic]
-إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِيَتۡ عَلَيۡهِمۡ ءَايَٰتُهُۥ زَادَتۡهُمۡ إِيمَٰنٗا وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُمۡ دَرَجَٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
+[role="verse quran",surah="al-Anfāl",s=8,a="2-4"]
+[quote]
+____
+*Qur'an, Sūrat al-Anfāl (8:2–4):* "The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers; for them are ranks with their Lord, and forgiveness, and a generous provision."
+____
 
-"The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers; for them are ranks with their Lord, and forgiveness, and a generous provision."
-
-[.verse-cite]
-— Sūrat al-Anfāl (8:2-4)
-****
-
-[.quranverse]
-****
-[.arabic]
-يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ
-
-"They ask you — O Prophet — about the spoils (al-anfāl)…"footnote:s02-1[Sūrat al-Anfāl, verse 1.]
-
-[.verse-cite]
-— Sūrat al-Anfāl (8:1)
-****
+[role="verse quran",surah="al-Anfāl",s=8,a="1"]
+[quote]
+____
+*Qur'an, Sūrat al-Anfāl (8:1):* "They ask you — O Prophet — about the spoils (al-anfāl)…"footnote:s02-1[Sūrat al-Anfāl, verse 1.]
+____
 
 They are asking you, briefly, about the anfāl — for whom are the anfāl, and to whom do they rightfully belong? The anfāl can be translated this way: the anfāl means the wealth that belongs to the generality of the Muslims. One example is the income that falls to the Muslims in war — not every income, but specific incomes. Another example of the anfāl is the mines, this underground wealth. Another example of the anfāl is the forests. Another example of the anfāl is these vast plains and grazing lands that lie here and there and upon the mountains. In short, the anfāl(((anfāl))) refers to those forms of wealth that do not belong to any one particular individual or to any one particular group, but are at the disposal of everyone — belonging to the whole nation.@@CX(Anfāl | public wealth belonging to the whole nation)@@ One example of these is, of course — as has been mentioned — the particular spoils that fall to the warriors of the Muslim army in war.
 
@@ -46,16 +36,11 @@ What is the command of God? Whatever it is, it is evident that God, concerning a
 
 Now, on the occasion of the name "believer" at the end of this verse, the next verse continues the discourse concerning the attributes of the believers and the conditions of faith:
 
-[.quranverse]
-****
-[.arabic]
-إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِيَتۡ عَلَيۡهِمۡ ءَايَٰتُهُۥ زَادَتۡهُمۡ إِيمَٰنٗا وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُمۡ دَرَجَٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
-
-"The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers."footnote:s02-6[Sūrat al-Anfāl, verses 2 to 4.]
-
-[.verse-cite]
-— Sūrat al-Anfāl (8:2-4)
-****
+[role="verse quran",surah="al-Anfāl",s=8,a="2-4"]
+[quote]
+____
+*Qur'an, Sūrat al-Anfāl (8:2–4):* "The believers are only those who, when God is mentioned, their hearts tremble; and when His signs are recited to them, it increases them in faith; and upon their Lord they rely; those who keep up the prayer and spend out of what We have provided them. Those are the true believers."footnote:s02-6[Sūrat al-Anfāl, verses 2 to 4.]
+____
 
 For the true believer, five traits are appointed here. It may be that these five traits are not present in the speaker and the listener; but if a person makes some effort and exertion toward bringing these five traits into being within himself, he is still on the path of faith, on the path of the goal of faith, and worthy of the name "believer." The true believer is the one in whom these five traits are present.
 
@@ -73,16 +58,11 @@ From this verse and from this sentence we derive that, through the recitation of
 
 The continuation of the verse: *"and upon their Lord they rely."* Another sign of the believers is that they rely and depend upon the Lord. *"And when His signs are recited to them, it increases them in faith"* — this is the second condition, the second trait. *"And upon their Lord they rely"* — that is, what does it mean that they rely (tawakkul)? Does it mean they fold their hands together and say, "Let God set it right Himself"? No, the meaning of tawakkul is not this. The one who folds his hands together in the face of the obligations and commitments and responsibilities, and instead of holding his own power responsible, presumes a divine miracle to be responsible — such a man should know that the Qur'an has rejected this deed, in the form of a firm blow to the mouth of the Children of Israel, who said to Moses:(((Moses)))
 
-[.quranverse]
-****
-[.arabic]
-قَالُواْ يَٰمُوسَىٰٓ إِنَّا لَن نَّدۡخُلَهَآ أَبَدٗا مَّا دَامُواْ فِيهَا فَٱذۡهَبۡ أَنتَ وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
-
-"Go, you and your Lord, and fight; we will sit here."footnote:s02-13[Sūrat al-Māʾidah, verse 24.]
-
-[.verse-cite]
-— Sūrat al-Māʾidah (5:24)
-****
+[role="verse quran",surah="al-Māʾidah",s=5,a="24"]
+[quote]
+____
+*Qur'an, Sūrat al-Māʾidah (5:24):* "Go, you and your Lord, and fight; we will sit here."footnote:s02-13[Sūrat al-Māʾidah, verse 24.]
+____
 
 You and your Lord go, busy yourselves with the war, do battle with the enemy; we will sit here — in my own expression, by the wall, in the shade — when you have conquered, then inform us too so that we may come. The Qur'an negates this method. This method is the method of the accursed, banished Children of Israel,(((Children of Israel))) far from the road of humanity, deprived of the delights of religion and faith; it is for them, not befitting a Muslim.@@CX(Tawakkul | not folding one's hands and awaiting a miracle)@@ So tawakkul does not mean this. This saying that has become current among the people — I am saying it so that all may hear and all may understand — this thing that is current among the people, when they say, "Sir, God Himself must set things right; nothing can come from God's servant" — this is wrong. If nothing could come from God's servant, if for the removal and uprooting of corruption the will of man and the power of man were of no avail, God would not have mobilized the prophets. He would not have invited the people to follow the prophets. He would not have sent the divine prophets, with their heavy missions, into the arena of battle in this world. This that you see — that God has sent persons for the uprooting of corruption, and those persons are of the human race — so know that human corruption must be uprooted by humans.@@CX(Tawakkul | God mobilized humans to uproot corruption by human effort)@@
 
@@ -100,16 +80,11 @@ Third: *"and upon their Lord they rely."* Fourth: *"those who keep up the prayer
 
 Several possibilities can be supposed, and it may be that all of these possibilities are correct. One is that we say: the establishment of prayer, the keeping up of prayer, means performing the prayer in a complete form, in an all-around form, in a perfect form: *"those who keep up the prayer."* And "establishment" (iqāmah), in the Arabic language, in Arabic usage, is precisely in these very meanings — that is, carrying out the work in a complete form:
 
-[.quranverse]
-****
-[.arabic]
-فَأَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفٗاۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيۡهَاۚ لَا تَبۡدِيلَ لِخَلۡقِ ٱللَّهِۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ
-
-"So set your face toward the religion, devoted purely (to it)."footnote:s02-19[Sūrat al-Rūm, verse 30.]
-
-[.verse-cite]
-— Sūrat al-Rūm (30:30)
-****
+[role="verse quran",surah="al-Rūm",s=30,a="30"]
+[quote]
+____
+*Qur'an, Sūrat al-Rūm (30:30):* "So set your face toward the religion, devoted purely (to it)."footnote:s02-19[Sūrat al-Rūm, verse 30.]
+____
 
 Turn the whole face, the whole being, toward religion, in a complete form. This is one possibility. And the truth of it is precisely this: that if a person establishes the prayer in this sense — that is, performs it in a complete form, with correct pillars, with attention to the teachings and inspirations of the prayer (about which I conducted, in that mosquefootnote:s02-20[The Karāmat Mosque in holy Mashhad.] over the course of several weeks, a relatively detailed discussion on prayer) — if a person prays in this manner, then success and salvation surely await him. A person who prays well — all his difficulties become easy for him. You have heard that some of the great ones of religion, at the time of facing hardships and calamities, would pray two rakʿahs? You have heard that the Messenger of God, at the time of crises and severities, would turn to Bilāl(((Bilāl))) and say, "Comfort us, O Bilāl" (_ariḥnā yā Bilāl_) — Bilāl, ease us; go give the call to prayer. "Cool us, cool us, O Bilāl" (_abrid, abrid yā Bilāl_) — cool our hearts, O Bilāl; that is, give the call to prayer.footnote:s02-21[Hadith no. 35.] Truly, if a person establishes the prayer — with attention, with humility, with reverence, with presence of heart, with comprehension of what he is doing and what he is saying, and with the intent of taking a result from the prayer — whoever prays, if he establishes prayer in this sense, then certainly that which has been promised to the believers will exist for him.
 
@@ -117,16 +92,11 @@ This is one possibility. The other possibility is that *"those who keep up the p
 
 What is the sign of faith? The establishment of prayer — keeping up the prayer in society, making everyone a praying people — not in the sense that everyone performs a single act of worship. (I want you to take your mind out of the mold of the words, to think more broadly. I too think in just that way. Words are small and inadequate and deficient.) Not that so-and-so is not a prayer-performer, so let us make him a prayer-performer; rather, a praying society means a society that is always remembering God and on God's path. A society that says:
 
-[.quranverse]
-****
-[.arabic]
-إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ
-
-"You alone do we worship, and from You alone do we seek help."footnote:s02-23[Sūrat al-Fātiḥah, verse 5.]
-
-[.verse-cite]
-— Sūrat al-Fātiḥah (1:5)
-****
+[role="verse quran",surah="al-Fātiḥah",s=1,a="5"]
+[quote]
+____
+*Qur'an, Sūrat al-Fātiḥah (1:5):* "You alone do we worship, and from You alone do we seek help."footnote:s02-23[Sūrat al-Fātiḥah, verse 5.]
+____
 
 A society that worships and serves none but God, and relies upon none but God and seeks help from none but God. A praying society means that society which every day disavowsfootnote:s02-24[(b-r-ʾ) To keep away from and seek disavowal.] the ringleaders of corruption — that is, *"those upon whom is wrath (al-maghḍūbi ʿalayhim)"* — and the followers of corruption — that is, *"those who go astray (al-ḍāllīn)."* This is their prayer.
 

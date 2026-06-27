@@ -4,29 +4,19 @@
 [.session-subtitle]
 _در پیرامون ولایت (۳): هجرت — delivered Wednesday, 24 Mehr 1353 / 29 Ramadan al-Mubārak 1394_
 
-[.quranverse]
-****
-[.arabic]
-۞وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
-
-"And whoever emigrates in the way of God will find in the earth many a place of refuge and abundance; and whoever goes forth from his house as an emigrant to God and His Messenger, and then death overtakes him — his reward has fallen due upon God; and God is ever Forgiving, Merciful."
-
-[.verse-cite]
-— Sūrat al-Nisāʾ (4:100)
-****
+[role="verse quran",surah="al-Nisāʾ",s=4,a="100"]
+[quote]
+____
+*Qur'an, Sūrat al-Nisāʾ (4:100):* "And whoever emigrates in the way of God will find in the earth many a place of refuge and abundance; and whoever goes forth from his house as an emigrant to God and His Messenger, and then death overtakes him — his reward has fallen due upon God; and God is ever Forgiving, Merciful."
+____
 
 The question of _hijrah_(((hijrah))) (emigration) relates to the question of _wilāyah_(((Wilayah))), with that breadth in which we have framed the question of wilāyah here. We said that wilāyah consists of forging a firm bond and connection among the elements of the believing ranks with one another, and of severing every form of attachment between the believing ranks and the non-believing ranks; and, at a further level, of forging a most powerful and strong bond between every individual of the believing ranks and that central point and concentrated authority upon whom the administration of the Islamic society rests — that is, the _imam_, the _walī_, the ruler, the leader.@@CX(Wilayah | binds believers together and to the divine walī)@@ Alongside this, we then discussed who the _walī_ and leader is within the Islamic society. The Qur'an gave us our answer:
 
-[.quranverse]
-****
-[.arabic]
-إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ
-
-"Your guardian (_walī_) is only God, and His Messenger, and those who believe — those who establish the prayer and pay the alms while bowing."footnote:s28-1[Sūrat al-Māʾidah, verse 55.]
-
-[.verse-cite]
-— Sūrat al-Māʾidah (5:55)
-****
+[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
+[quote]
+____
+*Qur'an, Sūrat al-Māʾidah (5:55):* "Your guardian (_walī_) is only God, and His Messenger, and those who believe — those who establish the prayer and pay the alms while bowing."footnote:s28-1[Sūrat al-Māʾidah, verse 55.]
+____
 
 — to which we pointed, in connection with the affair of the Commander of the Faithful, may God's blessings be upon him. If we have been able to understand wilāyah with this breadth, and if we do not reduce the matter to the level of the subsidiary issues of wilāyah and to the second degree of wilāyah — as some, without due attention, do reduce it — then the question of hijrah turns out to be one of the corollaries of the question of wilāyah. Why do we say it this way? Because if it is necessary that every human being live within the wilāyah of God and of the _walī_ of God — which is what the principle of wilāyah taught us — and if we have accepted that a human being must put all of his energies, all of his bodily, intellectual, and psychic vitalities to work under the will of the divine _walī_ and the governor who is _min qibal Allāh_footnote:s28-2["From God."] (from God), and, in short, that with every element of his being a human being must be a servant of God and not a servant of the _Tāghūt_ — if we accept and embrace these points, then we have no choice but to accept this too: that if somewhere our existence, our being and all our energies and vitalities, were not under the command of the divine wilāyah but rather under the command of the _Tāghūtī_ and satanic wilāyah, then our divine commitment is that we free ourselves from the bonds and shackles of the wilāyah of the Tāghūt(((Tāghūt))) — that we rescue ourselves, liberate ourselves, and go beneath the most blessed shade of the wilāyah of God. Coming out of that oppressive wilāyah and entering that just wilāyah — its name is _hijrah_.@@CX(hijrah | moving from oppressive wilayah to just wilayah)@@ You see, then, that the question of hijrah is one of the matters that arises in the train of wilāyah. This is why we placed the discussion at the very outset: "Concerning Wilāyah" — that is, in connection with wilāyah we mentioned three topics, and this is the fourth.
 
@@ -46,16 +36,11 @@ ____
 
 Another verse of the Qur'an says:
 
-[.quranverse]
-****
-[.arabic]
-۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ
-
-"Have you not regarded those who exchanged the bounty of God for ingratitude and settled their people in the abode of perdition — Hell, which they shall enter? And what an evil place of settlement!"footnote:s28-4[Sūrat Ibrāhīm, verses 28 and 29.]
-
-[.verse-cite]
-— Sūrat Ibrāhīm (14:28-29)
-****
+[role="verse quran",surah="Ibrāhīm",s=14,a="28-29"]
+[quote]
+____
+*Qur'an, Sūrat Ibrāhīm (14:28–29):* "Have you not regarded those who exchanged the bounty of God for ingratitude and settled their people in the abode of perdition — Hell, which they shall enter? And what an evil place of settlement!"footnote:s28-4[Sūrat Ibrāhīm, verses 28 and 29.]
+____
 
 Have you not looked upon those people who were ungrateful for the bounty of their Lord? This bounty for which they were ungrateful — what was it? It could be anything. The bounty of power, which is a manifestation of the power of the Lord; worldly powers; the bounty of stewardship and administering the affairs of thousands of human beings; the bounty of having at one's disposal the capacities, thoughts, energies, and abundant powers of human beings — all of these are bounties; these are capitals that could have been a source of good for humanity. The human beings who came under the control of those people referred to in this verse — these human beings could have been great human beings, could have been the elite servants of God, could have reached the highest degrees of perfection; but these people were ungrateful for these bounties, did not put them to work in the way that they ought. Then the verse goes on to say: "_wa aḥallū qawmahum dār al-bawār_" — and they too cast their own people into the abode of perdition; they drove their people and the people under their command into the realm of nonexistence, annihilation, and destruction. "_Jahannama yaṣlawnahā_" — and they drove them into Hell, into which they will be made to slide and be flung. "_Wa biʾsa al-qarār_" — and what an evil abode and place of settlement it is!
 
@@ -105,16 +90,11 @@ In the first example, the driver was a trustworthy driver, a driver who knew the
 
 What are they to do? What are they to do? Here the verse of the Qur'an gives the answer. The verse of the Qur'an gives the answer to this "what are they to do"; it says:
 
-[.quranverse]
-****
-[.arabic]
-إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلۡمَلَـٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡ قَالُواْ فِيمَ كُنتُمۡۖ قَالُواْ كُنَّا مُسۡتَضۡعَفِينَ فِي ٱلۡأَرۡضِۚ قَالُوٓاْ أَلَمۡ تَكُنۡ أَرۡضُ ٱللَّهِ وَٰسِعَةٗ فَتُهَاجِرُواْ فِيهَاۚ فَأُوْلَـٰٓئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَسَآءَتۡ مَصِيرًا إِلَّا ٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ لَا يَسۡتَطِيعُونَ حِيلَةٗ وَلَا يَهۡتَدُونَ سَبِيلٗا فَأُوْلَـٰٓئِكَ عَسَى ٱللَّهُ أَن يَعۡفُوَ عَنۡهُمۡۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورٗا ۞وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا
-
-"Indeed, those whom the angels take in death while they were wronging themselves..."footnote:s28-15[Sūrat al-Nisāʾ, verses 97 to 100.]
-
-[.verse-cite]
-— Sūrat al-Nisāʾ (4:97-100)
-****
+[role="verse quran",surah="al-Nisāʾ",s=4,a="97-100"]
+[quote]
+____
+*Qur'an, Sūrat al-Nisāʾ (4:97–100):* "Indeed, those whom the angels take in death while they were wronging themselves..."footnote:s28-15[Sūrat al-Nisāʾ, verses 97 to 100.]
+____
 
 Those whose souls the angels seize while these wretches have been wronging themselves; those people who wronged their own souls, their own future, their own everything, and are now dying — the angels of God, the agents of the Lord, are seizing their souls. "_Qālū_" — the angels say to them — "_fīma kuntum_" — "In what condition were you? Where were you?" A person might imagine that the angel of heaven, when it sees that this man's condition is so wretched — like that man who has come, that physician, or that surgeon who has come to operate, say, on a patient, and sees that his condition is very bad, that this patient's condition is very lamentable and despair-inducing — says, "Wherever were you living? Why is your condition like this?" I draw this analogyfootnote:s28-16[_Istīnās_ (from the root _a-n-s_): familiarization; a metonym for bringing a concept near to the mind.]: that the angels, out of the wretchedness of this poor man's state, out of the badness of his soul, out of the misery and torment that await him, are astonished, and say to him, "Wherever were you living, you poor wretch? Where were you that you wronged yourselves so, and are now departing this world, departing this world as a wrongdoer against your own soul?" "_Qālū fīma kuntum_" — "Where were you? How were you?"
 
@@ -126,16 +106,11 @@ The _mustaḍʿafīn_ of the earth are those who, within a society, have no news
 
 The _mustaḍʿafīn_ in a society are these — the majority, the uninformed mass of the people. Of course, in societies other than those administered by a sound system — not those societies that set a value on the jewel of humanity; not those societies that hold a dignity for the human being and for the human will; not that society whose leader is the Prophet, of whom, although he is the Prophet, the Qur'an says:
 
-[.quranverse]
-****
-[.arabic]
-فَبِمَا رَحۡمَةٖ مِّنَ ٱللَّهِ لِنتَ لَهُمۡۖ وَلَوۡ كُنتَ فَظًّا غَلِيظَ ٱلۡقَلۡبِ لَٱنفَضُّواْ مِنۡ حَوۡلِكَۖ فَٱعۡفُ عَنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ فِي ٱلۡأَمۡرِۖ فَإِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَوَكِّلِينَ
-
-"And consult them in the affair."footnote:s28-18[Sūrat Āl ʿImrān, verse 159.]
-
-[.verse-cite]
-— Sūrat Āl ʿImrān (3:159)
-****
+[role="verse quran",surah="Āl ʿImrān",s=3,a="159"]
+[quote]
+____
+*Qur'an, Sūrat Āl ʿImrān (3:159):* "And consult them in the affair."footnote:s28-18[Sūrat Āl ʿImrān, verse 159.]
+____
 
 — even though he is the Prophet, even though he has no need to consult the people, he is nonetheless commanded to consult the people, to hold them dear, to deem them great, to give them personality.@@CX(Wilayah | even the Prophet is commanded to consult and dignify the people)@@ Not these societies — such a society does not have such a mass; but in those societies administered by an individualistic system, by a tyrannical system, by an ignorant system and the like, the majority of the people are _mustaḍʿafīn_.
 

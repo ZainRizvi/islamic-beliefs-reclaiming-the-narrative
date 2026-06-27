@@ -4,16 +4,11 @@
 [.session-subtitle]
 _ایمان از روی آگاهی — delivered Saturday, 30 Shahrivar 1353 / 4 Ramadan al-Mubarak 1394_
 
-[.quranverse]
-****
-[.arabic]
-إِنَّ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ لَأٓيَٰتٖ لِّأُوْلِي ٱلۡأَلۡبَٰبِ ٱلَّذِينَ يَذۡكُرُونَ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِهِمۡ وَيَتَفَكَّرُونَ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَٰذَا بَٰطِلٗا سُبۡحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
-
-"Indeed, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for those endowed with understanding — those who remember God standing and sitting and lying upon their sides, and who reflect upon the creation of the heavens and the earth, [saying:] 'Our Lord, You did not create this in vain. Glory be to You! Protect us, then, from the punishment of the Fire.'"
-
-[.verse-cite]
-— Sūrat Āl ʿImrān (3:190-191)
-****
+[role="verse quran",surah="Āl ʿImrān",s=3,a="190-191"]
+[quote]
+____
+*Qur'an, Sūrat Āl ʿImrān (3:190–191):* "Indeed, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for those endowed with understanding — those who remember God standing and sitting and lying upon their sides, and who reflect upon the creation of the heavens and the earth, [saying:] 'Our Lord, You did not create this in vain. Glory be to You! Protect us, then, from the punishment of the Fire.'"
+____
 
 In light of the several verses we are reciting today — those written on that sheet — two or three further truths concerning faith come to hand.
 
@@ -27,16 +22,11 @@ Such is the standing of a number of leaders who are politicians remote from spir
 
 Faith is one of the characteristics found in the prophets of God; and here is acceptance with one's whole being, belief in what one says. Faith means belief, acceptance, and reception with one's whole being — belief in what one says. And the sign of belief is precisely this: that one oneself, ahead of others, takes a step on that road and moves forward.@@CX(Faith | its sign is acting first on what one believes)@@ Thus the verse of the Qur'an teaches us in this way; it says:
 
-[.quranverse]
-****
-[.arabic]
-ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيۡهِ مِن رَّبِّهِۦ وَٱلۡمُؤۡمِنُونَۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّن رُّسُلِهِۦۚ وَقَالُواْ سَمِعۡنَا وَأَطَعۡنَاۖ غُفۡرَانَكَ رَبَّنَا وَإِلَيۡكَ ٱلۡمَصِيرُ
-
-"The Messenger has believed in what was sent down to him from his Lord, and so have the believers. Each one has believed in God, His angels, His scriptures, and His messengers. [They say:] 'We make no distinction between any of His messengers.' And they say: 'We hear and we obey. [Grant us] Your forgiveness, our Lord, and to You is the [final] return.'"
-
-[.verse-cite]
-— Sūrat al-Baqarah (2:285)
-****
+[role="verse quran",surah="al-Baqarah",s=2,a="285"]
+[quote]
+____
+*Qur'an, Sūrat al-Baqarah (2:285):* "The Messenger has believed in what was sent down to him from his Lord, and so have the believers. Each one has believed in God, His angels, His scriptures, and His messengers. [They say:] 'We make no distinction between any of His messengers.' And they say: 'We hear and we obey. [Grant us] Your forgiveness, our Lord, and to You is the [final] return.'"
+____
 
 _Āmana al-Rasūl bimā unzila ilayhi min Rabbihi_ footnote:s03-9[Sūrat al-Baqarah, verse 285.] — the Prophet has believed in what was sent down to him from his Lord. _Wa al-muʾminūn_ — and the believers, those who came to faith in him, those outstanding individuals who gathered around him and became the loudspeakers of his summons, are likewise so. _Kullun āmana billāh_ — each one, or every one of them, believed in God, accepted God, came to believe in Him; _wa malāʾikatihi_ — and the angels of God; _wa kutubihi_ — and the heavenly scriptures from beginning to end, entirely; _wa rusulihi_ — and all His messengers. The faith of the Prophet and his companions is in all of them, for the road is one road —
 
@@ -65,16 +55,11 @@ After all, a hundred years ago, there did not exist this multitude of highwaymen
 
 In any case, this is a truth and a certain point in Islam; brothers! Worthy faith is aware faith.@@CX(Faith | only aware faith joined with understanding has worth in Islam)@@ It is faith joined with understanding and perception; it is a faith that has come into being out of insight, with open eyes, without fear of difficulties. As for that faith which a certain Muslim man has — to preserve which we must say: let him not read the newspaper, let him not read such-and-such a book, let him not walk in the street and bazaar, let him not speak with such-and-such a person, let him not suffer cold or heat, let him not see sun or moon, so that it may last — this faith, alas, will not last. What is needed is a faith chosen so consciously that, in the harshest of conditions, that faith is not taken from him.
 
-[.quranverse]
-****
-[.arabic]
-مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِيمَٰنِهِۦٓ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ مُطۡمَئِنُّۢ بِٱلۡإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ صَدۡرٗا فَعَلَيۡهِمۡ غَضَبٞ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِيمٞ
-
-"…except one who is compelled while his heart is at rest in faith…"footnote:s03-16[Sūrat al-Naḥl, verse 106.]
-
-[.verse-cite]
-— Sūrat al-Naḥl (16:106)
-****
+[role="verse quran",surah="al-Naḥl",s=16,a="106"]
+[quote]
+____
+*Qur'an, Sūrat al-Naḥl (16:106):* "…except one who is compelled while his heart is at rest in faith…"footnote:s03-16[Sūrat al-Naḥl, verse 106.]
+____
 
 Concerning ʿAmmār Yāsir(((ʿAmmār Yāsir))), the verse of the Qur'an says: if under torture, in order to turn the enemy away from you for a moment, you said a single word — say it; your faith is not a faith that is effaced from your heart by torture. That faith which Khabbāb ibn al-Aratt(((Khabbāb ibn al-Aratt))) had — they would heat iron and press it to his neck — this is no joke; they would bring glowing iron near his body and press it to the skin of his body — and because of that deep, aware faith of his, he would not give up. Faith is this.@@CX(Faith | aware faith cannot be torn from the heart even under torture)@@
 
@@ -100,16 +85,11 @@ Well, _Rabbanā_ — these wise, intelligent ones, these _ulū al-albāb_, these
 
 There is also a third point, which I will state very briefly (since unfortunately a portion of the time was taken up by the beginning of our session). The third point is this: that since aware faith is what is desired in Islam, and since God Most High does not accept unaware faith and assigns it no honor or worth@@CX(Faith | God accepts no honor or worth for unaware faith)@@ — therefore in several places in the Qur'an it severely rebukes the blind, imitative, prejudiced faiths — for often, too, such faiths slam a person to the ground head-first — it severely censures such faiths. We have written one of its verses here, though if I want to find it in the Qur'an it becomes a bit difficult.
 
-[.quranverse]
-****
-[.arabic]
-وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُواْ حَسۡبُنَا مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ ءَابَآؤُهُمۡ لَا يَعۡلَمُونَ شَيۡـٔٗا وَلَا يَهۡتَدُونَ
-
-"And when it is said to them, 'Come to what God has sent down and to the Messenger…'"footnote:s03-23[Sūrat al-Māʾidah, verse 104.]
-
-[.verse-cite]
-— Sūrat al-Māʾidah (5:104)
-****
+[role="verse quran",surah="al-Māʾidah",s=5,a="104"]
+[quote]
+____
+*Qur'an, Sūrat al-Māʾidah (5:104):* "And when it is said to them, 'Come to what God has sent down and to the Messenger…'"footnote:s03-23[Sūrat al-Māʾidah, verse 104.]
+____
 
 — the talk is of the unbelievers and the reactionaries — and when it is said to them, "Come toward what God has sent down, and come toward the Prophet." (The way I translated it here: and when it is said to them, "Come, and test and understand what God has sent down and what the Prophet teaches." Well — come close, understand, then; come and listen, see what the Prophet says; does the Prophet have something to say?) What is their answer? Instead of coming, instead of thinking, instead of trying to understand and to choose their road — _qālū_ — they say: _ḥasbunā mā wajadnā ʿalayhi ābāʾanā_ — "the way and custom upon which we found our fathers is enough for us. We do not go after these new words." The unbeliever — in the words of one of the researchers — the unbelievers in the Qur'an are everywhere another name and expression for the reactionaries of the centuries and the ages. Everywhere the Prophet is the enlightened intellectual of his time; he has a new word, he has a new road, he summons toward the new; whereas the unbelievers and opponents are the prejudiced, the imitators, the rigid-minded, and the reactionaries who do not like and do not accept his new road.@@CX(Prophethood | the prophet brings the new road while unbelievers are reactionaries clinging to the old)@@
 
