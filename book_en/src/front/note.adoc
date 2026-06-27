@@ -73,7 +73,7 @@ The fifth feature of the book is its reflection of his fresh and original view o
 
 "A certain group in Mashhad raised an uproar against me, asking why so-and-so had said these things under the word 'Wilāyat' — whereas this was not a denial of the wilāyat that they used to speak of. They said wilāyat means love. Well, we accept the love of the Imams; wilāyat means belief in the Imamate of ʿAlī (peace be upon him) — that we did accept. There were certain things, over and above these, that we had discovered in the word 'wilāyat.' I gathered together the verses of wilāyat in the Qur'an — the verses in which the word 'wilāyat' is used; for instance, imagine,
 
-[.verse,quran,surah="al-Kahf",s=18,a="44"]
+[role="verse quran",surah="al-Kahf",s=18,a="44"]
 [quote]
 ____
 *Qur'an, Sūrat al-Kahf (18:44):* _hunālika l-walāyatu lillāh_ — "There, authority [walāyah] belongs to God."footnote:note-1[Sūrat al-Kahf (the Blessed Sūra), verse 44.]

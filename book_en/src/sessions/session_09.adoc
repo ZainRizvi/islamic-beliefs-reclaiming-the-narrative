@@ -144,7 +144,7 @@ Suddenly it transfers the discourse to a scene of the Resurrection. It describes
 
 everyone has some power, everyone does something. Those who sit on high have more power, but those who sit below also have power, after all. Everyone prides himself on his own power; everyone has some measure and substance of capacity and force within him; something does come from him, after all — especially that tyrant, that oppressor, whose deed is greater, whose power too is greater. And even that oppressor who performed the worship of an oppressor — for he too is an oppressor, he too is a tyrant — he too, in his own imagination, enjoys some power; because he has connected himself with a higher power, like a fox that has tied its tail to a camel's tail.footnote:s09-24[An idiom for dependence on worthless grandees.] In the world it is like this. But at the Resurrection, when they gather, whatever they look at, whoever refers back to himself, he sees that there is no power, no capacity, no competence in him; power is entirely in the hand of God.
 
-[role="verse quran",surah="al-Mu'min/Ghāfir",s=40,a="16"]
+[role="verse quran",surah="Ghāfir",s=40,a="16"]
 [quote]
 ____
 *Qur'an, Sūrat al-Mu'min/Ghāfir (40:16):* "_Li-man al-mulku al-yawm? Li-Llāh al-wāḥid al-qahhār_" — "Whose is the sovereignty this day? It belongs to God, the One, the Subduer."footnote:s09-25[Sūrat al-Mu'min (Ghāfir), verse 16.]

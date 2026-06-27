@@ -50,7 +50,7 @@ What does a human being need? *One:* he needs to know the goal and the destinati
 
 This anxiety has existed for most travelers, most wayfarers of the roads of happiness throughout history. How much they pleaded with Moses, saying, "We fear that you have said something false, that a false promise has been given to you." In the Qur'an it says that the pressure and poverty were so great that even the elite would waver, asking:
 
-[role="verse quran",surah="al-Baqara",s=2,a="214"]
+[role="verse quran",surah="al-Baqarah",s=2,a="214"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqara (2:214):* "…When will the help of God come?…"footnote:s06-6[The blessed Sūrat al-Baqara, verse 214.]
@@ -92,7 +92,7 @@ At the first step, none of the leaders and great ones and wayfarers and follower
 
 In several other verses of the Qur'an, too, there is a reference to this matter. In one place, in a verse — which we have not written here — He says that when a sura or a verse is sent down, the unbelievers and opponents and hypocrites and the ill-willed and the diseased of heart say:
 
-[role="verse quran",surah="al-Tawba",s=9,a="124"]
+[role="verse quran",surah="al-Tawbah",s=9,a="124"]
 [quote]
 ____
 *Qur'an, Sūrat al-Tawba (9:124):* "…Which of you has this increased in faith?…"footnote:s06-13[The blessed Sūrat al-Tawba, verse 124.]
@@ -140,7 +140,7 @@ These were the verses that exist in the Qur'an in connection with guidance, that
 
 We said that light is one of the things necessary for a human being to become happy, with that explanation that we gave about light on that previous page. To the believers, light has been promised:
 
-[role="verse quran",surah="al-Baqara",s=2,a="257"]
+[role="verse quran",surah="al-Baqarah",s=2,a="257"]
 [quote]
 ____
 *Qur'an, Sūrat al-Baqara (2:257):* _"Allāhu waliyyu alladhīna āmanū, yukhrijuhum mina al-ẓulumāti ilā al-nūr…"_footnote:s06-17[The blessed Sūrat al-Baqara, verse 257.] — "God is the walī of those who believe; He brings them out of the darknesses into the light…"

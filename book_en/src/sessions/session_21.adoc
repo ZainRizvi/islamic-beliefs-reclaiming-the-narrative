@@ -4,7 +4,7 @@
 [.session-subtitle]
 _فرجام نبوت (۲) — delivered Wednesday, 17 Mehr 1353 / 22 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Muʾmin / Ghāfir",s=40,a="51-54"]
+[role="verse quran",surah="Ghāfir",s=40,a="51-54"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muʾmin / Ghāfir (40:51–54):* "Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise — the Day when their excuses will be of no benefit to the wrongdoers; and theirs is the curse, and theirs is the evil abode. And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."footnote:s21-1[Qur'an, Sūrat al-Muʾmin (Ghāfir), verses 51–54.]
@@ -86,7 +86,7 @@ At any rate, the summary of the matter comes to this: that the divine prophets, 
 
 Now let us return to the verses of the Qur'an. Today I have chosen verses from several places in the Noble Qur'an — the written text of which will, of course, reach your hands tomorrow — and I saw that there are even more verses of glad tiding in the Qur'an than these. One is in Sūrat al-Muʾmin (Ghāfir), where He says — and there is no need for me to read those verses here now:
 
-[role="verse quran",surah="al-Muʾmin / Ghāfir",s=40,a="51"]
+[role="verse quran",surah="Ghāfir",s=40,a="51"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muʾmin / Ghāfir (40:51):* "Indeed, We will surely help Our messengers and those who believe, in the life of this world and on the Day when the witnesses arise."
@@ -96,7 +96,7 @@ Allow me to read them, there is no harm in it; I would regret not explaining the
 
 There is a tradition concerning this noble verse in which the Imam, peace be upon him, said to Jamīl ibn Darrāj — according to that tradition — that what is meant by God's help to the prophets is their being helped in the world of the Return (rajʿah).footnote:s21-16[Imam al-Ṣādiq, in _Tafsīr Nūr al-Thaqalayn_, on verse 51 of Sūrat al-Muʾmin.] That is to say, after the Wali of the Age, may God's blessings be upon him, comes, and that all-encompassing divine government comes into being in this world, and the banner of the Qur'an and Islam is planted across the entire world, and all the people move toward religion, God, and monotheism, and the single divine government comes into being — after that, God the Exalted brings back to life the prophets, the messengers, the executors of the prophets (awṣiyāʾ), the martyrs, and the righteous among the believers — in accordance with verses of the Qur'an interpreted to this meaning, and traditions that are explicit on this meaning. I will not now go into the discussion of the Return. In this narration the Imam says that this is for the Return — this verse is connected to the Return, and the help is for the Return. I myself imagine that the Imam, peace be upon him, does not wish to interpret this phrase — _fī al-ḥayāti al-dunyā_ — as referring to the Return. The Imam does not wish to say that what God has stated — that We help them in the life of this world — means "in the Return within the life of this world." I think that _yawma yaqūmu al-ashhād_ is being interpreted as the Return, and not as the Resurrection — for what helping is there in the Resurrection? In the era of the Return, God the Exalted helps the prophets. This I offer as a probability, and I draw this inference from this narration only as a probability. At any rate,footnote:s21-17[_ʿAlā ayyi ḥāl_ — "in any case, at all events."] even if we set aside this benefit altogether, the phrase _fī al-ḥayāti al-dunyā_ itself, on its apparent meaning, and by the indication of the verses that come afterward as well, shows that God the Exalted gives an explicit promise to the prophets and to the believers that, in this very worldly life, We will help you.
 
-[role="verse quran",surah="al-Muʾmin / Ghāfir",s=40,a="52"]
+[role="verse quran",surah="Ghāfir",s=40,a="52"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muʾmin / Ghāfir (40:52):* "The Day when their excuse will not benefit the wrongdoers; and theirs is the curse, and theirs is the evil abode."
@@ -114,7 +114,7 @@ This too is interpreted as the era of the coming of the Wali of the Age — it i
 
 Then, to bring a witness to the fact that We help the prophets, He cites the episode of Moses; for since, before this verse, from the early part of Sūrat al-Muʾmin, the discourse is mostly about Moses and his struggles against Pharaoh, here too — where He gives the promise of help to all the prophets — He says, as one type, one instance, one example:
 
-[role="verse quran",surah="al-Muʾmin / Ghāfir",s=40,a="53-54"]
+[role="verse quran",surah="Ghāfir",s=40,a="53-54"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muʾmin / Ghāfir (40:53–54):* "And We had certainly given Moses guidance, and We bequeathed to the Children of Israel the Book — a guidance and a remembrance for those endowed with understanding."
@@ -124,7 +124,7 @@ _Wa laqad ātaynā Mūsā al-hudā_ — "We gave Moses guidance and right-guided
 
 _Fa-ṣbir_ — then, when this matter is concluded, He addresses the Seal of the Prophets, saying: _Fa-ṣbir_ — "so be patient, persevere, resist the impulses that bring about decline." _Inna waʿda'llāhi ḥaqq_ — without doubt, God's promise is true. This promise that God has given — that He has said you will be victorious; that promise which was in Sūrat al-Ṣāffāt: _Wa laqad sabaqat kalimatunā li-ʿibādinā al-mursalīn, innahum lahumu al-manṣūrūn_ — and likewise the other promises that are in the Qur'an — these are true, these are correct. You will surely be victorious, O Prophet, in accordance with the divine promise; but the condition for it is patience. _Fa-ṣbir_ — you must be patient, you must resist and persevere, you must not turn back from the sacred contest you have undertaken.
 
-[role="verse quran",surah="al-Muʾmin / Ghāfir",s=40,a="55"]
+[role="verse quran",surah="Ghāfir",s=40,a="55"]
 [quote]
 ____
 *Qur'an, Sūrat al-Muʾmin / Ghāfir (40:55):* "So be patient — indeed, the promise of God is true — and seek forgiveness for your sin, and glorify your Lord with praise in the evening and the morning."
