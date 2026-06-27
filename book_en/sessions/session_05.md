@@ -1,0 +1,287 @@
+## Session 5: Faith and Adherence to Commitments
+
+*ایمان و پایبندی به تعهدات — delivered Monday, 1 Mehr 1353 / 6 Ramaḍān al-Mubārak 1394*
+
+> **Qur'an, Sūrat al-Nūr (24:51):** "The only saying of the believers, when they are called to God and His Messenger so that he may judge between them, is that they say: 'We hear and we obey.' And it is they who are the successful. And whoever obeys God and His Messenger, and fears God and is mindful of Him — it is they who are the triumphant."
+
+This matter, too, within the discussion of faith, is an important one: the commitments of a believing person are not occasional and a matter of personal whim. It is not the case that the one who wishes to present himself as a believer should be a believer only wherever his own aggressive personal benefit and gain demand it; that wherever, in the name of faith and through a show of action, he is able to "ride the camel of his desire,"[^1] he invokes the name of faith and of action — but then, in those cases where faith and action produce no personal, aggressive, transgressive benefit for him, he turns away from the name of Islam, the name of faith, and from acting upon the commitments of faith. Here we attributed this trait — which the Qur'an exposes in a variety of forms — to the profit-seekers; we said that profit-seekers are like this. All the people of the world are profit-seekers; who is there who desires his own loss? What we mean by "profit-seekers" are those who, for the benefit of their own person, are ready to sacrifice worldly interests — the transgressing profit-seekers.
+
+Their way of life is this: they want and love faith and action only to the extent that it serves their own person, and only insofar as, in the name of faith and through a show of action, they can derive some gain or pleasure. People of this sort are, from the standpoint of Islam, not believers. The verse of the Qur'an explicitly declares that these have no faith. Therefore, in our discussion of faith — which is one of the very first topics that had to be, and was, raised in the chain of the intellectual understanding of Islam — we also reached this conclusion: that if faith is accompanied by commitment, if faith without commitment, without a sense of responsibility, without the carrying out of commitments, and — in the Qur'an's expression — without righteous deeds, is not faith, and the results of faith do not follow upon a bare, dry, merely mental faith. In addition to this, this further truth must also be kept in view: that commitment is perpetual and universal.
+
+The one who is a believer and wishes to remain a believer and to enjoy the fruits of being a believer must feel committed before all the commandments of God, and must feel committed everywhere. The one who believes that faith in God and faith in the prophetic mission brings a commitment — that commitment is this: that everyone must become a servant of God, and that I, to the extent I am able, must make everyone a servant of God. Faith in the Prophet, and bearing witness that I am one who affirms[^2] the messengership of my Prophet, brings this commitment: that I must follow the Prophet and move along his path. If I, in this sense, am affirming and acknowledging — if I accept this commitment — then it no longer makes sense that, at the moment I encounter some small phenomenon that is contrary to the conduct of the Prophet, contrary to the path of God's Prophet, I should so fill the veins of my neck, so clench my fists — truly the performance of a Muslim — and yet, when I am faced with a larger phenomenon, but a more troublesome one, which is again in opposition to the direction and course of prophethood and messengership, I should forget my responsibility.
+
+There is a saying: *Asadun ʿalayya wa-fi'l-ḥurūbi naʿāmatun* — "A lion against me, but in wars an ostrich." With the weak you are a lion; with the bad people who are only mildly bad you roar like a male lion; but with the great evildoers, with the bad ones who breed evil, you have no fighting spirit at all! *Asadun ʿalayya wa-fi'l-ḥurūbi naʿāmatun!* This is an Arabic line of verse used as a proverb.[^3] It says: when they come up against us they are lions, but in the wars, when they face thick-necked, sword-wielding, armed enemies, they are ostriches. Does an ostrich do battle with anyone? Does an ostrich have claws and fangs?
+
+Commitment is not seasonal; commitment is not occasional. It is not directed at one time and not at another; it is not directed at one person and not at another. Commitment is universal, all-encompassing, and perpetual. The Noble Qur'an names the Jews — those who in one place would say that our brethren — meaning the Jews — must be preserved like dear ones; but in the place where their personal interests came into play, they would kill these very brethren in wars, take them captive, sell them, and consume the price. The Qur'an, in the position of rebuking the Children of Israel, says:
+
+> **Qur'an, Sūrat al-Baqarah (2:85):** "Do you believe in part of the Book and disbelieve in part?"
+
+Do you have faith in some of the religion, and in those untroublesome, comfortable parts of it you are believers and committed — while in some other parts of the religion you are faithless, without belief? Can such a thing be? Can one make a division between two statements and two commands, both of which have their source from one origin and one point?
+
+Our great Imam, Imam al-Bāqir — God's blessings and peace be upon him — in that well-known ḥadīth which is the first ḥadīth in the chapter on enjoining good and forbidding evil in the noble book *al-Wāfī* — of course this ḥadīth is in *al-Kāfī*[^4] as well, and in the reliable books of the Shīʿa, but *al-Wāfī* is the compendium of our four principal books, by the late Fayḍ al-Kāshānī[^5] — when you open the book on enjoining good and forbidding evil, its first ḥadīth is this. He points precisely to people of this very kind: these are those who turn toward prayer and fasting, which are untroublesome and undemanding, but toward enjoining good and forbidding evil — which is troublesome and, on the surface, harmful — they show no inclination and pay no heed. Here the Imam, peace be upon him, does not go on to say whether these are believers or not believers; he does not say whether they are corrupt (*fāsiq*) or hypocrites. But the verse of the Qur'an here says explicitly: those who, where their interests are at stake, do not want the religion — these are not believers.
+
+Those who, if the truth is on their side in some affair, submit to the judgment and rule of the Prophet, but where the truth is not on their side and they know that the ruling will go against them, do not submit to the rule and judgment of the Prophet — of these the Qur'an asks: did they fear? Did some doubt arise in them? Did they fall into uncertainty about the rightness and soundness of the religion? Its other half is this:
+
+> **Qur'an, Sūrat al-Nūr (24:50):** "Or do they fear that God and His Messenger will be unjust to them?"
+
+— something at the level of unbelief: or did they fear that God and His Messenger would wrong them? In all affairs, in all matters, in every corner and aspect of life, the believing person is committed — not only where his advantage requires it.
+
+Muʿāwiya ibn Abī Sufyān, in the place where it became necessary, even raised the Qur'an as pages upon the spear-points — as you have all heard, and you know its story. In the place where advantage required it, he too would speak of the Qur'an, of prayer, and of religion. In the place where he had to win over the heart of one of ʿAlī's friends toward himself, he would even speak of the virtues of the Commander of the Faithful; when they would mention ʿAlī's virtues, he would even shed crocodile tears.[^6] How many times have you heard that Muʿāwiya was seated, and ʿAbdullāh ibn ʿAbbās was also seated, and others were seated, and then he said: "So, you so-and-so son of so-and-so, what do you know of the virtue of ʿAlī?" The man said, "Am I safe?" Muʿāwiya said, "Yes, you are safe." Then the man began to speak, and Muʿāwiya began to weep loudly, wailing.[^7] Where it is necessary, he even speaks of love for ʿAlī; where it is necessary, he even presents himself as God's special servant; where, for the sake of ruling over a handful of Muslims, he is forced to preserve their sentiments and not wound their feelings, he speaks of what the people love — namely, the Qur'an and Islam.
+
+These are the places where religion is to his benefit, in accordance with his personal interests and his transgressing desires. But there, where religion and adherence to the commandments of religion is to his detriment — there he no longer recognizes religion. There, where the reckoning of justice comes up, the observance of social justice, the regard for the oppressed and deprived classes, the placing of relatives and strangers on an equal footing — these belong to religion, these are part of Islam — the raising of the level of people's thought and reflection, which is the goal of the messages, the prophethoods, and the missions; when these come into play, Muʿāwiya knows nothing of religion, feels no commitment before religion. I use Muʿāwiya as an example so that there may be a possibility... [namely, of] false emotions, false tears, tears that are hypocritical and not real.
+
+I want to say: if it is to be the case that we accept some portion of the religion in a committed way, and we do not accept the other portion, yet regard ourselves as believers — if such a structure is to stand, then let us first regard Muʿāwiya as a believer; for Muʿāwiya, too, was just like this. With regard to a certain portion of the religion, he expressed intense adherence. Have I not repeatedly said in the discussions that Muʿāwiya prayed — he prayed in congregation, he prayed at the first time of prayer, he even acted as prayer-leader? — for the merit of congregational prayer is greater for the prayer-leader than for those who follow. That measure of reward which the prayer-leader has before God is greater than the measure of reward the followers have, according to the narrations that exist on this subject. He would be the prayer-leader.
+
+Well, here religion is a very good religion, a delightful religion, a good religion, a harmless religion, a religion that attracts affection, draws sentiment, makes the people well-disposed — these are good things. But this religion which says that its Prophet was sent for the teaching and the training of the people:
+
+> **Qur'an, Sūrat Āl ʿImrān (3:164):** "Indeed God conferred a favor upon the believers when He sent among them a Messenger from among themselves, reciting to them His verses, and purifying them, and teaching them the Book and the wisdom."
+
+God sent the Prophet to humanity so that he might teach them, so that he might advance humanity, so that he might make insight and reason strong and powerful in human beings. Anything that struggles against people's intellect, the religion struggles against it. Anything that blocks the eye, the perception, the reason, and the understanding of the people, the religion blocks its encroachment. Any factor, in whatever form, that does not let people think and understand and perceive — the religion does not let that factor remain alive.
+
+This is religion. That religion which they said is the opiate and narcotic of the nations is something else. In our Qur'an, in the conduct of our Prophet, in the conduct of our leaders, there are no signs of that sort of religion. Islam, which fights against unbelief, fights against that sort of religion too. Our Commander of the Faithful, the great Islamic leader, says: God sent the prophets to stir up and arouse the treasures of intellect and reason within people and human beings — *wa-yuthīrū lahum dafāʾina'l-ʿuqūl*[^8] ("and that they might unearth for them the buried treasures of the intellects"). So anything that buries these treasures more deeply, that conceals and hides the power of reason and thought of human beings under mountains of dust, or under mountains of fanaticism, or false notion, or strangulation, or suffocation, or anything else — any factor that is of this kind stands exactly at the opposite point of the philosophy of the mission of the prophets. It makes no difference what it is or in what age it may be.
+
+The prophethoods deal with the thought of the people and with the reason of the people; the more precise this thought and this reason is, the more acceptable the prophethoods are. They strive to raise these thoughts up. Any person, any factor, any power, any motive — whether within the human being himself or outside the human being — that causes the thought, reason, and intellect of the human being to be held back from growth and development,[^9] so that it is given no possibility of activity, so that people cannot, under the light of the torch of their own thought and insight, understand anything, find a path, and freely traverse that path — whatever blocks this is against religion, contrary to religion. And Muʿāwiya was of this kind. Here, where the enlightening of people's minds came into play, Muʿāwiya understood nothing at all of what Islam is. There, where Islam commands him: take hunger away from the people, remove class differences from within society, do not permit discrimination, do not set conscienceless oppressors over the people, do not choose your advisors and friends and intimates from among the most criminal of the people, do not drive the people toward Hell and do not subject them to the punishment of God and the punishment of this world — there, where these matters came up, where it was said to him, "Lift the pressure off the people, let them understand," there Muʿāwiya stood leagues away from religion.
+
+He says to Ibn ʿAbbās: "Ibn ʿAbbās, do not recite the Qur'an." He said, "How should I not recite the Qur'an?" He said, "Well, recite it, but do not interpret it." He said, "How is it possible, Muʿāwiya, that I recite the Qur'an and not interpret it? What are these words you are speaking?" Muʿāwiya saw that he had, as it were, said something bad — in those days these words seemed bad to the people, that they should recite the Qur'an and not interpret it — so he said, "Very well, interpret it, but the interpretation that has come down through your own family, through the Commander of the Faithful — do not tell that interpretation to the people."[^10] He did not want the people to understand the Qur'an, and fundamentally he did not want the people to understand anything at all. The less the people understood, the more it was to Muʿāwiya's benefit.
+
+Therefore, when we turn to Muʿāwiya's record — apart from the oppressions, apart from the killings of people, pay attention! — apart from the buryings alive, apart from the rotting-away in prison, apart from the destruction of men like Ḥujr ibn ʿAdī[^11] and Rushayd al-Hajarī,[^12] apart from these vile, contemptible[^13] crimes against the likes of Maytham al-Tammār[^14] — which everyone understands, which even any common person perceives — Muʿāwiya has one crime which none but precise eyes can comprehend. That crime is this: that Muʿāwiya ought to have advanced this newborn child, this Islamic society, forward at least twenty years; this trust that had been placed in his hands, this Islamic society, he ought to have advanced twenty years. He did not advance it twenty years; he did not even keep it in the state it was in — he set it back two hundred years as well. In what respect did he set it back? Did their money decrease? No; would that their money had decreased! Did their territory shrink? Was their country broken apart? Did some of them die for no purpose? Would that these things had happened! In terms of thought, in terms of insight, in terms of morals, he set the people back. This was a crime that was in no way pardonable, and is not. This was a sin whose remedy was not achievable by ten or twenty years of another just government. After the era of Muʿāwiya, twenty or thirty years after him, ʿUmar ibn ʿAbd al-ʿAzīz[^15] came, who is the just one of the Banū Umayya; he was unable to accomplish anything, unable to make amends for Muʿāwiya's atrocities, unable to fill in Muʿāwiya's pits. Indeed, they did not even give him more than two years' respite to rule; they poisoned him and killed him. He [Muʿāwiya] had so arranged the situation that nothing but corruption would grow, nothing but corruption would be accepted. The people, ignorant, senseless, without reflection and precision in matters — eyes open — would see what Muʿāwiya's loudspeakers said, and would believe that very thing, would come to hold that very belief.
+
+I have stories of the ignorance of the people of Syria in the time of the Banū Umayya, and often they are amusing stories too; I have related many of them in the discussions, the sermons, and the interpretive talks repeatedly. It would not be bad to tell one of them now, in the form of a "joke," as people say today. See to what point they bring the affair of a nation. In the time of ʿAbd al-Malik ibn Marwān,[^16] Mecca was conquered by Ḥajjāj ibn Yūsuf. Ḥajjāj is the very powerful and capable commander of the Banū Umayya, and he was against anyone and anything that had the slightest inclination toward Shīʿism — intensely against it. Of course, Mecca was not in the hands of the Shīʿa; it was in the hands of ʿAbdullāh ibn al-Zubayr.[^17] ʿAbdullāh ibn al-Zubayr was also like Ḥajjāj ibn Yūsuf, except that God did not give him respite. Ḥajjāj had fallen upon ʿAbdullāh ibn al-Zubayr; in the end they took and conquered Mecca, and among other things they took control of Mount Abū Qubays. You know that Mount Abū Qubays is one of the mountains beside Mecca, adjoining Mecca. He [Ḥajjāj] took up his pen and wrote a letter to Syria, to the caliph ʿAbd al-Malik, saying: Praise be to God, we have gained control of Abū Qubays — that is, of the mountain of Abū Qubays — we have gained control. The caliph gave the order that this letter be read out from the pulpit of Damascus. The people had all gathered; it was a Friday; the people were assembled. The preacher took the letter and said: Praise be to God, the caliph's commander, Ḥajjāj, has gained control of Abū Qubays. At once a cry went up from all the people. They said: No indeed, we do not accept this, we do not accept it; this Abū Qubays the Rāfiḍī[^18] must be put in chains and sent to Syria so that we may believe it. In their imagination, Abū Qubays was some Rāfiḍī man in Mecca! This is the level of understanding and comprehension in a nation. And of stories of this kind there are many.
+
+Who has done these things? Upon whose shoulders is the sin of the people's not understanding? You may say it is upon the shoulders of Shurayḥ the judge,[^19] upon the shoulders of Muḥammad ibn Shihāb al-Zuhrī,[^20] upon the shoulders of so-and-so the judge or so-and-so the hired, mercenary jurisconsult.[^21] He ought to have made the people aware — and I too accept this. Of course Abū Yūsuf the judge,[^22] or Shurayḥ, or Muḥammad ibn Shihāb al-Zuhrī, or others and others, committed the greatest of crimes, just as we read and saw in the letter of Imam al-Sajjād to Ibn Shihāb. But I want to see: whose making and shaping is Muḥammad ibn Shihāb? That pole which makes the spiritual powers that are against religion and against the Qur'an — who is that pole? Is it not the pole of Muʿāwiya? So the sins, in the end,[^23] are upon the shoulders of Muʿāwiya, upon the shoulders of ʿAbd al-Malik ibn Marwān, upon the shoulders of all the heads of the tyrants (ṭawāghīt) of the Banū Umayya and the Banū ʿAbbās and others besides them. And these people, with all their sins, sometimes even speak of following the Qur'an and the religion!
+
+Here, what is our duty? Did you take note? Faced with a man like Muʿāwiya, a man like Shurayḥ, a man like al-Mughīra, a man like Zayd ibn ʿAmr of the time of Muʿāwiya — it makes no difference, in whatever class — when it comes to judging this human being, how must we judge him? In some places he has accepted the religion and the faith in a committed way; in some places he has left no sign, trace, or token of religion and faith in his life. What shall we say to this man? Shall we regard him as a believer? The Qur'an explicitly states that a man of this kind is not a believer. So the faith that is valid in the Islamic way of thinking is not the faith of men of this sort — whose like in our age are countless, may God preserve us — but rather it is the firm faith of those men who are, everywhere, with everyone, at all times, in every condition, preserved — with their commitment, with their action:
+
+> **Qur'an, Sūrat al-Nūr (24:55):** "Indeed those who believe and do righteous deeds…" — and so on to the end.
+
+And the promises that have been given for faith and for the believers are for that faith, not for this faith. If they said the believers are victorious, they said it of those sorts of believers, and they are victorious — certainly! If they said the hand of God is with the believers — that is, it is with that sort of believer. If they have said that nature cooperates and goes along with the believer, they said it of that sort of believer, not of the likes of you and me. So the least benefit we derive from this discussion is this: that if we see that our faith does not possess the effects, properties, and glad tidings of faith — the glad tidings that the Qur'an and God gave to the believers — we will not be surprised; because we understand that the faith for which all those promises were given is not this.
+
+(Tomorrow, on the subject of the promises that have been given for faith, with a Qur'anic survey,[^24] we have a discussion which, God willing, we will present.)
+
+Now let me translate these verses; listen.
+
+> **Qur'an, Sūrat al-Nūr (24:46):** "Indeed We have sent down clarifying verses."
+
+We have indeed sent down clarifying verses. These verses of the Qur'an, these are illuminating. Those who do not permit themselves to understand the Qur'an, the wretches, are deprived of this illumination.
+
+> "And God guides whom He wills to a straight path."
+
+God guides whomever He wills toward the straight path. Whomever God wills. What does God's "willing" mean? Does it mean that God wills one person and does not will another? With some He has a special regard, draws them and carries them along, and pushes others away? The matter is not like that. God's will and God's decree — in ordinary cases, of course — manifests itself only in the form of natural and customary causes. If you decided, you resolved, you sat down at the foot of a guiding and illuminating discourse, and you were guided — God had willed that you be guided. This same you: if you were lazy, if you were slack, if you closed the road of understanding upon yourself — God had willed that you not understand. God's willing means that the ordinary means and instruments either came about or did not come about. If, by your will, by your wish, the ordinary means and causes came about for the carrying out of this effect, here God has willed; if you did not will, it is evident that God did not will — not that God's not-willing causes you not to will; no, you are free in your willing. God did not will means that the necessary cause did not follow; this is the meaning of "God did not will."
+
+Well, why do we not say "the necessary cause did not follow," and instead say "God did not will"? For the reason that the bringer-into-existence of the causes and the giver of their properties was God. This fire that is kindled here: I put my hand into the fire, my hand burned — God willed it to burn. If I did not put my hand in and it did not burn — God willed it not to burn. What does this mean? "God willed it to burn" means that the natural cause for burning was provided. What is its natural cause? The presence of the fire, the absence of an obstacle, my willing, the putting in of the hand. When we say "God did not will it to burn" in the second case, it means that the natural cause of burning was not provided: I did not go near the fire, or the hand was wet, or the object was wet, or the fire was little, and the like.
+
+Well, why do we attribute to God that which is connected to the causes? For the reason that God is the creator of the causes — for this reason. These "whom He wills" (*man yashāʾu*) phrases everywhere in the Qur'an are of this kind, and I have explained this in detail on other occasions, on other appropriate occasions; and now too I have given an indication of it.
+
+> "And they say, 'We believe in God and in the Messenger'"
+
+They say, "We have believed in God and in the Prophet,"
+
+> "and we obey."
+
+— and we have obeyed. They make these claims, which are easy to claim, but:
+
+> "Then a group of them turns away after that."
+
+After this claim, a group of them turns away. When they turn away — the talk is not of unbelievers, the talk is not of apostates who suddenly take umbrage, leave the world of Islam, and depart; no, the talk is of these very ordinary believers within the societies, the Islamic societies — then about them He says:
+
+> "And those are not the believers."
+
+These are not the believers; they are not believers. Now, more clearly than this:
+
+> "And when they are called to God and His Messenger so that he may judge between them"
+
+When they are called toward God and His Messenger so that the Prophet may rule and judge between them,
+
+> "at once a group of them turns away."
+
+— suddenly you see that a group of them turn away. They are not willing to go and hear the ruling from the Prophet. The verse, on the surface, is about judgment; the expression "rule/governance" (*ḥukūma*) in the Qur'an is most often — I do not say always — in the meaning of rendering judgment, the very thing that we call arbitration and adjudication. But the import and content of the verse is general; it is not such that this concerns only those who do not submit to the judgment of the Prophet alone — no, those who also do not submit to the command of the Prophet in matters other than judgment are included in the verse, and this is clear.
+
+> "And when they are called to God and His Messenger so that he may judge between them, at once a group of them turns away."
+
+— a group of them turn away, they are averse.
+
+> "But if the right is on their side, they come to him submissively."
+
+If the truth is on their side, they come to the Prophet as obedient ones, with acknowledgment. There, where the ruling is to be in their favor, they are submissive before the religion; there, where the ruling is likely to be to their detriment, they do not accept the religion. Here the Qur'an, in truth, calls them to account.[^25]
+
+Why is it that, where it is not to the benefit of your person, you do not accept the religion? It is one of three things:
+
+> "Is there a disease in their hearts?"
+
+Is there a disease in their hearts? The disease of hypocrisy? The disease of caprice and desire? The disease of ignorance and conceit? Are these diseases in their hearts, so that they do not accept the ruling? Or is it higher than this?
+
+> "Or do they doubt?"
+
+Or have they fallen into doubt about the religion? If you have no doubt about the religion, if you are not in uncertainty, not in misgiving[^26] regarding the religion — why is it that, where it is not to your benefit, where it is troublesome for you, you are ready to deny it, to fundamentally reject the religion, that is, to deny that ruling? Or is it even higher than this:
+
+> "Or do they fear that God and His Messenger will be unjust to them?"
+
+Perhaps they fear that God and the Prophet will wrong them — which is higher than that doubting; this is the very essence of unbelief. That a person should be so ignorant, and not believe, that God and the Prophet do not wrong a human being in their rulings! The one who has such a fear, who fears that God might do him injustice or the Prophet might do him injustice — it is evident that this man does not know God and the Prophet at all and does not accept them.
+
+> "Nay, it is they who are the wrongdoers."
+
+They themselves are the wrongdoers. God does no wrong to anyone; it is they who do wrong to themselves and do wrong to the truth. If they hold a higher position, they wrong themselves and the truth and the people; if their rank is higher over humanity absolutely, these are the wrongdoers and oppressors.
+
+> "The only saying of the believers…"
+
+But how are the believers? The believers are not like this. See, the Qur'anic vocabulary is this. The Qur'an has a lexical meaning, and it has a specialized vocabulary. "Believer," in the terminology of the Qur'an, has the meaning that it is expounding here:
+
+> "The only saying of the believers, when they are called to God and His Messenger so that he may judge between them, is that they say: 'We hear and we obey.'"
+
+Indeed the saying of the believers was — when they were called toward God and His Messenger, so that God and the Prophet might judge between them, their statement was this, that they said, "We hear and we obey." Which, as I have said, "we hear" means we have understood — not we heard with the ear; "we hear" means we have given heed. The terminology of "hearing" (*samʿ*):
+
+> **Qur'an, Sūrat Qāf (50:37):** "Or gives ear while he is a witness."
+
+— "hearing" and "listening" in the Qur'an, in very many of its instances — which, as it happens, while studying the Qur'an, I came across another instance last night, and of course I did not note it down, because they are many — is in the meaning of understanding, not in the meaning of hearing with the ear, with this particular organ and limb, but rather in the meaning of understanding. These say: we have understood; that is, we became believers knowingly. The same discussion we had in the previous session, that faith must be conscious.
+
+> "We hear and we obey."
+
+After we believed knowingly, then we also obeyed.
+
+> "And it is they who are the successful."
+
+These are the ones who have attained the desired goal. *Falāḥ* means success, becoming victorious, and attaining the goal and aim; of course in the meaning of "salvation" — that is, "deliverance" — it has also come in some lexical usages, but most often *falāḥ*, when it comes for the believers, is more fitting with the very meaning we have stated, which is the ordinary lexical meaning.
+
+> "And it is they who are the successful."
+
+They are those who have attained the goal and aim.
+
+> "And whoever obeys God and His Messenger"
+
+The one who obeys God and His Messenger,
+
+> "and fears God,"
+
+and is in awe of God,
+
+> "and is mindful of Him,"
+
+and is wary of Him,
+
+> "it is they who are the triumphant."
+
+— they are those who have attained the purpose and aim. *Fawz* ("triumph") is also in this very meaning.
+
+The next two verses do not have much bearing on our discussion; I want to get to the verse after them:
+
+> **Qur'an, Sūrat al-Nūr (24:55):** "God has promised those who believe…"
+
+This too is a promise of God, again for the believer, and the committed believer. Pay attention: the divine promise in this verse says explicitly: We have promised the believers that the rule over the earth is yours; your idea, your creed, your thought, and your school will pitch its tent over the world; your fear and dread will be turned into safety and security; if throughout history you have suffered torment, borne oppression, after this you will live in comfort, without anxiety, without disquiet, and you will worship God and cast the rivals of God off the earth. This is the divine promise in this verse. If God has given such a promise to the Muslims, this promise pertains to the believers, and to the committed believers.
+
+Some become very scrupulous, they become rigid,[^27] they say it is special to the time of the Lord of the Age (Walī al-ʿAṣr) — God's blessings and peace be upon him. We have no doubt that the time of the appearance of the Imam of the Age — God's blessings and peace be upon him — is the complete instance of this verse; in this there is no uncertainty. But where in this verse is it written that it is special to that time? Tell us, let us see! Which narration is there that states it is special to that time? Why do you restrict the verse? Did God not fulfill this promise with the believers of the early days of Islam? It was this very verse that was fulfilled. They came to Medina; they brought that government into being. The Bilāls who, out of fear of the unbelievers of Quraysh, did not even dare utter "There is no god but God" with their tongues, called out the takbīr aloud upon the minarets and sang "There is no god but God." Those who had been compelled, before three hundred non-human idols and several human idols and an idol of their own ego and their own lusts and their own carnal desires, every day and every night to prostrate and render absolute servitude and obedience — they had set up all these partners for God — these came and settled, busying themselves with life in that safe and secure land of the sublime[^28] Islamic society, without having the least anxiety. They set up no partner for God, from small and great, from the inanimate and the animate, from themselves and from others. This verse of ours has been fulfilled once there; it is capable of being fulfilled a thousand other times as well. But what is its condition? Its condition is that these opening clauses of the verse be realized, where it says:
+
+> "God has promised…"
+
+God has promised — to whom?
+
+> "those among you who believe and do righteous deeds"
+
+— to those of you who believe and do good and righteous deeds; that is, who act in accordance with the commitments of this faith. To these He has promised that:
+
+> "He will surely make them successors on the earth."
+
+— that He will make them successors on the earth.
+
+(This gentleman, the translator of this Qur'an that I have in hand, has very many errors in his Qur'an, among them this error which my eye just now fell upon and saw: he renders "*fi'l-arḍ*" ["on the earth"] as "in this land," and this is wrong. "This land" would mean the Arabian Peninsula. Was it some great feat that they should gain control of the Arabian Peninsula? They gained control of forty, fifty regions the size of the Arabian Peninsula. "*Fi'l-arḍ*" means upon the earth. I mentioned this because sometimes translations of this sort carry certain mis-teachings with them. We, of course, have no ill thought of anyone, and we do not say that you said "in this land" so as not to include the other lands — that is, that the believers and those who act righteously can gain control only over the land of the Ḥijāz, but over other lands — Rayy and Rome and Baghdad and Andalusia — no longer. We say, God willing, his intention was not these things.)
+
+> "even as He made those before them successors."
+
+— even as He made the earlier believers successors. In any case:
+
+> "He will surely make them successors on the earth,"
+
+— that He may make them successors on the earth, even as He made the believers before them — that is, the believers of earlier eras. We imagine that the believers, wherever they were from the beginning of the world, have always been beaten down, always taken a blow. Indeed, the historical knowledge and worldview of the general mass of Muslims is that faith means being inseparable from being beaten; that being a Muslim, being a believer, being on the path of God, is inseparable from suffering torment and being tortured and tasting defeat. This is exactly the opposite point of what the Qur'an wishes to say. We once explained this (we had a class of Qur'anic interpretation in the Mīrzā Jaʿfar school, two or three years ago, one or two years ago; there, on some occasion, for two days, three days, I recall, I spoke about this) — how religion, from the very first that it came into being until today, has had nothing but progress, with not one step of retreat. Not one step, in our belief, has religion retreated until now. That which they imagine to be retreat is in fact progress.
+
+In any case, the earth is yours and the rule over it is in your hands, even as it was in the hands of your predecessors — that is, the believers of earlier eras.
+
+> "And He will surely establish for them their religion"
+
+— He will firmly establish their religion and creed and school and way,
+
+> "which He has approved for them,"
+
+the religion and way which He has chosen as pleasing for them, the religion that is worthy of them; that is, this very religion of Islam, which encompasses this world and the hereafter, and the present and the future, and the body and the soul, and in short is all-sided, sufficient for all needs.
+
+> "And He will surely change their state, after their fear, to security."
+
+— We will transform, after their fear and dread and apprehension, into safety and security. So that what may happen? Under the shadow of this security, what are they to do? Are they, under the shadow of security, to sit beside the garden in the heat of the summer afternoon, drinking tea with a Chinese teapot and a Warsaw samovar?[^29] Is the matter of security for these people? Are they to have security so that they can recline comfortably, loll about,[^30] and idle their time away? No. That security is so that, under its shadow, they may draw one step and ten steps nearer to the final destination of the human being — namely, perfection. So that they may be servants of God, so that the servitude to creatures may be lifted from their heads, so that they may be obedient and humble before God, and through this path may become exalted and perfected. Every word of these has a discussion of its own.
+
+> "They worship Me, not associating anything with Me."
+
+— that they may render servitude to Me and not associate any partner with Me. Of course, at the end of the verse, it also gives this admonition: that "if, after they have believed, they associate a partner [with God], here they will be corrupt (fāsiq)."[^31] *Fāsiq* means one who has gone out of the religion, departed from it.
+
+(Today, with the recitation that Mr. Fāṭimī is performing, in view of these papers that are in your hands, the verses are settling and taking their place ever more pleasingly in the soul. The gentlemen who will be present — I request that all the gentlemen be present, even if it is possible that not one person leave; this is always our recommendation, last year too I made this recommendation, and always some of you gentlemen who got up... I want to joke with you... you showed that, against all true words, there are after all a number of people who do not listen. Well, we say: if you have nothing to do, sit down, sit for a quarter of an hour. Why do the gentlemen get up and leave? Sir, those who have a shop without an apprentice; those who have a school and their school is far and the hour is late — these are within their rights, they can go. Those who have no school, let me say, who have no shop without an apprentice, who have none of these difficulties in their affairs, let them sit ten more minutes, let them benefit — my point was that the gentlemen who will be present should certainly look at these papers during the recitation of the Qur'an.)
+
+O Lord! In what we say and do, make our hearts sincere, and set them all for Yourself alone.
+
+O Lord! By Muḥammad and the Family of Muḥammad, let us taste the savor of a monotheistic life.
+
+O Lord! By Muḥammad and the Family of Muḥammad, wipe away polytheism even from the region of our hearts.
+
+O Lord! By Muḥammad and the Family of Muḥammad, do not withhold Your good from us. Remove conceit and afflictions and miseries and disorders from among the Muslims.
+
+O Lord, occupy the enemies of the Muslims with themselves.
+
+## Footnotes
+
+[^1]: An allusion to "reaching a station," reaching one's goal. (Literally, "to mount the camel of one's desire.")
+
+[^2]: From the root *q-r-r*: one who affirms, acknowledges (*muqirr*).
+
+[^3]: A current proverb; a saying widespread among the people. (The Arabic line *Asadun ʿalayya wa-fi'l-ḥurūbi naʿāmatun* — "A lion against me, but in wars an ostrich" — is used as a proverb.)
+
+[^4]: *al-Kāfī* / Kitāb al-Jihād / Bāb al-amr bi'l-maʿrūf wa'l-nahy ʿan al-munkar / ḥadīth 1.
+
+[^5]: Muḥammad al-Kāshānī (1007–1091 AH), titled Mullā Muḥsin Fayḍ — a renowned jurist, ḥadīth scholar, theologian, and philosopher. He benefited from teachers such as Mullā Muḥammad Taqī Majlisī, Shaykh Bahāʾī, Mīr Dāmād, Mīr Findiriskī, and Mullā Ṣadrā. Among his works one may mention the *Tafsīr al-Ṣāfī*, the book *al-Wāfī*, and *al-Maḥajja al-Bayḍāʾ*.
+
+[^6]: "Crocodile tears": an expression of false emotions, false tears, tears that are hypocritical and not real.
+
+[^7]: *Biḥār al-Anwār* / Kitāb al-Fitan wa'l-Miḥan / Abwāb mā jarā baʿda qatl ʿUthmān / Bāb nawādir al-iḥtijāj ʿalā Muʿāwiya / ḥadīth 524.
+
+[^8]: Ḥadīth no. 11 (from the first sermon of Nahj al-Balāghah).
+
+[^9]: From the root *n-m-y*: growth and development (*numuww*).
+
+[^10]: *Kitāb Sulaym ibn Qays al-Hilālī* / ḥadīth 26.
+
+[^11]: Ḥujr [ibn ʿAdī], in his youth, came with his brother Hāniʾ to Medina and embraced Islam. Later he was among the companions of the Commander of the Faithful and one of the commanders of His Holiness's army. Ḥujr, who openly incited the people against Muʿāwiya, was arrested by Ziyād ibn Abīh and sent to Syria. Muʿāwiya issued the order for his killing along the way. He, together with several of his companions, was martyred in the land of "Marj ʿAdhrāʾ," which had been conquered by himself.
+
+[^12]: [Rushayd al-Hajarī] was among the special companions and confidants (*aṣḥāb al-sirr*) of the Commander of the Faithful, Imam al-Ḥasan, and Imam al-Ḥusayn. He had learned from the Commander of the Faithful the knowledge of the circumstances of people's deaths and of future trials. Just as his master had told him, he went to the gallows with his hands and feet cut off and his tongue severed, and was martyred.
+
+[^13]: Very ugly and repugnant. (Rendering *chārvādārī*, here in the sense of base/brutish crimes.)
+
+[^14]: Maytham ibn Yaḥyā was a slave who was freed by the Commander of the Faithful and became one of his special companions. Since he was a date-seller, he became known as al-Tammār ("the date-seller"). After his entry into Kūfa, ʿUbaydullāh ibn Ziyād hanged Maytham on the date-palm that the Commander of the Faithful had shown to Maytham.
+
+[^15]: ʿUmar ibn ʿAbd al-ʿAzīz was the governor of the city of Medina during the time of Imam al-Sajjād. He reached the caliphate in the year ninety-nine of the Hijra and ruled for only two years. During his rule the severities of the previous caliphs upon the people were reduced. Among his measures were: forbidding the preachers from cursing the Commander of the Faithful from atop the pulpits, which had been the custom since the time of Muʿāwiya; returning the orchard of Fadak to the Ahl al-Bayt; abolishing the prohibition on the writing-down of ḥadīth; and going easy on the ʿAlawīs.
+
+[^16]: ʿAbd al-Malik [ibn] Marwān (26–86 AH) took power in the year 65 of the Hijra at a time when the Ḥijāz and Iraq were under the dominion of the House of al-Zubayr. Relying on the sword and with the help of a bloodthirsty commander such as Ḥajjāj ibn Yūsuf al-Thaqafī, he gained mastery over the entire Islamic land and ruled for twenty-one years.
+
+[^17]: ʿAbdullāh ibn al-Zubayr (1–73 AH) played an effective role in setting in motion the Battle of the Camel. After the martyrdom of Imam al-Ḥusayn, he proclaimed himself caliph in the region of the Ḥijāz and gained mastery over parts of Iraq as well. In the year seventy-three, in Ḥajjāj's campaign against Mecca and the setting of the Kaʿba on fire, he was killed.
+
+[^18]: From the root *r-f-ḍ*: "the one who forsakes/rejects" (*Rāfiḍī*), a term that was applied in the time of the Imams to their Shīʿa.
+
+[^19]: Shurayḥ ibn al-Ḥārith sat upon the seat of judgeship of Kūfa from the time of the second caliph. The Commander of the Faithful retained him in this post, on condition that he carry out rulings in coordination with him. In the third letter of *Nahj al-Balāghah*, the Commander of the Faithful reproaches Shurayḥ for buying a house worth eighty dinars. After ʿUbaydullāh ibn Ziyād's entry into Kūfa, Shurayḥ joined him. He falsely gave out news of the safety of Hāniʾ ibn ʿUrwa and dispersed Hāniʾ's tribe from around ʿUbaydullāh's palace, and deemed the blood of Imam al-Ḥusayn lawful.
+
+[^20]: From the root *f-t-y*: a giver of legal opinions (*muftī*). [Citation attached to al-Zuhrī below.] Muḥammad ibn Shihāb was among the scholars of the first and second centuries of the Hijra who were in the service of the apparatus of government. He was the first person who, after the order of ʿUmar ibn ʿAbd al-ʿAzīz to write down ḥadīth, occupied himself with collecting ḥadīth.
+
+[^21]: A hired, mercenary jurisconsult (*muftī*).
+
+[^22]: Abū Yūsuf Yaʿqūb ibn Ibrāhīm (113–182 AH) was the chief judge (*qāḍī al-quḍāt*) of Baghdad. In his youth he was a student of Abū Ḥanīfa. For eighteen years, during the times of al-Mahdī, Hārūn al-Rashīd, and al-Hādī al-ʿAbbāsī, he was the judge of the city of Baghdad.
+
+[^23]: In the end, ultimately; the final outcome (*bi'l-maʾāl*).
+
+[^24]: From the root *t-b-ʿ*: to follow after something, to pursue (a Qur'anic *tatabbuʿ*, a tracing-through).
+
+[^25]: From the root *w-ḍ-ḥ*: to demand explanation; to call to account (*istīḍāḥ*).
+
+[^26]: Doubt, hesitation, becoming of two minds (*rayb*).
+
+[^27]: Narrow-mindedness (rendering *jumūd*).
+
+[^28]: Lofty, transcendent (rendering *barīn*).
+
+[^29]: This samovar is made of a special alloy composed of copper, nickel, and zinc. It has a polish like silver and is resistant to rusting. Because this samovar first came to Iran from the country of Poland, in Iran it took the name "Warsaw," after the capital of Poland.
+
+[^30]: Laziness, idling (rendering *lashī*).
+
+[^31]: **Qur'an, Sūrat al-Nūr (24:55):** "And whoever disbelieves after that — it is they who are the transgressors (fāsiqūn)."
