@@ -4,19 +4,29 @@
 [.session-subtitle]
 _ایمان (۱) — delivered Thursday, 28 Shahrīvar 1353 / 2 Ramaḍān al-Mubārak 1394_
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="133-134"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:133–134):* "And hasten to a forgiveness from your Lord and to a Garden whose breadth is the heavens and the earth, prepared for the God-conscious — those who spend in prosperity and adversity, who restrain their anger and pardon people; and God loves those who do good."
-____
+[.quranverse]
+****
+[.arabic]
+۞وَسَارِعُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِينَ ٱلَّذِينَ يُنفِقُونَ فِي ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلۡكَٰظِمِينَ ٱلۡغَيۡظَ وَٱلۡعَافِينَ عَنِ ٱلنَّاسِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ
+
+"And hasten to a forgiveness from your Lord and to a Garden whose breadth is the heavens and the earth, prepared for the God-conscious — those who spend in prosperity and adversity, who restrain their anger and pardon people; and God loves those who do good."
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:133-134)
+****
 
 The monks of Christianity(((Christianity, monasticism))), in order that the hem of their garment should not be stained by sins, took up monasticism footnote:s01-1[(r-h-b) perpetual fear; _rahbāniyyah_: seclusion and renunciation of the world.]; they sought refuge in caves and mountains and desolate corners.@@CX(taqwā | rejects monastic flight; engages the zone of sin)@@ The Qurʾān(((Qur'an))) says:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="27"]
-[quote]
-____
-*Qurʾān, Sūrat al-Ḥadīd (57:27):* "And the monasticism which they invented — We did not prescribe it for them."footnote:s01-2[Sūrat al-Ḥadīd (al-Mubārakah) / verse 27.]
-____
+[.quranverse]
+****
+[.arabic]
+ثُمَّ قَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيۡنَا بِعِيسَى ٱبۡنِ مَرۡيَمَ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَۖ وَجَعَلۡنَا فِي قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأۡفَةٗ وَرَحۡمَةٗۚ وَرَهۡبَانِيَّةً ٱبۡتَدَعُوهَا مَا كَتَبۡنَٰهَا عَلَيۡهِمۡ إِلَّا ٱبۡتِغَآءَ رِضۡوَٰنِ ٱللَّهِ فَمَا رَعَوۡهَا حَقَّ رِعَايَتِهَاۖ فَـَٔاتَيۡنَا ٱلَّذِينَ ءَامَنُواْ مِنۡهُمۡ أَجۡرَهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ
+
+"And the monasticism which they invented — We did not prescribe it for them."footnote:s01-2[Sūrat al-Ḥadīd (al-Mubārakah) / verse 27.]
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:27)
+****
 
 That is: the monasticism which they themselves brought forth, which they established as an innovation — We had not prescribed monasticism for them. But the Muslim scholar has no monasticism, no seclusion, no flight. The Muslim scholar is precisely the one who strives to lay hold of the drowning man.footnote:s01-3[A man of heart came to the school from the monastery / and broke the covenant of fellowship with the people of the Path. / I said, "Between scholar and ascetic, what was the difference, / that you chose this party over that?" / He said, "The one carries his own blanket out of the waves, / while this one strives to lay hold of the drowning man." (Saʿdī)] An aware, Muslim individual — every Muslim human being, since being a Muslim and being responsible are mutually entailing one another — is exactly like this: he strives to save the drowning man, the cholera-stricken, the sick. This cannot be accomplished by flight. He makes himself God-conscious (_muttaqī_)(((taqwā))), possessed of _taqwā_ — that is, he puts on the necessary equipment, the necessary armor, against the harm of sin, and enters the zone of sin in order to take the sinners by the hand. In short, _taqwā_ is this.@@CX(taqwā | armor that lets one enter sin's zone to save others)@@
 
@@ -42,11 +52,16 @@ Now, obedience to God is no different from obedience to the Prophet — so on wh
 
 In the time of the Prophet, both the Prophet claimed servitude to God and obedience to Him, and likewise those who, on the front opposing him, fought against him and made trouble — the leaders and lords and monks of Christianity, and the rabbis footnote:s01-5[Plural of _ḥabr_: the learned ones (rabbis).] of the Jews(((Jews))) — these too made the claim.
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="18"]
-[quote]
-____
-*Qurʾān, Sūrat al-Māʾidah (5:18):* "And the Jews and the Christians said, 'We are the sons of God.'"footnote:s01-6[Sūrat al-Māʾidah (al-Mubārakah) / verse 18.]
-____
+[.quranverse]
+****
+[.arabic]
+وَقَالَتِ ٱلۡيَهُودُ وَٱلنَّصَٰرَىٰ نَحۡنُ أَبۡنَـٰٓؤُاْ ٱللَّهِ وَأَحِبَّـٰٓؤُهُۥۚ قُلۡ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُمۖ بَلۡ أَنتُم بَشَرٞ مِّمَّنۡ خَلَقَۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ وَإِلَيۡهِ ٱلۡمَصِيرُ
+
+"And the Jews and the Christians said, 'We are the sons of God.'"footnote:s01-6[Sūrat al-Māʾidah (al-Mubārakah) / verse 18.]
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:18)
+****
 
 — even a notch above the Prophet: he said, "I am the servant of God," while these said, "We are the children and the sons of God." They imagined that obedience to God was entirely at their disposal. Or, to put it another way: they themselves do not even really think it; some of those disobedient to God merely pretend in this manner that they are obedient to God. Is that right or not? There are some who, when they sit alone with themselves, find what a black record they have; they understand that what they say is, from head to foot, a lie. Yet before the people they pretend in this way that they are the good servants of God and the obedient ones and the worshippers of the Lord. Over against the truly truth-worshipping people, these must be set apart, they must be distinguished footnote:s01-7[(m-y-z) separated out, distinguished.].@@CX(Faith | false claimants of obedience must be distinguished from true believers)@@ This is why, here, God the Exalted — in the station of explaining obedience and its necessity for the believers — speaks in this manner:
 

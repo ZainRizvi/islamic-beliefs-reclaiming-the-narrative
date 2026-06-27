@@ -6,19 +6,29 @@ _هدف‌های نبوت — delivered Saturday, 13 Mehr 1353 / 18 Ramadan al-M
 
 The verse of Sūrat al-Ḥadīd is this:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="25"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥadīd (57:25):* "We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice; and We sent down iron, in which is great force and benefits for mankind, and so that God may know who helps Him and His messengers in the unseen. Indeed, God is Strong, Mighty."
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِيدَ فِيهِ بَأۡسٞ شَدِيدٞ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلۡغَيۡبِۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+
+"We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice; and We sent down iron, in which is great force and benefits for mankind, and so that God may know who helps Him and His messengers in the unseen. Indeed, God is Strong, Mighty."
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:25)
+****
 
 And as for the second verse, which is in the blessed Sūrat al-Aʿrāf, verses 156 and 157:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="156-157"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:156–157):* "…And ordain for us good in this world and in the Hereafter; indeed, we have turned to You. He said: My punishment — I strike with it whomever I will, and My mercy encompasses all things; I shall ordain it for those who are God-fearing and give the alms-due, and for those who believe in Our signs — those who follow the Messenger, the unlettered Prophet, whom they find written down with them in the Torah and the Gospel; he enjoins upon them the good and forbids them the evil, makes the wholesome things lawful for them and forbids them the foul things, and relieves them of their burden and the shackles that were upon them. So those who believe in him, honor him, support him, and follow the light that has been sent down with him — those are the ones who prosper."
-____
+[.quranverse]
+****
+[.arabic]
+۞وَٱكۡتُبۡ لَنَا فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَۚ قَالَ عَذَابِيٓ أُصِيبُ بِهِۦ مَنۡ أَشَآءُۖ وَرَحۡمَتِي وَسِعَتۡ كُلَّ شَيۡءٖۚ فَسَأَكۡتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤۡمِنُونَ ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِيَّ ٱلۡأُمِّيَّ ٱلَّذِي يَجِدُونَهُۥ مَكۡتُوبًا عِندَهُمۡ فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ يَأۡمُرُهُم بِٱلۡمَعۡرُوفِ وَيَنۡهَىٰهُمۡ عَنِ ٱلۡمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيۡهِمُ ٱلۡخَبَـٰٓئِثَ وَيَضَعُ عَنۡهُمۡ إِصۡرَهُمۡ وَٱلۡأَغۡلَٰلَ ٱلَّتِي كَانَتۡ عَلَيۡهِمۡۚ فَٱلَّذِينَ ءَامَنُواْ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُواْ ٱلنُّورَ ٱلَّذِيٓ أُنزِلَ مَعَهُۥٓ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
+
+"…And ordain for us good in this world and in the Hereafter; indeed, we have turned to You. He said: My punishment — I strike with it whomever I will, and My mercy encompasses all things; I shall ordain it for those who are God-fearing and give the alms-due, and for those who believe in Our signs — those who follow the Messenger, the unlettered Prophet, whom they find written down with them in the Torah and the Gospel; he enjoins upon them the good and forbids them the evil, makes the wholesome things lawful for them and forbids them the foul things, and relieves them of their burden and the shackles that were upon them. So those who believe in him, honor him, support him, and follow the light that has been sent down with him — those are the ones who prosper."
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:156-157)
+****
 
 These two verses, and several other verses in the Noble Qur'an, set forth the goal of the great prophets of God.
 

@@ -4,11 +4,16 @@
 [.session-subtitle]
 _در پیرامون ولایت (۲) — delivered Tuesday, 23 Mehr 1353 / 28 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Naḥl",s=16,a="98-100"]
-[quote]
-____
-*Qur'an, Sūrat al-Naḥl (16:98–100):* "So when you recite the Qur'an, seek refuge in Allah from the accursed Satan. Indeed, he has no authority over those who have believed and rely upon their Lord. His authority is only over those who take him as their guardian and who associate others with Him."
-____
+[.quranverse]
+****
+[.arabic]
+فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ إِنَّهُۥ لَيۡسَ لَهُۥ سُلۡطَٰنٌ عَلَى ٱلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ إِنَّمَا سُلۡطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوۡنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشۡرِكُونَ
+
+"So when you recite the Qur'an, seek refuge in Allah from the accursed Satan. Indeed, he has no authority over those who have believed and rely upon their Lord. His authority is only over those who take him as their guardian and who associate others with Him."
+
+[.verse-cite]
+— Sūrat al-Naḥl (16:98-100)
+****
 
 Now, the point that we wish to establish and explain today by means of these verses is this. After we came to understand that every Muslim, and everyone who claims to be a servant of God, must regard the master of his own life — the ruler and the one in charge of all the activity and striving of his entire lifespan — as coming from God, must seek that from God, must surrender his head to the _walī_ whom God appoints and designates, and must give the hand of obedience to the _walī_ of God. In short: in all the activities of life, one must recognize as governor and ruler only God, and whoever God has chosen to be His own deputy.@@CX(Wilayah | only God and His appointed walī may rule one's life)@@ Of course, we have already discussed this question too — who exactly are those whom God has chosen to be His deputies. We said that they are the prophets, and after the prophets, the _awliyāʾ_ — the very ones whom you also know by the name of _awliyāʾ_; that is to say, the divine rulers and governors.@@CX(Wilayah | God's deputies are the prophets and after them the awliyāʾ)@@ However, we said that the _walī_ and the divine ruler is designated in one of two ways: either with both name and description, or else not designated by name but designated by a description. These were the matters that became clear in the course of yesterday's discussion, and perhaps somewhat in the day before that as well.
 
@@ -85,11 +90,16 @@ ____
 "From the Commander of the Faithful ʿAbd al-Malik ibn Marwan to the people of Kufa. O people of Kufa, peace be upon you." — Suddenly from the whole mosque a voice rose up: "And upon the Commander of the Faithful, peace." They returned his greeting. A satisfied smile took shape upon Hajjaj's lips; in his heart he said: The work is done. And indeed the work was done. The work of the people of Kufa was finished right there.
 ____
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="115"]
-[quote]
-____
-*Qur'an, Sūrat al-Nisāʾ (4:115):* "And whoever opposes the Messenger after guidance has become clear to him, and follows other than the way of the believers, We give him over to what he has turned to."
-____
+[.quranverse]
+****
+[.arabic]
+وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُ ٱلۡهُدَىٰ وَيَتَّبِعۡ غَيۡرَ سَبِيلِ ٱلۡمُؤۡمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصۡلِهِۦ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرًا
+
+"And whoever opposes the Messenger after guidance has become clear to him, and follows other than the way of the believers, We give him over to what he has turned to."
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:115)
+****
 
 You accepted Hajjaj? You answered the greeting of "the Commander of the Faithful" — he who is the commander of the disbelievers and the commander of the corrupt? Very well; now that you want him — Hajjaj for you! Now that you are of Hajjaj's persuasion,footnote:s27-12["To one's taste, to one's liking." (Lexical note.)] God will not, by a miracle, remove Hajjaj and put Zayn al-ʿĀbidīn (peace be upon him) in his place. That same Hajjaj for you, until such time as you no longer want Hajjaj. As long as you yourselves find Hajjaj to your liking, all of your life and your thought and your spirit will be at Hajjaj's disposal. This is the way of the world of creation; it is the way of history.@@CX(Wilayah | a people are left under the tyrant they themselves chose, until they cease to want him)@@
 

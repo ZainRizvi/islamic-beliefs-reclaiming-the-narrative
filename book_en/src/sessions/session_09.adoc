@@ -4,11 +4,16 @@
 [.session-subtitle]
 _توحید در ایدئولوژی اسلام — delivered Friday, 5 Mehr 1353 / 10 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Baqarah",s=2,a="165"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:165):* "And among mankind are some who take, besides God, rivals [whom] they love as they should love God. But those who believe are stronger in love for God. If only those who do wrong could see — when they behold the punishment — that all power belongs to God, and that God is severe in punishment."footnote:s09-1[Sūrat al-Baqarah, verse 165. (This is the verse set at the head of the session; its full commentary comes at the end.)]
-____
+[.quranverse]
+****
+[.arabic]
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ
+
+"And among mankind are some who take, besides God, rivals [whom] they love as they should love God. But those who believe are stronger in love for God. If only those who do wrong could see — when they behold the punishment — that all power belongs to God, and that God is severe in punishment."footnote:s09-1[Sūrat al-Baqarah, verse 165. (This is the verse set at the head of the session; its full commentary comes at the end.)]
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:165)
+****
 
 The theist says that beyond what we see, there is a reality higher and more magnificent than what we observe, and that were it not for that reality, these phenomena would never have taken form. The materialist(((materialism))) says: no; we cannot believe in, or commit ourselves to, anything other than what we see. In our laboratories and experiments, however much we have searched, we have found no sign and no trace of this being you speak of. Let the dispute between the materialist and the theist remain for the books and discussions devoted specifically to that subject.
 
@@ -30,11 +35,16 @@ A religion that God sends is not just anything; it has a sign, it has a distingu
 
 The Qur'an says:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="25"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥadīd (57:25):* "We have certainly sent Our messengers with clear proofs, and We sent down with them the Book and the Balance, so that the people may uphold justice."footnote:s09-7[Sūrat al-Ḥadīd, verse 25.]
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِيدَ فِيهِ بَأۡسٞ شَدِيدٞ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلۡغَيۡبِۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+
+"We have certainly sent Our messengers with clear proofs, and We sent down with them the Book and the Balance, so that the people may uphold justice."footnote:s09-7[Sūrat al-Ḥadīd, verse 25.]
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:25)
+****
 
 "We sent Our messengers with clear proofs" — We sent forth Our prophets with luminous proofs, "and We sent down with them" a body of thought and the practical instruments — instruments by which they could judge and adjudicate among the people in their disputes — toward the people. Why did We do these things? "_We_ sent" — not just one prophet, not just Moses, not just the Seal of the Prophets, not just Jesus; "We sent Our messengers" — all the prophets were sent with this purpose and with this idea and with this aim. What is that aim? "So that the people may uphold justice" — so that human beings may live on the basis of equity, justice, and fairness. _This_ is religion.@@CX(Prophethood | all prophets sent so people may uphold justice)@@ If you have seen a religion moving in the opposite direction to the philosophy of the religions, know that it is either not divine or it has been corrupted. If you have seen it moving contrary to the philosophy and the line of march of the divine prophets and the divine messengers, know with certainty that it is not the offspring of the Lord's revelation and of the prophets. This is quite clear.
 

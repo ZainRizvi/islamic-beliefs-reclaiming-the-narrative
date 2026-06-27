@@ -4,11 +4,16 @@
 [.session-subtitle]
 _فرجام نبوت (۱) — delivered Tuesday, 16 Mehr 1353 / 21 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Raʿd",s=13,a="16-18"]
-[quote]
-____
-*Qur'an, Sūrat al-Raʿd (13:16–18):* "Say: God is the Creator of all things, and He is the One, the All-Subduing. He sent down water from the sky, and the riverbeds flowed each according to its measure, and the flood carried a swelling froth. And from that which they heat in the fire, seeking to make ornaments or utensils, there rises a froth like it. Thus does God strike [the parable of] the true and the false. As for the froth, it goes away as scum; but as for that which benefits people, it remains in the earth. Thus does God set forth the parables. For those who respond to their Lord is the most beautiful reward. But as for those who do not respond to Him — even if they possessed all that is on earth and the like of it besides, they would offer it as ransom. Theirs is a terrible reckoning; their abode is Hell, and what an evil resting place!"footnote:s20-1[Sūrat al-Raʿd (the Blessed Sūra of al-Raʿd), verses 16 to 18.]
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ قُلِ ٱللَّهُۚ قُلۡ أَفَٱتَّخَذۡتُم مِّن دُونِهِۦٓ أَوۡلِيَآءَ لَا يَمۡلِكُونَ لِأَنفُسِهِمۡ نَفۡعٗا وَلَا ضَرّٗاۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ أَمۡ هَلۡ تَسۡتَوِي ٱلظُّلُمَٰتُ وَٱلنُّورُۗ أَمۡ جَعَلُواْ لِلَّهِ شُرَكَآءَ خَلَقُواْ كَخَلۡقِهِۦ فَتَشَٰبَهَ ٱلۡخَلۡقُ عَلَيۡهِمۡۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖ وَهُوَ ٱلۡوَٰحِدُ ٱلۡقَهَّـٰرُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ لِلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُواْ لَهُۥ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦٓۚ أُوْلَـٰٓئِكَ لَهُمۡ سُوٓءُ ٱلۡحِسَابِ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ
+
+"Say: God is the Creator of all things, and He is the One, the All-Subduing. He sent down water from the sky, and the riverbeds flowed each according to its measure, and the flood carried a swelling froth. And from that which they heat in the fire, seeking to make ornaments or utensils, there rises a froth like it. Thus does God strike [the parable of] the true and the false. As for the froth, it goes away as scum; but as for that which benefits people, it remains in the earth. Thus does God set forth the parables. For those who respond to their Lord is the most beautiful reward. But as for those who do not respond to Him — even if they possessed all that is on earth and the like of it besides, they would offer it as ransom. Theirs is a terrible reckoning; their abode is Hell, and what an evil resting place!"footnote:s20-1[Sūrat al-Raʿd (the Blessed Sūra of al-Raʿd), verses 16 to 18.]
+
+[.verse-cite]
+— Sūrat al-Raʿd (13:16-18)
+****
 
 _(To the gentlemen who have a Qur'an with them, and to those who have these mimeographed sheets — please look at these sheets. I will recite the verses. Some of the vowel-marks on the verses are incorrect; correct them with your pens._
 
@@ -18,11 +23,16 @@ _Now, gentlemen, I ask you to look at those sheets of yours — those who have t
 
 The next verses pertain to Sūrat al-Ṣaffāt. Those who have a Qur'an, find Sūrat al-Ṣaffāt.
 
-[role="verse quran",surah="al-Ṣāffāt",s=37,a="171-180"]
-[quote]
-____
-*Qur'an, Sūrat al-Ṣaffāt (37:171–180):* "Our word has already gone forth to Our servants, the messengers: that they will surely be the ones helped, and that Our hosts will surely be the victors. So turn away from them for a while, and watch them — for soon they too shall see. Do they then seek to hasten Our punishment? When it descends upon their courtyard, evil will be the morning of those who were warned. So turn away from them for a while, and watch — for soon they too shall see. Glory be to your Lord, the Lord of Might, above what they ascribe."footnote:s20-2[Sūrat al-Ṣaffāt (the Blessed Sūra of al-Ṣaffāt), verses 171 to 180.]
-____
+[.quranverse]
+****
+[.arabic]
+وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا ٱلۡمُرۡسَلِينَ إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ وَأَبۡصِرۡهُمۡ فَسَوۡفَ يُبۡصِرُونَ أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ فَإِذَا نَزَلَ بِسَاحَتِهِمۡ فَسَآءَ صَبَاحُ ٱلۡمُنذَرِينَ وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ وَأَبۡصِرۡ فَسَوۡفَ يُبۡصِرُونَ سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ
+
+"Our word has already gone forth to Our servants, the messengers: that they will surely be the ones helped, and that Our hosts will surely be the victors. So turn away from them for a while, and watch them — for soon they too shall see. Do they then seek to hasten Our punishment? When it descends upon their courtyard, evil will be the morning of those who were warned. So turn away from them for a while, and watch — for soon they too shall see. Glory be to your Lord, the Lord of Might, above what they ascribe."footnote:s20-2[Sūrat al-Ṣaffāt (the Blessed Sūra of al-Ṣaffāt), verses 171 to 180.]
+
+[.verse-cite]
+— Sūrat al-Ṣāffāt (37:171-180)
+****
 
 The prophets, with that very lofty and progressive aim that we explained on the previous days — an aim that, even by the cultural standards of the age of light and the age of human awareness, that is, the twentieth century, is the most progressive of all aims — namely the aim of bringing humankind into one class, of leveling and equalizing human beings, and of casting out ignorance and poverty and oppression and exploitation and class division — with this most precious and progressive and lofty aim, the prophets(((Prophethood, nubuwwah))) were commissioned and set foot in their societies.@@CX(Prophethood | aim is to level human beings and abolish class division)@@
 
@@ -82,11 +92,16 @@ Wherever you see, throughout the history of the prophetic missions, a prophet de
 
 One verse is this:
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="139"]
-[quote]
-____
-*Qur'an, Sūrat Āl ʿImrān (3:139):* "Do not be faint, and do not grieve; for you are the higher, if you are believers."footnote:s20-8[Sūrat Āl ʿImrān (the Blessed Sūra of Āl ʿImrān), verse 139.]
-____
+[.quranverse]
+****
+[.arabic]
+وَلَا تَهِنُواْ وَلَا تَحۡزَنُواْ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِينَ
+
+"Do not be faint, and do not grieve; for you are the higher, if you are believers."footnote:s20-8[Sūrat Āl ʿImrān (the Blessed Sūra of Āl ʿImrān), verse 139.]
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:139)
+****
 
 Here it is a verse of the Qur'an — this is not a narration that someone might cast doubt on, saying perhaps its chain of transmission is weak; nor is it an ambiguous [mutashābih] versefootnote:s20-9[This term is applied to those verses whose words and expressions bear multiple meanings, such that the intended sense is not arrived at from their translation and outward form. These verses are interpreted by referring to the "firm" (muḥkam) verses — those that have a clear and plain meaning.] either, that some might cast doubt on, saying we do not understand its meaning — no; clear, plain. _"Do not be faint"_ means: O Muslims, do not become weak. _"And do not grieve"_: and do not be sorrowful. _"For you are the higher"_: you are the higher, your hand is the upper one, you will be the victorious, you will overcome the enemy, your thought will at last be seated upon the thronefootnote:s20-10[awrang: a royal throne.] of the world's governance. What is its condition? _"If you are believers"_ — if you are believers, if you have faith, if faith exists, this is so.
 

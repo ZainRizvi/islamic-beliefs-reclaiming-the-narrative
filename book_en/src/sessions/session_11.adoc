@@ -4,35 +4,55 @@
 [.session-subtitle]
 _روح توحید: نفی عبودیت غیر خدا — Sunday, 7 Mehr 1353 / 12 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Anʿām",s=6,a="114-116"]
-[quote]
-____
-*Qur'an, Sūrat al-Anʿām (6:114–116):* "…Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[Sūrat al-Anʿām, verses 114–116.]
-____
+[.quranverse]
+****
+[.arabic]
+أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ وَإِن تُطِعۡ أَكۡثَرَ مَن فِي ٱلۡأَرۡضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
+
+"…Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[Sūrat al-Anʿām, verses 114–116.]
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:114-116)
+****
 
 footnote:s11-2[Please refer to the mimeographed handout at the end of the session.] However much we reflect, it turns out that Tawhid(((Tawhid))) is not something one can pass over so easily. First, it is the foundation of belief. Second, it is the principal practical reality of the individual and of society.@@CX(Tawhid | foundation of belief and the practical reality of individual and society)@@ Third, the believing, monotheist Muslim community knows very little about it — indeed, one could say that they know nothing of it. Even though in the old maktab schools children were taught that God is one and not two, for the most part the monotheists know nothing properly about the various dimensions of Tawhid, right up to the years near their departure from this world. Therefore a subject of such importance, about which our people have so little knowledge, is one a person does well to speak about at greater length.
 
 As it happens, the verses of the Qur'an too, in keeping with this very importance, in many places and in various tones, have spoken about Tawhid. And even if I were to go on speaking about this important principle of belief and practice for several more days, one could still bring from the noble verses of the Qur'an testimonies, verses, and examples to clarify the point we have in view. Now, what we are reading today again draws attention to a fresh aspect of Tawhid, one that was alluded to yesterday as well, and which today will be addressed in fuller detail.
 
-[role="verse quran",surah="al-Anʿām",s=6,a="114-116"]
-[quote]
-____
-*Qur'an, Sūrat al-Anʿām (6:114–116):* "In the name of God, the Most Merciful, the Most Compassionate. Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[]
-____
+[.quranverse]
+****
+[.arabic]
+أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ وَإِن تُطِعۡ أَكۡثَرَ مَن فِي ٱلۡأَرۡضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
 
-[role="verse quran",surah="al-Anʿām",s=6,a="116"]
-[quote]
-____
-*Qur'an, Sūrat al-Anʿām (6:116):* "…they follow nothing but conjecture, and they do nothing but guess."
-____
+"In the name of God, the Most Merciful, the Most Compassionate. Shall I then seek a judge other than God, when it is He who has sent down to you the Book, set out in detail? And those to whom We gave the Book know that it is sent down from your Lord in truth — so do not be among the doubters. And the word of your Lord has been fulfilled in truth and justice; there is none who can change His words, and He is the All-Hearing, the All-Knowing."footnote:s11-1[]
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:114-116)
+****
+
+[.quranverse]
+****
+[.arabic]
+وَإِن تُطِعۡ أَكۡثَرَ مَن فِي ٱلۡأَرۡضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا يَخۡرُصُونَ
+
+"…they follow nothing but conjecture, and they do nothing but guess."
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:116)
+****
 
 These are from several verses, which of course we have translated herefootnote:s11-3[Please refer to the mimeographed handout at the end of the session.] and at the end will explain — briefly. And:
 
-[role="verse quran",surah="al-Anʿām",s=6,a="121"]
-[quote]
-____
-*Qur'an, Sūrat al-Anʿām (6:121):* "And do not eat of that over which the name of God has not been mentioned; that is indeed a transgression. And truly the satans inspire their friends to dispute with you; and if you obey them, you are surely idolaters (mushrikūn)."footnote:s11-4[Sūrat al-Anʿām, verse 121.]
-____
+[.quranverse]
+****
+[.arabic]
+وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ
+
+"And do not eat of that over which the name of God has not been mentioned; that is indeed a transgression. And truly the satans inspire their friends to dispute with you; and if you obey them, you are surely idolaters (mushrikūn)."footnote:s11-4[Sūrat al-Anʿām, verse 121.]
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:121)
+****
 
 The gist of the matter, with respect to today's point of view, is this: at one time, people worship someone in the sense that they regard him as sacred and as possessing powers above the natural world — as, for instance, certain idols, or certain "saints" (qiddīsīn)footnote:s11-5[(q-d-s) "Qiddīs": the faithful, the pious.] have been worshipped by peoples throughout history. From the word "worship," what initially comes to mind is just this. When we say that worshipping God is obligatory, what comes to our minds is this same sanctification, this same state of spiritual and heartfelt reverence — as, for example, Christians(((Christians))) ascribe a kind of sanctity to Jesus(((Jesus))) (peace be upon him) or to his pure and immaculate mother Mary(((Mary))) (the blessings of God upon her): before an imagined statue of Christ or Mary they kneel, they weep, they worship him. This is one common, widespread sense of worship.@@CX(servitude | the common sense of worship as sanctification and heartfelt reverence)@@
 
@@ -44,11 +64,16 @@ What is the second meaning of worship? The second meaning of worship is very sim
 
 ʿAdī ibn Ḥātim al-Ṭāʾīfootnote:s11-7[ʿAdī ibn Ḥātim, son of Ḥātim al-Ṭāʾī, who after his father took over the leadership of the tribe. In the ninth year of the Hijrah, influenced by the character and conduct of the Prophet, he became a Muslim. He was among the companions and devotees of the Commander of the Faithful, present in the battles of the Jamal, Ṣiffīn, and Nahrawān, and he offered three of his sons to Islam in the Battle of Ṣiffīn. He died in the year sixty-seven of the Hijrah.] — the son of the famous Ḥātim, though the rank of this ʿAdī himself is far higher and more honored than that of his father Ḥātim — when he entered Medina,(((Medina))) the Noble Messenger began reciting this verse to him, on account of seeing a cross-cord (zunnār)footnote:s11-8[The cord by which Christians used to hang the cross around their necks.] hung around his neck:
 
-[role="verse quran",surah="al-Tawbah",s=9,a="31"]
-[quote]
-____
-*Qur'an, Sūrat al-Tawbah (9:31):* "They took their rabbis and their monks as lords besides God, and also the Messiah, son of Mary; yet they were commanded to worship none but One God."footnote:s11-9[Sūrat al-Tawbah, verse 31.]
-____
+[.quranverse]
+****
+[.arabic]
+ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ
+
+"They took their rabbis and their monks as lords besides God, and also the Messiah, son of Mary; yet they were commanded to worship none but One God."footnote:s11-9[Sūrat al-Tawbah, verse 31.]
+
+[.verse-cite]
+— Sūrat al-Tawbah (9:31)
+****
 
 The meaning of the verse is that the Christians and Jews took their rabbis and their monks — their scholars and their ascetics — and the Messiah son of Mary, as their lords and gods, whereas God Most High had commanded them to worship none but the One God. When this verse reached the ears of ʿAdī ibn Ḥātim,(((ʿAdī ibn Ḥātim al-Ṭāʾī))) he turned and said: O Prophet of God, this is not correct! When did we ever take our rabbis and monks as God and lord for ourselves? When did we ever worship them? He objected to the Prophet and to the verse of the Qur'an. Why? Because in his mind, "worship" had the very meaning that is now in your minds: the gentlemen are performing worship — meaning supplication, meaning a state coupled with sanctification, whether of the heart, or of the heart and tongue, or of the heart and tongue and body, as in performing the ritual prayer. Because he understood worship in this sense, when ʿAdī ibn Ḥātim saw that the verse of the Qur'an says these people worshipped their scholars and ascetics, chose and adopted them as their lord and master, it seemed to him objectionable, and he said: No, this is not correct. When did we Christians ever worship our rabbis and monks?
 
@@ -112,11 +137,16 @@ ____
 *Qur'an, Sūrat al-Anʿām (6:114):* "Shall I then seek a judge (ḥakam) other than God?" — Shall I accept and seek anyone other than God as judge? "Ḥakam," the commentators have said, means both arbiter and ruler. The one from whom a person seeks judgment — that is, from whom he seeks command, or from whom he seeks arbitration — both are called "ḥakam." And God Most High is both the best arbiter and the best ruler. The command, too, must be given by God:
 ____
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="54"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:54):* "Surely His are the creation and the command."footnote:s11-23[Sūrat al-Aʿrāf, verse 54.]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ يَطۡلُبُهُۥ حَثِيثٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتِۭ بِأَمۡرِهِۦٓۗ أَلَا لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ
+
+"Surely His are the creation and the command."footnote:s11-23[Sūrat al-Aʿrāf, verse 54.]
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:54)
+****
 
 Know that creation and command belong to God. He Himself has created, and He Himself also commands. "Shall I then seek a judge other than God?" — Shall I seek any ruler, commander, or arbiter other than God? "When it is He who has sent down to you the Book, set out in detail" — whereas it is God who has sent down this collection, the Qur'an, to you in detail, with elucidation, without admixture or commingling.footnote:s11-24[(kh-l-ṭ) to become intermingled; (m-z-j) to become mixed.]
 
@@ -164,11 +194,16 @@ ____
 
 That is one chapter. The second portion is from Sūrat al-Shuʿarāʾ,(((Sūrat al-Shuʿarāʾ))) which we now do not have much time to translate in full detail; I will give a very brief translation so that we may conclude. The most striking and penetrating expressions on many themes, whether in the Qur'an or in Hadith, are set forth for people in the form of images and scene-settings of the Resurrection.(((Resurrection))) When they wish to vividly portray a matter for the listener — and it is the same in the hadiths — to make it clear so that it may penetrate to the depths of his soul, they depict for him a scene of the Resurrection; that affair is reflected there, and the present passage is of this kind.
 
-[role="verse quran",surah="al-Shuʿarāʾ",s=26,a="90"]
-[quote]
-____
-*Qur'an, Sūrat al-Shuʿarāʾ (26:90):* "And Paradise will be brought near for the God-fearing."footnote:s11-32[Sūrat al-Shuʿarāʾ, verses 90–103.]
-____
+[.quranverse]
+****
+[.arabic]
+وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ
+
+"And Paradise will be brought near for the God-fearing."footnote:s11-32[Sūrat al-Shuʿarāʾ, verses 90–103.]
+
+[.verse-cite]
+— Sūrat al-Shuʿarāʾ (26:90)
+****
 
 Paradise was brought near and within reach for the pious. He is speaking of the Day of Resurrection, but He speaks of it in the past tense. The certain-to-occur future, in the Arabic language, can be expressed with the past tense. "The Hour drew near, and the moon was split"footnote:s11-33[Sūrat al-Qamar, verse 1: "The Hour drew near and the moon was split."] — meaning, it will be. "And Paradise will be brought near for the God-fearing" — and Paradise was brought near and within reach, accessible, for the pious. "And the Blazing Fire will be made manifest to those who went astray" — and Hellfire was shown and made apparent to the astray and the deceived. "Ghiwāyah" means going astray; "We led them astray"footnote:s11-34[Sūrat al-Qaṣaṣ, verse 63.] means We deceived them. "Ghāwīn" means the astray, the deceived, the deluded — these are called "ghāwīn." "And it will be said to them: Where is that which you used to worship besides God?" — it will be said to them, to these deceived and astray ones: "Where is that which you used to worship besides God?" Where are those things and persons whom you used to worship in place of God? Where are they? Those poles to whom you were attached in life and whose worship you performed — where are they? Here, take note of the word "worship": "that which you used to worship" — you used to worship them. But let us see what they were, those whom these people worshipped, so that the meaning of worship may become clear. "Can they help you, or help themselves?" — can those objects of your worship help you, or are they themselves helped from somewhere? "Or help themselves" — meaning, are they themselves helped? It becomes clear that these objects of worship are ones in need of being helped — evidently they are human beings. These objects of worship were of the human kind, not of the kind of stone and wood and lifeless idols.@@CX(Tāghūt | the objects of false worship were human leaders, not lifeless idols)@@ "Then they will be flung headlong into it — they and those who strayed, and the hosts of Iblīs, all together." So they are flung face-down into Hellfire — they, those objects of worship and the deluded and astray and deceived, the followers of corruption — "and the hosts of Iblīs, all together." And the hosts of Iblīs all together: everyone who in some way did a deed for Iblīs, rendered a service to Iblīs, took a step on the path of leading God's creatures astray, in whatever manner — in the Resurrection the abode of them all is Hell; their appointment is there. "They will say, while disputing with one another therein…" — then, in the throes of contention with one another, they fall upon each other: these against those, those against these; these cast the blame upon those leaders, and the leaders cast the blame upon these. These say: It was you scoundrels who put the rope around our necks and dragged us behind you, by force, by compulsion; those say: It was you who followed behind us. Each delivers and brings forth a blow, a weapon, against the other group. "They will say" — they say or said — "while disputing with one another therein" — while in Hellfire engaged in contention and combat; they were in dispute and strife. "By God" — they swear by God — "surely we were in manifest error."footnote:s11-35[(continuation of Sūrat al-Shuʿarāʾ, verses 90–103).] We were in a manifest error, in a vast error, in an obvious error. Despite its obviousness, we did not realize we were astray, even though if we had come to ourselves even a little, we would have understood what a wrong road, what an evil road, what a dangerous path, and what a deadly, destructive end it was. Even though, if we had thought a little, these things would have become clear — yet, even so, we remained in that error.
 
