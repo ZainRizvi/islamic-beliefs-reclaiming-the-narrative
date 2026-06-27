@@ -80,7 +80,8 @@ files.each do |path|
 
   # leftover markdown footnote defs / markers
   errors << "#{rel}: leftover Markdown footnote definition [^N]:" if text =~ /^\[\^\d+\]:/
-  errors << "#{rel}: leftover [.verse marker (use [role=...])" if text.include?('[.verse')
+  # old verse/hadith marker syntax (now [role=...]); allow the [.verse-cite] role.
+  errors << "#{rel}: leftover [.verse marker (use [role=...])" if text =~ /\[\.verse[,\]]/
   errors << "#{rel}: leftover [.hadith marker (use [role=...])" if text.include?('[.hadith')
 
   # --- 2. Quote-block delimiter balance ----------------------------------
