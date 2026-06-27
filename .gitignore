@@ -6,12 +6,10 @@
 audio/
 *.pdf
 
-# Rendered book output (regenerated from src/ — never committed)
+# Rendered book output + the processed render tree (regenerated from src/).
+# The concept term text lives permanently in src/ @@CX(...)@@ markers, so the
+# generated render tree under build/ is fully disposable.
 book_en/build/
-
-# Generated concepts-index include (rebuilt from @@CX markers / registry).
-# The registry .tsv is the durable record and IS tracked (see !exception below).
-book_en/src/_generated/concepts-index.adoc
 
 # Toolchain caches
 book_en/.bundle/

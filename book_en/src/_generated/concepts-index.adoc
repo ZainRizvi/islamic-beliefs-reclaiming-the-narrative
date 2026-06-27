@@ -1,0 +1,2 @@
+// Placeholder — the real concepts index is generated into build/render/_generated/
+// at build time by tools/build_indexes.rb. See build.sh.
