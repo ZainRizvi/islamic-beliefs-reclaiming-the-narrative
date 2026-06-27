@@ -63,6 +63,32 @@ quote:
   padding: [4, 12, 4, 14]
   cite-font-size: 9
 
+# Qur'an verse blocks (sidebar role .quranverse): Arabic line (Amiri, RTL,
+# right-aligned), English rendering, then a right-aligned citation footer.
+# .arabic-inline is for woven exegetical blocks (Arabic fragment before a quote).
+role:
+  arabic:
+    font-family: Amiri
+    font-size: 15
+    line-height: 1.9
+    align: right
+    font-style: normal
+  arabic-inline:
+    font-family: Amiri
+    font-size: 13
+    font-style: normal
+  verse-cite:
+    font-size: 9
+    font-style: italic
+    align: right
+    font-color: '#555555'
+
+sidebar:
+  background-color: '#f7f5f0'
+  border-width: 0
+  border-radius: 3
+  padding: [8, 12, 6, 12]
+
 footnotes:
   font-size: 8.5
   item-spacing: 2
