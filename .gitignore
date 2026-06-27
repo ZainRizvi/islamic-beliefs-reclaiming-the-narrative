@@ -9,6 +9,10 @@ audio/
 # Rendered book output (regenerated from src/ — never committed)
 book_en/build/
 
+# Generated concepts-index include (rebuilt from @@CX markers / registry).
+# The registry .tsv is the durable record and IS tracked (see !exception below).
+book_en/src/_generated/concepts-index.adoc
+
 # Toolchain caches
 book_en/.bundle/
 book_en/vendor/bundle/

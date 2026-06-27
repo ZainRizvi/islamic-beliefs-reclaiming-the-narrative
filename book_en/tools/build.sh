@@ -34,17 +34,27 @@ require_src() {
   fi
 }
 
+# Regenerate the concepts index from @@CX(...)@@ markers (rewrites markers to
+# anchors in place, writes src/_generated/concepts-index.adoc). Idempotent.
+prepare_indexes() {
+  if [ -f "$ROOT/tools/build_indexes.rb" ]; then
+    echo ">> Preparing concepts index"
+    ruby "$ROOT/tools/build_indexes.rb" "$ROOT/src"
+  fi
+}
+
 build_pdf() {
   require_src
+  prepare_indexes
   echo ">> Rendering PDF -> build/Islamic-Beliefs-Reclaiming-the-Narrative.pdf"
   asciidoctor-pdf "${ext_flags[@]}" \
     -a pdf-theme="$ROOT/tools/theme/book-theme.yml" \
-    -a pdf-fontsdir="$ROOT/tools/theme/fonts;GEM_FONTS_DIR" \
     -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$SRC"
 }
 
 build_epub() {
   require_src
+  prepare_indexes
   echo ">> Rendering EPUB -> build/Islamic-Beliefs-Reclaiming-the-Narrative.epub"
   asciidoctor-epub3 "${ext_flags[@]}" \
     -D "$OUT" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$SRC"
@@ -52,6 +62,7 @@ build_epub() {
 
 build_html() {
   require_src
+  prepare_indexes
   echo ">> Rendering HTML -> build/Islamic-Beliefs-Reclaiming-the-Narrative.html"
   asciidoctor "${ext_flags[@]}" \
     -a toc=left -a sectnums \
