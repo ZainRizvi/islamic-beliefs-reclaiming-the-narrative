@@ -4,29 +4,44 @@
 [.session-subtitle]
 _ایمان (۱) — delivered Thursday, 28 Shahrīvar 1353 / 2 Ramaḍān al-Mubārak 1394_
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="133-134"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:133–134):* "And hasten to a forgiveness from your Lord and to a Garden whose breadth is the heavens and the earth, prepared for the God-conscious — those who spend in prosperity and adversity, who restrain their anger and pardon people; and God loves those who do good."
-____
+[.quranverse]
+****
+[.arabic]
+۞وَسَارِعُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِينَ ٱلَّذِينَ يُنفِقُونَ فِي ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلۡكَٰظِمِينَ ٱلۡغَيۡظَ وَٱلۡعَافِينَ عَنِ ٱلنَّاسِۗ وَٱللَّهُ يُحِبُّ ٱلۡمُحۡسِنِينَ
+
+"And hasten to a forgiveness from your Lord and to a Garden whose breadth is the heavens and the earth, prepared for the God-conscious — those who spend in prosperity and adversity, who restrain their anger and pardon people; and God loves those who do good."
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:133-134)
+****
 
 The monks of Christianity(((Christianity, monasticism))), in order that the hem of their garment should not be stained by sins, took up monasticism footnote:s01-1[(r-h-b) perpetual fear; _rahbāniyyah_: seclusion and renunciation of the world.]; they sought refuge in caves and mountains and desolate corners.@@CX(taqwā | rejects monastic flight; engages the zone of sin)@@ The Qurʾān(((Qur'an))) says:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="27"]
-[quote]
-____
-*Qurʾān, Sūrat al-Ḥadīd (57:27):* "And the monasticism which they invented — We did not prescribe it for them."footnote:s01-2[Sūrat al-Ḥadīd (al-Mubārakah) / verse 27.]
-____
+[.quranverse]
+****
+[.arabic]
+وَرَهۡبَانِيَّةً ٱبۡتَدَعُوهَا مَا كَتَبۡنَٰهَا عَلَيۡهِمۡ
+
+"And the monasticism which they invented — We did not prescribe it for them."footnote:s01-2[Sūrat al-Ḥadīd (al-Mubārakah) / verse 27.]
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:27)
+****
 
 That is: the monasticism which they themselves brought forth, which they established as an innovation — We had not prescribed monasticism for them. But the Muslim scholar has no monasticism, no seclusion, no flight. The Muslim scholar is precisely the one who strives to lay hold of the drowning man.footnote:s01-3[A man of heart came to the school from the monastery / and broke the covenant of fellowship with the people of the Path. / I said, "Between scholar and ascetic, what was the difference, / that you chose this party over that?" / He said, "The one carries his own blanket out of the waves, / while this one strives to lay hold of the drowning man." (Saʿdī)] An aware, Muslim individual — every Muslim human being, since being a Muslim and being responsible are mutually entailing one another — is exactly like this: he strives to save the drowning man, the cholera-stricken, the sick. This cannot be accomplished by flight. He makes himself God-conscious (_muttaqī_)(((taqwā))), possessed of _taqwā_ — that is, he puts on the necessary equipment, the necessary armor, against the harm of sin, and enters the zone of sin in order to take the sinners by the hand. In short, _taqwā_ is this.@@CX(taqwā | armor that lets one enter sin's zone to save others)@@
 
 Once this is the meaning of _taqwā_, is _taqwā_ a prerequisite and a means for victory, or not? You see that, quite easily, it is a means of victory. The one who wishes to overcome this disease, to be victorious in this zone — if he were perpetually afraid that this microbe might take effect in his own body, how could he rescue those struck by the microbe, those struck by cholera? He must have made himself secure; he must be assured about himself, and then enter the zone of the cholera-stricken and rescue the others. It is then that he will also attain victory. It is then that he will also accomplish this task with ease.@@CX(taqwā | a prerequisite and means of victory)@@
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="130-132"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:130–132):* "And be conscious of God"footnote:s01-4[Sūrat Āl ʿImrān (al-Mubārakah) / verses 130 to 132.] — adopt the God-consciousness of God — "that perhaps you may be the victorious" — so that perhaps you may become triumphant, prosperous, and successful.
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَأۡكُلُواْ ٱلرِّبَوٰٓاْ أَضۡعَٰفٗا مُّضَٰعَفَةٗۖ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ وَٱتَّقُواْ ٱلنَّارَ ٱلَّتِيٓ أُعِدَّتۡ لِلۡكَٰفِرِينَ وَأَطِيعُواْ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
+
+"And be conscious of God"footnote:s01-4[Sūrat Āl ʿImrān (al-Mubārakah) / verses 130 to 132.] — adopt the God-consciousness of God — "that perhaps you may be the victorious" — so that perhaps you may become triumphant, prosperous, and successful.
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:130-132)
+****
 
 [quote]
 ____
@@ -42,11 +57,16 @@ Now, obedience to God is no different from obedience to the Prophet — so on wh
 
 In the time of the Prophet, both the Prophet claimed servitude to God and obedience to Him, and likewise those who, on the front opposing him, fought against him and made trouble — the leaders and lords and monks of Christianity, and the rabbis footnote:s01-5[Plural of _ḥabr_: the learned ones (rabbis).] of the Jews(((Jews))) — these too made the claim.
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="18"]
-[quote]
-____
-*Qurʾān, Sūrat al-Māʾidah (5:18):* "And the Jews and the Christians said, 'We are the sons of God.'"footnote:s01-6[Sūrat al-Māʾidah (al-Mubārakah) / verse 18.]
-____
+[.quranverse]
+****
+[.arabic]
+وَقَالَتِ ٱلۡيَهُودُ وَٱلنَّصَٰرَىٰ نَحۡنُ أَبۡنَـٰٓؤُاْ ٱللَّهِ
+
+"And the Jews and the Christians said, 'We are the sons of God.'"footnote:s01-6[Sūrat al-Māʾidah (al-Mubārakah) / verse 18.]
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:18)
+****
 
 — even a notch above the Prophet: he said, "I am the servant of God," while these said, "We are the children and the sons of God." They imagined that obedience to God was entirely at their disposal. Or, to put it another way: they themselves do not even really think it; some of those disobedient to God merely pretend in this manner that they are obedient to God. Is that right or not? There are some who, when they sit alone with themselves, find what a black record they have; they understand that what they say is, from head to foot, a lie. Yet before the people they pretend in this way that they are the good servants of God and the obedient ones and the worshippers of the Lord. Over against the truly truth-worshipping people, these must be set apart, they must be distinguished footnote:s01-7[(m-y-z) separated out, distinguished.].@@CX(Faith | false claimants of obedience must be distinguished from true believers)@@ This is why, here, God the Exalted — in the station of explaining obedience and its necessity for the believers — speaks in this manner:
 
@@ -69,11 +89,16 @@ ____
 "And obey God and the Messenger, that perhaps you may be shown mercy" — obey God and the Messenger, the Prophet, that perhaps you may be placed within His mercy. What does it mean, "Obey God"? In what does obedience to God consist? In this: that we bear upon our shoulders all the duties and divine proofs; that we carry out what has been placed in our charge. As the noble verse of the Qurʾān says: the believers are those who, when a dispute occurs among them, refer it to you, O Prophet — they have recourse to you — and when you have issued a ruling:
 ____
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="65"]
-[quote]
-____
-*Qurʾān, Sūrat al-Nisāʾ (4:65):* "Then they find within themselves no discomfort from what you have judged"footnote:s01-8[Sūrat al-Nisāʾ (al-Mubārakah) / verse 65.] — the command which you have issued leaves not the least speck of resentment upon their spirits and their hearts — "and they submit in full submission" — submitting to the command.
-____
+[.quranverse]
+****
+[.arabic]
+فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا
+
+"Then they find within themselves no discomfort from what you have judged"footnote:s01-8[Sūrat al-Nisāʾ (al-Mubārakah) / verse 65.] — the command which you have issued leaves not the least speck of resentment upon their spirits and their hearts — "and they submit in full submission" — submitting to the command.
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:65)
+****
 
 The true believer is like this. If a nation were like this, an _ummah_(((Ummah))) — if a body of people came under the command of God in this manner — then it is that the mercy of the Lord and His infinite grace would encompass them; then it is that an _ummah_ attains lordship; then it is that a nation reaches human maturity; then it is that the captivities and chains are loosed from its hand and foot; then it is that divine mercy encompasses it.@@CX(Ummah | a community under God's command attains lordship and is freed from chains)@@
 
@@ -82,11 +107,16 @@ ____
 "And obey God and the Messenger, that perhaps you may be shown mercy" — obey God and the Prophet, that you may be placed within the mercy of the Lord.
 ____
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="133"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:133):* "And hasten to a forgiveness from your Lord"footnote:s01-9[Sūrat Āl ʿImrān (al-Mubārakah) / verse 133.] — here is the field of contest, the field of taking the lead and of racing. Outstrip one another, take the lead — "to a forgiveness," toward a forgiveness — "and a Garden," and a Paradise "whose breadth is the heavens and the earth," from the side of your Lord, which is as wide as the heavens and the earth — "prepared for the God-conscious," made ready for the people of _taqwā_.
-____
+[.quranverse]
+****
+[.arabic]
+۞وَسَارِعُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِينَ
+
+"And hasten to a forgiveness from your Lord"footnote:s01-9[Sūrat Āl ʿImrān (al-Mubārakah) / verse 133.] — here is the field of contest, the field of taking the lead and of racing. Outstrip one another, take the lead — "to a forgiveness," toward a forgiveness — "and a Garden," and a Paradise "whose breadth is the heavens and the earth," from the side of your Lord, which is as wide as the heavens and the earth — "prepared for the God-conscious," made ready for the people of _taqwā_.
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:133)
+****
 
 There, one sign of _taqwā_ and one result of _taqwā_ was mentioned; here, the signs of _taqwā_ will be mentioned one after another. O human being who, for a handspan of earth and a measure of water and clay in such-and-such a region of the world, are ready to take the lead, ready to leave others behind, ready to put to work and employ all your strength and powers, so that you may — in the auction of such-and-such a piece of land, in acquiring such-and-such capital, in seizing such-and-such a shop, in taking such-and-such a corner of such-and-such a country, in setting up such-and-such a company in such-and-such a region of the world, in obtaining material privileges as much as possible — for these you are ready to compete, to gather speed, to leave others behind, even though you have trampled honors and virtues underfoot — O human being! They do not tell you: do not gather speed; they do not tell you: sleep at home, do not put your powers to work. The one who, in the name of religion, says this to you, lies and does not know. Religion does not say: leave your powers idle; religion says: gather speed, as much as possible; compete, as much as possible — but toward what? Toward that which is worthy of you, not toward a handspan of water and clay, not toward some trifling sum, not toward the material life of this world which, whatever it may be, is small and slight for you.@@CX(materialism | religion bids you compete, but toward worthy ends not material gain)@@ O great human being! Toward something that befits your grandeur, that accords with your station — for the human being is the loftiest of the creatures of this world, the greatest of the grandeurs of existence after the Lord, lodged within this small and limited frame — O great human being, gather speed, compete, but toward what?
 
@@ -114,11 +144,16 @@ Let me give another example. You boarded a car; you are going to the fifty-_fars
 
 God the Exalted does not say: because you sinned, now whatever good work you do, We will not at all wipe out that sin — God does not act out of spite.
 
-[role="verse quran",surah="Ṭāhā",s=20,a="82"]
-[quote]
-____
-*Qurʾān, Sūrat Ṭāhā (20:82):* "And indeed I am Most Forgiving"footnote:s01-12[Sūrat Ṭāhā (al-Mubārakah) / verse 82.] — We are not spiteful, We are the Forgiver. Those sins that were committed, those errors that came into being — We are ready to overlook those errors, provided that amends are made. We do not say: because you erred one day, now though you have striven a hundredfold, your striving counts for nothing because of your error. No.
-____
+[.quranverse]
+****
+[.arabic]
+وَإِنِّي لَغَفَّارٞ
+
+"And indeed I am Most Forgiving"footnote:s01-12[Sūrat Ṭāhā (al-Mubārakah) / verse 82.] — We are not spiteful, We are the Forgiver. Those sins that were committed, those errors that came into being — We are ready to overlook those errors, provided that amends are made. We do not say: because you erred one day, now though you have striven a hundredfold, your striving counts for nothing because of your error. No.
+
+[.verse-cite]
+— Sūrat Ṭāhā (20:82)
+****
 
 [quote]
 ____
@@ -151,19 +186,29 @@ ____
 "Prepared for the God-conscious." (Pay close attention to the translations, for now, when our dear reciter comes here to recite the verses, I have laid stress on every word I emphasized, so that it may be in your mind, so that during the recitation you may immediately return to the meanings of the words.) "Prepared for the God-conscious" — made ready for the people of _taqwā_. Who are the people of _taqwā_?
 ____
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="134"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:134):* "Those who spend in prosperity and adversity"footnote:s01-16[Sūrat Āl ʿImrān (al-Mubārakah) / verses 134 to 136.] — those who give freely in ease and in hardship. This is one condition of being a person of _taqwā_: spending (_infāq_).
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِينَ يُنفِقُونَ فِي ٱلسَّرَّآءِ وَٱلضَّرَّآءِ
+
+"Those who spend in prosperity and adversity"footnote:s01-16[Sūrat Āl ʿImrān (al-Mubārakah) / verses 134 to 136.] — those who give freely in ease and in hardship. This is one condition of being a person of _taqwā_: spending (_infāq_).
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:134)
+****
 
 _Infāq_, too, I have explained several times by now. There is no harm in repeating these things, since these are words that, for the most part, reach your ears fresh — the more they are repeated, the more they remain in the heart, and so much the better. _Infāq_(((infāq))) differs from spending. Spending means that a person spends some money. _Infāq_ is spending, but not every kind of spending. _Infāq_ is that spending by which a void is filled, a true need is met.@@CX(Infāq | spending that fills a true void, not mere expenditure)@@ Where are those who spend millions — and apparently spend it on good works too — and yet, in the language of the Qurʾān, we must tell them that they are the most wretched of people, because their work is not _infāq_?
 
-[role="verse quran",surah="al-Kahf",s=18,a="103-104"]
-[quote]
-____
-*Qurʾān, Sūrat al-Kahf (18:103–104):* "Shall We inform you of the greatest losers in deeds? Those whose effort in the life of this world has gone astray, while they reckon that they are doing good."footnote:s01-17[Sūrat al-Kahf (al-Mubārakah) / verses 103 and 104: "Say: Shall We inform you of the greatest losers in deeds? They are those whose effort in the life of this world has gone to waste, while they suppose that they are doing good work."] These monies that are spent, this gold and these ornaments hung upon the starving body of a group of people, these superfluous and false adornments — these are not _infāq_. Why? Because they fill no void.
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِينَ أَعۡمَٰلًا ٱلَّذِينَ ضَلَّ سَعۡيُهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ يَحۡسَبُونَ أَنَّهُمۡ يُحۡسِنُونَ صُنۡعًا
+
+"Shall We inform you of the greatest losers in deeds? Those whose effort in the life of this world has gone astray, while they reckon that they are doing good."footnote:s01-17[Sūrat al-Kahf (al-Mubārakah) / verses 103 and 104: "Say: Shall We inform you of the greatest losers in deeds? They are those whose effort in the life of this world has gone to waste, while they suppose that they are doing good work."] These monies that are spent, this gold and these ornaments hung upon the starving body of a group of people, these superfluous and false adornments — these are not _infāq_. Why? Because they fill no void.
+
+[.verse-cite]
+— Sūrat al-Kahf (18:103-104)
+****
 
 Sir! If you give these five _rials_ footnote:s01-18[Five _rials_.] to someone who has a hundred such five-_rial_ coins and a one-_tūmān_ coin in his pocket, and can provide a hundred more, this is not _infāq_; but if you gave it to that person who is awaiting a single five-_rial_ coin to buy a loaf of _sangak_ bread and fill his stomach, this is _infāq_. Of course, by this sentence I did not mean to say that the gentlemen should now go and keep handing out five-_rial_ coins to the hungry and the beggars so that they may fill their stomachs — no. Sometimes filling the stomach of a hungry person is not even _infāq_; under certain conditions it is so. Under those conditions in which poverty and hunger, like a weed, are sprouting up over the lands without reckoning, there filling the stomach of one hungry person is like snipping off the top of a single blade of a weed. In the wilderness, how much value does a weed have? After all, one weed is removed from before the eye, but how fundamental is this work? How worthwhile is this work? Very little and slight. Therefore _infāq_ is that which fills a void, which meets a need. That nation which today has need of a certain thing — like air and water — if you helped that nation with something other than that thing, here you did not perform _infāq_; you committed an unlawful squandering of money. So _infāq_ is not the work of everyone; _infāq_ is the work of intelligent people — those who understand the voids and the needs, and are ready to fill those voids and needs in their proper place. _Infāq_ is very important.@@CX(Infāq | requires discernment to meet a nation's true, fundamental need)@@
 
@@ -177,11 +222,16 @@ ____
 "And those who restrain anger" — and those who swallow down their wrath. What does swallowing down wrath mean? It means: they do not act on the basis of emotion — everywhere, intellect. But sometimes intellect is also accompanied by righteous wrath. Do you not see that the Qurʾān says:
 ____
 
-[role="verse quran",surah="al-Fatḥ",s=48,a="29"]
-[quote]
-____
-*Qurʾān, Sūrat al-Fatḥ (48:29):* "Harsh against the disbelievers, merciful among themselves."footnote:s01-19[Sūrat al-Fatḥ (al-Mubārakah) / verse 29.] When they say "those who restrain anger," its meaning is not what you might imagine — that we mean to say the wrath of a nation, the wrath of a human being, the wrath of a society against those upon whom wrath ought to be vented should be done away with and brought to naught. No. The Qurʾān, too, does not say to swallow down these instances of wrath; it says: do not perform an action on the basis of wrath. "And those who restrain anger" — those who suppress, those who swallow it down — not those who forget, but those who swallow down rage and wrath; so that when the wrath has subsided, the human being may, with intellect, with understanding, do what is fitting.
-____
+[.quranverse]
+****
+[.arabic]
+مُّحَمَّدٞ رَّسُولُ ٱللَّهِۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلۡكُفَّارِ رُحَمَآءُ بَيۡنَهُمۡۖ تَرَىٰهُمۡ رُكَّعٗا سُجَّدٗا يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗاۖ سِيمَاهُمۡ فِي وُجُوهِهِم مِّنۡ أَثَرِ ٱلسُّجُودِۚ ذَٰلِكَ مَثَلُهُمۡ فِي ٱلتَّوۡرَىٰةِۚ وَمَثَلُهُمۡ فِي ٱلۡإِنجِيلِ كَزَرۡعٍ أَخۡرَجَ شَطۡـَٔهُۥ فَـَٔازَرَهُۥ فَٱسۡتَغۡلَظَ فَٱسۡتَوَىٰ عَلَىٰ سُوقِهِۦ يُعۡجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلۡكُفَّارَۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ مِنۡهُم مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمَۢا
+
+"Harsh against the disbelievers, merciful among themselves."footnote:s01-19[Sūrat al-Fatḥ (al-Mubārakah) / verse 29.] When they say "those who restrain anger," its meaning is not what you might imagine — that we mean to say the wrath of a nation, the wrath of a human being, the wrath of a society against those upon whom wrath ought to be vented should be done away with and brought to naught. No. The Qurʾān, too, does not say to swallow down these instances of wrath; it says: do not perform an action on the basis of wrath. "And those who restrain anger" — those who suppress, those who swallow it down — not those who forget, but those who swallow down rage and wrath; so that when the wrath has subsided, the human being may, with intellect, with understanding, do what is fitting.
+
+[.verse-cite]
+— Sūrat al-Fatḥ (48:29)
+****
 
 [quote]
 ____
@@ -198,19 +248,29 @@ ____
 What else are the signs of the people of _taqwā_?
 ____
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="135"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:135):* "And those who, when they commit an indecency or wrong themselves, remember God and seek forgiveness for their sins" — those who, when they commit some great sin, or wrong their own selves — "or wrong themselves," they do injustice upon their own selves — "remember God," immediately fall to remembering God. In the valley of heedlessness, beneath the cover of heedlessness, they do not tarry long.
-____
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ إِذَا فَعَلُواْ فَٰحِشَةً أَوۡ ظَلَمُوٓاْ أَنفُسَهُمۡ ذَكَرُواْ ٱللَّهَ فَٱسۡتَغۡفَرُواْ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمۡ يَعۡلَمُونَ
+
+"And those who, when they commit an indecency or wrong themselves, remember God and seek forgiveness for their sins" — those who, when they commit some great sin, or wrong their own selves — "or wrong themselves," they do injustice upon their own selves — "remember God," immediately fall to remembering God. In the valley of heedlessness, beneath the cover of heedlessness, they do not tarry long.
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:135)
+****
 
 There is a very strange verse in the Qurʾān(((Qur'an, remembrance of God))) on the theme of remembrance and recollection — and, as it happens, this one too is for the people of _taqwā_:@@CX(taqwā | remembrance of God is the believer's weapon against Satan)@@
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="201"]
-[quote]
-____
-*Qurʾān, Sūrat al-Aʿrāf (7:201):* "Indeed, those who are God-conscious — when a touch of Satan afflicts them, they remember."footnote:s01-20[Sūrat al-Aʿrāf (al-Mubārakah) / verse 201.] When a band of satans — with the wide meaning that "satan" has — when a band of satans and the satan-natured ones surround a man to lead him astray, to draw him off the path, to cast him into forgetfulness, "they remember God," the human being immediately falls to remembering God. The remembrance of God is just such a thing. The remembrance of God is a weapon in our hand against the satans; the remembrance of God is a rope at our disposal, for rescue from the chasm which the enemies have brought into being before us, against our awareness. The remembrance of God is a very precious and valuable thing.
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ٱتَّقَوۡاْ إِذَا مَسَّهُمۡ طَـٰٓئِفٞ مِّنَ ٱلشَّيۡطَٰنِ تَذَكَّرُواْ فَإِذَا هُم مُّبۡصِرُونَ
+
+"Indeed, those who are God-conscious — when a touch of Satan afflicts them, they remember."footnote:s01-20[Sūrat al-Aʿrāf (al-Mubārakah) / verse 201.] When a band of satans — with the wide meaning that "satan" has — when a band of satans and the satan-natured ones surround a man to lead him astray, to draw him off the path, to cast him into forgetfulness, "they remember God," the human being immediately falls to remembering God. The remembrance of God is just such a thing. The remembrance of God is a weapon in our hand against the satans; the remembrance of God is a rope at our disposal, for rescue from the chasm which the enemies have brought into being before us, against our awareness. The remembrance of God is a very precious and valuable thing.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:201)
+****
 
 [quote]
 ____
@@ -232,11 +292,16 @@ ____
 "Those — their reward is forgiveness from their Lord" — such people, who do not desist from striving and effort, who seek forgiveness for their sins, who do not persist on the way of error and wrong — the reward of such people is forgiveness from the side of their Lord —
 ____
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="136"]
-[quote]
-____
-*Qurʾān, Sūrat Āl ʿImrān (3:136):* "And gardens beneath which rivers flow" — and gardens beneath which rivers flow — "abiding therein eternally; and excellent is the reward of the workers" — they abide therein forever, and how excellent is the reward of those who work. Here again it says: the reward of the workers, "the reward of the workers." The matter of deeds is one of the very important matters.
-____
+[.quranverse]
+****
+[.arabic]
+أُوْلَـٰٓئِكَ جَزَآؤُهُم مَّغۡفِرَةٞ مِّن رَّبِّهِمۡ وَجَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَنِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ
+
+"And gardens beneath which rivers flow" — and gardens beneath which rivers flow — "abiding therein eternally; and excellent is the reward of the workers" — they abide therein forever, and how excellent is the reward of those who work. Here again it says: the reward of the workers, "the reward of the workers." The matter of deeds is one of the very important matters.
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:136)
+****
 
 (In this series of Islamic teachings, which God willing I intend to set forth and expound in order, in these Qurʾānic discussions and these recitations, through to the end of the month of Ramaḍān(((Ramaḍān))), one of them will be devoted to this very matter of deeds.)@@CX(Faith | reward attaches to deeds; one must not rest in mere speech)@@
 

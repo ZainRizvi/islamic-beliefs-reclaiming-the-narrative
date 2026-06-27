@@ -4,11 +4,16 @@
 [.session-subtitle]
 _توحید و نفی طبقات اجتماعی — Monday, 8 Mehr 1353 / 13 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="91-92"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:91–92):* "God has not taken to Himself any son, nor is there any god alongside Him — for then each god would have taken off with what he created, and some of them would have lorded it over others. Glory be to God, far above what they describe."footnote:s12-1[Sūrat al-Muʾminūn (23:91–92).]
-____
+[.quranverse]
+****
+[.arabic]
+مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+
+"God has not taken to Himself any son, nor is there any god alongside Him — for then each god would have taken off with what he created, and some of them would have lorded it over others. Glory be to God, far above what they describe."footnote:s12-1[Sūrat al-Muʾminūn (23:91–92).]
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:91-92)
+****
 
 Dear brothers, with your attention please. We said that if we take Tawhid to be a belief that gives rise to action and that imposes commitment, then inevitably this belief lays upon our shoulders a whole series of obligations and commitments. And we said that we must understand these obligations and commitments. Of course, these commitments are not confined to the individual life of human beings; rather, the greater weight of these commitments falls upon social life, upon the social order and the form of society. That is, when Tawhid enters a society, the first thing it does is to construct that society in a form that befits this belief.@@CX(Tawhid | first shapes society, then the individual)@@ Once that work is done, only then does the turn come to ask what duties a person who professes Tawhid has as an individual.
 
@@ -50,11 +55,16 @@ You observed: here it was India; Iran too was like this, Egypt too was like this
 
 Islam came and proclaimed that there are no "gods" — many gods are false; there is [one] God. Those who imagined that two gods had created two groups of human beings, with two kinds of distinctions and characteristics, have erred. There is one God, and He created the whole of the cosmos as well; the governance of the world and of its inhabitants is entirely in the grip of His power, and He created all alike. He fashioned all from one root, from one disposition, from one nature, from one material root and source.@@CX(Tawhid | one God created all humanity from a single root)@@ The verses of the Qur'an on this theme are abundant:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="21"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:21):* "O mankind, worship your Lord, who created you and those who were before you."footnote:s12-8[Sūrat al-Baqarah (2:21).]
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ مِن قَبۡلِكُمۡ
+
+"O mankind, worship your Lord, who created you and those who were before you."footnote:s12-8[Sūrat al-Baqarah (2:21).]
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:21)
+****
 
 Now, the verses that we mentioned today in this note and in today's recitation, we shall read. He said that all human beings are of one root, one source, one stem. All human beings came into the world with one kind of equipment. All human beings are fit for the soaring and the ascent toward infinite perfection. All human beings can become great, and great, and ever greater. This capacity exists in everyone.@@CX(Attaining perfection | every human being is fit to ascend toward infinite perfection)@@ Of course, take note: the beings and the human beings who are perceptibly above the level of the ordinary human being — that is, the prophets and the imams — they are not included in this general statement of mine.
 
@@ -78,35 +88,55 @@ I am concerned with the implication of this statement; I am not concerned with t
 
 Did God have greater love for one group of them when He created them?
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="18"]
-[quote]
-____
-*Qur'an, Sūrat al-Māʾidah (5:18):* "And the Jews and the Christians said: 'We are the sons of God and His beloved ones.'"footnote:s12-10[Sūrat al-Māʾidah (5:18).]
-____
+[.quranverse]
+****
+[.arabic]
+وَقَالَتِ ٱلۡيَهُودُ وَٱلنَّصَٰرَىٰ نَحۡنُ أَبۡنَـٰٓؤُاْ ٱللَّهِ وَأَحِبَّـٰٓؤُهُۥۚ
+
+"And the Jews and the Christians said: 'We are the sons of God and His beloved ones.'"footnote:s12-10[Sūrat al-Māʾidah (5:18).]
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:18)
+****
 
 The Jews(((Jews))) said: "We are the children of God and His friends." God the Exalted, in another place, throws one of their crimes in their faces. He both answers them and reproaches them:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="91"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:91):* "Then why did you kill the prophets?"footnote:s12-11[Sūrat al-Baqarah (2:91).]
-____
+[.quranverse]
+****
+[.arabic]
+فَلِمَ تَقۡتُلُونَ أَنۢبِيَآءَ
+
+"Then why did you kill the prophets?"footnote:s12-11[Sūrat al-Baqarah (2:91).]
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:91)
+****
 
 If you are so very friendly and close and kindred with God, then why did you kill His prophets? Why did you kill His chosen servants? The Jews used to say: "We are the children of God and the intimates of God; we have a special privilege." No indeed — Islam says this is a false claim. In another place He says:
 
-[role="verse quran",surah="al-Jumuʿah",s=62,a="6"]
-[quote]
-____
-*Qur'an, Sūrat al-Jumuʿah (62:6):* "Say: 'O you who are Jews, if you claim that you are the friends of God to the exclusion of [other] people, then wish for death, if you are truthful.'"footnote:s12-12[Sūrat al-Jumuʿah (62:6–7).]
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓاْ إِن زَعَمۡتُمۡ أَنَّكُمۡ أَوۡلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ
+
+"Say: 'O you who are Jews, if you claim that you are the friends of God to the exclusion of [other] people, then wish for death, if you are truthful.'"footnote:s12-12[Sūrat al-Jumuʿah (62:6–7).]
+
+[.verse-cite]
+— Sūrat al-Jumuʿah (62:6)
+****
 
 If you say that you are so very friendly and close with God — if you are speaking the truth, then wish for death! Well, escape from this hollow life, attain to the beloved God who is on the same front as your kinsfolk — since for you that place is your own home — so then, wish for death. And He says:
 
-[role="verse quran",surah="al-Jumuʿah",s=62,a="7"]
-[quote]
-____
-*Qur'an, Sūrat al-Jumuʿah (62:7):* "But they will never wish for it."
-____
+[.quranverse]
+****
+[.arabic]
+وَلَا يَتَمَنَّوۡنَهُۥٓ أَبَدَۢا
+
+"But they will never wish for it."
+
+[.verse-cite]
+— Sūrat al-Jumuʿah (62:7)
+****
 
 It is impossible for these people to wish for death. A Jew, and to wish for death?!
 
@@ -124,163 +154,258 @@ Even Imam Sajjad(((Imam Sajjad))) — God's blessings be upon him — who is the
 
 This is the logic of Islam, and of course this logic can be clearly found throughout the Qur'an, in various verses, in abundance. Here too, again, I refer you to the Qur'an and to the text of the Qur'an. Go, open the Qur'an, look at the Qur'an with deliberation, so that we may not be included in this verse:
 
-[role="verse quran",surah="Muḥammad",s=47,a="24"]
-[quote]
-____
-*Qur'an, Sūrat Muḥammad (47:24):* "Do they not then ponder the Qur'an, or are there locks upon [their] hearts?"footnote:s12-15[Sūrat Muḥammad (47:24).]
-____
+[.quranverse]
+****
+[.arabic]
+أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ
+
+"Do they not then ponder the Qur'an, or are there locks upon [their] hearts?"footnote:s12-15[Sūrat Muḥammad (47:24).]
+
+[.verse-cite]
+— Sūrat Muḥammad (47:24)
+****
 
 Let there be no locks upon our hearts; let us ponder the Qur'an.@@CX(the Qur'an | demands pondering; unlock the heart's locks)@@ Now attend to these verses of the first portion, relating to Sūrat al-Muʾminūn, verses 84 to 91:
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="84"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:84):* "Say: 'To whom belongs the earth and whoever is in it, if you know?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِيهَآ إِن كُنتُمۡ تَعۡلَمُونَ
+
+"Say: 'To whom belongs the earth and whoever is in it, if you know?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:84)
+****
 
 O Prophet, say: the earth and whatever is in it, whose is it? — if you know. Say to the polytheists, to those polytheists who used to divide up and demarcate the spheres of influence of their own gods — say: the earth and whatever is in it, to whom does it belong?
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="85"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:85):* "They will say: 'To God.'"
-____
+[.quranverse]
+****
+[.arabic]
+سَيَقُولُونَ لِلَّهِۚ
+
+"They will say: 'To God.'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:85)
+****
 
 They will say: it is God's. Well, the polytheists of Mecca(((Mecca))) believed in Allah, and they regarded the idols as intercessors who would intercede for them before Allah.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="85"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:85, cont.):* "Say: 'Will you not then take heed?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ أَفَلَا تَذَكَّرُونَ
+
+"Say: 'Will you not then take heed?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:85)
+****
 
 Say: then why do you not come to your senses?
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="86"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:86):* "Say: 'Who is the Lord of the seven heavens and the Lord of the Great Throne?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ
+
+"Say: 'Who is the Lord of the seven heavens and the Lord of the Great Throne?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:86)
+****
 
 Say: who is the Director of the seven heavens and the Director of the great Throne? What is the meaning of "Throne"? Which are the seven heavens? Some of it we gave a brief explanation of in certain discussions in the past, and some of it we did not explain — now is not the place for it; there are things to be said, but at any rate, when there is some occasion, some opportunity, I shall present them. In summary, it is not very important either —
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="87"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:87):* "They will say: 'To God.'"
-____
+[.quranverse]
+****
+[.arabic]
+سَيَقُولُونَ لِلَّهِۚ
+
+"They will say: 'To God.'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:87)
+****
 
 They will say: those too are God's. The power and dominion of the Lord is spread over the heavens and the earth.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="87"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:87, cont.):* "Say: 'Will you not then be God-fearing?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ أَفَلَا تَتَّقُونَ
+
+"Say: 'Will you not then be God-fearing?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:87)
+****
 
 Say: then why do you not have fear of this God? Why do you not order your deeds and your thoughts according to His word and His command?
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="88"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:88):* "Say: 'In whose hand is the dominion of all things, and He grants protection while none can be protected against Him?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيۡهِ
+
+"Say: 'In whose hand is the dominion of all things, and He grants protection while none can be protected against Him?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:88)
+****
 
 Say: who is it in whose hand is the absolute dominion and rule and sovereignty of all things? Those who have power at their disposal — the utmost of it is that they may have mastery over the outer surface of some physical thing. You, who are the owner of your own house — you move a brick from one place to another; your mastery is only to this extent. You pick up a piece of iron from here and place it there, you weld two pieces together or separate them from each other; your mastery over a piece of iron is only to this extent. But the One who has mastery over all the atoms and parts of this being, the motion of its atoms is at His disposal and at His command; in plants the growth and development, in animals and human beings all the inner motions of their being and all of their affairs — in short, are in the grip of His power; He is God. "Say: 'In whose hand is the dominion of all things'" — say: in whose hand is the dominion and sovereignty and power of all things — "and He grants protection" — and He grants protection, "while none can be protected against Him" — against Him, no one is granted protection; that is, were you to flee from God and take refuge with someone else against God, "none can be protected against Him" — this is its meaning. Suppose the Christians disobey God, flee into the embrace of Jesus, and Jesus grants them protection and defends them against God — such a thing is not possible. "And He grants protection" — He grants protection to every being, to every human being — "while none can be protected against Him" — against Him, in opposition to Him, no one is granted protection — "if you know."
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="89"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:89):* "They will say: 'To God.'"
-____
+[.quranverse]
+****
+[.arabic]
+سَيَقُولُونَ لِلَّهِۚ
+
+"They will say: 'To God.'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:89)
+****
 
 — if you know. Who is it that is so? "They will say: 'To God.'" They will say: the dominion of all things is in God's hand, and it is God who grants protection, and against Him no one is granted protection.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="89"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:89, cont.):* "Say: 'Then how are you bewitched [deluded]?'"
-____
+[.quranverse]
+****
+[.arabic]
+قُلۡ فَأَنَّىٰ تُسۡحَرُونَ
+
+"Say: 'Then how are you bewitched [deluded]?'"
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:89)
+****
 
 Say: then how are you deceived?
 
 And it is subtle that the Qur'an lays emphasis on being deceived — being deceived, remaining heedless. Constantly it wants the people not to remain heedless, not to be deceived, to open their eyes. The Qur'an is confident that if the people open their eyes, its purpose is secured — and that is indeed correct. We too today say this very thing. We too say: if the world today would open its eyes, this Qur'an of ours would establish a world government, if it would open its eyes; but ignorance and arrogance do not allow it, and on the other hand treacherous hands do not allow eyes to be opened.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="90"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:90):* "Rather, We have brought them the truth, and indeed they are liars."
-____
+[.quranverse]
+****
+[.arabic]
+بَلۡ أَتَيۡنَٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَٰذِبُونَ
+
+"Rather, We have brought them the truth, and indeed they are liars."
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:90)
+****
 
 Rather, We have placed the truth at their disposal, and truly they are liars. We have made the matter clear to them, We have placed the truth at their disposal; with this attitude they have adopted, intellectually and practically, they fabricate excuses, they fabricate lying excuses.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="91"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:91):* "God has not taken to Himself any son, nor is there any god alongside Him."
-____
+[.quranverse]
+****
+[.arabic]
+مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ
+
+"God has not taken to Himself any son, nor is there any god alongside Him."
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:91)
+****
 
 God has not taken to Himself any son — "nor is there any god alongside Him" — no worshipped being has existed beside Him and with Him.
 
 Note also that the point of reliance and citation lies more in this part — although the earlier verses too had some bearing on what was intended.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="91"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:91, cont.):* "…for then each god would have taken off with what he created."
-____
+[.quranverse]
+****
+[.arabic]
+إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ
+
+"…for then each god would have taken off with what he created."
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:91)
+****
 
 Were there to be gods, each god would have carried off its own creature and creation in some direction — that is, division, that is class division among human beings, that is the removal of cohesion and unity in creation, in the creation of the world and of the human being. The one who holds that there is a god of light and a god of darkness and a human god and a god of the upper class and the lower class regards this creation as a patchwork of separate scraps. But according to the view of Tawhid, creation is a single, cohesive piece. The human being and the animal and the mountain and the sphere and the earth are connected and joined; and the beings, all of them together, have connection and bond with one another, all have unity with one another.@@CX(Tawhid | creation is a single cohesive whole, not separate scraps)@@ "For then each god would have taken off with what he created" — were there several gods and worshipped beings, each god, each worshipped being, would have carried its own creature and creation in some direction —
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="91"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:91, cont.):* "…and some of them would have lorded it over others."
-____
+[.quranverse]
+****
+[.arabic]
+وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ
+
+"…and some of them would have lorded it over others."
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:91)
+****
 
 And some of them would have gained supremacy over others.
 
-[role="verse quran",surah="al-Muʾminūn",s=23,a="91"]
-[quote]
-____
-*Qur'an, Sūrat al-Muʾminūn (23:91, cont.):* "Glory be to God, far above what they describe."
-____
+[.quranverse]
+****
+[.arabic]
+سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+
+"Glory be to God, far above what they describe."
+
+[.verse-cite]
+— Sūrat al-Muʾminūn (23:91)
+****
 
 Pure and exalted and free is God from what they describe.
 
 (This was one portion of today's recitation. The other portion — allow me to read it from this very paper, for if I wish to read from the text of the Qur'an, I would have to keep searching to find it. Does any of the gentlemen have a Qur'an in hand?) The next portion is from Sūrat al-Baqarah, verses 21 and 22:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="21"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:21):* "O mankind!"
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلنَّاسُ
+
+"O mankind!"
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:21)
+****
 
 Behold, O people, O human beings — addressed to whom? It is not addressed to the upper and lower classes. It is not addressed to black or white human beings. It is not addressed to one group of humanity; it is addressed to all of humanity. Our emphasis is on this word: "O mankind," behold, O human beings — "worship your Lord," render worship and servitude to your Lord, who is one — "who created you," the One who created you — "and those who were before you," and all those who came before you — "that you may be God-fearing," so that you may take up _taqwā_ (God-consciousness). That is, this worship, this servitude, is a cause of _taqwā_. One of the things that brings into being _taqwā_ — that fine, attractive state, I have expounded for you what _taqwā_ means — that state of immunity from sin, within the soul, within the human being — is the servitude of God. Hence, in a society where all the people are servants of God and the society has the form of servitude to God, in that society _taqwā_ is as abundant as you wish. As much _taqwā_ as you wish is abundant; there is no famine of _taqwā_ as in our age!
 
-[role="verse quran",surah="al-Baqarah",s=2,a="22"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:22):* "[He] who made the earth a couch [a resting-place] for you."
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ فِرَٰشٗا
+
+"[He] who made the earth a couch [a resting-place] for you."
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:22)
+****
 
 See, everything is for all. The One who appointed for you — and "you" means whom? Human beings, all of them. "The earth a couch" — He spread out the earth, "and the sky a structure [an edifice]," and the heaven a firm-built edifice, "and sent down from the sky water," and from the sky He sent down rain water, "and brought forth thereby fruits as a provision for you" — He brought forth, by means of this rain, fruits as a provision for you; not a provision for a particular class, of whose charity you might eat — no; for all. Now that it is so:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="22"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:22, cont.):* "…so do not set up rivals to God while you know."
-____
+[.quranverse]
+****
+[.arabic]
+فَلَا تَجۡعَلُواْ لِلَّهِ أَندَادٗا وَأَنتُمۡ تَعۡلَمُونَ
+
+"…so do not set up rivals to God while you know."
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:22)
+****
 
 So do not become believers in two gods. By positing two gods, by supposing a rival and a competitor for God, do not divide human beings into two groups and three groups and ten groups — all are one group. "So do not set up rivals to God while you know" — you who know, do not suppose for God partners and competitors.
 
 Next, Sūrat al-Ḥujurāt, this famous verse that is very current and in circulation on tongues, verse 13:
 
-[role="verse quran",surah="al-Ḥujurāt",s=49,a="13"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥujurāt (49:13):* "O mankind, We created you from a male and a female."
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ
+
+"O mankind, We created you from a male and a female."
+
+[.verse-cite]
+— Sūrat al-Ḥujurāt (49:13)
+****
 
 O human beings — again the address is to all — We created you from a male and a female. All of you, from a single man and a single woman — the very thing that, in the _Dīwān_ attributed to the Commander of the Faithful, peace and blessings be upon him, is expressed thus, and its content is this same verse:
 
@@ -295,11 +420,16 @@ And here is a yet more interesting and subtle point: those who possess _taqwā_,
 
 Again, another portion: there is a verse relating to Sūrat al-Isrāʾ, verse 70:
 
-[role="verse quran",surah="al-Isrāʾ",s=17,a="70"]
-[quote]
-____
-*Qur'an, Sūrat al-Isrāʾ (17:70):* "And We have certainly honored the children of Adam, and carried them on land and sea, and provided them with good things, and favored them above many of those We created with a marked favor."
-____
+[.quranverse]
+****
+[.arabic]
+۞وَلَقَدۡ كَرَّمۡنَا بَنِيٓ ءَادَمَ وَحَمَلۡنَٰهُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَىٰ كَثِيرٖ مِّمَّنۡ خَلَقۡنَا تَفۡضِيلٗا
+
+"And We have certainly honored the children of Adam, and carried them on land and sea, and provided them with good things, and favored them above many of those We created with a marked favor."
+
+[.verse-cite]
+— Sūrat al-Isrāʾ (17:70)
+****
 
 Certainly We honored the children of Adam — "and carried them on land and sea," We bore them, We carried them, on the dry land and on the sea, We provided the means of their travel — "and provided them" — that this "and carried them on land and sea" may also, incidentally, be an allusion to the existence of relations among human beings; for if human beings could not go from one point to another, if this capacity, this characteristic, did not exist in them, then within a human society it may well be that, on a certain supposition, fragmentation would arise — "and provided them with good things," and We endowed them with good things, "and favored them above many of those We created with a marked favor," and We gave them superiority over many of Our creatures. Whom? Of whom is the talk? Whom did We honor? To whom did We give provision of good things? And whom did We favor above many of Our creatures? — Human beings, not a particular class or clan.
 

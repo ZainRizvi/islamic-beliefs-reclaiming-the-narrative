@@ -4,11 +4,16 @@
 [.session-subtitle]
 _ایمان و پایبندی به تعهدات — delivered Monday, 1 Mehr 1353 / 6 Ramaḍān al-Mubārak 1394_
 
-[role="verse quran",surah="al-Nūr",s=24,a="51"]
-[quote]
-____
-*Qur'an, Sūrat al-Nūr (24:51):* "The only saying of the believers, when they are called to God and His Messenger so that he may judge between them, is that they say: 'We hear and we obey.' And it is they who are the successful. And whoever obeys God and His Messenger, and fears God and is mindful of Him — it is they who are the triumphant."
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّمَا كَانَ قَوۡلَ ٱلۡمُؤۡمِنِينَ إِذَا دُعُوٓاْ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحۡكُمَ بَيۡنَهُمۡ أَن يَقُولُواْ سَمِعۡنَا وَأَطَعۡنَاۚ وَأُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
+
+"The only saying of the believers, when they are called to God and His Messenger so that he may judge between them, is that they say: 'We hear and we obey.' And it is they who are the successful. And whoever obeys God and His Messenger, and fears God and is mindful of Him — it is they who are the triumphant."
+
+[.verse-cite]
+— Sūrat al-Nūr (24:51)
+****
 
 This matter, too, within the discussion of faith, is an important one: the commitments of a believing person are not occasional and a matter of personal whim. It is not the case that the one who wishes to present himself as a believer should be a believer only wherever his own aggressive personal benefit and gain demand it; that wherever, in the name of faith and through a show of action, he is able to "ride the mount of his desire,"footnote:s05-1[An allusion to attaining a station or rank, reaching one's goal. (The Persian idiom _bar khar-i murād savār shudan_ literally means "to mount the steed of one's desire.")] he invokes the name of faith and of action — but then, in those cases where faith and action produce no personal, aggressive, transgressive benefit for him, he turns away from the name of Islam, the name of faith, and from acting upon the commitments of faith. Here we attributed this trait — which the Qur'an exposes in a variety of forms — to the profit-seekers; we said that profit-seekers are like this. All the people of the world are profit-seekers; who is there who desires his own loss? What we mean by "profit-seekers" are those who, for the benefit of their own person, are ready to sacrifice worldly interests — the transgressing profit-seekers.@@CX(Faith | commitment is not contingent on personal benefit)@@
 
@@ -20,11 +25,16 @@ There is a saying: _Asadun ʿalayya wa-fi'l-ḥurūbi naʿāmatun_ — "A lion a
 
 Commitment is not seasonal; commitment is not occasional. It is not directed at one time and not at another; it is not directed at one person and not at another. Commitment is universal, all-encompassing, and perpetual. The Noble Qur'an names the Jews(((Jews))) — those who in one place would say that our brethren — meaning the Jews — must be preserved like dear ones; but in the place where their personal interests came into play, they would kill these very brethren in wars, take them captive, sell them, and consume the price. The Qur'an, in the position of rebuking the Children of Israel(((Children of Israel))), says:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="85"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:85):* "Do you believe in part of the Book and disbelieve in part?"
-____
+[.quranverse]
+****
+[.arabic]
+أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ
+
+"Do you believe in part of the Book and disbelieve in part?"
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:85)
+****
 
 Do you have faith in some of the religion, and in those untroublesome, comfortable parts of it you are believers and committed — while in some other parts of the religion you are faithless, without belief? Can such a thing be? Can one make a division between two statements and two commands, both of which have their source from one origin and one point?@@CX(Faith | belief in part of the Book and disbelief in part is contradictory)@@
 
@@ -32,11 +42,16 @@ Our great Imam, Imam al-Bāqir(((al-Bāqir, Imam Muḥammad))) — God's blessin
 
 Those who, if the truth is on their side in some affair, submit to the judgment and rule of the Prophet, but where the truth is not on their side and they know that the ruling will go against them, do not submit to the rule and judgment of the Prophet — of these the Qur'an asks: did they fear? Did some doubt arise in them? Did they fall into uncertainty about the rightness and soundness of the religion? Its other half is this:
 
-[role="verse quran",surah="al-Nūr",s=24,a="50"]
-[quote]
-____
-*Qur'an, Sūrat al-Nūr (24:50):* "Or do they fear that God and His Messenger will be unjust to them?"
-____
+[.quranverse]
+****
+[.arabic]
+أَمۡ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيۡهِمۡ وَرَسُولُهُۥۚ
+
+"Or do they fear that God and His Messenger will be unjust to them?"
+
+[.verse-cite]
+— Sūrat al-Nūr (24:50)
+****
 
 — something at the level of unbelief: or did they fear that God and His Messenger would wrong them? In all affairs, in all matters, in every corner and aspect of life, the believing person is committed — not only where his advantage requires it.
 
@@ -48,11 +63,16 @@ I want to say: if it is to be the case that we accept some portion of the religi
 
 Well, here religion is a very good religion, a delightful religion, a good religion, a harmless religion, a religion that attracts affection, draws sentiment, makes the people well-disposed — these are good things. But this religion which says that its Prophet was sent for the teaching and the training of the people:
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="164"]
-[quote]
-____
-*Qur'an, Sūrat Āl ʿImrān (3:164):* "Indeed God conferred a favor upon the believers when He sent among them a Messenger from among themselves, reciting to them His verses, and purifying them, and teaching them the Book and the wisdom."
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِينَ إِذۡ بَعَثَ فِيهِمۡ رَسُولٗا مِّنۡ أَنفُسِهِمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ
+
+"Indeed God conferred a favor upon the believers when He sent among them a Messenger from among themselves, reciting to them His verses, and purifying them, and teaching them the Book and the wisdom."
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:164)
+****
 
 God sent the Prophet to humanity so that he might teach them, so that he might advance humanity, so that he might make insight and reason strong and powerful in human beings. Anything that struggles against people's intellect, the religion struggles against it. Anything that blocks the eye, the perception, the reason, and the understanding of the people, the religion blocks its encroachment. Any factor, in whatever form, that does not let people think and understand and perceive — the religion does not let that factor remain alive.
 
@@ -70,11 +90,16 @@ Who has done these things? Upon whose shoulders is the sin of the people's not u
 
 Here, what is our duty? Did you take note? Faced with a man like Muʿāwiya, a man like Shurayḥ, a man like al-Mughīra(((al-Mughīra))), a man like Zayd ibn ʿAmr(((Zayd ibn ʿAmr))) of the time of Muʿāwiya — it makes no difference, in whatever class — when it comes to judging this human being, how must we judge him? In some places he has accepted the religion and the faith in a committed way; in some places he has left no sign, trace, or token of religion and faith in his life. What shall we say to this man? Shall we regard him as a believer? The Qur'an explicitly states that a man of this kind is not a believer. So the faith that is valid in the Islamic way of thinking is not the faith of men of this sort — whose like in our age are countless, may God preserve us — but rather it is the firm faith of those men who are, everywhere, with everyone, at all times, in every condition, preserved — with their commitment, with their action:
 
-[role="verse quran",surah="al-Nūr",s=24,a="55"]
-[quote]
-____
-*Qur'an, Sūrat al-Nūr (24:55):* "Indeed those who believe and do righteous deeds…" — and so on to the end.
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ
+
+"Indeed those who believe and do righteous deeds…" — and so on to the end.
+
+[.verse-cite]
+— Sūrat al-Nūr (24:55)
+****
 
 And the promises that have been given for faith and for the believers are for that faith, not for this faith. If they said the believers are victorious, they said it of those sorts of believers, and they are victorious — certainly! If they said the hand of God is with the believers — that is, it is with that sort of believer. If they have said that nature cooperates and goes along with the believer, they said it of that sort of believer, not of the likes of you and me. So the least benefit we derive from this discussion is this: that if we see that our faith does not possess the effects, properties, and glad tidings of faith — the glad tidings that the Qur'an and God gave to the believers — we will not be surprised; because we understand that the faith for which all those promises were given is not this.
 
@@ -82,11 +107,16 @@ And the promises that have been given for faith and for the believers are for th
 
 Now let me translate these verses; listen.
 
-[role="verse quran",surah="al-Nūr",s=24,a="46"]
-[quote]
-____
-*Qur'an, Sūrat al-Nūr (24:46):* "Indeed We have sent down clarifying verses."
-____
+[.quranverse]
+****
+[.arabic]
+لَّقَدۡ أَنزَلۡنَآ ءَايَٰتٖ مُّبَيِّنَٰتٖۚ
+
+"Indeed We have sent down clarifying verses."
+
+[.verse-cite]
+— Sūrat al-Nūr (24:46)
+****
 
 We have indeed sent down clarifying verses. These verses of the Qur'an, these are illuminating. Those who do not permit themselves to understand the Qur'an, the wretches, are deprived of this illumination.
 
@@ -201,11 +231,16 @@ ____
 
 Indeed the saying of the believers was — when they were called toward God and His Messenger, so that God and the Prophet might judge between them, their statement was this, that they said, "We hear and we obey." Which, as I have said, "we hear" means we have understood — not we heard with the ear; "we hear" means we have given heed. The terminology of "hearing" (_samʿ_):
 
-[role="verse quran",surah="Qāf",s=50,a="37"]
-[quote]
-____
-*Qur'an, Sūrat Qāf (50:37):* "Or gives ear while he is a witness."
-____
+[.quranverse]
+****
+[.arabic]
+أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ
+
+"Or gives ear while he is a witness."
+
+[.verse-cite]
+— Sūrat Qāf (50:37)
+****
 
 — "hearing" and "listening" in the Qur'an, in very many of its instances — which, as it happens, while studying the Qur'an, I came across another instance last night, and of course I did not note it down, because they are many — is in the meaning of understanding, not in the meaning of hearing with the ear, with this particular organ and limb, but rather in the meaning of understanding. These say: we have understood; that is, we became believers knowingly. The same discussion we had in the previous session, that faith must be conscious.@@CX(Faith | "we hear" means understanding — faith must be conscious)@@
 
@@ -260,11 +295,16 @@ ____
 
 The next two verses do not have much bearing on our discussion; I want to get to the verse after them:
 
-[role="verse quran",surah="al-Nūr",s=24,a="55"]
-[quote]
-____
-*Qur'an, Sūrat al-Nūr (24:55):* "God has promised those who believe…"
-____
+[.quranverse]
+****
+[.arabic]
+وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ
+
+"God has promised those who believe…"
+
+[.verse-cite]
+— Sūrat al-Nūr (24:55)
+****
 
 This too is a promise of God, again for the believer, and the committed believer. Pay attention: the divine promise in this verse says explicitly: We have promised the believers that the rule over the earth is yours; your idea, your creed, your thought, and your school will pitch its tent over the world; your fear and dread will be turned into safety and security; if throughout history you have suffered torment, borne oppression, after this you will live in comfort, without anxiety, without disquiet, and you will worship God and cast the rivals of God off the earth. This is the divine promise in this verse.@@CX(Faith | God promises the committed believers succession and rule over the earth)@@ If God has given such a promise to the Muslims, this promise pertains to the believers, and to the committed believers.
 

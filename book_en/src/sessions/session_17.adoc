@@ -6,19 +6,29 @@ _هدف‌های نبوت — delivered Saturday, 13 Mehr 1353 / 18 Ramadan al-M
 
 The verse of Sūrat al-Ḥadīd is this:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="25"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥadīd (57:25):* "We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice; and We sent down iron, in which is great force and benefits for mankind, and so that God may know who helps Him and His messengers in the unseen. Indeed, God is Strong, Mighty."
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِيدَ فِيهِ بَأۡسٞ شَدِيدٞ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلۡغَيۡبِۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+
+"We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice; and We sent down iron, in which is great force and benefits for mankind, and so that God may know who helps Him and His messengers in the unseen. Indeed, God is Strong, Mighty."
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:25)
+****
 
 And as for the second verse, which is in the blessed Sūrat al-Aʿrāf, verses 156 and 157:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="156-157"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:156–157):* "…And ordain for us good in this world and in the Hereafter; indeed, we have turned to You. He said: My punishment — I strike with it whomever I will, and My mercy encompasses all things; I shall ordain it for those who are God-fearing and give the alms-due, and for those who believe in Our signs — those who follow the Messenger, the unlettered Prophet, whom they find written down with them in the Torah and the Gospel; he enjoins upon them the good and forbids them the evil, makes the wholesome things lawful for them and forbids them the foul things, and relieves them of their burden and the shackles that were upon them. So those who believe in him, honor him, support him, and follow the light that has been sent down with him — those are the ones who prosper."
-____
+[.quranverse]
+****
+[.arabic]
+۞وَٱكۡتُبۡ لَنَا فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَۚ قَالَ عَذَابِيٓ أُصِيبُ بِهِۦ مَنۡ أَشَآءُۖ وَرَحۡمَتِي وَسِعَتۡ كُلَّ شَيۡءٖۚ فَسَأَكۡتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤۡمِنُونَ ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِيَّ ٱلۡأُمِّيَّ ٱلَّذِي يَجِدُونَهُۥ مَكۡتُوبًا عِندَهُمۡ فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ يَأۡمُرُهُم بِٱلۡمَعۡرُوفِ وَيَنۡهَىٰهُمۡ عَنِ ٱلۡمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيۡهِمُ ٱلۡخَبَـٰٓئِثَ وَيَضَعُ عَنۡهُمۡ إِصۡرَهُمۡ وَٱلۡأَغۡلَٰلَ ٱلَّتِي كَانَتۡ عَلَيۡهِمۡۚ فَٱلَّذِينَ ءَامَنُواْ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُواْ ٱلنُّورَ ٱلَّذِيٓ أُنزِلَ مَعَهُۥٓ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
+
+"…And ordain for us good in this world and in the Hereafter; indeed, we have turned to You. He said: My punishment — I strike with it whomever I will, and My mercy encompasses all things; I shall ordain it for those who are God-fearing and give the alms-due, and for those who believe in Our signs — those who follow the Messenger, the unlettered Prophet, whom they find written down with them in the Torah and the Gospel; he enjoins upon them the good and forbids them the evil, makes the wholesome things lawful for them and forbids them the foul things, and relieves them of their burden and the shackles that were upon them. So those who believe in him, honor him, support him, and follow the light that has been sent down with him — those are the ones who prosper."
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:156-157)
+****
 
 These two verses, and several other verses in the Noble Qur'an, set forth the goal of the great prophets of God.
 
@@ -68,11 +78,16 @@ The divine schools say: No, the goal is beyond this. The lofty goal is the refin
 
 The prophets come to purify human beings of evils, of basenesses, of ignorances, of moral vices, of the keeping-hidden of inner talents; to deliver them; to fashion them into the complete and exalted human being — this is the primary goal of the prophets. Hence in the Qur'an it has come in several places; of course, I did not cite its verses here today, because previously one of its verses had passed.
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="164"]
-[quote]
-____
-*Qur'an, Sūrat Āl ʿImrān (3:164):* "God has indeed shown favor upon the believers" footnote:s17-10[Sūrat Āl ʿImrān (the Blessed Chapter of Āl ʿImrān), verse 164.] — God placed a favor upon the believers — "when He raised up among them a messenger from among themselves" — when He raised up among them a prophet from among their own — "who recites to them His signs and purifies them" — who recites the signs of God to them and purifies them, makes them pure and refined — "and teaches them" — and teaches them. The refining, the adorning, the cleansing of vices, the adorning of the human being with virtues — this is the goal of the prophets.
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِينَ إِذۡ بَعَثَ فِيهِمۡ رَسُولٗا مِّنۡ أَنفُسِهِمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٍ
+
+"God has indeed shown favor upon the believers" footnote:s17-10[Sūrat Āl ʿImrān (the Blessed Chapter of Āl ʿImrān), verse 164.] — God placed a favor upon the believers — "when He raised up among them a messenger from among themselves" — when He raised up among them a prophet from among their own — "who recites to them His signs and purifies them" — who recites the signs of God to them and purifies them, makes them pure and refined — "and teaches them" — and teaches them. The refining, the adorning, the cleansing of vices, the adorning of the human being with virtues — this is the goal of the prophets.
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:164)
+****
 
 Hence you see that our Prophet says:
 
@@ -102,19 +117,29 @@ This point that I have made is among the statements upon which we have taken our
 
 What we understand from the Qur'an is this: that the prophets' answer to this question — "How can human beings be fashioned?" that is, refined and adorned — their answer to this question is that one must build a divine society, a monotheistic (tawhidi)(((Tawhid, tawhidi society))) society, a suitable environment, so that the human being may be fashioned in this suitable environment — not one of him, not ten of him, not a thousand of him, but in groups upon groups — fashioned of themselves, by the natural warmth of the radiant light of the teachings of Islam.@@CX(Tawhid | a tawhidi society is the environment in which human beings are fashioned)@@
 
-[role="verse quran",surah="al-Naṣr",s=110,a="1-2"]
-[quote]
-____
-*Qur'an, Sūrat al-Naṣr (110:1–2):* "When the help of God and the victory come, and you see the people entering into the religion of God in throngs." footnote:s17-15[Sūrat al-Naṣr (the Blessed Chapter of al-Naṣr), verses 1 and 2.] In the pagan environment of Mecca, when the prophet wishes to fashion a human being, he is compelled to fashion them one by one; because, in order to bring about such a system, a number of select persons are needed, a number of cornerstones and a foundation are needed, and these are first fashioned one by one. This does not contradict the prophets' overall plan. The prophet, in order to fashion and hew the cornerstones of the civic society, is compelled in Mecca to engage in individual person-making: one Abū Dharr; one ʿAbdullāh ibn Masʿūd; another, and another, and so on — at most he fashions a hundred persons, two hundred persons.
-____
+[.quranverse]
+****
+[.arabic]
+إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا
+
+"When the help of God and the victory come, and you see the people entering into the religion of God in throngs." footnote:s17-15[Sūrat al-Naṣr (the Blessed Chapter of al-Naṣr), verses 1 and 2.] In the pagan environment of Mecca, when the prophet wishes to fashion a human being, he is compelled to fashion them one by one; because, in order to bring about such a system, a number of select persons are needed, a number of cornerstones and a foundation are needed, and these are first fashioned one by one. This does not contradict the prophets' overall plan. The prophet, in order to fashion and hew the cornerstones of the civic society, is compelled in Mecca to engage in individual person-making: one Abū Dharr; one ʿAbdullāh ibn Masʿūd; another, and another, and so on — at most he fashions a hundred persons, two hundred persons.
+
+[.verse-cite]
+— Sūrat al-Naṣr (110:1-2)
+****
 
 These become the building stones for the formation of the future civic society — that is, the monotheistic and Islamic society. The prophet there, in that way, fashions human beings one by one — with what toil, with what hardship, with what heartache! Fathers prevent their sons from understanding anything; the sons set their hearts on the world, they do not come to follow the prophet to learn doctrine; everyone who develops a little inclination — there is toil and hardship and heartache.@@CX(the Biʿthah | the first believers are fashioned one by one as building stones of the future society)@@ All these tasks are carried out. But when the turn comes for Medina(((Medina))) — when that divine and Islamic society is formed in Medina, and the prophet is at the head of that society and ruling by the ordinances and commands of God — there, then, God Almighty speaks in this way:@@CX(Tawhid | in Mecca souls are fashioned one by one, in Medina the divine society is formed)@@
 
-[role="verse quran",surah="al-Naṣr",s=110,a="1-2"]
-[quote]
-____
-*Qur'an, Sūrat al-Naṣr (110:1–2):* "When the help of God comes" — when the help and victory of God arrive and the conquest comes — "and the conquest, and you see the people entering into the religion of God in throngs" — and you see the people entering the religion of God group upon group. This is the upshot of the matter concerning the goals of the prophets.
-____
+[.quranverse]
+****
+[.arabic]
+إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا
+
+"When the help of God comes" — when the help and victory of God arrive and the conquest comes — "and the conquest, and you see the people entering into the religion of God in throngs" — and you see the people entering the religion of God group upon group. This is the upshot of the matter concerning the goals of the prophets.
+
+[.verse-cite]
+— Sūrat al-Naṣr (110:1-2)
+****
 
 Let me summarize the matter — and of course we have written the summary here too. The summary of the matter is this: the prophets have two goals, two important goals. One is the fundamental goal: the fashioning of the human being, the purifying of the human being from evils, the adorning of the human being with goodnesses and virtues and excellences — in short, making the human being human. This is the higher goal. But the other goal that the prophets have, which lies halfway along the road to this goal, is this: the formation of a monotheistic society, the formation of a divine system, the formation of the government of God, the formation of an organization administered by divine laws and ordinances. This is the goal of all the prophets.@@CX(Prophethood | the prophets have two goals, fashioning the human being and forming a divine system)@@ If someone imagines that the great divine prophets did not have this goal, he must study more in the Qur'an, in the hadith, in history.
 
@@ -122,11 +147,16 @@ Now, we have brought here two verses — though of course there are many verses 
 
 The first verse, as we mentioned, is from Sūrat al-Ḥadīd. I shall merely translate the verse and give a brief explanation.
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="25"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥadīd (57:25):* "We have indeed sent Our messengers" footnote:s17-16[Sūrat al-Ḥadīd (the Blessed Chapter of al-Ḥadīd), verse 25.] — assuredly We sent Our prophets — "with the clear proofs" — accompanied by clear and illuminating proofs.
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِيدَ فِيهِ بَأۡسٞ شَدِيدٞ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلۡغَيۡبِۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ
+
+"We have indeed sent Our messengers" footnote:s17-16[Sūrat al-Ḥadīd (the Blessed Chapter of al-Ḥadīd), verse 25.] — assuredly We sent Our prophets — "with the clear proofs" — accompanied by clear and illuminating proofs.
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:25)
+****
 
 The statement of the prophets, the arguments of the prophets, are clear arguments; they are not something that an intelligent, thinking person fails to understand. They understand; everyone understands the statement of the prophets.
 
@@ -184,11 +214,16 @@ And now the verse of Sūrat al-Aʿrāf. In the preceding verses the discourse is
 
 The discourse is of a believer, or believers, who are speaking with God. What do they say? Now pay attention; listen to the verse, until we reach the points in question. They say:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="156-157"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:156–157):* "And ordain for us good in this world and in the Hereafter" footnote:s17-21[Sūrat al-Aʿrāf (the Blessed Chapter of al-Aʿrāf), verses 156 and 157.] — write for us, O our Lord, good in this world and in that world — "indeed, we have turned to You (innā hudnā ilayk)" — indeed, we have found our way to You. "He said (qāla)" — God said in answer to them — "My punishment — I strike with it whomever I will (ʿadhābī uṣību bihī man ashāʾ)" — I bring My punishment upon whomever I will and intend.
-____
+[.quranverse]
+****
+[.arabic]
+۞وَٱكۡتُبۡ لَنَا فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ إِنَّا هُدۡنَآ إِلَيۡكَۚ قَالَ عَذَابِيٓ أُصِيبُ بِهِۦ مَنۡ أَشَآءُۖ وَرَحۡمَتِي وَسِعَتۡ كُلَّ شَيۡءٖۚ فَسَأَكۡتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤۡمِنُونَ ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِيَّ ٱلۡأُمِّيَّ ٱلَّذِي يَجِدُونَهُۥ مَكۡتُوبًا عِندَهُمۡ فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ يَأۡمُرُهُم بِٱلۡمَعۡرُوفِ وَيَنۡهَىٰهُمۡ عَنِ ٱلۡمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيۡهِمُ ٱلۡخَبَـٰٓئِثَ وَيَضَعُ عَنۡهُمۡ إِصۡرَهُمۡ وَٱلۡأَغۡلَٰلَ ٱلَّتِي كَانَتۡ عَلَيۡهِمۡۚ فَٱلَّذِينَ ءَامَنُواْ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُواْ ٱلنُّورَ ٱلَّذِيٓ أُنزِلَ مَعَهُۥٓ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ
+
+"And ordain for us good in this world and in the Hereafter" footnote:s17-21[Sūrat al-Aʿrāf (the Blessed Chapter of al-Aʿrāf), verses 156 and 157.] — write for us, O our Lord, good in this world and in that world — "indeed, we have turned to You (innā hudnā ilayk)" — indeed, we have found our way to You. "He said (qāla)" — God said in answer to them — "My punishment — I strike with it whomever I will (ʿadhābī uṣību bihī man ashāʾ)" — I bring My punishment upon whomever I will and intend.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:156-157)
+****
 
 Of course, God's will is not haphazard footnote:s17-22[Baseless, without foundation or reason (*katra-ī*).] and arbitrary either — that He should wish to punish one and not wish to punish another. No; the Lord's will too follows criteria and standards that He Himself has laid down. It is the bad, evil-doing person whom God Almighty wishes to punish. "I strike with it whomever I will" — I bring harm; not "harm" exactly — it is "uṣību"; no, "uṣību" means "I make to be struck," only in the Persian expression we have brought the word "harm." I bring harm by means of this punishment of Mine upon whomever I will.
 

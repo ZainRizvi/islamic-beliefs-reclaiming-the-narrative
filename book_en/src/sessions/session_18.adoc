@@ -4,37 +4,57 @@
 [.session-subtitle]
 _نخستین نغمه‌های دعوت — delivered Sunday, 14 Mehr 1353 / 19 Ramaḍān al-Mubārak 1394_
 
-[role="verse quran",surah="al-Naḥl",s=16,a="36"]
-[quote]
-____
-*Qur'an, Sūrat al-Naḥl (16:36):* "And We did indeed raise up in every nation a messenger, [proclaiming]: 'Worship God and shun the Tāghūt.' Then among them were some whom God guided, and among them were some upon whom error became deserved. So journey through the earth and behold how was the end of those who cried lies."
-____
+[.quranverse]
+****
+[.arabic]
+وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱجۡتَنِبُواْ ٱلطَّـٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ عَلَيۡهِ ٱلضَّلَٰلَةُۚ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
+
+"And We did indeed raise up in every nation a messenger, [proclaiming]: 'Worship God and shun the Tāghūt.' Then among them were some whom God guided, and among them were some upon whom error became deserved. So journey through the earth and behold how was the end of those who cried lies."
+
+[.verse-cite]
+— Sūrat al-Naḥl (16:36)
+****
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
 First, attend, so that we may recite the verses appointed for today's recitation. The first verse is from Sūrat al-Naḥl, which is the sixteenth sūra, in the fourteenth part [juzʾ]; it is verse thirty-six. It says:
 
-[role="verse quran",surah="al-Naḥl",s=16,a="36"]
-[quote]
-____
-*Qur'an, Sūrat al-Naḥl (16:36):* "And We did indeed raise up in every nation a messenger, [saying]: 'Worship God and shun the Tāghūt.' Among them were some whom God guided, and among them were some upon whom error became deserved. So journey through the earth and behold how was the end of those who cried lies."
-____
+[.quranverse]
+****
+[.arabic]
+وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱجۡتَنِبُواْ ٱلطَّـٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ عَلَيۡهِ ٱلضَّلَٰلَةُۚ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
+
+"And We did indeed raise up in every nation a messenger, [saying]: 'Worship God and shun the Tāghūt.' Among them were some whom God guided, and among them were some upon whom error became deserved. So journey through the earth and behold how was the end of those who cried lies."
+
+[.verse-cite]
+— Sūrat al-Naḥl (16:36)
+****
 
 The second portion is from the blessed Sūrat al-Aʿrāf, which today is a very extensive passage from that sūra — that part of it which is relevant to our discussion. Except that we could not quote the verses at that full length; the verses were very long. Of those verses we have in view, I cited only a portion, and it is that portion which I shall translate for you. It is an account of the conversation of one of God's noble prophets — the prophet Hūd — with his people. Before it, too, there is a verse concerning the prophet Noah, and our purpose in quoting these two verses will be served if you attend carefully. The first portion is this:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="59"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:59):* "Indeed We sent Noah to his people, [and he said]: 'O my people, worship God; you have no deity other than Him. Truly I fear for you the punishment of a tremendous day.'"
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ
+
+"Indeed We sent Noah to his people, [and he said]: 'O my people, worship God; you have no deity other than Him. Truly I fear for you the punishment of a tremendous day.'"
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:59)
+****
 
 From this point I again did not cite the subsequent verses, so that we might reach the story of the prophet Hūd and the people of ʿĀd. Two or three verses here I did not bring into this paper, because they were not the place of our argument; but the verses after them were once again what we needed. Therefore the verse we cited is this:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="65 ff."]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:65 ff.):* "And to ʿĀd [We sent] their brother Hūd. He said: 'O my people, worship God; you have no deity other than Him. Will you not then guard yourselves [against evil]?' The chiefs of his people who disbelieved said: 'Indeed we see you in foolishness, and indeed we reckon you among the liars.' He said: 'O my people, there is no foolishness in me; rather, I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord, and I am to you a faithful, trustworthy counselor'" — to the end of the verses.
-____
+[.quranverse]
+****
+[.arabic]
+۞وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ
+
+"And to ʿĀd [We sent] their brother Hūd. He said: 'O my people, worship God; you have no deity other than Him. Will you not then guard yourselves [against evil]?' The chiefs of his people who disbelieved said: 'Indeed we see you in foolishness, and indeed we reckon you among the liars.' He said: 'O my people, there is no foolishness in me; rather, I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord, and I am to you a faithful, trustworthy counselor'" — to the end of the verses.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:65 ff.)
+****
 
 Our purpose in today's discussion is to set forth this point: what was the first melody of the prophets' call? In the light of the discussions of these past few days, for those who have paid attention and given thought, it has become clear to us what the prophets are about in this world, for what purpose they have come, how they continue their work, and by what road they secure their aim. These matters should have become clear in the course of the past discussions; and if you find that — God forbid — they have not become clear, you must refer once more to those written notes; and if even then there remained some ambiguity and it was not made clear, then the fault is mine for having written the notes either deficiently or obscurely. Otherwise, the following points ought to emerge from these notes: first, for what work the prophets come, and what is the benefit of that work for which they come, and how they secure that work for which they come. These were discussions that have already passed.
 
@@ -50,11 +70,16 @@ As we explained in the past days, Tawhid is the whole of the school of the proph
 
 Tawhid is the whole of the school of the prophets. Belief in Tawhid, in the existence of God and the oneness of God, both secures the final and ultimate aim of the prophets, and also [provides] that environment which they hold to be necessary for the making of human beings, for the operation of the factory of man-making. Tawhid is the best and most eloquent slogan; for the reason that a monotheistic society is a society in which God alone is master and lord. No one other than God acts as lord in it. No being in a monotheistic society imposes upon, lays obligations upon, or legislates for others. No other being in a monotheistic society calls the people to obey itself — not even the Prophet; not even the Prophet, who is the representative of God.@@CX(Tawhid's effects | in a monotheistic society God alone is lord and none calls others to obey itself)@@
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="116"]
-[quote]
-____
-*Qur'an, Sūrat al-Māʾidah (5:116):* "And [recall] when God said: 'O Jesus son of Mary, did you say to the people: take me and my mother as two gods besides God?'"
-____
+[.quranverse]
+****
+[.arabic]
+وَإِذۡ قَالَ ٱللَّهُ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ ءَأَنتَ قُلۡتَ لِلنَّاسِ ٱتَّخِذُونِي وَأُمِّيَ إِلَٰهَيۡنِ مِن دُونِ ٱللَّهِۖ
+
+"And [recall] when God said: 'O Jesus son of Mary, did you say to the people: take me and my mother as two gods besides God?'"
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:116)
+****
 
 God Most High addresses Jesus: did you teach the people such a thing, did you instruct them to regard you and your mother as God and as objects of worship?
 
@@ -65,11 +90,16 @@ ____
 
 "Glory be to You, my Lord" — Transcendent are You, my Lord; I would never give such a false teaching, such a bad instruction — never. I take refuge in You from saying to the people that which is not the truth and is not right.
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="116"]
-[quote]
-____
-*Qur'an, Sūrat al-Māʾidah (5:116):* "If I had said it, You would surely have known it; You know what is within my soul, and I do not know what is within Your soul."footnote:s18-4[Qur'an, Sūrat al-Māʾidah (5:116). The rendering of the closing phrase: "If I had said it, You would certainly have known it; You know what is in my soul."]
-____
+[.quranverse]
+****
+[.arabic]
+وَإِذۡ قَالَ ٱللَّهُ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ ءَأَنتَ قُلۡتَ لِلنَّاسِ ٱتَّخِذُونِي وَأُمِّيَ إِلَٰهَيۡنِ مِن دُونِ ٱللَّهِۖ قَالَ سُبۡحَٰنَكَ مَا يَكُونُ لِيٓ أَنۡ أَقُولَ مَا لَيۡسَ لِي بِحَقٍّۚ إِن كُنتُ قُلۡتُهُۥ فَقَدۡ عَلِمۡتَهُۥۚ تَعۡلَمُ مَا فِي نَفۡسِي وَلَآ أَعۡلَمُ مَا فِي نَفۡسِكَۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلۡغُيُوبِ
+
+"If I had said it, You would surely have known it; You know what is within my soul, and I do not know what is within Your soul."footnote:s18-4[Qur'an, Sūrat al-Māʾidah (5:116). The rendering of the closing phrase: "If I had said it, You would certainly have known it; You know what is in my soul."]
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:116)
+****
 
 — to the end of the verse.
 
@@ -119,11 +149,16 @@ Yes — those detailed, extensive theological discussions concerning the particu
 
 Therefore, the point of beginning of the prophets' call is Tawhid. The witness that we cited for you from the Quran for this meaning — since I do not wish to go into detail — one [of them] is Sūrat al-Naḥl, and its verse is this:
 
-[role="verse quran",surah="al-Naḥl",s=16,a="36"]
-[quote]
-____
-*Qur'an, Sūrat al-Naḥl (16:36):* "And We did indeed raise up in every nation a messenger" — and indeed We raised up in every nation a prophet.
-____
+[.quranverse]
+****
+[.arabic]
+وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا
+
+"And We did indeed raise up in every nation a messenger" — and indeed We raised up in every nation a prophet.
+
+[.verse-cite]
+— Sūrat al-Naḥl (16:36)
+****
 
 What was the message of this prophet and messenger? His message, his proclamation, was this:
 
@@ -144,11 +179,16 @@ ____
 
 Sometimes the Tāghūt is that very babbling footnote:s18-20[Garrulous, talkative.] heart of yours. Sometimes the Tāghūt is the caprice that drives you day and night. Sometimes a person's love of mastery is his Tāghūt; the arrogance of a human being is his Tāghūt.@@CX(Tāghūt | can be the inner self — caprice, love of mastery, and arrogance)@@ And sometimes [the Tāghūt] is the powers outside the human being's existence — powers that thus expand in widening circles, expand and rise up. In any case, when the prophets came, they said God, not Tāghūt. The first sentence they uttered was this: that you should worship and serve God, and avoid, keep away from, and disregard the Tāghūt.
 
-[role="verse quran",surah="al-Naḥl",s=16,a="36"]
-[quote]
-____
-*Qur'an, Sūrat al-Naḥl (16:36):* "Then among them were some whom God guided" — some of them God guided; "and among them were some upon whom error became deserved" — some of them were those upon whom error and misguidance were laid.
-____
+[.quranverse]
+****
+[.arabic]
+وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱجۡتَنِبُواْ ٱلطَّـٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ عَلَيۡهِ ٱلضَّلَٰلَةُۚ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ
+
+"Then among them were some whom God guided" — some of them God guided; "and among them were some upon whom error became deserved" — some of them were those upon whom error and misguidance were laid.
+
+[.verse-cite]
+— Sūrat al-Naḥl (16:36)
+****
 
 [quote]
 ____
@@ -169,77 +209,122 @@ This was in Sūrat al-Naḥl; now Sūrat al-Aʿrāf.
 
 In Sūrat al-Naḥl it says, generally: "And We did indeed raise up in every nation a messenger" — in all the nations We sent a prophet. But in Sūrat al-Aʿrāf, it mentions the prophets one by one. First it begins with Noah, saying:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="59"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:59):* "Indeed We sent Noah to his people" — We sent Noah to his people; "He said: O my people, worship God."
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ
+
+"Indeed We sent Noah to his people" — We sent Noah to his people; "He said: O my people, worship God."
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:59)
+****
 
 See — his first word is this; he said, O my people! "Worship God" — serve God. "You have no deity other than Him" — there is no object of worship for you besides Him; that is, the true object of worship. "Truly I fear for you the punishment of a tremendous day" — I fear for you the chastisement of a great day. Then his people answered him, saying that we do not accept, and so on and so on, and the affair of the Flood; but those parts were not the place of our discussion, until again the turn reaches ʿĀd.
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="65"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:65):* "And to ʿĀd [We sent] their brother Hūd" — We sent to the people of ʿĀd their brother Hūd.
-____
+[.quranverse]
+****
+[.arabic]
+۞وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ
+
+"And to ʿĀd [We sent] their brother Hūd" — We sent to the people of ʿĀd their brother Hūd.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:65)
+****
 
 Now the people of ʿĀd are among those ancient and antique peoples — perhaps prehistoric — for it has not been correctly discovered or made clear who they were and in what era; [they are] after the Flood of Noah(((Noah, prophet))), [belonging] to the very, very ancient.
 
-[role="verse quran",surah="al-Shuʿarāʾ",s=26,a="149"]
-[quote]
-____
-*Qur'an, Sūrat al-Shuʿarāʾ (26:149):* "And you skillfully hew out houses from the mountains."footnote:s18-23[Qur'an, Sūrat al-Shuʿarāʾ (26:149): "And you skillfully hew out houses for yourselves from the mountains."]
-____
+[.quranverse]
+****
+[.arabic]
+وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ
+
+"And you skillfully hew out houses from the mountains."footnote:s18-23[Qur'an, Sūrat al-Shuʿarāʾ (26:149): "And you skillfully hew out houses for yourselves from the mountains."]
+
+[.verse-cite]
+— Sūrat al-Shuʿarāʾ (26:149)
+****
 
 This is about this people of ʿĀd, apparently — that they built houses within the mountains; one does not deem it far-fetched that this might be for that late Stone Age, which some materialist scholars have mentioned and depicted. At any rate, they belong to the very ancient. They had a prophet named Hūd(((Hūd, prophet))), who likewise said to them this same thing:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="65"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:65):* "He said: O my people, worship God; you have no deity other than Him" — he said: O people, worship and serve God, for you have no god besides Him.
-____
+[.quranverse]
+****
+[.arabic]
+قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ
+
+"He said: O my people, worship God; you have no deity other than Him" — he said: O people, worship and serve God, for you have no god besides Him.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:65)
+****
 
 Incidentally, see how, by this statement, the theory of those who say that Tawhid and religion in general arose from the natural condition of human beings and out of the ignorance and foolishness of human beings — and that religion gradually arrived at Tawhid — becomes utterly wrong and false. They say that at first the peoples were polytheists — some of these sociologists who speak by rote. It is very bad for a person to speak by rote footnote:s18-24[To speak with eyes closed and from memory.] — like someone who wishes, say, to describe the Mosque of Imām Ḥasan al-Mujtabā, to describe this building, without ever having even come near this building. He sets about describing: yes, I see the Mosque of Imām Ḥasan thus — these marble stones have covered all its wainscot,footnote:s18-25[The portion of the wall of a room or porch [īwān] that extends from the ledge down to the floor.] the chandeliers are attached in such a manner, these walls they have decorated with such beauty. He has not seen [it]; he has heard that the Mosque of Imām Ḥasan draws a large crowd, for example — suppose he has imagined it must be like this, on conjecture — whereas when he entered, you would see: no indeed, it has neither roof nor wall! (Laughter of the audience.)
 
 In matters of sociology, if someone speaks without study and by rote, it comes out just like this: a cause for laughter and ridicule. They speak about the interpretation of history without having studied an important part of history; they speak about the questions of the phenomena of religion and creed and these things without paying attention to the religions of history. Well, this is a religion that existed perhaps tens of thousands of years ago — or, if we take that famous date found among the narrations as correct and authoritative and reliable, that seven or eight thousand years have passed since the descent of Adam(((Adam))), then suppose this was perhaps six or seven thousand years ago — and these people carry the chronicle along with ceremony [saying]: that at first there was polytheism, then Tawhid appeared — whereas no; we see that from ancient times, from antiquity, there was Tawhid.@@CX(Tawhid | existed from antiquity; religion did not evolve from polytheism to Tawhid)@@
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="65"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:65):* "Will you not then guard yourselves [against evil]?"
-____
+[.quranverse]
+****
+[.arabic]
+أَفَلَا تَتَّقُونَ
+
+"Will you not then guard yourselves [against evil]?"
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:65)
+****
 
 — O my people, will you not show piety? He wished to make Tawhid acceptable to them and to make them understand it. Now here I have cited the conversation and discourse of his people with the prophet Hūd. I read it from the Quran and give a brief translation:
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="66"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:66):* "The chiefs of his people who disbelieved said:" — those notables and dignitaries of his people who were disbelievers said to him thus: "Indeed we see you in foolishness" — we see you in foolishness and folly; "and indeed we reckon you among the liars" — and we deem you to be among the liars.
-____
+[.quranverse]
+****
+[.arabic]
+قَالَ ٱلۡمَلَأُ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي سَفَاهَةٖ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلۡكَٰذِبِينَ
+
+"The chiefs of his people who disbelieved said:" — those notables and dignitaries of his people who were disbelievers said to him thus: "Indeed we see you in foolishness" — we see you in foolishness and folly; "and indeed we reckon you among the liars" — and we deem you to be among the liars.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:66)
+****
 
 This is among the accusations and false notions that, throughout all time, have been directed against those who call to the truth.@@CX(Prophethood | the same slanders of folly and lying are cast at those who call to the truth in every age)@@ One of my discussions concerning prophethood is precisely this — perhaps it will be the last chapter — [namely] of what sort the slanders that were cast at the prophets were, and what those things were; it is, of course, a side and marginal discussion. They say: you are a foolish man; they accuse him of ignorance.
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="67"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:67):* "He said: O my people, there is no foolishness in me" — he said: O my people, there is no folly in me; "rather, I am a messenger from the Lord of the worlds" — rather, I am a prophet from the Lord of the worlds.
-____
+[.quranverse]
+****
+[.arabic]
+قَالَ يَٰقَوۡمِ لَيۡسَ بِي سَفَاهَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ
+
+"He said: O my people, there is no foolishness in me" — he said: O my people, there is no folly in me; "rather, I am a messenger from the Lord of the worlds" — rather, I am a prophet from the Lord of the worlds.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:67)
+****
 
 In the face of their accusation, their improper speech, he repeated his own true statement.
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="68"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:68):* "I convey to you the messages of my Lord" — for I deliver to you the messages of my Lord; "and I am to you a faithful, trustworthy counselor" — I am to you a trustworthy well-wisher.
-____
+[.quranverse]
+****
+[.arabic]
+أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ
+
+"I convey to you the messages of my Lord" — for I deliver to you the messages of my Lord; "and I am to you a faithful, trustworthy counselor" — I am to you a trustworthy well-wisher.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:68)
+****
 
 I desire your good, I desire your growth, I desire your progress — for I call you to God and Tawhid.
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="69"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:69):* "Do you marvel that a reminder from your Lord has come to you by means of a man from among yourselves, that he may warn you?"
-____
+[.quranverse]
+****
+[.arabic]
+أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ لِيُنذِرَكُمۡۚ
+
+"Do you marvel that a reminder from your Lord has come to you by means of a man from among yourselves, that he may warn you?"
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:69)
+****
 
 Do you marvel that a reminder from your Lord came to you, by means of a man from your very selves, to warn you? That is, do you find it astonishing that an ordinary human being, in this same garb of yours, in this same dress of yours, should attain the station of prophethood and messengership?
 
@@ -248,17 +333,27 @@ ____
 "And remember" — and then he directs them to a historical matter — "and remember when He made you successors after the people of Noah" — remember that God made you successors after the people of Noah, that sinful people; "and increased you abundantly in stature" — and in creation, in physique and frame, gave you greater strength and power. "So remember the bounties of God" — remember the bounties of God; "that perhaps you may prosper" — that perhaps you may reach success and victory and felicity.
 ____
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="70"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:70):* "They said: Have you come to us" — see, the enemy too at once understands what the exclusive worship of God means. "They said: Have you come to us that we should worship God alone?" — have you come to us that we should worship and serve God alone? "And forsake what our fathers used to worship?" — and that we should set aside what our fathers used to worship — of inanimate idols and animate idols, both? "Then bring upon us that with which you threaten us" — bring us that with which you threaten and warn us; "if you are among the truthful" — if you are speaking the truth.
-____
+[.quranverse]
+****
+[.arabic]
+قَالُوٓاْ أَجِئۡتَنَا لِنَعۡبُدَ ٱللَّهَ وَحۡدَهُۥ وَنَذَرَ مَا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
 
-[role="verse quran",surah="al-Aʿrāf",s=7,a="71"]
-[quote]
-____
-*Qur'an, Sūrat al-Aʿrāf (7:71):* "He said: There has [already] befallen you defilement and wrath from your Lord."
-____
+"They said: Have you come to us" — see, the enemy too at once understands what the exclusive worship of God means. "They said: Have you come to us that we should worship God alone?" — have you come to us that we should worship and serve God alone? "And forsake what our fathers used to worship?" — and that we should set aside what our fathers used to worship — of inanimate idols and animate idols, both? "Then bring upon us that with which you threaten us" — bring us that with which you threaten and warn us; "if you are among the truthful" — if you are speaking the truth.
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:70)
+****
+
+[.quranverse]
+****
+[.arabic]
+قَالَ قَدۡ وَقَعَ عَلَيۡكُم مِّن رَّبِّكُمۡ رِجۡسٞ وَغَضَبٌۖ
+
+"He said: There has [already] befallen you defilement and wrath from your Lord."
+
+[.verse-cite]
+— Sūrat al-Aʿrāf (7:71)
+****
 
 He said: assuredly there has befallen you defilement and wrath — defilement and wrath: a defilement within your own beings, and a wrath from the side of your Lord has overtaken you; you are wretched.
 

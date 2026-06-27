@@ -4,11 +4,16 @@
 [.session-subtitle]
 _نویدها ۱ — delivered Tuesday, 2 Mehr 1353 / 7 Ramadan al-Mubārak 1394_
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="174-175"]
-[quote]
-____
-*Qur'an, Sūrat al-Nisāʾ (4:174–175):* "O mankind, a proof has indeed come to you from your Lord, and We have sent down to you a clear light. As for those who believe in God and hold fast to Him, He will admit them into mercy and bounty from Himself, and He will guide them to Himself along a straight path."footnote:s06-1[Sūrat al-Nisāʾ (the blessed Chapter of Women), verses 174 and 175. (This is the verse with which the session opens and which is treated in detail later in the lecture.)]
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُم بُرۡهَٰنٞ مِّن رَّبِّكُمۡ وَأَنزَلۡنَآ إِلَيۡكُمۡ نُورٗا مُّبِينٗا فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا
+
+"O mankind, a proof has indeed come to you from your Lord, and We have sent down to you a clear light. As for those who believe in God and hold fast to Him, He will admit them into mercy and bounty from Himself, and He will guide them to Himself along a straight path."footnote:s06-1[Sūrat al-Nisāʾ (the blessed Chapter of Women), verses 174 and 175. (This is the verse with which the session opens and which is treated in detail later in the lecture.)]
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:174-175)
+****
 
 The discussion about faith is, in reality, a preliminary discussion. In order to understand religion and to know the essential, foundational principles of the religion — so that a desire for the doctrinal belief of religion may be kindled within us, and so that we may set out, in a serious way, to grasp religion and to know religion — we need, for this purpose, to know the worth of faith(((Faith, iman))) and the quality of faith. Our discussion about faith was for this reason and to this end.@@CX(Faith | studied to know its worth as preliminary to grasping religion)@@
 
@@ -20,11 +25,16 @@ A human being who has grown accustomed to give-and-take, who has passed his life
 
 We gathered all the verses in the Qur'an(((the Qur'an))) that bear on faith and the believer. There are roughly seven hundred verses in the Qur'an concerning the believer and faith and certain other characteristics. We set about looking at these verses to see what, upon faith, God has made to follow. (I am describing the method of the work, so that the friends, the brothers and sisters who are familiar with the Qur'an, may learn how to find subjects in the Qur'an.) We searched through these six or seven hundred verses to see what promises, what glad tidings, what worthy, desirable, and longed-for outcomes God has appointed for the believers. We found that they are very many. In my view, there are perhaps around thirty or forty items that God Almighty, in the Qur'an, has made to follow upon faith. The believer enjoys these thirty or forty great privileges — and all of these privileges are great, all of them are important, all of them are necessary, obligatory, and essential for a human being to become happy.@@CX(Faith | thirty or forty privileges follow upon it in the Qur'an)@@ One of these thirty or forty subjects is the otherworldly Paradise(((Paradise))); that is one of them. One of these glad tidings is:
 
-[role="verse quran",surah="al-Kahf",s=18,a="31"]
-[quote]
-____
-*Qur'an, Sūrat al-Kahf (18:31):* "…gardens beneath which rivers flow…"footnote:s06-3[The blessed Sūrat al-Kahf, verse 31.]
-____
+[.quranverse]
+****
+[.arabic]
+أُوْلَـٰٓئِكَ لَهُمۡ جَنَّـٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَيَلۡبَسُونَ ثِيَابًا خُضۡرٗا مِّن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقٗا
+
+"…gardens beneath which rivers flow…"footnote:s06-3[The blessed Sūrat al-Kahf, verse 31.]
+
+[.verse-cite]
+— Sūrat al-Kahf (18:31)
+****
 
 — and others of this sort, thirty or forty of them. (I saw that if we wished to examine all of these, then — just as I mentioned — at minimum four or five days are needed for these glad tidings and good news given to the believers to be examined. We have set out two of them today, in this written handout that is in your hands. One or two more subjects will be examined tomorrow, and the rest is left to you yourselves, to refer to the Qur'an.)
 
@@ -34,11 +44,16 @@ Here we have written: in order to benefit from comprehensive and complete happin
 
 The matter is not a matter of bias for the sake of a creed or of religiosity. What we have written here as the conditions of becoming happy — for a materialist(((materialism))), too, these very same things are the conditions of becoming happy.@@CX(Keys to happiness | the same conditions hold for the materialist, not a religious bias)@@ Now we will read them one by one and see whether a materialist, if he were to possess these, would feel happy or not. And after it becomes clear that these are the conditions of becoming happy, then we will return to the Qur'an, we will lend our ear to the heart-soothing speech of the Qur'an, and we will see that it has promised all of these to the believer, given the believer glad tidings of all of these, brought all of these as a gift for the believer —
 
-[role="verse quran",surah="al-Aḥzāb",s=33,a="22"]
-[quote]
-____
-*Qur'an, Sūrat al-Aḥzāb (33:22):* "…and God has spoken the truth…"footnote:s06-5[The blessed Sūrat al-Aḥzāb, verse 22.]
-____
+[.quranverse]
+****
+[.arabic]
+وَصَدَقَ ٱللَّهُ
+
+"…and God has spoken the truth…"footnote:s06-5[The blessed Sūrat al-Aḥzāb, verse 22.]
+
+[.verse-cite]
+— Sūrat al-Aḥzāb (33:22)
+****
 
 — God does not give a false promise; though, of course, this part is connected to our particular religious way of thinking, namely that we believe in God.
 
@@ -50,11 +65,16 @@ What does a human being need? *One:* he needs to know the goal and the destinati
 
 This anxiety has existed for most travelers, most wayfarers of the roads of happiness throughout history. How much they pleaded with Moses(((Moses, Mūsā))), saying, "We fear that you have said something false, that a false promise has been given to you." In the Qur'an it says that the pressure and poverty were so great that even the elite would waver, asking:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="214"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqara (2:214):* "…When will the help of God come?…"footnote:s06-6[The blessed Sūrat al-Baqara, verse 214.]
-____
+[.quranverse]
+****
+[.arabic]
+مَتَىٰ نَصۡرُ ٱللَّهِۗ
+
+"…When will the help of God come?…"footnote:s06-6[The blessed Sūrat al-Baqara, verse 214.]
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:214)
+****
 
 — So when? So where is it? What happened? You see, these doubts and waverings and inner anxieties make even the elite slip. If a human being wishes to be happy and to reach the destination and the end of the road of happiness, one of his conditions, too, is this: that he be delivered from this anxiety, from this agitation, from this spiritual insecurity, from this lack of calm and this absence of assurance — that he be able to overcome this anxiety and agitation and inner temptation. This, too, is one of the things that brings a human being to happiness: that on his long road toward happiness he be delivered from the anxieties, the temptations, and the inner temptations that are more exhausting than the external deterring factors. Inside the parentheses we wrote *"assurance and security."*@@CX(Iṭmīnān | assurance and security, the condition of being delivered from inner anxiety)@@ You may put "safety" in place of "security"; it makes no difference. We chose "security" because it was the very Qur'anic expression. It would not be amiss for me to mention this sentence here — perhaps I have said it several other times as well: in the Duʿāʾ Kumayl(((Duʿāʾ Kumayl))) we recite, _"Yā Rabbi, yā Rabbi, yā Rabbi"_footnote:s06-7[Duʿāʾ Kumayl, ḥadīth no. 12. The Arabic phrases cited: _"Yā Rabbi, yā Rabbi, yā Rabbi… Qawwi ʿalā khidmatika jawāriḥī, wa ashdud ʿalā al-ʿazīmati jawāniḥī."_] — O my Lord! O my Lord! O my Lord! _"Qawwi ʿalā khidmatika jawāriḥī"_ — strengthen my limbs and members in Your service; _"wa ashdud ʿalā al-ʿazīmati jawāniḥī"_ — make my heart firm upon resolve. May I be able to resolve, may I be able to overcome weaknesses, doubts, uncertainties, temptations, and anxieties — for this is what halts a human being on the road, seats him long upon the road, and bars him from traversing the road.
 
@@ -80,11 +100,16 @@ These are the conditions of happiness. For a human being to be happy, for a huma
 
 Now give attention and care to today's verses, with regard to this introduction that was read out and partly explained. The first verse pertains to Sūrat Yūnus. Today's verses are scattered; they are not from one place, they are from several places.
 
-[role="verse quran",surah="Yūnus",s=10,a="9"]
-[quote]
-____
-*Qur'an, Sūrat Yūnus (10:9):* "Indeed those who believe and do righteous deeds — their Lord guides them by their faith…"footnote:s06-11[The blessed Sūrat Yūnus, verse 9.]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ يَهۡدِيهِمۡ رَبُّهُم بِإِيمَٰنِهِمۡۖ
+
+"Indeed those who believe and do righteous deeds — their Lord guides them by their faith…"footnote:s06-11[The blessed Sūrat Yūnus, verse 9.]
+
+[.verse-cite]
+— Sūrat Yūnus (10:9)
+****
 
 Those who have brought faith and have done righteous deed — we explained "righteous deed," in parentheses, with a particular expression: righteous deed means the commitment commensurate with that faith. A human being's faith places a commitment upon his shoulders; the fulfillment of that commitment, the taking of that commitment upon one's shoulder, is the righteous deed.@@CX(Faith | righteous deed is the commitment commensurate with faith, fulfilled in action)@@ Those who bring faith, who attain that belief, and then also act in accordance with its commitments — _"yahdīhim rabbuhum bi-īmānihim"_ — their Lord will guide them on account of their faith. Faith itself causes them to find the road. To which road do they find it? Both to the goal and to the roads, to the means. Some people say, "Sir, how can we reach that desired destination?" When you probe this remark, you see that the faith of the first step is not in his heart; or if there is faith, action does not accompany it. If he acts, illumination and guidance will fall to his lot; he will also find the second step. "Set foot upon the road, and ask nothing at all; the road itself will tell you how one must go."footnote:s06-12[From a verse of ʿAṭṭār: "If you are a man of the road, you must go through blood; / and with foot fallen, headlong you must go. / Set foot upon the road and ask nothing at all; / the road itself will tell you how one must go." (ʿAṭṭār)] When a human being brings faith in the goal and the road, and moves in pursuit of this faith, the road, of itself, shows itself. _"Yahdīhim rabbuhum bi-īmānihim"_ — by means of faith their Lord will guide them, will open the road before them.@@CX(guidance | faith itself opens the road, guiding one step at a time)@@
 
@@ -92,39 +117,59 @@ At the first step, none of the leaders and great ones and wayfarers and follower
 
 In several other verses of the Qur'an, too, there is a reference to this matter. In one place, in a verse — which we have not written here — He says that when a sura or a verse is sent down, the unbelievers and opponents and hypocrites and the ill-willed and the diseased of heart say:
 
-[role="verse quran",surah="al-Tawbah",s=9,a="124"]
-[quote]
-____
-*Qur'an, Sūrat al-Tawba (9:124):* "…Which of you has this increased in faith?…"footnote:s06-13[The blessed Sūrat al-Tawba, verse 124.]
-____
+[.quranverse]
+****
+[.arabic]
+أَيُّكُمۡ زَادَتۡهُ هَٰذِهِۦٓ إِيمَٰنٗاۚ
+
+"…Which of you has this increased in faith?…"footnote:s06-13[The blessed Sūrat al-Tawba, verse 124.]
+
+[.verse-cite]
+— Sūrat al-Tawbah (9:124)
+****
 
 — Whose faith is increased by this verse? Then the Qur'an replies, saying: Say that those who are believers, those who have truly given their adherence, are increased in faith by this verse and this sign. That very faith of theirs, in their hearts, is what causes them to take guidance from this source of guidance. (These parentheses that we have opened — we wrote inside them, in the form of explanation, that thing — pay attention to these.)
 
 The next verse:
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="174-175"]
-[quote]
-____
-*Qur'an, Sūrat al-Nisāʾ (4:174–175):* _"Yā ayyuhā al-nāsu qad jāʾakum burhānun min rabbikum wa anzalnā ilaykum nūran mubīnan."_footnote:s06-14[The blessed Sūrat al-Nisāʾ, verses 174 and 175.] — "O mankind, a proof has come to you from your Lord, and We have sent down to you a clear light."
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلنَّاسُ قَدۡ جَآءَكُم بُرۡهَٰنٞ مِّن رَّبِّكُمۡ وَأَنزَلۡنَآ إِلَيۡكُمۡ نُورٗا مُّبِينٗا فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا
+
+_"Yā ayyuhā al-nāsu qad jāʾakum burhānun min rabbikum wa anzalnā ilaykum nūran mubīnan."_footnote:s06-14[The blessed Sūrat al-Nisāʾ, verses 174 and 175.] — "O mankind, a proof has come to you from your Lord, and We have sent down to you a clear light."
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:174-175)
+****
 
 Behold, O people, from your Lord a proof has come for you — a decisive and clear argument, a firm and establishing demonstration; _"wa anzalnā ilaykum nūran mubīnan"_ — and We have sent down to you a manifest light. What is meant by this proof and light is the Qur'an and the Qur'anic truths. The evidence for our claim is in its following verse:
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="175"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا
+
 _"Fa-ammā alladhīna āmanū bi-llāhi wa-ʿtaṣamū bihi fa-sa-yudkhiluhum fī raḥmatin minhu wa faḍlin wa yahdīhim ilayhi ṣirāṭan mustaqīman."_ — "As for those who believe in God and hold fast to Him, He will admit them into mercy and bounty from Himself, and guide them to Himself along a straight path."
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:175)
+****
 
 So those who bring faith in God and become attached to and reliant upon Him — for faith in the heart alone is also not enough; one must grasp God, the skirt of God, that is, the skirt of God's religion and the godly road, become attached to it. _"Fa-ammā alladhīna āmanū bi-llāhi wa-ʿtaṣamū bihi"_ — they clung, they became attached; if it is thus, _"fa-sa-yudkhiluhum fī raḥmatin minhu wa faḍlin"_ — God will admit them into His mercy and bounty. After it: _"wa yahdīhim ilayhi ṣirāṭan mustaqīman"_ — He guides them toward Himself, leads them; and He guides by a straight and near road. This guidance is special to the believers. If you do not have faith — or if you have faith but do not have holding-fast, do not act upon your commitments before God — you will not find the road to God; the illumination of that guidance will not cast its radiance in your heart. This is special to the believers.@@CX(guidance | special to believers who hold fast to God and act on their commitments)@@ Sūrat al-Nisāʾ, verse 175.
 
 Another verse:
 
-[role="verse quran",surah="al-ʿAnkabūt",s=29,a="69"]
-[quote]
-____
-*Qur'an, Sūrat al-ʿAnkabūt (29:69):* _"Wa-lladhīna jāhadū fīnā la-nahdiyannahum subulanā, wa inna Allāha la-maʿa al-muḥsinīn."_ — "And those who strive for Us — We will surely guide them to Our roads; and indeed God is with the doers of good."
-____
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِينَ
+
+_"Wa-lladhīna jāhadū fīnā la-nahdiyannahum subulanā, wa inna Allāha la-maʿa al-muḥsinīn."_ — "And those who strive for Us — We will surely guide them to Our roads; and indeed God is with the doers of good."
+
+[.verse-cite]
+— Sūrat al-ʿAnkabūt (29:69)
+****
 
 This is a well-known verse that is much upon people's tongues. _"Wa-lladhīna jāhadū fīnā…"_ — those who, on Our road — God says it, and what is God's road? — and for the sake of the divine goals, the divine aims, any goal that God has in this world, strive… What are God's goals? It is justice, it is security, it is the servitude(((servitude, ʿubūdiyyah))) of the servants before Him, it is the servants of God reaching maturity and perfection, it is the flourishing of the face of the earth, it is the flourishingfootnote:s06-15[_maʿmūr shudan_ (root ع‌م‌ر): to become flourishing, built up, prosperous.] of human hearts, it is the rendering-prosperous of this world and the next world of human beings, it is all beings falling onto the track and rail of perfection — these are God's wishes.@@CX(servitude | God's goals are justice, security, servitude, and human perfection)@@ It is the absence of conjecture, the absence of polytheism, the absence of unbelief, the absence of insecurity, the absence of bestiality and brutality,footnote:s06-16[_dad-khūyī_ and _dad-manishī_: ferocity, savagery, wildness.] the absence of rebellion and tyranny — these are God's wishes. _"Wa-lladhīna jāhadū fīnā"_ — those who strive on the road of Our goals and wishes, the divine wishes; _"la-nahdiyannahum subulanā"_ — without doubt and without question, We will show them Our roads; We do not leave them bewildered, We do not leave them astray. That poem I recited is fitting here:
 
@@ -140,11 +185,16 @@ These were the verses that exist in the Qur'an in connection with guidance, that
 
 We said that light is one of the things necessary for a human being to become happy, with that explanation that we gave about light on that previous page. To the believers, light has been promised:
 
-[role="verse quran",surah="al-Baqarah",s=2,a="257"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqara (2:257):* _"Allāhu waliyyu alladhīna āmanū, yukhrijuhum mina al-ẓulumāti ilā al-nūr…"_footnote:s06-17[The blessed Sūrat al-Baqara, verse 257.] — "God is the walī of those who believe; He brings them out of the darknesses into the light…"
-____
+[.quranverse]
+****
+[.arabic]
+ٱللَّهُ وَلِيُّ ٱلَّذِينَ ءَامَنُواْ يُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۖ وَٱلَّذِينَ كَفَرُوٓاْ أَوۡلِيَآؤُهُمُ ٱلطَّـٰغُوتُ يُخۡرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِۗ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ
+
+_"Allāhu waliyyu alladhīna āmanū, yukhrijuhum mina al-ẓulumāti ilā al-nūr…"_footnote:s06-17[The blessed Sūrat al-Baqara, verse 257.] — "God is the walī of those who believe; He brings them out of the darknesses into the light…"
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:257)
+****
 
 God is the guardian and the comrade-in-the-same-front of the believers. I render _walī_(((Wilayah, wali))) as comrade-in-the-same-front, joined, on the same level, and I prefer it over "guardian" and "friend" and "helper" and these things that are customary. Because _wilāyah_(((Wilayah))) means connectedness — two things that are bound and joined to each other: to this they say _wilāyah_. God is the _walī_ of the believers, that is, He is joined with the believers. What does it mean that He is joined with the believers? It means that God and the believers are in one rank.@@CX(Wilayah | means connectedness, God and the believers joined in one rank)@@ The enemies of God are in another rank, facing the believers and facing God. But wherever it may be:
 
@@ -168,10 +218,15 @@ _"Yukhrijuhum mina al-ẓulumāti ilā al-nūr"_ — He delivers them from the d
 
 (One more verse — that is, one more passage of the Qur'an — remains for me to read. I have both grown tired, and the time is passing. And afterward our dear reciter, the honorable Mr. Riḍāʾī(((Riḍāʾī, Mr.))), recites these very verses today; he reads them too from the handout. It had been arranged that he would collate them with the Qur'an; doubtless he has collated them and reads them from the handout. These verses, with these meanings and translations that have been written here and that I have explained, then, with his charming and affecting voice that you will hear — you will see that it becomes much more pleasing to the mind.)
 
-[role="verse quran",surah="al-Aḥzāb",s=33,a="41-43"]
-[quote]
-____
-*Qur'an, Sūrat al-Aḥzāb (33:41–43):* _"Yā ayyuhā alladhīna āmanū"_ — O you who have believed — _"udhkurū Allāha dhikran kathīran"_ — remember God with much remembrance; _"wa sabbiḥūhu bukratan wa aṣīlan"_ — and morning and evening, extol Him with purity and sanctity. What has happened? _"Huwa alladhī yuṣallī ʿalaykum wa malāʾikatuh"_footnote:s06-21[The blessed Sūrat al-Aḥzāb, verses 41 to 43.] — it is He who sends blessing upon you, and His angels also.
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذۡكُرُواْ ٱللَّهَ ذِكۡرٗا كَثِيرٗا وَسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَـٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا
+
+_"Yā ayyuhā alladhīna āmanū"_ — O you who have believed — _"udhkurū Allāha dhikran kathīran"_ — remember God with much remembrance; _"wa sabbiḥūhu bukratan wa aṣīlan"_ — and morning and evening, extol Him with purity and sanctity. What has happened? _"Huwa alladhī yuṣallī ʿalaykum wa malāʾikatuh"_footnote:s06-21[The blessed Sūrat al-Aḥzāb, verses 41 to 43.] — it is He who sends blessing upon you, and His angels also.
+
+[.verse-cite]
+— Sūrat al-Aḥzāb (33:41-43)
+****
 
 O you who have believed, remember God with much remembrance; and morning and evening, praise Him with cleanliness and purity. What has happened? It is He who sends blessing upon you, and His angels too. Why? _"Li-yukhrijakum mina al-ẓulumāti ilā al-nūr"_ — that He may deliver you from the darknesses and lead you to light and illumination. This is the Qur'an, and this is the glad tiding of the Qur'an. Of these glad tidings there is also another number that, God willing, I will present tomorrow. And if I wished to state all of these Qur'anic glad tidings, and to enumerate one by one all that the Qur'an promises us, it would certainly take more than ten days and twelve days for me to be able to state the glad tidings and good news that are upon faith and for the believer. Therefore we will discuss only tomorrow; if it becomes necessary, if we are compelled, we will speak the day after tomorrow as well — and if not, we will conclude it tomorrow.

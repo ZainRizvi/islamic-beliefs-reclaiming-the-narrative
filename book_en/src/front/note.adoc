@@ -73,11 +73,16 @@ The fifth feature of the book is its reflection of his fresh and original view o
 
 "A certain group in Mashhad raised an uproar against me, asking why so-and-so had said these things under the word 'Wilāyat' — whereas this was not a denial of the wilāyat that they used to speak of. They said wilāyat means love. Well, we accept the love of the Imams; wilāyat means belief in the Imamate of ʿAlī (peace be upon him) — that we did accept. There were certain things, over and above these, that we had discovered in the word 'wilāyat.' I gathered together the verses of wilāyat in the Qur'an — the verses in which the word 'wilāyat' is used; for instance, imagine,
 
-[role="verse quran",surah="al-Kahf",s=18,a="44"]
-[quote]
-____
-*Qur'an, Sūrat al-Kahf (18:44):* _hunālika l-walāyatu lillāh_ — "There, the [protective] authority [walāyah] belongs to God."footnote:note-1[The Blessed Sūrat al-Kahf, verse 44.]
-____
+[.quranverse]
+****
+[.arabic]
+هُنَالِكَ ٱلۡوَلَٰيَةُ لِلَّهِ
+
+_hunālika l-walāyatu lillāh_ — "There, the [protective] authority [walāyah] belongs to God."footnote:note-1[The Blessed Sūrat al-Kahf, verse 44.]
+
+[.verse-cite]
+— Sūrat al-Kahf (18:44)
+****
 
 and many verses; from these verses I put forward, I set out, a new interpretation of the word 'wilāyat.' Well, this ought to have been deemed a thing of value. In the field of medicine, if someone comes along and — suppose — puts forward a new idea about typhoid that adds to the previous knowledge, how do they treat him? Well, they honor him, they show him respect, they thank him. In religious matters, if a new word was put forward, if a fresh interpretation was set out on some question — even though it did not impugn the words of the past, simply by virtue of being new — a certain group would set about opposing it; and this state of affairs still persists in a certain group even now."footnote:note-2[Remarks of the author, dated 13 Mehr 1367 (5 October 1988).]
 

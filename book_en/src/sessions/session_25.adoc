@@ -4,11 +4,16 @@
 [.session-subtitle]
 _بهشت ولایت — delivered Sunday, 21 Mehr 1353 / 26 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Ḥajj",s=22,a="41"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥajj (22:41):* "[They are] those who, if We give them authority in the land, establish the prayer and pay the alms-due and enjoin what is right and forbid what is wrong; and to God belongs the final outcome of all affairs."footnote:s25-1[Sūrat al-Ḥajj (22:41). «الذین ان مکناهم فی الارض اقاموا الصلاة و آتوا الزکاة و امروا بالمعروف و نهوا عن المنکر و لله عاقبة الامور».]
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِينَ إِن مَّكَّنَّـٰهُمۡ فِي ٱلۡأَرۡضِ أَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ وَأَمَرُواْ بِٱلۡمَعۡرُوفِ وَنَهَوۡاْ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَٰقِبَةُ ٱلۡأُمُورِ
+
+"[They are] those who, if We give them authority in the land, establish the prayer and pay the alms-due and enjoin what is right and forbid what is wrong; and to God belongs the final outcome of all affairs."footnote:s25-1[Sūrat al-Ḥajj (22:41). «الذین ان مکناهم فی الارض اقاموا الصلاة و آتوا الزکاة و امروا بالمعروف و نهوا عن المنکر و لله عاقبة الامور».]
+
+[.verse-cite]
+— Sūrat al-Ḥajj (22:41)
+****
 
 The subject which, following the previous discussions, is worth noting in the matter of wilayah, is: first, a brief introduction to the society possessing wilayah and to the individual possessing wilayah; and second, the role — a panoramic view — of a society in which wilayah exists. In the course of the past day or two, when we discussed this theme, what came into our hands from reflection upon the verses of the Qur'an — this reflection, of course, being aided by, and reaching its conclusions on the basis of, our connection with the teachings of the Ahl al-Bayt in the matter of wilayah which already existed in our minds; so that what we have stated is a distillation, both from the Qur'an and from the hadith — the distillation that emerged from these discussions was this: that wilayah has several dimensions, several manifestations.
 

@@ -4,11 +4,16 @@
 [.session-subtitle]
 _در پیرامون ولایت (۱) — delivered Monday, 22 Mehr 1353 / 27 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="58-59"]
-[quote]
-____
-*Qur'an, Sūrat al-Nisāʾ (4:58–59):* "Indeed, Allah commands you to render the trusts to those to whom they are due, and when you judge between people to judge with justice. Excellent is that with which Allah counsels you. Indeed, Allah is ever Hearing and Seeing. O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you should dispute over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is best and best in outcome."
-____
+[.quranverse]
+****
+[.arabic]
+۞إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا
+
+"Indeed, Allah commands you to render the trusts to those to whom they are due, and when you judge between people to judge with justice. Excellent is that with which Allah counsels you. Indeed, Allah is ever Hearing and Seeing. O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you should dispute over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is best and best in outcome."
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:58-59)
+****
 
 The subject that, today, in continuation of our previous discussions, we decided to raise is the statement of several issues from among the matters that we encounter around the question of Wilayat. These are not part of that original framework and the statement of the position of this question itself. The discussion about Wilayat — about what Wilayat is, where in the Qur'an it is derived from, and how many dimensions, aspects, and sides it has — was the discussion already presented earlier. However, there is a series of issues which, for the question of Wilayat, are subsidiary matters; even though each of these matters, in its own place, is itself a fundamental and decisive issue, which, like a principle, must be used for the orientation of Islamic directions and for determining the path of the Muslim society.
 
@@ -22,11 +27,16 @@ The Qur'an's answer here is a single word. It says: the one who is the true _wal
 
 Therefore, the one who, in the Islamic society, has the right of command and prohibition and decree, and the right to execute commands, and the right to give orders and to determine the path of the society, and, in short, the right of rule over all the particulars of human beings' lives, is God:
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="68"]
-[quote]
-____
-*Qur'an, Āl ʿImrān (3:68):* "And Allah is the wali of the believers."footnote:s26-2[Sūrat Āl ʿImrān, verse 68.]
-____
+[.quranverse]
+****
+[.arabic]
+وَٱللَّهُ وَلِيُّ ٱلۡمُؤۡمِنِينَ
+
+"And Allah is the wali of the believers."footnote:s26-2[Sūrat Āl ʿImrān, verse 68.]
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:68)
+****
 
 I have tracedfootnote:s26-3[(t-b-ʿ) _tatabbuʿ_: to follow after, to investigate.] the verses in the Qur'an that contain the expression _wali_ and _awliyāʾ_. I made an approximately summary study of them all, and I saw that this expression — that God is the _wali_ of the Islamic society, that the believers have no _wali_ and helper other than God, that God must be the ruler of all the affairs of mankind — this is a matter that, in the Qur'an, is among the established certainties. Of course, the brothers are aware of this; but nonetheless it is good for me to bring it to the attention of some in whose minds the matter might become confused. The discussion is not about the creational (_takwini_) sovereignty of the Lord; that is preserved in its own place — it is clear that God Most High arranges the revolution of the earth and the sky by His overpowering will.footnote:s26-4[(q-h-r) _qāhira_: overpowering, dominant.] The discussion is about this: that the laws of human life and the individual and social relations of human society too must take inspiration from God; that is, the legal ruler and sovereign, in the divine, Islamic, Qur'anic society, and in the shadefootnote:s26-5[(ẓ-l-l) _ẓill_: shade, shadow.] of the Islamic order — which we always refer to as the Alawi order(((Alawi order))), and this is an expression that I would like to remain in minds: the Alawi order, the Alawi government, this order whose name we set down as the Alawi order and the Islamic order, and "the Qur'anic society" can be a name for it for us — in such a society and such an order, the ruler is God alone.@@CX(Wilayah | the legislative sovereignty over human life belongs to God alone, distinct from His creational sovereignty)@@
 
@@ -36,35 +46,55 @@ That human being, or those human beings, who are to be — over mankind and huma
 
 The answer of religion and the school of religion to this question is this:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
-*Qur'an, al-Māʾidah (5:55):* "Your wali is only Allah and His Messenger…"footnote:s26-7[Sūrat al-Māʾidah, verse 55.]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ
+
+"Your wali is only Allah and His Messenger…"footnote:s26-7[Sūrat al-Māʾidah, verse 55.]
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 The one who practically takes the rein of command and of command-and-prohibition into his hand in the society, on behalf of the Lord of the world, is His Messenger.@@CX(Prophethood | the Messenger practically exercises God's rule over the society)@@ Therefore, in a society, when a Prophet has come, it makes no sense that, with the Prophet present, a ruler other than the Prophet should govern over the people. "Prophet" means precisely the one who must take the rein of power in the society into his hand, who must be the ruler. When the Prophet departed from this world, what is the duty? When the Prophet of God, like all other human beings, departed from this world and surrendered his soul to the Soul-Creator, what do we do there? Again a verse of the Qur'an answers this matter:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ ءَامَنُواْ
+
 "…and those who have believed" — the believers are your _wali_.
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 Which believers? Whoever believes in the school of religion is the _wali_ and ruler of the Islamic society? Well, this would require that we have, to the number of all believing souls, a ruler! What do we do here? Believers who have a special sign. It is evident that the verse of the Qur'an, while it wishes to designate a particular person, to put its finger upon a specific, known human being and say "your ruler is this one," also wishes, implicitly, to provide the criterion. Pay attention! It wishes that human being who, in the view of the Lawgiver and the legislator of Islam, is specified — it wishes to give him rule over the people; but at the same time it also wishes to state the criterion: the reason we said your ruler should be this one is this criterion. This is the cause of his being chosen by the Lord, or of his being appointed by the Lord. Therefore it says:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ
+
 "And those who have believed" — those who have believed, whose faith is correct, for the requirement of the absolutenessfootnote:s26-8[(ṭ-l-q) _iṭlāq_: generalization, inclusion (i.e., the term being absolute/unqualified).] of "have believed" is that correct faith is intended, not outward faiths. Those who, throughout their lives, showed that they believed; those who, with their own deeds, signed their faith.
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 So "those who have believed" — the first condition is that they be truly believers. It has other conditions too:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ
+
 "Those who establish the prayer" — those believers who establish the prayer, not those who merely perform the prayer. Performing the prayer is one thing; establishing the prayer is another thing.
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 If they had wished to say "they perform the prayer," they could have said _yuṣallūn_; an expression that is both shorter and more concise.footnote:s26-9[Short and concise.]
 
@@ -74,35 +104,55 @@ The cause of thefts, the cause of degradations, the cause of injustices, the cau
 
 The believer who, in the society, establishes the prayer, who sets the orientation of the society toward God, who makes the divine remembrance current and established in the society:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ
+
 "Those who establish the prayer."
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 But it does not even end here, the _wali_:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَيُؤۡتُونَ ٱلزَّكَوٰةَ
+
 "And they give the zakat" — they distribute wealth justly, they give the zakat, they are among those who spend in the way of God.
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 And following it, it says:
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَهُمۡ رَٰكِعُونَ
+
 "And while they are bowing" — they give the zakat while they are in the state of bowing (_rukūʿ_).
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 This is an indication of a particular case and a particular story. I have heard, and I know, the words that some of the other commentators have said — they have said that "and while they are bowing" means that these people are always in the state of bowing, and that it is not a reference to a particular event. But the spirit of Arabness and of knowing Arabic negates this possibility. "And while they are bowing" means: in the state of bowing they give the zakat. This too confirms that very matter that I presented yesterday — which comes to my mind as a possibility, which I suppose: that "zakat"(((zakat))) is the absolute of all acts of charity (_infāqāt_); because the ring that the Commander of the Faithful gave while in the state of bowing was not the technical zakat — it was a charity in the way of God, and the term "zakat" has been applied to it.@@CX(Infāq | "zakat" here denotes the absolute of all charitable spending, not the technical alms)@@
 
-[role="verse quran",surah="al-Māʾidah",s=5,a="55"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ
+
 "And they give the zakat while they are bowing"
-____
+
+[.verse-cite]
+— Sūrat al-Māʾidah (5:55)
+****
 
 — meaning a human being so attached to equality,footnote:s26-11[(s-w-y) _musāwāt_: equality, sameness.] so devoted to charitable spending, for whom the sight of poverty and the poor is so painful, that he does not wait for his prayer to finish, lest this beggar leave and another poor one come. He gives his only and sole ring — he says, "Let me set it aside, then I will give it." So great is this human being's attraction toward charity, so absorbed is this man in the path of fulfilling this duty, that he has no patience to wait, no room to bear it. He has seen a poor one, has seen a poverty, has seen an appearance that God does not love — he too does not love it — and he has nothing but the ring; so, in the state of the prayer, he takes it off and gives it to the beggar.
 
@@ -122,11 +172,16 @@ In a single night, God knows, five hundred, eight hundred, a thousand decrees of
 
 My complaint is not against Harun, there is no grievance against Harun. If Harun does not do these things, he is not Harun. Harun's class dictates that, as long as this class exists, it does such work; there is no grievance against him. The grievance is against the people who had forgotten the sensitivity of the early days of Islam, who had lost the alertness and understanding that they had in the early days of Islam, who, in the face of this situation, did not feel any duty, did not feel any responsibility, did not feel any pain.@@CX(Faith | faith requires a sense of duty; the people's loss of it let tyranny go unopposed)@@ What is this for? It is because the harmful, malicious, vile propaganda had so worked upon the people. These propagandistic hands and propaganda apparatuses, in the regionsfootnote:s26-19[(q-ṭ-r) _aqṭār_: corners, sides, regions.] of the Islamic society and the Islamic country, had for years worked upon the people's brains, upon the people's souls, upon the people's spirits — they had worked and worked until it had come to this point. So you see how important it is who the ruler of the Islamic society is. He must be the one whom God designates.
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="59"]
-[quote]
-____
-*Qur'an, al-Nisāʾ (4:59):* "Obey Allah"footnote:s26-20[Sūrat al-Nisāʾ, verse 59.] — obey God — "and obey the Messenger" — obey the Messenger — "and those in authority among you" — and the possessors of command from among yourselves.
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا
+
+"Obey Allah"footnote:s26-20[Sūrat al-Nisāʾ, verse 59.] — obey God — "and obey the Messenger" — obey the Messenger — "and those in authority among you" — and the possessors of command from among yourselves.
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:59)
+****
 
 What does "the possessors of command" (_ulu al-amr_) mean? The ignorant, foolish one who bears the name of Muslim imagines that "possessor of command" means anyone who can give commands, anyone whose force prevails for giving commands; he says this is the _ulu al-amr_. We say: no, that is not the _ulu al-amr_. If it were to be that whoever can give a command is the _ulu al-amr_ and is recognized as legitimate by the Qur'an, well, then in such-and-such a mountain, such-and-such a dagger-girt bandit with a mustache stretching to his ears also gives commands — he too is the all-powerful one there; so is he there the _ulu al-amr_? And is obedience to his command obligatory?
 
@@ -140,75 +195,115 @@ The Shia says: no, this speech is not correct. The Shia says: you who accept the
 
 Of course, the second matter too we have indicated here, and we have also written its verse. What is the Wilayat of God for? If someone should ask this — should say, "Sir, on what proof do you say: why is the Wilayat of the affair in God's hands and for God? Why?" — its answer is this: that this arises from a natural philosophy that has been specified and determined in the worldview of Islam. In the worldview of Islam, everything in the world arises from the power of the Lord:
 
-[role="verse quran",surah="al-Anʿām",s=6,a="13"]
-[quote]
-____
-*Qur'an, al-Anʿām (6:13):* "And to Him belongs whatever rests in the night and the day."footnote:s26-22[Sūrat al-Anʿām, verse 13.] — Whatever, in the day and the night, is at rest and still, belongs to God.
-____
+[.quranverse]
+****
+[.arabic]
+۞وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ
+
+"And to Him belongs whatever rests in the night and the day."footnote:s26-22[Sūrat al-Anʿām, verse 13.] — Whatever, in the day and the night, is at rest and still, belongs to God.
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:13)
+****
 
 Well, the one to whom all the phenomena of creation belong, and in whose hand the creational rule over everything lies, the legal and legislative (_tashriʿi_) rule too must lie in his hand — there is no alternative.@@CX(Tawhid | because all creation belongs to God, legislative rule over it must also belong to Him alone)@@ This too is the second matter, until we reach its subsequent matters. Now pay attention; let me, quickly, give the meaning of these verses.
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="58-60"]
-[quote]
-____
-*Qur'an, al-Nisāʾ (4:58–60):* "Indeed, Allah commands you to render the trusts to those to whom they are due"footnote:s26-23[Sūrat al-Nisāʾ, verses 58 to 60.] — indeed, God commands you to return the trusts to those to whom they belong — "and when you judge between people to judge with justice" — and when you judge and rule and adjudicate among the people, judge and adjudicate according to justice and equity — "Indeed, Allah — excellent is that with which He counsels you" — indeed, the Lord — how excellent a thing it is with which He admonishes and counsels you — "Indeed, Allah is ever Hearing and Seeing" — indeed, the Lord is Hearing and Seeing.
-____
+[.quranverse]
+****
+[.arabic]
+۞إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا
+
+"Indeed, Allah commands you to render the trusts to those to whom they are due"footnote:s26-23[Sūrat al-Nisāʾ, verses 58 to 60.] — indeed, God commands you to return the trusts to those to whom they belong — "and when you judge between people to judge with justice" — and when you judge and rule and adjudicate among the people, judge and adjudicate according to justice and equity — "Indeed, Allah — excellent is that with which He counsels you" — indeed, the Lord — how excellent a thing it is with which He admonishes and counsels you — "Indeed, Allah is ever Hearing and Seeing" — indeed, the Lord is Hearing and Seeing.
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:58-60)
+****
 
 That which He commands you is out of complete hearing and awareness and knowledge. Because He is the Hearer of your inner needs, because He is the Seer of your destiny, therefore that which you need, He gives and bestows upon you.
 
 This — from the first verse, which speaks about the trust and says "render the trusts to those to whom they are due" — is, in reality, a preparation of the ground for the second verse. The trust is not only that I have one toman of yours in my hand, "Return this one toman to me." The most important of the examples of the trust is this: that which is God's trust among the people, the human being should convey it to its place and to those to whom it is due. The obedience of the human being, which is the covenant and pact of God with man, that he should expend it and spend it in its place, that he should obey God and obey the one whom God has commanded to be obeyed. This is the most important instance of the trust.@@CX(servitude | the supreme trust is to render one's obedience to God and to the one God commanded be obeyed)@@
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="58-60"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+۞إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا
+
 Then He says: "O you who have believed" — O you who have believed — "obey Allah" — obey God — "and obey the Messenger" — and obey the Messenger of God — "and those in authority among you" — obey the possessors of command from among yourselves; those who, among you, are the possessors of command.
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:58-60)
+****
 
 Here the Islamic thesis (_tez_), with some of the other theses and ideas, makes its differentiatorfootnote:s26-24[(m-y-z) _māyiz_: that which separates, the differentiator.] and point of divergence apparent. The Islamic thesis does not say that there will be a day when government is not necessary — no; the Islamic idea does not foresee that day on which, in society, there is no state and government — no indeed; whereas some schools foresee that day on which society is the ideal society, and one of its characteristics is that there is no longer state and government in that society. No; Islam does not foresee this.@@CX(Wilayah | Islam never foresees a stateless society; government remains permanently necessary)@@
 
 The Khawarij(((Khawarij))), under the pretext of divine government, were the ones who used to say that ʿAli ibn Abi Talib must not rule. They used to say, "_lā ḥukma illā li-llāh_" — "rule belongs to none but God." The Commander of the Faithful, in answer to this, says: "_kalimatu ḥaqqin yurādu bihā bāṭil_"footnote:s26-25[Hadith no. 15.] — a word, a true word, but falsehood is intended by it.@@CX(Wilayah | "rule belongs to God alone" is a true word misused to deny the need for a human executor)@@ The speech is correct: the ruler is truly God; the one who gives the regulations and takes the rein of life into His hand is truly God. But you say "_lā ḥukma illā li-llāh_" or you say "_lā imrata illā li-llāh_" — law and rule belong to God; who is the executor of the law? Do you also say that other than God, no one should be the executor of the law? Then, therefore, in answer to this speech, He says: "_lā budda li-l-nāsi min amīr_" — in the end, humanity and human society needs a commander (_amīr_), needs a ruler and sovereign. This is human nature: that one's life must be accompanied by an executor of the law; the existence of the law is not sufficient — there must be someone to execute this law and to oversee the precise and correct execution of this law. This is what it says:
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="58-60"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ
+
 "And those in authority among you"
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:58-60)
+****
 
 — however, the _ulu al-amr_: is it the absolute _ulu al-amr_? Whoever commands is correct? Sometimes it may happen that, in a single place, two persons command against each other — are both of them _ulu al-amr_? Sometimes it may happen that a man commands whom the human intellect and reason negates as a commander — is he still _ulu al-amr_? It is here that, between us and the mode of thought of Sunnism(((Sunnism))), an essential disagreement arises. We say: the _ulu al-amr_, the possessor of command, is that possessor of command who conforms to the divine criteria. Whereas they, in practice, do not impose such a condition.@@CX(Wilayah | the Shia requires the ulu al-amr to conform to divine criteria, unlike the prevailing Sunni practice)@@ Now, what is in their jurisprudential books, I have not made a proper reference to see. That which is widespread on tongues and in mouths is this: that no — whoever reaches the station of command and sovereignty is respected and authoritative for them.
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="58-60"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+۞إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تُؤَدُّواْ ٱلۡأَمَٰنَٰتِ إِلَىٰٓ أَهۡلِهَا وَإِذَا حَكَمۡتُم بَيۡنَ ٱلنَّاسِ أَن تَحۡكُمُواْ بِٱلۡعَدۡلِۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓۗ إِنَّ ٱللَّهَ كَانَ سَمِيعَۢا بَصِيرٗا يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا
+
 "And if you should dispute over anything" — so if, in anything, there was a dispute and disagreement — "refer it to Allah and the Messenger" — refer it to God and the Messenger. "If you should believe in Allah and the Last Day" — if you are believers in God and the Last Day — "That is best" — this is better — "and best in outcome" — it has a better end.
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:58-60)
+****
 
 You see, He directs the people to the good consequences of the sovereignty of the good, and the evil consequences of the sovereignty of the bad. This too is one verse.
 
 Following it is the third verse. It is a reproach to those who turn their heads away from this general command:
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="60"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا
+
 "Have you not seen those who claim that they have believed in what was revealed to you" — Do you not look at those who imagine that they have believed in what was revealed to you, in your religion — "and what was revealed before you" — they imagine that they have faith in your religion and the religion of your predecessors, the heavenly religions; they suppose themselves believers. Despite supposing themselves believers, an act issues from them that is contrary to faith in God.
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:60)
+****
 
 What is that? "They wish to refer judgment to the Tāghūt"(((Tāghūt))) — they wish to take their disputes for arbitration (_taḥākum_) to the Tāghūt; that is, for the resolution and settlement of their own affairs they refer to the Tāghūt, they seek the Tāghūt's view, they take command, and according to his view, his command, they conduct their lives. This is contrary to faith:@@CX(Tāghūt | to refer one's affairs to the Tāghūt for arbitration is contrary to faith)@@
 
-[role="verse quran",surah="al-Nisāʾ",s=4,a="60"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا
+
 "They wish to refer judgment to the Tāghūt" — they strive, they wish, to refer judgment before the Tāghūt — whereas — "while they were commanded to reject it" — whereas these have been commanded to disbelieve in and reject the Tāghūt. "And Satan wishes to lead them far astray" — and Satan wishes to lead them astray, a misguidance and bewilderment exceedingly far.
-____
+
+[.verse-cite]
+— Sūrat al-Nisāʾ (4:60)
+****
 
 I consider it probable that this Satan(((Satan))) is the very Tāghūt itself, nothing else. These people wish to go after the Tāghūt, heedless that this Tāghūt-Satan — this Satan that is known under the title of Tāghūt in the Qur'an — leads them far from the straight path, until it takes their heads out into the valleys of the wilderness (_tīh_)footnote:s26-26[(t-y-h) _tīh_: the wilderness in which the Children of Israel were left wandering.] of bewilderment, out of misguidances.@@CX(Tāghūt | the Satan that leads astray is the very Tāghūt that men wrongly follow)@@ The Tāghūt, the Satan, throws them so far from the road that their return is no matter of a bit or two; it is with much difficulty that they may, then, return to the straight path of guidance. This is a verse of the Qur'an.
 
 Of course, the next matter that we have written here, I present exactly as I have written it: "The Wilayat of God and its acceptance on the part of the believers arises from a philosophy that has been ordained in the worldview of Islam, and therefore it is a natural matter." That is, this that we say — that one must obey God, and the _waliyy al-amr_ is God — this has a clear natural philosophy. Because everything belongs to God. Which the verse:
 
-[role="verse quran",surah="al-Anʿām",s=6,a="13"]
-[quote]
-____
-*Qur'an, al-Anʿām (6:13):* "And to Him belongs whatever rests in the night and the day"footnote:s26-27[Sūrat al-Anʿām, verse 13.]
-____
+[.quranverse]
+****
+[.arabic]
+۞وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ
+
+"And to Him belongs whatever rests in the night and the day"footnote:s26-27[Sūrat al-Anʿām, verse 13.]
+
+[.verse-cite]
+— Sūrat al-Anʿām (6:13)
+****
 
 — this matter it clarifies properly.
 

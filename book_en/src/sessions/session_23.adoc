@@ -4,11 +4,16 @@
 [.session-subtitle]
 _ولایت — delivered Friday, 19 Mehr 1353 / 24 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:1):* "O you who have believed, do not take My enemy and your enemy as allies, extending to them affection while they have disbelieved in what has come to you of the truth, having driven out the Messenger and yourselves because you believe in God, your Lord. If you have gone out for striving in My cause and seeking My pleasure [do not take them as allies], confiding to them affection — while I am most knowing of what you have concealed and what you have declared. And whoever of you does it has certainly strayed from the soundness of the way."footnote:s23-1[Qur'an, Sūrat al-Mumtaḥanah (60:1).]
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ عَدُوِّي وَعَدُوَّكُمۡ أَوۡلِيَآءَ تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم مِّنَ ٱلۡحَقِّ يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدٗا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ تُسِرُّونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ وَمَن يَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+
+"O you who have believed, do not take My enemy and your enemy as allies, extending to them affection while they have disbelieved in what has come to you of the truth, having driven out the Messenger and yourselves because you believe in God, your Lord. If you have gone out for striving in My cause and seeking My pleasure [do not take them as allies], confiding to them affection — while I am most knowing of what you have concealed and what you have declared. And whoever of you does it has certainly strayed from the soundness of the way."footnote:s23-1[Qur'an, Sūrat al-Mumtaḥanah (60:1).]
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 The matter we are raising here today is a matter called Wilayat (ولایت).(((Wilayah)))
 
@@ -72,77 +77,122 @@ What I have said today is summarized in these words: the Wilayat of the Muslim U
 
 I think the Sūrat al-Mumtaḥanah(((Sūrat al-Mumtaḥanah))) could, in this sense, be named the Sūra of "Wilayat." The verses of the Sūrat al-Mumtaḥanah make this meaning well clear.@@CX(Wilayah | Sūrat al-Mumtaḥanah is the Sūra of Wilayat)@@ Now pay attention so that I may interpret for you these very verses that I recited.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:1):* "In the name of God, the Most Merciful — O you who have believed" — O you who have brought faith — "do not take My enemy and your enemy as allies."
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ عَدُوِّي وَعَدُوَّكُمۡ أَوۡلِيَآءَ تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم مِّنَ ٱلۡحَقِّ يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدٗا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ تُسِرُّونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ وَمَن يَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+
+"In the name of God, the Most Merciful — O you who have believed" — O you who have brought faith — "do not take My enemy and your enemy as allies."
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 Do not take My enemy and your own enemy as allies (awliyāʾ), as guardians. Here, of course, in the [usual Persian] translation it is not rendered badly: "You should not take the unbelievers, who are the enemy of Me and of you, as your supporters." It is not bad; this expression accords with that meaning which is in our minds. Some translate it as: "Do not take My enemy and your enemy as your friend." This is not a complete meaning. It is not merely a matter of friendship and affection; it is higher than these. "Do not take them as your walī" means: do not consider them your shared-front; do not place yourselves in their ranks; do not, in your heart, suppose yourselves and them to be in a single rank; the one who is the enemy of God and your enemy — do not count him as beside you; rather, see him as facing you, as an enemy and opponent against you.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ
+
 "extending to them affection."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 Do not consider them your shared-front and shared-rank, such that you would send them a message of friendship.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم مِّنَ ٱلۡحَقِّ
+
 "while they have disbelieved in what has come to you of the truth."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 While you know that these have disbelieved in what of truth and reality the Lord has sent down to you.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ
+
 "having driven out the Messenger and yourselves."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 They drive the Messenger and you out of your city and homeland.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ
+
 "because you believe in God, your Lord."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 Because you bring faith in your Lord, in God, who is your Lord. Do not take My enemy and your own enemy as your shared-front, helper, and supporter.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدٗا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ
+
 "If you have gone out for striving in My cause and seeking My pleasure."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 If you have gone forth in the path of jihad and striving and effort for Me, and to attain My pleasure — if you truly speak the truth, if you truly strive and struggle in My path, you have no right to make the one who is My enemy and your enemy your shared-front, helper, and bonded ally.
 
 Of course, this Sūra is a very fascinating and important Sūra. On another page of these very verses that we are reciting, God makes clear which unbelievers He means. He does not say: do not lay down a plan of friendship with all unbelievers; He does not say: cut off, absolutely, your relations with the unbelievers — no; afterward He says with which group of the unbelievers. He divides the groups of unbelievers — and if we get to it, it is possible I will also interpret that verse for you tomorrow.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+تُسِرُّونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ
+
 "confiding to them affection."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 In secret and concealment, you deliver your love and affection to them.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ
+
 "while I am most knowing of what you have concealed and what you have declared."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 I am more knowing of what you conceal, what you have hidden, and what you have made manifest.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="1"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ عَدُوِّي وَعَدُوَّكُمۡ أَوۡلِيَآءَ تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم مِّنَ ٱلۡحَقِّ يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدٗا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ تُسِرُّونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ وَمَن يَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+
 "And whoever of you does it" — whoever of you does this thing, lays down a plan of friendship and support with the enemies of God, and considers himself and shows himself to be their shared-front — whoever does this thing — "has certainly strayed from the soundness of the way."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:1)
+****
 
 He has lost the middle path. He has strayed from the middle path.
 
@@ -152,27 +202,42 @@ He took up a letter and wrote to the chiefs of Quraysh, and signed his name at t
 
 The dear and noble Prophet, by the revelation of God, became aware of the affair. He sent the Commander of the Faithful, and one or two others; along the way they found that woman, threatened her, and took the letter from her. Afterward, when [Hatib] came, the Prophet said: "Well, why did you do this thing, man? Why do you reveal military and war secrets to the enemy?" He said: "O Messenger of God, I have friends there, I have relatives; I fear they may come to trouble. I wanted to write this letter so that perhaps their hearts might soften a little toward me." The verse, in reply, says: Do not be mistaken; their hearts will not soften toward you. Those who are against you intellectually, those to whom your religion, your faith, is a detriment, and who have set their resolve upon the destruction of your religion and faith — these will never be kind and friendly toward you.@@CX(Tāghūt | ideological enemies of the faith can never be appeased)@@ This next verse states this matter, saying:
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="2"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:2):* "If they gain dominance over you" — if they get the upper hand over you — "they will be enemies to you."
-____
+[.quranverse]
+****
+[.arabic]
+إِن يَثۡقَفُوكُمۡ يَكُونُواْ لَكُمۡ أَعۡدَآءٗ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّواْ لَوۡ تَكۡفُرُونَ
+
+"If they gain dominance over you" — if they get the upper hand over you — "they will be enemies to you."
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:2)
+****
 
 They will be your enemies. O foolish Hatib ibn Abi Balta'a! Do not imagine that if you now render them some help here, tomorrow they will keep [it] in return for your help — no, by God. If you help them, they will gain greater mastery over you. If you help them, they will open further the hand of oppression and tyranny upon you.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="2"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+يَكُونُواْ لَكُمۡ أَعۡدَآءٗ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ
+
 "they will be enemies to you, and will extend against you their hands and their tongues with evil."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:2)
+****
 
 They open their hands and their tongues against you with evil. They open their hands; they place you under greater pressure. They open their tongues against you with evil; they degrade you, they strip you of dignity and honor, they do not recognize you as a worthy human being. Now you are helping them — do not imagine that these helps will be of any use to you.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="2"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَوَدُّواْ لَوۡ تَكۡفُرُونَ
+
 "and they wish that you would disbelieve."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:2)
+****
 
 Tomorrow, if they gain mastery over you, they will not even let you keep this little bit of heartfelt belief; they would love for you to turn unbeliever. Do not imagine that they would leave you free and at ease to remain Muslim and act upon your Islamic duties.
 
@@ -180,109 +245,174 @@ Then a verse — a decisive sentence — concerning the kinfolk and relatives of
 
 Hatib ibn Abi Balta'a goes and conspires with the unbelievers, with the enemies of the Prophet, for the sake that his relatives, his kin, his offspring there should not come to harm! Just how useful are these kin and offspring to a person, that a person should, for their sake, draw upon himself the chastisement of the Lord and the divine wrath?footnote:s23-19[(s-kh-ṭ) a severe wrath that brings punishment and chastisement in its train.]
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="3"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:3):* "Never will your relatives or your children benefit you" — your kin and relatives and your children will not profit you — "on the Day of Resurrection He will judge between you."
-____
+[.quranverse]
+****
+[.arabic]
+لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
+"Never will your relatives or your children benefit you" — your kin and relatives and your children will not profit you — "on the Day of Resurrection He will judge between you."
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:3)
+****
 
 On the Day of Resurrection He casts separation between you and them. Or let us read and interpret it this way: "Never will your relatives or your children benefit you" — on the Day of Resurrection your kin and offspring will not profit you — "He will judge between you" — God separates between you,
 
-[role="verse quran",surah="ʿAbasa",s=80,a="34-37"]
-[quote]
-____
-*Qur'an, Sūrat ʿAbasa (80:34-37):* "On the Day a man will flee from his brother, and his mother and his father, and his wife and his children."footnote:s23-20[Qur'an, Sūrat ʿAbasa (80:34-37).]
-____
+[.quranverse]
+****
+[.arabic]
+يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ وَأُمِّهِۦ وَأَبِيهِ وَصَٰحِبَتِهِۦ وَبَنِيهِ
+
+"On the Day a man will flee from his brother, and his mother and his father, and his wife and his children."footnote:s23-20[Qur'an, Sūrat ʿAbasa (80:34-37).]
+
+[.verse-cite]
+— Sūrat ʿAbasa (80:34-37)
+****
 
 On that Day of Resurrection. The day a person flees from his own brother, flees from his own father and mother, from his kind wife and his children and the light of his own dear eyes. This very child, whose grief you so consume yourself with today — know that on the Day of Resurrection you will flee from him and he from you, and both of you from all the other creatures; everyone flees from one another, they have no time, no opportunity to reach one another, to inquire after one another's state.
 
-[role="verse quran",surah="ʿAbasa",s=80,a="37"]
-[quote]
-____
-*Qur'an, Sūrat ʿAbasa (80:37):* "For every man, that Day, will be a matter occupying him."
-____
+[.quranverse]
+****
+[.arabic]
+لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ
+
+"For every man, that Day, will be a matter occupying him."
+
+[.verse-cite]
+— Sūrat ʿAbasa (80:37)
+****
 
 Everyone, on that Day, has some affair, some preoccupation, some trouble — a trouble that is enough to occupy him entirely. On the Day of Resurrection a person is so caught up in himself that he does not get to the trouble of others, even his own child. A thorn pricks the hand of your child — are you prepared to sacrifice your this-world and your hereafter for him? Poor wretch! On the Day of Resurrection you will flee from him. If we understand the logic of the Qur'an in this regard — if those who, for the sake of the comfort and ease of their children, are prepared to turn their backs on the felicity of this world and the hereafter and are prepared to turn toward misfortunes and wretchedness and dark days — if they understood this logic of the Qur'an, perhaps they would be shaken. This child of a person, this daughter of a person, this son of a person, this dear one who draws you toward Hell — and you who are not prepared to let the slightest harm come to yourself yet for his sake endure the greatest harms — how much is he with you? How much is he for you? How much benefit does he give you? Where, on the Day of Resurrection, is he ready to place upon his own shoulders any of your heavy burdens — where?
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="3"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
 "Never will your relatives or your children benefit you. On the Day of Resurrection He will judge between you. And God, of what you do, is Seeing."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:3)
+****
 
 God is knowing of what you do.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:4):* "There has already been for you an excellent pattern in Abraham and those with him."
-____
+[.quranverse]
+****
+[.arabic]
+قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةٞ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ
+
+"There has already been for you an excellent pattern in Abraham and those with him."
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 These verses are the climactic part of these verses that I recited. He says to the believers: Believers, in the conduct of Abraham(((Abraham))) and the followers of Abraham there is a goodly example for you. See what Abraham and his followers, his companions, did; you do that very thing too. What did they do? They turned, plainly and frankly, to the misguided people of their own time, to the servants and worshippers of the Taghut(((Tāghūt))) and the false deities of the age, and said: We are quit of you and your lords; we have disbelieved in you; we have turned away from you; between us and you, for all of time, are hatred and enmity, hostility and wrath and rancor. There is only one way to reconciliation, and that is — "until you believe in God alone" — come, enter the logic of our thought, become believers. He says frankly: Believers, you too act as Abraham did.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةٞ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذۡ قَالُواْ لِقَوۡمِهِمۡ إِنَّا بُرَءَـٰٓؤُاْ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَآءُ أَبَدًا حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ إِلَّا قَوۡلَ إِبۡرَٰهِيمَ لِأَبِيهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَآ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَيۡءٖۖ رَّبَّنَا عَلَيۡكَ تَوَكَّلۡنَا وَإِلَيۡكَ أَنَبۡنَا وَإِلَيۡكَ ٱلۡمَصِيرُ
+
 "There has already been for you an excellent pattern" — there is for you a goodly example — "in Abraham and those who were with him."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 And those who were with him, his companions.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِذۡ قَالُواْ لِقَوۡمِهِمۡ
+
 "when they said to their people."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 That time when they said to their own people.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةٞ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذۡ قَالُواْ لِقَوۡمِهِمۡ إِنَّا بُرَءَـٰٓؤُاْ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَآءُ أَبَدًا حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ إِلَّا قَوۡلَ إِبۡرَٰهِيمَ لِأَبِيهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَآ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَيۡءٖۖ رَّبَّنَا عَلَيۡكَ تَوَكَّلۡنَا وَإِلَيۡكَ أَنَبۡنَا وَإِلَيۡكَ ٱلۡمَصِيرُ
+
 "Indeed, we are disassociated from you" — we are those quit of and free from you — "and from whatever you worship other than God."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 And we are also quit of all that you worship and serve besides God.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةٞ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذۡ قَالُواْ لِقَوۡمِهِمۡ إِنَّا بُرَءَـٰٓؤُاْ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَآءُ أَبَدًا حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ إِلَّا قَوۡلَ إِبۡرَٰهِيمَ لِأَبِيهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَآ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَيۡءٖۖ رَّبَّنَا عَلَيۡكَ تَوَكَّلۡنَا وَإِلَيۡكَ أَنَبۡنَا وَإِلَيۡكَ ٱلۡمَصِيرُ
+
 "We have disbelieved in you" — we disbelieve in you — "and there has appeared between us and you enmity and hatred forever."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 Between us and you, enmity and hatred and rancor have become manifest and apparent forever.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ
+
 "until you believe in God alone."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 Until you bring faith in the One God.
 
 The Qur'an says: "There has already been for you" believers "in Abraham and those with him an excellent pattern" — for you believers, in Abraham and his companions there is a goodly example —
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="6"]
-[quote]
-____
-*Qur'an, Sūrat al-Mumtaḥanah (60:6):* "for anyone who hopes in God and the Last Day."
-____
+[.quranverse]
+****
+[.arabic]
+لِّمَن كَانَ يَرۡجُواْ ٱللَّهَ وَٱلۡيَوۡمَ ٱلۡأٓخِرَۚ
+
+"for anyone who hopes in God and the Last Day."
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:6)
+****
 
 For those who have hope in God and the Day of Resurrection.
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="6"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ
+
 "And whoever turns away — then indeed, God is the Free of need, the Praiseworthy."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:6)
+****
 
 Whoever turns his back and turns away from this command and shuns it — God the Exalted is Free of need, praised and well-pleasing, and upon the skirt of His majesty no dust may settle.footnote:s23-21["Though all created beings should turn unbeliever, / upon the skirt of Your majesty no dust would settle." (Baba Afdal Kashani.)] If you make peace with His enemies, the skirt of your humanity and honor will be stained, and God suffers no loss. Keep this saying of Abraham in mind: Abraham and his companions said to the unbelievers and deviants of their own time:
 
-[role="verse quran",surah="al-Mumtaḥanah",s=60,a="4"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّا بُرَءَـٰٓؤُاْ مِنكُمۡ
+
 "Indeed, we are disassociated from you."
-____
+
+[.verse-cite]
+— Sūrat al-Mumtaḥanah (60:4)
+****
 
 We are quit of you.
 

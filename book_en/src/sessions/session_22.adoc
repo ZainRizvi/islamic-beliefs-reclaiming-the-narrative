@@ -4,11 +4,16 @@
 [.session-subtitle]
 _تعهد ایمان به نبوت — Thursday, 18 Mehr 1353 / 23 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Anfāl",s=8,a="72"]
-[quote]
-____
-*Qur'an, Sūrat al-Anfāl (8:72):* "Indeed, those who believed and emigrated and struggled with their wealth and their lives in the way of God, and those who gave shelter and aid — those are allies of one another. But those who believed yet did not emigrate — you owe them no guardianship at all until they emigrate. And if they seek your help in religion, then upon you is to help, except against a people between whom and you there is a treaty. And God is Seeing of what you do."footnote:s22-1[Sūrat al-Anfāl (the Blessed Sūra of Spoils) / verses 72 to 74.]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
+"Indeed, those who believed and emigrated and struggled with their wealth and their lives in the way of God, and those who gave shelter and aid — those are allies of one another. But those who believed yet did not emigrate — you owe them no guardianship at all until they emigrate. And if they seek your help in religion, then upon you is to help, except against a people between whom and you there is a treaty. And God is Seeing of what you do."footnote:s22-1[Sūrat al-Anfāl (the Blessed Sūra of Spoils) / verses 72 to 74.]
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:72)
+****
 
 This is an issue that must absolutely be raised within the discussions of Prophethood(((Prophethood, nubuwwah))), and if we fail to understand it and do not grasp it, then much of what has been discussed on the subject of Prophethood will have almost no practical effect for us. This last discussion is a guarantee for the previous discussions to be put into practice and to enter into our lives.@@CX(Prophethood | faith in it must enter practical life)@@
 
@@ -34,11 +39,16 @@ What is this commitment? This commitment is that I should see what the Prophet w
 
 He must be bound to this commitment; otherwise, if he were not bound to this commitment, it is a lie for him to say, "I bear witness that he is the Prophet of God." This is a superficial testimony.@@CX(Faith | the hypocrite professes with the tongue but not the heart)@@ "I bear witness that he is a prophet, but I cannot bear witness that I believe in his prophethood" — like the hypocrites(((hypocrites, munāfiqūn))):
 
-[role="verse quran",surah="al-Munāfiqūn",s=63,a="1"]
-[quote]
-____
-*Qur'an, Sūrat al-Munāfiqūn (63:1):* "When the hypocrites come to you, they say, 'We bear witness that you are indeed the Messenger of God.' And God knows that you are indeed His Messenger, and God bears witness that the hypocrites are surely liars."footnote:s22-3[Sūrat al-Munāfiqūn (the Blessed Sūra of the Hypocrites) / verse 1.]
-____
+[.quranverse]
+****
+[.arabic]
+إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ
+
+"When the hypocrites come to you, they say, 'We bear witness that you are indeed the Messenger of God.' And God knows that you are indeed His Messenger, and God bears witness that the hypocrites are surely liars."footnote:s22-3[Sūrat al-Munāfiqūn (the Blessed Sūra of the Hypocrites) / verse 1.]
+
+[.verse-cite]
+— Sūrat al-Munāfiqūn (63:1)
+****
 
 They would come and say, "O Messenger of God, we bear witness that you are the Prophet of God." God says: yes, We Ourselves know that you are Our prophet; this matter is clear to Us, in Our view certain — the statement is, in itself, true. But We bear witness that they, in this testimony of theirs, were liars; in their hearts they do not accept this matter, while with their tongues they are saying it.
 
@@ -66,11 +76,16 @@ ____
 
 Let him go; he is no longer with us. That one whom Ḥusayn ibn ʿAlī(((Husayn ibn Ali))), on the road, summons — "Come, help us" — and who says, "O son of the Messenger of God, shall I offer this horse of mine to your service, or this sword of mine?" — it is clear that he is no longer with Ḥusayn; he is against Ḥusayn, not with Ḥusayn.@@CX(Wilayah | half-hearted offers of help are in truth opposition)@@ And so you see that our traditionists write and say: that unfortunate one — truly unfortunate. And they speak the truth too. And woe to those wretched people who, like him, are unfortunate throughout time; O unfortunate one! The prophets come and make the road clear; they say, "This is it. If you are a man, if you are a seeker of truth, if you are for God's sake, if you bear witness to our prophethood — then come, by God, our road is this. But if you have sat down there, and you saw our road, you saw the wayfarers of our road, and because it was difficult you did not come, because it was difficult you did not help, because it was difficult you even turned your face the other way — that is, 'I did not see' — but at that very moment you took up a rosary in your hand and said, 'I bear witness that you are prophets, I bear witness that you are prophets, I bear witness that you are prophets,' and you also told off one round of the rosary — this is of no use. Say nothing, and come; do not bring this remembrance to your tongue, do not act:
 
-[role="verse quran",surah="al-Ṣaff",s=61,a="2-3"]
-[quote]
-____
-*Qur'an, Sūrat al-Ṣaff (61:2–3):* "O you who have believed, why do you say that which you do not do? Great is the hatred in the sight of God that you say what you do not do."footnote:s22-7[Sūrat al-Ṣaff (the Blessed Sūra of the Ranks) / verses 2 and 3.]
-____
+[.quranverse]
+****
+[.arabic]
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُواْ مَا لَا تَفۡعَلُونَ
+
+"O you who have believed, why do you say that which you do not do? Great is the hatred in the sight of God that you say what you do not do."footnote:s22-7[Sūrat al-Ṣaff (the Blessed Sūra of the Ranks) / verses 2 and 3.]
+
+[.verse-cite]
+— Sūrat al-Ṣaff (61:2-3)
+****
 
 Why do you not act upon that which you say with your tongue, "I believe in it"? Woe unto me — I am describing my own condition. It is a great sin for a person to say something with the tongue, to declare a belief, but not act upon it.@@CX(Faith | professing a belief without acting on it is a great sin)@@ Why should I say I am a follower of the Prophet of God, while I am a follower of Abū Jahl(((Abū Jahl)))? Why should I say I am after Islam, while I am after polytheism(((shirk)))? Why should I say I am an ʿAlawī (a follower of Ali), while I am of Muʿāwiya(((Muʿāwiya))) and of Abū Jahl?
 
@@ -82,77 +97,122 @@ Now, if ʿAbdullāh ibn ʿAbbās were here today, what do you suppose he would s
 
 In any case, the commitment of accepting and embracing prophethood is this: walking behind the Prophet, accepting his assignment, acting in the very manner that he wants.@@CX(Prophethood | commitment is to walk behind the Prophet and act as he wills)@@ My time has now grown short for me to explain all the verses; let me explain just this brief portion of the verses for you, so that you may see what the commitment of Islam is.
 
-[role="verse quran",surah="al-Anfāl",s=8,a="72"]
-[quote]
-____
-*Qur'an, Sūrat al-Anfāl (8:72):* _"Inna alladhīna āmanū wa hājarū…"_ — "Indeed, those who believed and emigrated"footnote:s22-14[Sūrat al-Anfāl (the Blessed Sūra of Spoils) / verses 72 to 74.]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
+_"Inna alladhīna āmanū wa hājarū…"_ — "Indeed, those who believed and emigrated"footnote:s22-14[Sūrat al-Anfāl (the Blessed Sūra of Spoils) / verses 72 to 74.]
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:72)
+****
 
 Those who believed and emigrated and struggled with their wealth and their lives. This is in regard to the time of the Prophet — not that I mean to say it is not for other times; no, this is a general ruling. It is being stated in regard to the time of the Prophet, when the matter of emigration (_hijra_)(((hijrah))) was also at issue there — emigration to the Islamic society. In those days a number of people would become Muslim, would accept the thought of the Prophet, but were not prepared to come out of Mecca. They would say, "Well, why should I go out? In Mecca I have a shop with two or three doorways,footnote:s22-15["Two or three openings" (i.e., a wide shopfront).] I have an excellent round telephone number, I have known and recognized customers, I have kinsmen and relatives and friends and drinking companions — should I leave all these and go off to the side of the Prophet? Well, why? Is faith required? I have faith — I will say it a hundred times, in my heart, on my tongue, softly of course so that no one hears: God is One, and the Prophet too is in the right. The Prophet wants prayer from me — I pray; he wants fasting — instead of thirty days I will fast sixty days; why should I go to Medina?" Some thought this way. Emigration was required there. The Islamic society was newly founded; they had to go, they had to strengthen it, and they had to make that society invulnerable against its enemies; therefore emigration was a decisive condition of the acceptance of faith.@@CX(hijrah | emigration was a decisive condition of faith)@@
 
-[role="verse quran",surah="al-Anfāl",s=8,a="72"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
 _"Inna alladhīna āmanū"_ — those who believed and adhered; _"wa hājarū"_ — and emigrated to Medina; _"wa jāhadū bi-amwālihim wa anfusihim"_ — and with their wealth and their lives, both, exerted struggle in the way of God; and likewise, from the other side; _"wa alladhīna āwaw"_ — those who gave shelter to these people, who were without protector and without home, in Medina; _"wa naṣarū"_ — and aided them; _"ulāʾika baʿḍuhum awliyāʾu baʿḍ"_ — these are allies of one another.
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:72)
+****
 
 These are some who are joined to and on the same front as the others. These are those same believers who are like bricks interlocked into one another. Look at a building, look at this edifice: the bricks have gone into one another, the timbers have gone into one another, the parts of a building are interlaced and knotted together with the other parts; the believers in the Islamic society are just like this — all joined and welded and knotted to one another. _Awliyāʾ_ means this, _wilāyat_(((Wilayah))) means this: complete joining, complete cleaving and adhesionfootnote:s22-16[(l-ṣ-q) to stick to and adhere to something.] — this is _wilāyat_.@@CX(Wilayah | believers interlocked like bricks of one building)@@
 
-[role="verse quran",surah="al-Anfāl",s=8,a="72"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
+
 _"Wa alladhīna āmanū…"_ — _"ulāʾika baʿḍuhum awliyāʾu baʿḍ"_ — they are some the allies of the others.
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:72)
+****
 
 But now — listen here — those who believed, who in their hearts believed that you are a prophet, but _"wa lam yuhājirū"_ — but did not emigrate, did not take the commitment of faith upon their shoulder — _"mā lakum min walāyatihim min shayʾin ḥattā yuhājirū"_ — you have no joining or connection with these people at all, until they emigrate. As long as they have not emigrated and they remain there, they are strangers to you. There is no Islamic bond or brotherhood-tie between you.
 
 Except that there is another ruling alongside it: those very ones who are there — if they happen to fall into war with another group and seek your help, you, of course, must go and aid them, because they are of one mind with you and because they are in a state of war. If a Muslim were engaged in war with a group of unbelievers, it is obligatory upon you — even though that Muslim is not beside you, is not in your homeland, has not emigrated to you — it is obligatory upon you to go and help him. Yes? Except in one case, and that is this: that the one with whom that Muslim is fighting has concluded a peace treaty with you; in that case, helping that Muslim is no longer obligatory. What does this verse make us understand here? First, it makes us understand that helping a Muslim, wherever in the world they may be, is obligatory, even if they have not emigrated.@@CX(Wilayah | aiding a Muslim is obligatory wherever he may be)@@ Second, it says that the Muslim who has not emigrated, who has not migrated to the Islamic society — although of course today, in the world, we do not have an Islamic society in this sense — who has not come to the Islamic society, who has remained in the abode of unbelief (_dār al-kufr_)(((dār al-kufr))), this man, if he fell into war with one or a group of unbelievers, and you have a peace treaty and non-aggression pact with that unbeliever, you have no right to go to the aid of your Muslim brother. Why? Because he has not emigrated, because he is not your brother, because he has not migrated toward you.
 
-[role="verse quran",surah="al-Anfāl",s=8,a="72"]
-[quote]
-____
-_"Wa in istanṣarūkum fī al-dīn fa-ʿalaykumu al-naṣr illā ʿalā qawmin"_ — except against a people; against the harm of a people — _"baynakum wa baynahum mīthāq"_ — between whom and you there is a commitment and a treaty. _"Wa Allāhu bimā taʿmalūna baṣīr"_ — and God is Seeing of what you do.
-____
+[.quranverse]
+****
+[.arabic]
+إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ
 
-[role="verse quran",surah="al-Anfāl",s=8,a="73"]
-[quote]
-____
+_"Wa in istanṣarūkum fī al-dīn fa-ʿalaykumu al-naṣr illā ʿalā qawmin"_ — except against a people; against the harm of a people — _"baynakum wa baynahum mīthāq"_ — between whom and you there is a commitment and a treaty. _"Wa Allāhu bimā taʿmalūna baṣīr"_ — and God is Seeing of what you do.
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:72)
+****
+
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ
+
 _"Wa alladhīna kafarū baʿḍuhum awliyāʾu baʿḍ"_ — those who are unbelievers, some are on the same front as and joined to the others.
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:73)
+****
 
 Do not look at the fact that they are in two camps; in enmity toward you, they are of one camp and one front.
 
-[role="verse quran",surah="al-Anfāl",s=8,a="73"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ
+
 _"Illā tafʿalūhu takun fitnatun fī al-arḍi wa fasādun kabīr"_ — if you do not do this, there will be a discord (_fitna_) in the earth and a great corruption.
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:73)
+****
 
 Perhaps the meaning is that if you do not observe this front-formation and this lining-up — if you do not know, and have not known, that your rank, facing the rank of the enemies of God, is a distinct and separatefootnote:s22-17[(ḥ-w-z) in terminology, meaning "independent / separate" (_munḥāz_).] rank, and if you do not know that whoever is between the two ranks is of the rank of the enemies and opponents, not of this rank — if you do not know these things and do not act in accordance with their requirements, there will be discord in the earth, there will be corruption.@@CX(Wilayah | neglecting the front-formation breeds fitna and corruption)@@ The _fitna_(((fitna))) is the discord of distance from religion; the _fasād_(((fasād))), probably, is the corruption of the non-existence of God's ruling in the midst of society.
 
-[role="verse quran",surah="al-Anfāl",s=8,a="74"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
+
 _"Wa alladhīna āmanū"_ — those who have believed; _"wa hājarū"_ — and migrated
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:74)
+****
 
 — pay attention to this verse too, for the verse is an interesting witness to these matters we have set forth —
 
-[role="verse quran",surah="al-Anfāl",s=8,a="74"]
-[quote]
-____
+[.quranverse]
+****
+[.arabic]
+وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَـٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ
+
 _"Wa alladhīna āmanū"_ — those who have believed; _"wa hājarū"_ — they emigrated; _"wa jāhadū fī sabīl Allāh"_ — they struggled in the way of God; _"wa alladhīna āwaw wa naṣarū"_ — those who gave shelter and aid; _"ulāʾika humu al-muʾminūna ḥaqqā"_ — these are the true believers.
-____
+
+[.verse-cite]
+— Sūrat al-Anfāl (8:74)
+****
 
 Did you understand correctly? The true believer is this. But the one who has believed and from whom emigration, struggle, sheltering, and aiding have not issued — what is he? _Hum al-muʾminūna ghayra ḥaqq_: false believers, lying believers.@@CX(Faith | true believers are defined by emigration, struggle, and mutual aid)@@ This is the import of the verse — to the end of the verses.
 
 Let me also set forth one word from those verses of Sūrat Āl ʿImrān, because it is necessary that I expound it briefly, since otherwise our meaning is not understood:
 
-[role="verse quran",surah="Āl ʿImrān",s=3,a="81"]
-[quote]
-____
-*Qur'an, Sūrat Āl ʿImrān (3:81):* _"Wa idh akhadha Allāhu mīthāqa al-nabiyyīn…"_footnote:s22-18[Sūrat Āl ʿImrān (the Blessed Sūra) / verse 81.]
-____
+[.quranverse]
+****
+[.arabic]
+وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّـۧنَ
+
+_"Wa idh akhadha Allāhu mīthāqa al-nabiyyīn…"_footnote:s22-18[Sūrat Āl ʿImrān (the Blessed Sūra) / verse 81.]
+
+[.verse-cite]
+— Sūrat Āl ʿImrān (3:81)
+****
 
 In this verse, whose translation I rendered there and will not translate again, this is the matter it wishes to express: that We took a commitment even from the past prophets; We said to them, to the past prophet — for example to Moses(((Moses))) — We said: that which We have given you, if after you a prophet came who confirmed and ratified what We have now given you, it is required of you to have faith in that prophet and to aid him.@@CX(Prophethood | God took a covenant from past prophets to believe in and aid later prophets)@@ That is to say, Moses regarding the prophets after himself, Jesus(((Jesus))) regarding the prophets after himself — every prophet who comes after another prophet and ratifies the word of the previous prophet — it is required of the previous prophet, who acknowledges him, to believe in that prophet who comes after him; and in addition to this, to aid him too. _"La-tuʾminunna bihi wa la-tanṣurunnah"_ — he must aid him.
 

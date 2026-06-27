@@ -4,11 +4,16 @@
 [.session-subtitle]
 _توحید در ایدئولوژی اسلام — delivered Friday, 5 Mehr 1353 / 10 Ramadan al-Mubarak 1394_
 
-[role="verse quran",surah="al-Baqarah",s=2,a="165"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:165):* "And among mankind are some who take, besides God, rivals [whom] they love as they should love God. But those who believe are stronger in love for God. If only those who do wrong could see — when they behold the punishment — that all power belongs to God, and that God is severe in punishment."footnote:s09-1[Sūrat al-Baqarah, verse 165. (This is the verse set at the head of the session; its full commentary comes at the end.)]
-____
+[.quranverse]
+****
+[.arabic]
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ
+
+"And among mankind are some who take, besides God, rivals [whom] they love as they should love God. But those who believe are stronger in love for God. If only those who do wrong could see — when they behold the punishment — that all power belongs to God, and that God is severe in punishment."footnote:s09-1[Sūrat al-Baqarah, verse 165. (This is the verse set at the head of the session; its full commentary comes at the end.)]
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:165)
+****
 
 The theist says that beyond what we see, there is a reality higher and more magnificent than what we observe, and that were it not for that reality, these phenomena would never have taken form. The materialist(((materialism))) says: no; we cannot believe in, or commit ourselves to, anything other than what we see. In our laboratories and experiments, however much we have searched, we have found no sign and no trace of this being you speak of. Let the dispute between the materialist and the theist remain for the books and discussions devoted specifically to that subject.
 
@@ -16,11 +21,16 @@ Our belief is that the materialists of our age — and we are not concerned here
 
 You will not find a single person who says, "I say there is no God for _this_ reason" — not one! Among all the materialists of the world, from the first day until now, there is not one who says, "I prove there is no God by this argument." Anyone who has something to say on this matter says, "It has not been proven to me that He exists; I did not understand, I did not accept the argument for His existence." And the Qur'an points to precisely this fact:
 
-[role="verse quran",surah="al-Jāthiyah",s=45,a="24"]
-[quote]
-____
-*Qur'an, Sūrat al-Jāthiyah (45:24):* "They are following nothing but conjecture."footnote:s09-4[Sūrat al-Jāthiyah, verse 24.] — These people merely chase after fancy and guesswork; otherwise they cannot negate God with any proof.
-____
+[.quranverse]
+****
+[.arabic]
+إِنۡ هُمۡ إِلَّا يَظُنُّونَ
+
+"They are following nothing but conjecture."footnote:s09-4[Sūrat al-Jāthiyah, verse 24.] — These people merely chase after fancy and guesswork; otherwise they cannot negate God with any proof.
+
+[.verse-cite]
+— Sūrat al-Jāthiyah (45:24)
+****
 
 So it is not on account of _not_ having a rationally satisfying philosophy, nor is there a rationally satisfying philosophy on the materialist side either. What there is, in the case of the materialist of our age — and this is a subtle point — the cause of his inclination toward what he calls the materialist school is that he imagines that today this materialist school can better administer the world. He says it can better eliminate oppression, better destroy discrimination and inequality, better uproot, dissolve, and annihilate tyranny and despotism. He says religion cannot do these things. Why does he say religion cannot do these things? Because of religion — of the common, prevalent notion of religion — he knows nothing except what he has observed in the hands of the people of the street and bazaar, in its traditional and imitative form. In short, he has no knowledge of religion, no information about it. If you ask him what religion is, he names a series of outward manifestations and says, "This is religion"; and because these are an opiate, because these are the brother and equal of oppression and the oppressor, because these cannot loosen a single knot in the people's tangled affairs,footnote:s09-5[An allusion to Ḥāfiẓ: "Will it be, perhaps, that in the taverns they will untie / the knot of our tangled affairs?"] therefore — abandon it.
 
@@ -30,11 +40,16 @@ A religion that God sends is not just anything; it has a sign, it has a distingu
 
 The Qur'an says:
 
-[role="verse quran",surah="al-Ḥadīd",s=57,a="25"]
-[quote]
-____
-*Qur'an, Sūrat al-Ḥadīd (57:25):* "We have certainly sent Our messengers with clear proofs, and We sent down with them the Book and the Balance, so that the people may uphold justice."footnote:s09-7[Sūrat al-Ḥadīd, verse 25.]
-____
+[.quranverse]
+****
+[.arabic]
+لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَيِّنَٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَٰبَ وَٱلۡمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ
+
+"We have certainly sent Our messengers with clear proofs, and We sent down with them the Book and the Balance, so that the people may uphold justice."footnote:s09-7[Sūrat al-Ḥadīd, verse 25.]
+
+[.verse-cite]
+— Sūrat al-Ḥadīd (57:25)
+****
 
 "We sent Our messengers with clear proofs" — We sent forth Our prophets with luminous proofs, "and We sent down with them" a body of thought and the practical instruments — instruments by which they could judge and adjudicate among the people in their disputes — toward the people. Why did We do these things? "_We_ sent" — not just one prophet, not just Moses, not just the Seal of the Prophets, not just Jesus; "We sent Our messengers" — all the prophets were sent with this purpose and with this idea and with this aim. What is that aim? "So that the people may uphold justice" — so that human beings may live on the basis of equity, justice, and fairness. _This_ is religion.@@CX(Prophethood | all prophets sent so people may uphold justice)@@ If you have seen a religion moving in the opposite direction to the philosophy of the religions, know that it is either not divine or it has been corrupted. If you have seen it moving contrary to the philosophy and the line of march of the divine prophets and the divine messengers, know with certainty that it is not the offspring of the Lord's revelation and of the prophets. This is quite clear.
 
@@ -46,11 +61,16 @@ If a scholar who grew up in the hollow milieu of Christianity(((Christianity))),
 
 that everywhere drag the people into lethargies and submissions to oppressionfootnote:s09-9[From the roots (r-kh-w) lethargy/slackness and (ẓ-l-m) to suffer oppression, to accept oppression.] and pessimisms and divisions and fratricides; the religion that says to the poor, "If you have no wealth, if you have no money, you need not strive in the way of money," and says to the rich, "In return for what you have, give a portion to the church or to some other religious institution, and it will be the atonement for all the oppressions you committed in the course of acquiring this money" — if you mean _this_ religion, in this we too are of one voice with you, and both of us are followers of the Qur'an:
 
-[role="verse quran",surah="al-Tawbah",s=9,a="34"]
-[quote]
-____
-*Qur'an, Sūrat al-Tawbah (9:34):* "O you who believe, indeed many of the rabbis and monks devour the wealth of people unjustly and avert [them] from the way of God."footnote:s09-10[Sūrat al-Tawbah, verse 34.] — O you who have believed, many of the Jewish and Christian scholars and ascetics devour the wealth of people without entitlement — "they devour" — and they do not even content themselves with that; "and they avert [them] from the way of God" — they also bar the people's path toward perfection and elevation. Would that they took their money and devoured it but left their path open! He devours their money _and_ he severs their path. This the Qur'an says. We too are of one voice with you: a religion that is like that is not religion. A religion that is like that — any irreligion is better than it; because the irreligions may at least sometimes not become accomplices to oppressions and injustices, whereas such a religion may possibly become a means, a staff, a weapon in their hands.
-____
+[.quranverse]
+****
+[.arabic]
+۞يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ كَثِيرٗا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَيَأۡكُلُونَ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۗ وَٱلَّذِينَ يَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا يُنفِقُونَهَا فِي سَبِيلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٖ
+
+"O you who believe, indeed many of the rabbis and monks devour the wealth of people unjustly and avert [them] from the way of God."footnote:s09-10[Sūrat al-Tawbah, verse 34.] — O you who have believed, many of the Jewish and Christian scholars and ascetics devour the wealth of people without entitlement — "they devour" — and they do not even content themselves with that; "and they avert [them] from the way of God" — they also bar the people's path toward perfection and elevation. Would that they took their money and devoured it but left their path open! He devours their money _and_ he severs their path. This the Qur'an says. We too are of one voice with you: a religion that is like that is not religion. A religion that is like that — any irreligion is better than it; because the irreligions may at least sometimes not become accomplices to oppressions and injustices, whereas such a religion may possibly become a means, a staff, a weapon in their hands.
+
+[.verse-cite]
+— Sūrat al-Tawbah (9:34)
+****
 
 Well, this was, in summary, a set of generalities concerning the belief in Tawhid, in the form of a vision, in the sense of an answer to a single question: is there a God or is there not? Is there anything beyond this material world? Is there a hand of power or not? In answering this question I said that the theist speaks this way, the materialist(((materialism))) speaks that way — and set aside the war of theist and materialistfootnote:s09-11["Set aside" — meaning to let it go; from this verse of Ḥāfiẓ: "Excuse the war of the seventy-two sects, all of them; / since they did not see the truth, they took the road of fable."] and leave it for the books; what little of it pertained to us, we have said in a word or two.
 
@@ -120,11 +140,16 @@ These are some glimmers and corners of Tawhid. Of course, about Tawhid one must 
 
 And now, the verses we have selected. (Of course, today — well, it is Friday and you have not much to do; after I have read these verses here, our dear reciter, apparently Mr. Rezaei or Mr. Fatemi — the gentlemen themselves know better, in any case — are responsible for today's recitation; they will come and read the verses, both these verses and yesterday's verses, that is, especially Āyat al-Kursī.) The repetition of Āyat al-Kursī(((Āyat al-Kursī))) as a slogan of Tawhid is very interesting. I conjecture that the reason it has been so strongly emphasized that Āyat al-Kursī be recited repeatedly in various instances is that this slogan of Tawhid should always be living and enduring in a person's mind, ever-alive and self-subsisting — this memory in a person's mind. These verses written here today are from Sūrat al-Baqarah. It is the description of a scene at the Resurrection, which, of course, has a complete and total connection to the matter of Tawhid; and in the course of the recitation of the verse it becomes entirely clear. Sūrat al-Baqarah, verses 165 and 166.
 
-[role="verse quran",surah="al-Baqarah",s=2,a="165"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:165):* "And among mankind are some who take, besides God, rivals…" — Among the people are some who choose, besides God, rivals and competitors; that is, they choose for God a partner of the human kind or of other than the human kind. "_Yuḥibbūnahum ka-ḥubb Allāh_" — they love them like the love and affection one ought to have for God.
-____
+[.quranverse]
+****
+[.arabic]
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ
+
+"And among mankind are some who take, besides God, rivals…" — Among the people are some who choose, besides God, rivals and competitors; that is, they choose for God a partner of the human kind or of other than the human kind. "_Yuḥibbūnahum ka-ḥubb Allāh_" — they love them like the love and affection one ought to have for God.
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:165)
+****
 
 Right here the verse opens a parenthesis; for it was not speaking about love, but since the love of these toward God was mentioned, it opens a parenthesis, as iffootnote:s09-23[I.e., "as though."] —
 
@@ -144,11 +169,16 @@ Suddenly it transfers the discourse to a scene of the Resurrection. It describes
 
 everyone has some power, everyone does something. Those who sit on high have more power, but those who sit below also have power, after all. Everyone prides himself on his own power; everyone has some measure and substance of capacity and force within him; something does come from him, after all — especially that tyrant, that oppressor, whose deed is greater, whose power too is greater. And even that oppressor who performed the worship of an oppressor — for he too is an oppressor, he too is a tyrant — he too, in his own imagination, enjoys some power; because he has connected himself with a higher power, like a fox that has tied its tail to a camel's tail.footnote:s09-24[An idiom for dependence on worthless grandees.] In the world it is like this. But at the Resurrection, when they gather, whatever they look at, whoever refers back to himself, he sees that there is no power, no capacity, no competence in him; power is entirely in the hand of God.@@CX(Tawhid | at the Resurrection all power is shown to belong to God alone)@@
 
-[role="verse quran",surah="Ghāfir",s=40,a="16"]
-[quote]
-____
-*Qur'an, Sūrat al-Mu'min/Ghāfir (40:16):* "_Li-man al-mulku al-yawm? Li-Llāh al-wāḥid al-qahhār_" — "Whose is the sovereignty this day? It belongs to God, the One, the Subduer."footnote:s09-25[Sūrat al-Mu'min (Ghāfir), verse 16.]
-____
+[.quranverse]
+****
+[.arabic]
+يَوۡمَ هُم بَٰرِزُونَۖ لَا يَخۡفَىٰ عَلَى ٱللَّهِ مِنۡهُمۡ شَيۡءٞۚ لِّمَنِ ٱلۡمُلۡكُ ٱلۡيَوۡمَۖ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ
+
+"_Li-man al-mulku al-yawm? Li-Llāh al-wāḥid al-qahhār_" — "Whose is the sovereignty this day? It belongs to God, the One, the Subduer."footnote:s09-25[Sūrat al-Mu'min (Ghāfir), verse 16.]
+
+[.verse-cite]
+— Sūrat Ghāfir (40:16)
+****
 
 He takes this scene into view: that tyrant, that oppressor, says — whatever oppressor who oppressed others, whatever oppressor
 
@@ -170,16 +200,26 @@ ____
 "_Anna al-quwwata li-Llāhi jamīʿan_" — that all force and power are entirely from God; "_wa anna Allāha shadīd al-ʿadhāb_" — and that God's chastisement is severe and terrible. If they could see, what would happen? The answer is decreed. In the parenthesis we mentioned its answer in Persian: they would, without doubt, regret their own conduct. They would regret that in the world they had clutched at such a thingfootnote:s09-27[I.e., what a foolish clutching/grasping they engaged in.] — they went and became the servants and slaves of tyrants who are now, at the Resurrection, so incapable, from whose hands so little comes. If they had looked with the eye of admonition, they would have seen that in the world too they were just as incapable.
 ____
 
-[role="verse quran",surah="al-Baqarah",s=2,a="166"]
-[quote]
-____
-*Qur'an, Sūrat al-Baqarah (2:166):* "_Idh tabarra'a alladhīna uttubiʿū min alladhīna ittabaʿū wa ra'awu al-ʿadhāb_" — At that time when the leaders and chiefs disavow the followers and adherents, "_wa ra'awu al-ʿadhāb_" — and they behold the punishment of God. Then Yazdgird, for example, says, "O Lord! O my Sustainer! These ones whom you saw worshiping me in my time — I disavow these ones, do not imagine that I have any attachment to them for setting me up as your partner; they did wrong to set me as your partner, I disavow them." Now see how much the subjects of Yazdgird's day burn within: "We gave him our world and our hereafter, this scoundrel, and now at the Resurrection he disavows us." Now what does this verse of the Qur'an say?
-____
+[.quranverse]
+****
+[.arabic]
+إِذۡ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُواْ مِنَ ٱلَّذِينَ ٱتَّبَعُواْ وَرَأَوُاْ ٱلۡعَذَابَ وَتَقَطَّعَتۡ بِهِمُ ٱلۡأَسۡبَابُ
 
-[role="verse quran",surah="al-Baqarah",s=2,a="166"]
-[quote]
-____
+"_Idh tabarra'a alladhīna uttubiʿū min alladhīna ittabaʿū wa ra'awu al-ʿadhāb_" — At that time when the leaders and chiefs disavow the followers and adherents, "_wa ra'awu al-ʿadhāb_" — and they behold the punishment of God. Then Yazdgird, for example, says, "O Lord! O my Sustainer! These ones whom you saw worshiping me in my time — I disavow these ones, do not imagine that I have any attachment to them for setting me up as your partner; they did wrong to set me as your partner, I disavow them." Now see how much the subjects of Yazdgird's day burn within: "We gave him our world and our hereafter, this scoundrel, and now at the Resurrection he disavows us." Now what does this verse of the Qur'an say?
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:166)
+****
+
+[.quranverse]
+****
+[.arabic]
+إِذۡ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُواْ مِنَ ٱلَّذِينَ ٱتَّبَعُواْ وَرَأَوُاْ ٱلۡعَذَابَ وَتَقَطَّعَتۡ بِهِمُ ٱلۡأَسۡبَابُ
+
 "_Idh tabarra'a alladhīna uttubiʿū min alladhīna ittabaʿū wa ra'awu al-ʿadhāb_" — At that time when the leaders and chiefs disavow the followers and adherents and behold the punishment of God; "_wa taqaṭṭaʿat bihim al-asbāb_" — and the ties and bonds between them are severed; "_wa qāla alladhīna ittabaʿū_" — and the followers and adherents say, "_law anna lanā karratan fa-natabarra'a minhum kamā tabarra'ū minnā_" — "Would that we had a return to the world, so that we might disavow them just as they disavowed us" — that is, today, the Day of Resurrection. "_Kadhālika yurīhimu Allāhu aʿmālahum ḥasarātin ʿalayhim_" — Thus does God show them their deeds as a cause of regret upon them; "_wa mā hum bi-khārijīna min al-nār_" — and they will never be those who come out of the Fire.
-____
+
+[.verse-cite]
+— Sūrat al-Baqarah (2:166)
+****
 
 Here the matter that was intended in this verse was this: that those who there are receiving blows — they are receiving blows, they receive the blows of servitude to other-than-God; they receive the blow of this, that they became the servants and slaves of other-than-God; that is, something other than Tawhid and against Tawhid — whereas the Qur'an's expression for them is "_ittabaʿū_," the adherents, the followers.
