@@ -108,9 +108,14 @@ build_site() {
     -D "$site" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
   "${ADEPUB[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
     -D "$site" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
+  # Split the single HTML into per-chapter pages (own URLs) for the infinite-scroll
+  # reader, and ship the reader script.
+  echo ">> Splitting into per-chapter pages (+ reader)"
+  "${RUBY[@]}" "$ROOT/tools/web/split_pages.rb" "$site"
+  cp "$ROOT/tools/web/reader.js" "$site/reader.js"
   # .nojekyll so GitHub Pages serves files as-is (no Jekyll processing).
   touch "$site/.nojekyll"
-  echo ">> Site ready in build/site/ (index.html + PDF + EPUB)"
+  echo ">> Site ready in build/site/ (index.html + p/*.html + PDF + EPUB)"
 }
 
 case "${1:-all}" in
