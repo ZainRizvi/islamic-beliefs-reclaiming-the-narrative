@@ -179,6 +179,59 @@
     });
   }
 
+  // ---- TOC drawer: hamburger toggle + slide-in panel + overlay --------------
+  function initDrawer() {
+    var toc = document.getElementById('toc');
+    if (!toc) return;
+    // toggle button
+    var btn = document.createElement('button');
+    btn.id = 'toc-toggle';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'Open table of contents');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.innerHTML = '&#9776;';                 // ☰
+    document.body.appendChild(btn);
+    // overlay
+    var overlay = document.createElement('div');
+    overlay.id = 'toc-overlay';
+    document.body.appendChild(overlay);
+    // close (×) inside the drawer
+    var close = document.createElement('button');
+    close.id = 'toc-close';
+    close.type = 'button';
+    close.setAttribute('aria-label', 'Close table of contents');
+    close.innerHTML = '&times;';
+    toc.insertBefore(close, toc.firstChild);
+
+    // a11y wiring: name the drawer and link the toggle to it. Closed-state focus
+    // is removed via CSS visibility:hidden (see docinfo) so off-screen links/buttons
+    // aren't tab-reachable or announced.
+    toc.setAttribute('role', 'navigation');
+    toc.setAttribute('aria-label', 'Table of contents');
+    btn.setAttribute('aria-controls', 'toc');
+
+    function isOpen() { return document.body.classList.contains('toc-open'); }
+    function open() {
+      document.body.classList.add('toc-open');
+      btn.setAttribute('aria-expanded', 'true');
+      close.focus();                       // move focus into the drawer
+    }
+    function shut() {
+      if (!isOpen()) return;               // guard: don't steal focus on stray Escape
+      document.body.classList.remove('toc-open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.focus();                         // restore focus to the toggle
+    }
+    function toggle() { isOpen() ? shut() : open(); }
+    btn.addEventListener('click', toggle);
+    close.addEventListener('click', shut);
+    overlay.addEventListener('click', shut);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') shut(); });
+    // close the drawer after picking a chapter (so you land on the content)
+    toc.addEventListener('click', function (e) { if (e.target.closest('a')) shut(); });
+  }
+  initDrawer();
+
   fetch(MANIFEST_URL)
     .then(function (r) { return r.json(); })
     .then(function (m) {

@@ -1,21 +1,111 @@
 <!-- Injected into the HTML <head> for the web edition (see :docinfo: in the site build). -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Islamic Beliefs: Reclaiming the Narrative — An Outline of Islamic Thought in the Qur'an. English translation.">
+<meta name="color-scheme" content="light dark">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
 /* Site styles (single source of truth for the web edition). */
-:root{--verse-bg:#f7f5f0;--verse-border:#c9b88a;--muted:#555}
-body.book{font-family:"Noto Serif",Georgia,"Times New Roman",serif;line-height:1.6}
-#content{max-width:46rem;margin:0 auto;padding:0 1rem}
+/* Colour tokens — overridden in the dark block below. */
+:root{
+  --bg:#ffffff; --fg:#1a1a1a; --muted:#555;
+  --verse-bg:#f7f5f0; --verse-border:#c9b88a; --accent:#7a5c1e;
+  --drawer-bg:#fbfaf7; --drawer-fg:#333; --drawer-edge:#e6e1d6; --drawer-hover:#efe9da;
+  --panel:#fff; --panel-edge:#ddd; --rule:#bbb;
+  --heading:#7a2518; --heading-sub:#ba3925;   /* Asciidoctor brand reds (light) */
+  --drawer-w:20rem;
+}
+html{background:var(--bg)}
+body.book{font-family:"Noto Serif",Georgia,"Times New Roman",serif;line-height:1.6;
+  background:var(--bg);color:var(--fg)}
+a{color:var(--accent)}
+/* Headings + block titles track a token so dark mode can lighten them. */
+h1,h2,h3,h4,h5,h6{color:var(--heading-sub)}
+.sidebarblock>.content>.title,.exampleblock>.title,.listingblock>.title,
+.imageblock>.title,.tableblock>.title,.admonitionblock>.title{color:var(--heading)}
+hr,#footnotes hr{border-color:var(--rule)}
+
+/* Reading column: full width, centered (the old left-TOC layout is replaced by a drawer). */
+body.book.toc2{margin-left:0!important}
+#content{max-width:46rem;margin:0 auto;padding:0 1rem 4rem}
+
+/* Verse blocks */
 .sidebarblock.quranverse{background:var(--verse-bg);border:0;border-left:3px solid var(--verse-border);border-radius:4px;padding:.9rem 1.2rem;margin:1.4rem 0}
 .sidebarblock.quranverse>.content>.paragraph{margin:.5rem 0}
 .arabic,.paragraph.arabic p{font-family:"Amiri","Scheherazade New","Noto Naskh Arabic",serif;direction:rtl;text-align:right;font-size:1.5rem;line-height:2.1}
 .sidebarblock.quranverse .paragraph:not(.arabic):not(.verse-cite) p{font-style:normal}
 .paragraph.verse-cite p{text-align:right;font-style:italic;font-size:.9rem;color:var(--muted);margin-top:.4rem}
 .arabic-inline{font-family:"Amiri",serif;font-size:1.15rem}
-.quoteblock blockquote{border-left:2px solid #bbb}
-#toc.toc2{font-size:.92rem}
+.quoteblock blockquote{border-left:2px solid var(--rule)}
+#footnotes{border-top-color:var(--rule)}
 #footnotes .footnote{font-size:.88rem}
+#footer,#footer *{color:var(--muted)}
+
+/* ---- TOC drawer ---------------------------------------------------------- */
+/* The hamburger toggle: fixed, always reachable. */
+#toc-toggle{position:fixed;top:.7rem;left:.7rem;z-index:60;width:2.6rem;height:2.6rem;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  background:var(--panel);border:1px solid var(--panel-edge);border-radius:8px;
+  box-shadow:0 1px 4px rgba(0,0,0,.18);font-size:1.25rem;line-height:1;color:var(--fg)}
+#toc-toggle:hover{background:var(--drawer-hover)}
+#toc-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Convert Asciidoctor's #toc into an off-canvas drawer (override toc2/toc-left).
+   visibility:hidden when closed removes the off-screen links from the tab order
+   and the accessibility tree; it flips visible on open and is delayed on close so
+   the slide-out animation still plays. */
+#toc.toc2{position:fixed!important;top:0;left:0;bottom:0;width:var(--drawer-w);max-width:86vw;
+  margin:0!important;padding:1rem 1rem 2rem;background:var(--drawer-bg);
+  border-right:1px solid var(--drawer-edge);color:var(--drawer-fg);
+  box-shadow:2px 0 12px rgba(0,0,0,.18);overflow-y:auto;z-index:70;
+  transform:translateX(-102%);visibility:hidden;
+  transition:transform .22s ease,visibility .22s;font-size:.95rem;
+  -webkit-overflow-scrolling:touch}
+body.toc-open #toc.toc2{transform:translateX(0);visibility:visible}
+#toc #toctitle{margin-top:1.6rem;font-weight:700;font-size:1.05rem;color:var(--accent)}
+#toc ul{list-style:none;padding-left:.8rem;margin:.3rem 0}
+#toc>ul{padding-left:0}
+#toc li{margin:.18rem 0}
+#toc a{color:var(--drawer-fg);text-decoration:none;display:block;padding:.18rem .35rem;border-radius:5px;line-height:1.35}
+#toc a:hover{background:var(--drawer-hover)}
+#toc a.current{background:var(--accent);color:#fff;font-weight:600}
+/* the part-divider entries (level-0) get a touch of weight */
+#toc>ul>li>a{font-weight:600;color:var(--fg)}
+
+/* dim overlay behind the open drawer (click to close) */
+#toc-overlay{position:fixed;inset:0;background:rgba(0,0,0,.40);opacity:0;visibility:hidden;
+  transition:opacity .22s ease,visibility .22s;z-index:65}
+body.toc-open #toc-overlay{opacity:1;visibility:visible}
+
+/* close (×) button inside the drawer */
+#toc-close{position:absolute;top:.5rem;right:.6rem;background:none;border:0;font-size:1.5rem;
+  line-height:1;cursor:pointer;color:var(--muted)}
+#toc-close:hover{color:var(--fg)}
+
+/* On wide screens, nudge the toggle in. */
+@media (min-width:1100px){ #toc-toggle{top:1rem;left:1rem} }
+
+/* ---- Dark mode (auto, follows the OS) ----------------------------------- */
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#15161a; --fg:#e6e3da; --muted:#9a958a;
+    --verse-bg:#22242b; --verse-border:#b89a55; --accent:#d8b35e;
+    --drawer-bg:#1b1d22; --drawer-fg:#d8d4c8; --drawer-edge:#33363d; --drawer-hover:#2a2d34;
+    --panel:#22242b; --panel-edge:#3a3d44; --rule:#444;
+    --heading:#f0a895; --heading-sub:#f0a895;   /* lightened brand red for dark bg */
+  }
+  /* current-chapter pill: dark text on the gold accent reads better */
+  #toc a.current{color:#1a1a1a}
+  /* Asciidoctor hard-codes light colors; override the ones that actually render. */
+  .quoteblock,.quoteblock *{color:var(--fg)}
+  .quoteblock .attribution cite,.verseblock .attribution cite{color:var(--muted)}
+  .quoteblock blockquote::before{color:var(--accent)}      /* decorative quote glyph */
+  #header .details,#header .details a{color:var(--muted)}  /* byline/email */
+  .paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:var(--fg)}
+  code,pre{background:#22242b;color:#e6e3da}
+  table,th,td{border-color:#3a3d44!important}
+}
+
+@media print{ #toc-toggle,#toc-overlay,#toc.toc2{display:none!important} }
 </style>
