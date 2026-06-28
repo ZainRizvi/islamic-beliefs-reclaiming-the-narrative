@@ -9,6 +9,8 @@ published website. All work lives under `book_en/`.
 **Live site:** https://zainrizvi.github.io/islamic-beliefs-reclaiming-the-narrative/
 (auto-rebuilds + deploys on every push to `main` that touches `book_en/`.)
 
+**Running todo list:** [`docs/todo.md`](docs/todo.md)
+
 ## Commands
 
 Run from `book_en/` (Docker; no local Ruby needed):
