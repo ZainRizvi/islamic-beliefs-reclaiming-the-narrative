@@ -21,27 +21,27 @@ SRC = ARGV[0] || File.join(__dir__, '..', 'src')
 
 # Canonical surah names by number (mirror of quran_index.rb).
 SURAH = {
-  1=>'al-Fātiḥah',2=>'al-Baqarah',3=>'Āl ʿImrān',4=>'al-Nisāʾ',5=>'al-Māʾidah',
-  6=>'al-Anʿām',7=>'al-Aʿrāf',8=>'al-Anfāl',9=>'al-Tawbah',10=>'Yūnus',11=>'Hūd',
-  12=>'Yūsuf',13=>'al-Raʿd',14=>'Ibrāhīm',15=>'al-Ḥijr',16=>'al-Naḥl',17=>'al-Isrāʾ',
-  18=>'al-Kahf',19=>'Maryam',20=>'Ṭāhā',21=>'al-Anbiyāʾ',22=>'al-Ḥajj',23=>'al-Muʾminūn',
-  24=>'al-Nūr',25=>'al-Furqān',26=>'al-Shuʿarāʾ',27=>'al-Naml',28=>'al-Qaṣaṣ',
-  29=>'al-ʿAnkabūt',30=>'al-Rūm',31=>'Luqmān',32=>'al-Sajdah',33=>'al-Aḥzāb',34=>'Sabaʾ',
-  35=>'Fāṭir',36=>'Yāsīn',37=>'al-Ṣāffāt',38=>'Ṣād',39=>'al-Zumar',40=>'Ghāfir',
-  41=>'Fuṣṣilat',42=>'al-Shūrā',43=>'al-Zukhruf',44=>'al-Dukhān',45=>'al-Jāthiyah',
-  46=>'al-Aḥqāf',47=>'Muḥammad',48=>'al-Fatḥ',49=>'al-Ḥujurāt',50=>'Qāf',51=>'al-Dhāriyāt',
-  52=>'al-Ṭūr',53=>'al-Najm',54=>'al-Qamar',55=>'al-Raḥmān',56=>'al-Wāqiʿah',57=>'al-Ḥadīd',
-  58=>'al-Mujādilah',59=>'al-Ḥashr',60=>'al-Mumtaḥanah',61=>'al-Ṣaff',62=>'al-Jumuʿah',
-  63=>'al-Munāfiqūn',64=>'al-Taghābun',65=>'al-Ṭalāq',66=>'al-Taḥrīm',67=>'al-Mulk',
-  68=>'al-Qalam',69=>'al-Ḥāqqah',70=>'al-Maʿārij',71=>'Nūḥ',72=>'al-Jinn',73=>'al-Muzzammil',
-  74=>'al-Muddaththir',75=>'al-Qiyāmah',76=>'al-Insān',77=>'al-Mursalāt',78=>'al-Nabaʾ',
-  79=>'al-Nāziʿāt',80=>'ʿAbasa',81=>'al-Takwīr',82=>'al-Infiṭār',83=>'al-Muṭaffifīn',
-  84=>'al-Inshiqāq',85=>'al-Burūj',86=>'al-Ṭāriq',87=>'al-Aʿlā',88=>'al-Ghāshiyah',
-  89=>'al-Fajr',90=>'al-Balad',91=>'al-Shams',92=>'al-Layl',93=>'al-Ḍuḥā',94=>'al-Sharḥ',
-  95=>'al-Tīn',96=>'al-ʿAlaq',97=>'al-Qadr',98=>'al-Bayyinah',99=>'al-Zalzalah',
-  100=>'al-ʿĀdiyāt',101=>'al-Qāriʿah',102=>'al-Takāthur',103=>'al-ʿAṣr',104=>'al-Humazah',
-  105=>'al-Fīl',106=>'Quraysh',107=>'al-Māʿūn',108=>'al-Kawthar',109=>'al-Kāfirūn',
-  110=>'al-Naṣr',111=>'al-Masad',112=>'al-Ikhlāṣ',113=>'al-Falaq',114=>'al-Nās',
+  1=>"al-Fatihah",2=>"al-Baqarah",3=>"Al 'Imran",4=>"al-Nisa'",5=>"al-Ma'idah",
+  6=>"al-An'am",7=>"al-A'raf",8=>"al-Anfal",9=>"al-Tawbah",10=>"Yunus",11=>"Hud",
+  12=>"Yusuf",13=>"al-Ra'd",14=>"Ibrahim",15=>"al-Hijr",16=>"al-Nahl",17=>"al-Isra'",
+  18=>"al-Kahf",19=>"Maryam",20=>"Taha",21=>"al-Anbiya'",22=>"al-Hajj",23=>"al-Mu'minun",
+  24=>"al-Nur",25=>"al-Furqan",26=>"al-Shu'ara'",27=>"al-Naml",28=>"al-Qasas",
+  29=>"al-'Ankabut",30=>"al-Rum",31=>"Luqman",32=>"al-Sajdah",33=>"al-Ahzab",34=>"Saba'",
+  35=>"Fatir",36=>"Yasin",37=>"al-Saffat",38=>"Sad",39=>"al-Zumar",40=>"Ghafir",
+  41=>"Fussilat",42=>"al-Shura",43=>"al-Zukhruf",44=>"al-Dukhan",45=>"al-Jathiyah",
+  46=>"al-Ahqaf",47=>"Muhammad",48=>"al-Fath",49=>"al-Hujurat",50=>"Qaf",51=>"al-Dhariyat",
+  52=>"al-Tur",53=>"al-Najm",54=>"al-Qamar",55=>"al-Rahman",56=>"al-Waqi'ah",57=>"al-Hadid",
+  58=>"al-Mujadilah",59=>"al-Hashr",60=>"al-Mumtahanah",61=>"al-Saff",62=>"al-Jumu'ah",
+  63=>"al-Munafiqun",64=>"al-Taghabun",65=>"al-Talaq",66=>"al-Tahrim",67=>"al-Mulk",
+  68=>"al-Qalam",69=>"al-Haqqah",70=>"al-Ma'arij",71=>"Nuh",72=>"al-Jinn",73=>"al-Muzzammil",
+  74=>"al-Muddaththir",75=>"al-Qiyamah",76=>"al-Insan",77=>"al-Mursalat",78=>"al-Naba'",
+  79=>"al-Nazi'at",80=>"'Abasa",81=>"al-Takwir",82=>"al-Infitar",83=>"al-Mutaffifin",
+  84=>"al-Inshiqaq",85=>"al-Buruj",86=>"al-Tariq",87=>"al-A'la",88=>"al-Ghashiyah",
+  89=>"al-Fajr",90=>"al-Balad",91=>"al-Shams",92=>"al-Layl",93=>"al-Duha",94=>"al-Sharh",
+  95=>"al-Tin",96=>"al-'Alaq",97=>"al-Qadr",98=>"al-Bayyinah",99=>"al-Zalzalah",
+  100=>"al-'Adiyat",101=>"al-Qari'ah",102=>"al-Takathur",103=>"al-'Asr",104=>"al-Humazah",
+  105=>"al-Fil",106=>"Quraysh",107=>"al-Ma'un",108=>"al-Kawthar",109=>"al-Kafirun",
+  110=>"al-Nasr",111=>"al-Masad",112=>"al-Ikhlas",113=>"al-Falaq",114=>"al-Nas",
 }.freeze
 
 errors = []
@@ -52,7 +52,7 @@ def norm_name(s)
   # to base letters, drop ayn/hamza/apostrophes, spaces, hyphens, and the "al"
   # article. So "Āl ʿImrān", "Al 'Imran", and "al-Imran" all compare equal.
   t = s.to_s.unicode_normalize(:nfd).gsub(/\p{Mn}/, '')  # strip combining marks
-  t.downcase.gsub(/[\s\-ʾʿʼʻ'’]/, '').sub(/\Aal/, '')
+  t.downcase.gsub(/[\s\-'''''’]/, '').sub(/\Aal/, '')
 end
 
 def norm_range(s)
