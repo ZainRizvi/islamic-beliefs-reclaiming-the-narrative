@@ -15,21 +15,20 @@
   var content = document.getElementById('content');
   if (!content || !content.classList.contains('reader')) return;
 
-  // base path to the per-chapter files (manifest + fragments). On the landing
-  // page data-base="p/"; on a standalone p/<slug>.html page data-base="".
+  // Resolve all paths as ABSOLUTE (from-origin) URLs so fetches never compound
+  // (the old relative scheme produced /p/p/... 404s on standalone chapter pages).
+  // data-base is "p/" on the landing page (pages live one level down) or "" on a
+  // standalone p/<slug>.html page (pages are siblings in the current dir).
   var BASE = content.getAttribute('data-base') || '';
-  var MANIFEST_URL = BASE + 'manifest.json';
-  // Site root: the directory that contains index.html. On the landing page the
-  // current path IS the root dir; on a standalone p/<slug>.html page the root is
-  // one level up. Compute it once so canonical URLs are absolute and idempotent
-  // (no compounding "/p/p/..." as the address bar updates during scrolling).
-  var ROOT = (function () {
-    var path = location.pathname;
-    var dir = path.replace(/[^/]*$/, '');        // strip filename -> current dir
-    return BASE === 'p/' ? dir : dir.replace(/p\/$/, '');
-  })();
-  // canonical URL for a chapter, absolute from origin: ROOT + p/<slug>.html
-  function canonicalUrl(slug) { return ROOT + 'p/' + slug + '.html'; }
+  var curDir = location.pathname.replace(/[^/]*$/, '');     // dir of the current page
+  // PDIR = absolute dir holding the p/* files. Landing page (data-base="p/") sits
+  // one level above p/; a standalone p/<slug>.html page is already inside p/.
+  // Derived from BASE (a build invariant), not string-stripping, so no fragile regex.
+  var PDIR = (BASE === 'p/') ? curDir + 'p/' : curDir;
+  var MANIFEST_URL = PDIR + 'manifest.json';
+  function fragUrl(slug) { return PDIR + slug + '.frag.html'; }
+  // canonical URL for a chapter, absolute from origin.
+  function canonicalUrl(slug) { return PDIR + slug + '.html'; }
 
   var manifest = null;        // [{slug,title,url,part,index}]
   var bySlug = {};
@@ -58,7 +57,7 @@
     if (loading) return Promise.resolve(false);
     loading = true;
     var slug = manifest[i].slug;
-    return fetch(BASE + slug + '.frag.html')
+    return fetch(fragUrl(slug))
       .then(function (r) { return r.ok ? r.text() : Promise.reject(r.status); })
       .then(function (frag) {
         var tmp = document.createElement('div');
@@ -75,21 +74,29 @@
       .catch(function () { loading = false; return false; });
   }
 
-  // Sentinel-based lazy loading: when the last loaded chapter's tail nears the
-  // viewport, append the next one. After loading, re-check: if the new tail is
-  // already within the margin (e.g. several tiny chapters, or a fast scroll), keep
-  // loading so we never stall on a sub-viewport chapter that stays intersecting.
-  var TAIL_MARGIN = 800;
+  // Lazy loading via a SMALL sentinel kept at the end of the content. Observing
+  // the chapter article itself doesn't work: a chapter can be many viewports tall,
+  // so it's already "intersecting" when observed and an IntersectionObserver only
+  // fires on intersection-state CHANGES — it would never re-fire as you scroll
+  // within one chapter. A tiny trailing sentinel re-enters the margin each time,
+  // firing reliably. After each load we keep the sentinel last and re-check whether
+  // it's still in range (covers fast scrolls / several short chapters).
+  var TAIL_MARGIN = 1000;
+  var sentinel = document.createElement('div');
+  sentinel.id = 'reader-sentinel';
+  sentinel.setAttribute('aria-hidden', 'true');
+  sentinel.style.height = '1px';
+  content.appendChild(sentinel);
+
+  function sentinelInRange() {
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    return sentinel.getBoundingClientRect().top <= vh + TAIL_MARGIN;
+  }
   function maybeLoadMore() {
+    if (loading) return;                       // a fetch is in flight; its .then re-checks
     appendChapter(loadedMax + 1).then(function (added) {
-      if (!added) return;
-      refreshTailSentinel();
-      var arts = content.querySelectorAll('article.chapter');
-      var tail = arts[arts.length - 1];
-      if (tail && tail.getBoundingClientRect().top <=
-          (window.innerHeight || document.documentElement.clientHeight) + TAIL_MARGIN) {
-        maybeLoadMore();   // tail still in range — continue
-      }
+      content.appendChild(sentinel);           // keep the sentinel last
+      if (added && sentinelInRange()) maybeLoadMore();  // still need more
     });
   }
   var tailObserver = new IntersectionObserver(function (entries) {
@@ -98,8 +105,7 @@
 
   function refreshTailSentinel() {
     tailObserver.disconnect();
-    var arts = content.querySelectorAll('article.chapter');
-    if (arts.length) tailObserver.observe(arts[arts.length - 1]);
+    tailObserver.observe(sentinel);
   }
 
   // Update the address bar as chapters scroll through the viewport.
