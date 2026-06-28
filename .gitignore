@@ -6,6 +6,8 @@
 audio/
 *.pdf
 
+aim_translation/
+
 # Rendered book output + the processed render tree (regenerated from src/).
 # The concept term text lives permanently in src/ @@CX(...)@@ markers, so the
 # generated render tree under build/ is fully disposable.
