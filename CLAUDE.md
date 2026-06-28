@@ -28,6 +28,12 @@ CI mirrors this exactly: `.github/workflows/pages.yml` runs `bash tools/build.sh
 
 ## Content layout (source of truth = AsciiDoc under `book_en/src/`)
 
+Every build (pdf/epub/html/site) renders from the WORKING copy — `src/sessions/`,
+`src/front/`, `src/book.adoc`. The pipeline is `src/` → `build_indexes.rb` →
+`build/render/` → asciidoctor. The frozen `src/transcription/` baseline is excluded
+from all of it; it exists only as the recoverable original and the annotation gate's
+reference.
+
 - `src/book.adoc` — master document: title, 4 part dividers, `include::`s every
   chapter, then the three back-matter index sections.
 - `src/sessions/session_NN.adoc` — the 28 lectures (one file each).
