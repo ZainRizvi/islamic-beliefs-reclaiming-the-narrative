@@ -6,7 +6,7 @@ Forty years have passed — forty years…
 A precious and cherished jewel was right there, all around us, yet we were heedless of it and deprived of its blessing. A radiant jewel from the limpid ocean of the Wise Qur'an(((the Qur'an))), a luminous jewel of the very substance of the Book of Light — for forty years it gathered dust, and its absence pained a people thirsting for the teachings of the Qur'an and the Ahl al-Bayt(((the Ahl al-Bayt))). A jewel without peer or match, named _A General Outline of Islamic Thought in the Qur'an_.
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 In the closing days of the summer of 1353 (1974), the prayer leader of a small, half-finished mosque — the Mosque of Imam Hasan al-Mujtaba(((Mosque of Imam Hasan al-Mujtaba))), at the far end of the Sarshur Bazaar(((Sarshur Bazaar))) in Mashhad(((Mashhad))) — with the arrival of the month of Ramadan(((Ramadan))), draws up a new program for his mosque. Sayyid 'Ali Khamene'i(((Khamene'i, Sayyid 'Ali))), thirty-five years old, with his tall stature and his penetrating eyes, resolves that every day of the blessed month, after the noon and afternoon prayers, he will stand behind the lectern with the Qur'an in hand and deliver a lecture for one hour, on the subject of _A General Outline of Islamic Thought in the Qur'an_.
 
@@ -23,7 +23,7 @@ For years on end, certain people who had no correct understanding of religion ha
 In the end, a few months after the sessions of the _General Outline_ came to an end at the Mosque of Imam Hasan, and following the sessions explicating the _Nahj al-Balagha_(((Nahj al-Balagha))), Sayyid 'Ali Aqa-yi Khamene'i is arrested and taken off to the capital of oppression; he is sent to one of the most terrifying torture-chambers of that era of the world: the "Joint Committee Against Sabotage."(((Joint Committee Against Sabotage)))
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 Now forty years have passed since that unforgettable month of Ramadan, and in these forty years that ocean of Qur'anic teachings has remained only in the breasts of those same few thousand Mashhadi listeners, and the rest of the thirsting were deprived of it. In these forty years, of those pure Qur'anic teachings there remained only a report and a trace — just enough that we might be certain they had once existed — and only a small booklet bearing the name _A General Outline of Islamic Thought in the Qur'an_.
 
@@ -111,7 +111,7 @@ I once held continuous sessions of lectures, thirty in all, for a month of Ramad
 While preserving the order of the sessions in the book, the course of the presentation of the material within a single session, the tone of the author's speech, the material unrelated to the content within the sessions, and the inclusion of the mimeographs of that time — we have endeavored to make the content of the work itself convey the serial nature of the sessions, their style, the atmosphere of the sessions, the limited facilities, and the venue where the sessions were held.
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 In arranging the content of this book, several things have been done:
 
@@ -132,7 +132,7 @@ In arranging the content of this book, several things have been done:
 8. Since the verses of the text are constantly broken up and repeated, or another verse is introduced amid them as a corroborating example, the reader may run into difficulty in correctly identifying the verses. To solve the problem: first, the verses of the Qur'an have been set in a different typeface; second, when the author reads the first portion of a group of verses for translation and explanation, the citation for that group of verses appears in the footnote. In this case, a footnote has been inserted only for those verses that, in between, have been recited from somewhere else. So that the narrations may be distinguished by their Arabic phrasing and terminology, they have been set in «» and in an Arabic font. Because there is an index of narrations at the end of the book, we have refrained from inserting their citations on the pages, and have referred the reader to the index merely by the mention of a number.
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 At the end of the book there are two indexes: the index of verses and the index of narrations. The index of verses comprises the collection of verses that are cited in the text of the book. The verses are arranged in order of surah and verse number. In these sessions, the author recited more than three hundred verses. Owing to the observance of brevity and the mention of the meaning of the verses in the text of the session and in the mimeographs, the repeated mention of the meaning of the verses in the index has been avoided. In this index, the portions of a verse that the author recited are in black, and the portions that were not recited are in gray. This manner of presentation provides a context and a ground for the reader's greater acquaintance and intimacy with the Qur'anic foundations of the topics taken up and the key verses in the thought of the Supreme Leader.
 
@@ -149,21 +149,21 @@ The adoption of the epithet "Qur'anic Leader" for His Eminence Ayatollah Khamene
 _A General Outline of Islamic Thought in the Qur'an_ is perhaps the most important intellectual cornerstone for recognizing the thought of this "Qur'anic Leader" and for benefiting from his Qur'anic teachings. Yet this line has many points, great and small, and we hope that by moving along the luminous path of the school of the "Qur'anic Leader" we may benefit from them, and become Qur'anic to the extent of our own capacity.
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 Our Leader, dearer to us than our own souls, is a grace from the holy and merciful being of His Eminence al-Rida(((al-Rida, Imam 'Ali ibn Musa))) (upon him be thousands of greetings and praise); for whatever our nation possesses is from the blessings of the Sun of Tus(((Tus))). "Sahba,"(((Sahba))) from the very beginning, has set out by recourse to His Eminence 'Ali ibn Musa and has been a sipper at his threshold, so that it might take a single step in the weighty duty of conveying the teachings and lights of this Leader — this Ridawi gift — to the longing and thirsting people. We hope that, through the attention and prayer of His Eminence al-Rida, this small step may meet with the satisfaction of his precious son, His Eminence the Master of the Age and the Time [the Imam of the Age].
 
 Fatimiyyah 1434 — Farvardin 1392 (March–April 2013)
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 === The Discourse "The Spirit of Tawhid: The Negation of Servitude to Other than God"
 
 The tenth discourse of the collection of Sahba discourses is the discourse "The Spirit of Tawhid: The Negation of Servitude to Other than God." This discourse is an article that the author wrote at the request of a university student and in answer to the question "What role does belief in Tawhid actually play in a human being's life?" This article was published for the first time in the year 1356 (1977) in a book titled _The Monotheistic Worldview_ (_Didgah-i Tawhidi_). Although the title of this article bears a resemblance to the title of the twelfth session of this book, in terms of content it is deeper and is, in truth, a summary and a conclusion of all the discussions of the chapter on Tawhid.
 
 [.text-center]
-\* \* \*
+{asterisk} {asterisk} {asterisk}
 
 In response to the many requests of Sahba's audience for listening to the audio of the book, an audio collection has been prepared. This collection comprises: the complete audio of the sessions, twenty-eight audio segments of the session summaries, ten thematic audio segments, and ten audio segments about the session and its margins. To obtain whichever items you wish, you may go to the address jahadi.ir/sahba/tarhekoli.
 
