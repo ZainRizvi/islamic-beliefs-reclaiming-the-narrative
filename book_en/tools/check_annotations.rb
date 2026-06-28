@@ -58,6 +58,9 @@ end
 # the macro then walk to the matching close bracket.
 def footnotes(t)
   out = {}
+  # Strip AsciiDoc line comments first (symmetry with cx_markers/index_terms), so a
+  # footnote: shown literally in a // doc comment isn't inventoried as a real one.
+  t = t.lines.reject { |line| line.lstrip.start_with?('//') }.join
   i = 0
   while (m = t.match(/footnote:([a-z0-9-]+)\[/, i))
     id = m[1]
@@ -86,10 +89,13 @@ def arabic_blocks(t)
   out = []
   lines.each_with_index do |ln, idx|
     next unless ln.strip == '[.arabic]'
-    # collect following non-blank lines as the Arabic payload
+    # Collect the following Arabic-script lines as the payload. Stop at a blank
+    # line OR at the first line with no Arabic characters (the English gloss),
+    # so the hash covers ONLY scripture even if a future edit drops the blank
+    # separator between the Arabic and its English translation.
     buf = []
     k = idx + 1
-    while k < lines.length && !lines[k].strip.empty?
+    while k < lines.length && !lines[k].strip.empty? && lines[k] =~ /\p{Arabic}/
       buf << lines[k]
       k += 1
     end
