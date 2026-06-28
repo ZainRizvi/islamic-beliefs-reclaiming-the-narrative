@@ -48,6 +48,15 @@ end
 
 def strip_tags(s) = CGI.unescapeHTML(s.gsub(/<[^>]+>/, '')).strip
 
+# Per-page <head>: set a chapter-specific <title> and a rel=canonical so the 34
+# standalone pages aren't indexed as duplicates. `canonical` is the page's path
+# relative to the site (e.g. "p/session-01.html"); browsers/crawlers resolve it.
+def head_for(head, title, canonical)
+  h = head.sub(%r{<title>.*?</title>}m,
+               %(<title>#{CGI.escapeHTML(title)} &middot; Islamic Beliefs</title>))
+  h.sub('</head>', %(<link rel="canonical" href="#{canonical}">\n</head>))
+end
+
 footnotes_for = lambda do |chunk|
   ids = chunk.scan(/href="#(_footnotedef_\d+)"/).flatten.uniq
   ids.select! { |i| fn_items.key?(i) }
@@ -78,7 +87,9 @@ end
 events = []
 content.to_enum(:scan, /<h1 id="(part-[^"]*)"[^>]*>(.*?)<\/h1>/m).each do
   m = Regexp.last_match
-  events << [m.begin(0), :part, strip_tags(m[2])]
+  # carry BOTH the real Asciidoctor id and the label, so we never regenerate an
+  # id from text (which could collide with a same-named section heading).
+  events << [m.begin(0), :part, { id: m[1], label: strip_tags(m[2]) }]
 end
 # sect1 may carry extra classes (e.g. "sect1 quran-index-placeholder").
 content.to_enum(:scan, /<div class="sect1(?:\s[^"]*)?">/).each do
@@ -90,7 +101,7 @@ chapters = []
 pending_part = nil
 events.each do |_pos, kind, payload|
   if kind == :part
-    pending_part = payload
+    pending_part = payload          # { id:, label: }
   else
     div_html, = extract_div(content, payload)
     slug = (div_html[/<h2 id="([^"]+)"/, 1]) || "chapter-#{chapters.length + 1}"
@@ -101,13 +112,18 @@ events.each do |_pos, kind, payload|
   end
 end
 
-def part_id(label) = label.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/\A-|-\z/, '')
-
 manifest = []
 chapters.each_with_index do |ch, idx|
   slug = ch[:slug]
-  part_heading = ch[:part] ? %(<h1 class="part-divider" id="#{part_id(ch[:part])}">#{ch[:part]}</h1>\n) : ''
-  chap_block = %(<article class="chapter" data-slug="#{slug}" data-index="#{idx}" id="#{slug}">#{part_heading}#{ch[:html]}#{footnotes_for.call(ch[:html])}</article>)
+  # Use the real Asciidoctor part id (carried from the rendered <h1 id>), never a
+  # regenerated one — avoids duplicate/dead ids on title collisions.
+  part_heading = ch[:part] ? %(<h1 class="part-divider" id="#{ch[:part][:id]}">#{ch[:part][:label]}</h1>\n) : ''
+  body_html = "#{part_heading}#{ch[:html]}#{footnotes_for.call(ch[:html])}"
+  # All element ids this chapter contains (its own sub-section anchors + any part
+  # divider) so the reader can route a TOC link for a sub-section/part to the
+  # chapter that owns it. Space-separated in data-anchors.
+  anchors = body_html.scan(/\sid="([^"]+)"/).flatten.uniq.join(' ')
+  chap_block = %(<article class="chapter" data-slug="#{slug}" data-index="#{idx}" data-anchors="#{anchors}" id="#{slug}">#{body_html}</article>)
 
   File.write(File.join(pdir, "#{slug}.frag.html"), chap_block)
 
@@ -116,14 +132,15 @@ chapters.each_with_index do |ch, idx|
   nav = %(<nav class="chapter-nav">#{prev_link}<a href="../index.html">Contents</a>#{next_link}</nav>)
 
   page = +''
-  page << head << "\n" << body_tag << "\n" << '<div id="header"></div>' << "\n"
+  page << head_for(head, ch[:title], "p/#{slug}.html") << "\n" << body_tag << "\n" << '<div id="header"></div>' << "\n"
   page << toc_html << "\n"
   page << %(<div id="content" class="reader" data-start="#{slug}" data-base="">) << chap_block << '</div>' << "\n"
   page << nav << "\n" << footer_html << "\n"
   page << %(<script src="../reader.js" defer></script>) << "\n</body>\n</html>"
   File.write(File.join(pdir, "#{slug}.html"), page)
 
-  manifest << { slug: slug, title: ch[:title], url: "p/#{slug}.html", part: ch[:part], index: idx }
+  manifest << { slug: slug, title: ch[:title], url: "p/#{slug}.html",
+                part: ch[:part] && ch[:part][:label], index: idx }
 end
 
 File.write(File.join(pdir, 'manifest.json'), JSON.pretty_generate(manifest))
@@ -132,7 +149,8 @@ File.write(File.join(pdir, 'manifest.json'), JSON.pretty_generate(manifest))
 first = chapters.first[:slug]
 first_frag = File.read(File.join(pdir, "#{first}.frag.html"))
 landing = +''
-landing << head << "\n" << body_tag << "\n" << '<div id="header"></div>' << "\n"
+# Landing keeps the book's full title; canonical points to the site root.
+landing << head.sub('</head>', %(<link rel="canonical" href="./">\n</head>)) << "\n" << body_tag << "\n" << '<div id="header"></div>' << "\n"
 landing << toc_html << "\n"
 landing << %(<div id="content" class="reader" data-start="#{first}" data-base="p/">) << first_frag << '</div>' << "\n"
 landing << footer_html << "\n"

@@ -33,16 +33,21 @@
 
   var manifest = null;        // [{slug,title,url,part,index}]
   var bySlug = {};
+  var anchorToSlug = {};      // sub-section / part-divider id -> owning chapter slug
   var loading = false;
   var loadedMax = -1;         // highest chapter index currently in the DOM
   var loadedMin = Infinity;
 
   function indexOfSlug(slug) { return bySlug[slug] ? bySlug[slug].index : -1; }
 
-  // Register a chapter <article> already in the DOM.
+  // Register a chapter <article> already in the DOM (and its inner anchors).
   function noteLoaded(article) {
     var i = parseInt(article.getAttribute('data-index'), 10);
     if (!isNaN(i)) { loadedMax = Math.max(loadedMax, i); loadedMin = Math.min(loadedMin, i); }
+    var slug = article.getAttribute('data-slug');
+    (article.getAttribute('data-anchors') || '').split(/\s+/).forEach(function (a) {
+      if (a) anchorToSlug[a] = slug;
+    });
   }
   Array.prototype.forEach.call(content.querySelectorAll('article.chapter'), noteLoaded);
 
@@ -71,14 +76,25 @@
   }
 
   // Sentinel-based lazy loading: when the last loaded chapter's tail nears the
-  // viewport, append the next one.
-  var tailObserver = new IntersectionObserver(function (entries) {
-    entries.forEach(function (e) {
-      if (e.isIntersecting) appendChapter(loadedMax + 1).then(function (added) {
-        if (added) refreshTailSentinel();
-      });
+  // viewport, append the next one. After loading, re-check: if the new tail is
+  // already within the margin (e.g. several tiny chapters, or a fast scroll), keep
+  // loading so we never stall on a sub-viewport chapter that stays intersecting.
+  var TAIL_MARGIN = 800;
+  function maybeLoadMore() {
+    appendChapter(loadedMax + 1).then(function (added) {
+      if (!added) return;
+      refreshTailSentinel();
+      var arts = content.querySelectorAll('article.chapter');
+      var tail = arts[arts.length - 1];
+      if (tail && tail.getBoundingClientRect().top <=
+          (window.innerHeight || document.documentElement.clientHeight) + TAIL_MARGIN) {
+        maybeLoadMore();   // tail still in range — continue
+      }
     });
-  }, { rootMargin: '800px 0px' });
+  }
+  var tailObserver = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { if (e.isIntersecting) maybeLoadMore(); });
+  }, { rootMargin: TAIL_MARGIN + 'px 0px' });
 
   function refreshTailSentinel() {
     tailObserver.disconnect();
@@ -120,8 +136,16 @@
     if (link) link.classList.add('current');
   }
 
-  // Make TOC links work within the reader: clicking jumps to a loaded chapter or
-  // navigates to its page (which the reader then continues from).
+  // Make TOC links work within the reader. A TOC anchor may be a chapter slug,
+  // a sub-section id, or a part-divider id. Resolve it to the OWNING chapter:
+  //  - the target id itself if it's a chapter, else the chapter that contains it.
+  // If that chapter is loaded, scroll to the exact element; otherwise navigate to
+  // the chapter's page with the anchor (the browser jumps there, reader continues).
+  function ownerChapter(anchorId) {
+    if (bySlug[anchorId]) return anchorId;            // it's a chapter slug
+    if (anchorToSlug[anchorId]) return anchorToSlug[anchorId];  // known sub-anchor
+    return null;                                      // unknown until that chapter loads
+  }
   function wireToc() {
     var toc = document.getElementById('toc');
     if (!toc) return;
@@ -129,17 +153,28 @@
       var a = ev.target.closest('a');
       if (!a) return;
       var href = a.getAttribute('href') || '';
-      var m = href.match(/#([a-z0-9-]+)$/i);
-      if (!m) return;                          // external/other link: default
-      var slug = m[1];
+      var m = href.match(/#([A-Za-z0-9_-]+)$/);
+      if (!m) return;                                 // external/other link: default
+      var anchorId = m[1];
+      var slug = ownerChapter(anchorId);
+      if (!slug) {
+        // Anchor lives in a chapter we haven't loaded and can't map yet. Find the
+        // chapter by asking the manifest order isn't enough — fall back to opening
+        // the anchor's own chapter page if the anchor IS a chapter, else let the
+        // browser try (works once that chapter is loaded). Best effort: do nothing
+        // special so the default in-page jump applies if present.
+        return;
+      }
       var existing = content.querySelector('article.chapter[data-slug="' + slug + '"]');
-      if (existing) {                          // already loaded: smooth-scroll
+      var target = document.getElementById(anchorId) || existing;
+      if (existing && target) {                       // loaded: smooth-scroll to exact spot
         ev.preventDefault();
-        existing.scrollIntoView({ behavior: 'smooth' });
-        history.replaceState({ slug: slug }, '', canonicalUrl(slug));
-      } else if (bySlug[slug]) {               // jump to that chapter's page
+        target.scrollIntoView({ behavior: 'smooth' });
+        history.replaceState({ slug: slug }, '', canonicalUrl(slug) +
+          (anchorId !== slug ? '#' + anchorId : ''));
+      } else if (bySlug[slug]) {                       // not loaded: go to chapter page (+anchor)
         ev.preventDefault();
-        location.href = canonicalUrl(slug);
+        location.href = canonicalUrl(slug) + (anchorId !== slug ? '#' + anchorId : '');
       }
     });
   }
