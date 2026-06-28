@@ -19,6 +19,15 @@
 
 set -euo pipefail
 
+# Tool commands are overridable so CI (bundler) can prefix them with `bundle exec`
+# without the script re-implementing anything. Locally they default to the bare
+# binaries (present in the Docker image / on PATH). Arrays so multi-word values
+# like "bundle exec asciidoctor" word-split correctly when invoked.
+read -r -a RUBY <<< "${RUBY:-ruby}"
+read -r -a AD <<< "${AD:-asciidoctor}"
+read -r -a ADPDF <<< "${ADPDF:-asciidoctor-pdf}"
+read -r -a ADEPUB <<< "${ADEPUB:-asciidoctor-epub3}"
+
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SRC_DIR="$ROOT/src"
 RENDER_DIR="$ROOT/build/render"
@@ -44,13 +53,13 @@ require_src() {
 # the generated concepts index). Non-destructive: sources are untouched.
 prepare_render() {
   echo ">> Building render tree (concepts index)"
-  ruby "$ROOT/tools/build_indexes.rb" "$SRC_DIR" "$RENDER_DIR"
+  "${RUBY[@]}" "$ROOT/tools/build_indexes.rb" "$SRC_DIR" "$RENDER_DIR"
 }
 
 build_pdf() {
   require_src; prepare_render
   echo ">> Rendering PDF -> build/pdf-Islamic-Beliefs-Reclaiming-the-Narrative.pdf"
-  asciidoctor-pdf "${ext_flags[@]}" \
+  "${ADPDF[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
     -a pdf-theme="$ROOT/tools/theme/book-theme.yml" \
     -D "$OUT" -o "pdf-Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
 }
@@ -58,14 +67,14 @@ build_pdf() {
 build_epub() {
   require_src; prepare_render
   echo ">> Rendering EPUB -> build/epub-Islamic-Beliefs-Reclaiming-the-Narrative.epub"
-  asciidoctor-epub3 "${ext_flags[@]}" \
+  "${ADEPUB[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
     -D "$OUT" -o "epub-Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
 }
 
 build_html() {
   require_src; prepare_render
   echo ">> Rendering HTML -> build/html-Islamic-Beliefs-Reclaiming-the-Narrative.html"
-  asciidoctor "${ext_flags[@]}" \
+  "${AD[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
     -a toc=left -a sectnums \
     -D "$OUT" -o "html-Islamic-Beliefs-Reclaiming-the-Narrative.html" "$RENDER_SRC"
 }
@@ -73,32 +82,35 @@ build_html() {
 validate() {
   if [ -f "$ROOT/tools/validate.rb" ]; then
     echo ">> Running consistency validators"
-    ruby "$ROOT/tools/validate.rb" "$SRC_DIR"
+    "${RUBY[@]}" "$ROOT/tools/validate.rb" "$SRC_DIR"
   else
     echo ">> No validator present yet (tools/validate.rb); skipping."
   fi
 }
 
-# Build the GitHub Pages site: a single-file index.html with the Amiri web font
-# and verse styling injected via docinfo. Output goes to build/site/.
+# Build the GitHub Pages site into build/site/: a single-file index.html with the
+# Amiri web font + verse styling (via docinfo), plus the PDF/EPUB as downloads and
+# a .nojekyll marker. Self-contained so CI and local produce the SAME output by
+# calling this one function (no re-implementation, no divergence).
 build_site() {
   require_src; prepare_render
   local site="$OUT/site"
   mkdir -p "$site"
-  echo ">> Rendering site -> build/site/index.html"
-  asciidoctor "${ext_flags[@]}" \
+  echo ">> Rendering site HTML -> build/site/index.html"
+  "${AD[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
     -a toc=left -a sectnums -a sectanchors -a idprefix -a idseparator=- \
     -a docinfo=shared -a docinfodir="$ROOT/tools/web" \
     -a 'linkcss!' \
     -D "$site" -o "index.html" "$RENDER_SRC"
-  # Also drop the standalone downloadable artifacts beside it, if present.
-  for ext in pdf epub; do
-    f="$OUT/${ext}-Islamic-Beliefs-Reclaiming-the-Narrative.${ext}"
-    [ -f "$f" ] && cp "$f" "$site/" || true
-  done
+  echo ">> Rendering downloads (PDF + EPUB) into build/site/"
+  "${ADPDF[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
+    -a pdf-theme="$ROOT/tools/theme/book-theme.yml" \
+    -D "$site" -o "Islamic-Beliefs-Reclaiming-the-Narrative.pdf" "$RENDER_SRC"
+  "${ADEPUB[@]}" "${ext_flags[@]+"${ext_flags[@]}"}" \
+    -D "$site" -o "Islamic-Beliefs-Reclaiming-the-Narrative.epub" "$RENDER_SRC"
   # .nojekyll so GitHub Pages serves files as-is (no Jekyll processing).
   touch "$site/.nojekyll"
-  echo ">> Site ready in build/site/ (index.html + downloads)"
+  echo ">> Site ready in build/site/ (index.html + PDF + EPUB)"
 }
 
 case "${1:-all}" in

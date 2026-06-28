@@ -10,6 +10,7 @@ on:
       - 'book_en/src/**'
       - 'book_en/tools/**'
       - 'book_en/Gemfile'
+      - 'book_en/Gemfile.lock'
       - '.github/workflows/pages.yml'
   workflow_dispatch:   # allow manual runs from the Actions tab
 
@@ -18,10 +19,12 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment; newer pushes cancel in-progress builds.
+# One Pages deployment at a time. Do NOT cancel in-progress runs: cancelling an
+# in-flight deploy can leave the published site partial/stale (GitHub's Pages
+# convention). A superseded build simply finishes; the latest push deploys after.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -46,24 +49,16 @@ jobs:
             fonts-hosny-amiri fonts-noto-core fonts-noto-extra
           sudo fc-cache -f
 
-      - name: Build site (validate, render tree, HTML + PDF + EPUB)
-        run: |
-          bundle exec ruby tools/validate.rb src
-          bundle exec ruby tools/build_indexes.rb src build/render
-          # HTML site (with Amiri web font + verse styling via docinfo)
-          EXT=$(find tools/extensions -name '*.rb' -printf '-r ./%p ')
-          mkdir -p build/site
-          bundle exec asciidoctor $EXT \
-            -a toc=left -a sectnums -a sectanchors \
-            -a docinfo=shared -a docinfodir="$PWD/tools/web" \
-            -D build/site -o index.html build/render/book.adoc
-          # Downloadable PDF + EPUB beside the page
-          bundle exec asciidoctor-pdf $EXT \
-            -a pdf-theme=tools/theme/book-theme.yml \
-            -D build/site -o pdf-Islamic-Beliefs-Reclaiming-the-Narrative.pdf build/render/book.adoc
-          bundle exec asciidoctor-epub3 $EXT \
-            -D build/site -o epub-Islamic-Beliefs-Reclaiming-the-Narrative.epub build/render/book.adoc
-          touch build/site/.nojekyll
+      - name: Build site (same code path as the local `site` target)
+        # Run build.sh so CI and local produce identical output (anchors, flags,
+        # downloads). The script's tool commands are overridable, so we point them
+        # at bundler — no re-implementation, single source of truth.
+        env:
+          RUBY: "bundle exec ruby"
+          AD: "bundle exec asciidoctor"
+          ADPDF: "bundle exec asciidoctor-pdf"
+          ADEPUB: "bundle exec asciidoctor-epub3"
+        run: bash tools/build.sh site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

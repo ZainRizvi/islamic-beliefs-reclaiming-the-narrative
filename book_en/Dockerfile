@@ -28,8 +28,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /book
 
-# Install gems first (better layer caching: only re-runs when Gemfile changes).
-COPY Gemfile ./
+# Install gems first (better layer caching: only re-runs when Gemfile* changes).
+# Copy the lockfile too so the image pins the same versions as CI.
+COPY Gemfile Gemfile.lock ./
 RUN gem install bundler && bundle install
 
 # The actual book sources are bind-mounted at run time (see compose.yaml),
