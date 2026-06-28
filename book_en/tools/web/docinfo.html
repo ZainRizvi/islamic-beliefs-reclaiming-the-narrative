@@ -97,13 +97,26 @@ body.toc-open #toc-overlay{opacity:1;visibility:visible}
   }
   /* current-chapter pill: dark text on the gold accent reads better */
   #toc a.current{color:#1a1a1a}
-  /* Asciidoctor hard-codes light colors; override the ones that actually render. */
-  .quoteblock,.quoteblock *{color:var(--fg)}
+  /* Asciidoctor's stylesheet hard-codes near-black text on quotes/blockquotes
+     via TWO-class selectors (e.g. `.quoteblock blockquote{color:rgba(0,0,0,.85)}`)
+     and bare `blockquote{...}`. A one-class override loses on specificity, so the
+     overrides below MATCH those selectors exactly (and add bare blockquote). */
+  .quoteblock,.quoteblock *,
+  .quoteblock blockquote,.quoteblock blockquote p,.quoteblock p,
+  blockquote,blockquote p{color:var(--fg)}
   .quoteblock .attribution cite,.verseblock .attribution cite{color:var(--muted)}
-  .quoteblock blockquote::before{color:var(--accent)}      /* decorative quote glyph */
+  .quoteblock blockquote::before,blockquote::before{color:var(--accent)}  /* quote glyph */
+  .verseblock pre{color:var(--fg)}
+  /* Title <h1>s are id-scoped in Asciidoctor (rgba(0,0,0,.85)) and outweigh the
+     plain h1 token — override the exact selectors. */
+  #content>h1,#header>h1:first-child,#content>h1:first-child:not([class]){color:var(--heading-sub)}
   #header .details,#header .details a{color:var(--muted)}  /* byline/email */
+  #footer-text,#footer,#footer *{color:var(--muted)}
   .paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:var(--fg)}
-  code,pre{background:#22242b;color:#e6e3da}
+  code,pre,kbd,code *{background:#22242b;color:#e6e3da}
+  /* table text + borders */
+  table tr th,table tr td,table thead tr th,table thead tr td,
+  table tfoot tr th,table tfoot tr td,tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:var(--fg)}
   table,th,td{border-color:#3a3d44!important}
 }
 
