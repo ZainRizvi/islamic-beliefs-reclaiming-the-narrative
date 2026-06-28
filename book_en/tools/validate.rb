@@ -48,8 +48,11 @@ errors = []
 warnings = []
 
 def norm_name(s)
-  # strip diacritics-insensitively-ish: downcase, drop spaces/hyphens, fold "al" article
-  s.to_s.downcase.gsub(/[\s\-ʾʿ'’]/, '').sub(/\Aal/, '')
+  # Compare surah names diacritic-insensitively: fold transliteration diacritics
+  # to base letters, drop ayn/hamza/apostrophes, spaces, hyphens, and the "al"
+  # article. So "Āl ʿImrān", "Al 'Imran", and "al-Imran" all compare equal.
+  t = s.to_s.unicode_normalize(:nfd).gsub(/\p{Mn}/, '')  # strip combining marks
+  t.downcase.gsub(/[\s\-ʾʿʼʻ'’]/, '').sub(/\Aal/, '')
 end
 
 def norm_range(s)
