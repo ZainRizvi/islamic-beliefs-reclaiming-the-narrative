@@ -34,16 +34,40 @@ CI mirrors this exactly: `.github/workflows/pages.yml` runs `bash tools/build.sh
 - `src/front/note.adoc`, `src/front/author-introduction.adoc` — front matter.
 - `src/_generated/concepts-index.adoc` — committed placeholder; the real concepts
   index is generated into `build/render/` at build time (never hand-edit).
+- `src/transcription/` — FROZEN baseline: a byte-identical, fully-annotated copy of
+  every `sessions/` + `front/` chapter, captured before tone editing began. It is
+  the recoverable "original" and the reference the annotation gate diffs against.
+  NOT a build input (every tool excludes it). Only update it on a *deliberate*
+  baseline change, never as a side effect of a tone pass.
 - `book_en/sessions/*.md`, `book_en/front_*.md`, `book_en/reviews/*` — the ORIGINAL
   Markdown translation + per-chapter fidelity reviews. Historical/reference only;
   the AsciiDoc in `src/` is what's built. Don't edit the `.md` expecting it to ship.
+
+### Tone-iteration workflow (editing prose without losing annotations)
+
+Prose, positional annotations (`@@CX(...)@@`, `(((term)))`, `footnote:ID[...]`),
+and byte-exact verse Arabic are interleaved per chapter. Tone passes rewrite the
+prose; the annotations must survive untouched.
+
+- Edit only the working chapters under `src/sessions/` & `src/front/`. Leave
+  `src/transcription/` frozen.
+- After each pass run `docker compose run --rm validate` (or `all`). The annotation
+  gate (`tools/check_annotations.rb`) **fails the build** if any `@@CX`, `(((term)))`,
+  footnote, or verse Arabic was dropped or altered vs. `src/transcription/`. Re-add
+  what it flags before committing.
+- Verse Arabic must stay byte-identical (it is sliced verbatim from the Qur'an
+  dataset). The gate enforces this; never retype Arabic by hand.
 
 ## Tooling (`book_en/tools/`)
 
 - `build.sh` — build driver (`pdf|epub|html|site|validate|all`). Tool commands are
   overridable env vars (`AD`, `ADPDF`, `ADEPUB`, `RUBY`) so CI can prefix `bundle exec`.
 - `validate.rb` — consistency checks (footnotes, verse markers vs citations, surah
-  names, `____` balance, no leftover artifacts). Run before every render.
+  names, `____` balance, no leftover artifacts). Run before every render. Skips
+  `src/transcription/`.
+- `check_annotations.rb` — annotation-preservation gate. Diffs each working chapter's
+  `@@CX` / `(((term)))` / footnotes / verse Arabic against `src/transcription/` and
+  FAILS on any loss or change. Wired into the `validate` target.
 - `build_indexes.rb` — NON-DESTRUCTIVE: copies `src/` → `build/render/`, turns
   `@@CX(...)@@` concept markers into anchors THERE, generates the concepts index.
   The committed sources keep full marker text, so nothing is ever lost.

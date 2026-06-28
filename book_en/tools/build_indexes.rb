@@ -30,8 +30,11 @@ FileUtils.rm_rf(OUTDIR)
 FileUtils.mkdir_p(OUTDIR)
 
 # Copy the whole source tree to OUTDIR (so includes resolve identically).
+# Skip the frozen baseline (src/transcription/): it is an archive, never rendered.
 Dir.glob(File.join(SRC, '**', '*')).each do |path|
   rel = path.sub(/\A#{Regexp.escape(SRC)}\/?/, '')
+  # skip the frozen baseline tree entirely (the dir entry and everything under it)
+  next if rel == 'transcription' || rel.start_with?("transcription#{File::SEPARATOR}")
   dest = File.join(OUTDIR, rel)
   if File.directory?(path)
     FileUtils.mkdir_p(dest)

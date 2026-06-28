@@ -60,7 +60,12 @@ def norm_range(s)
   s.to_s.gsub(/[‐-―]/, '-').gsub(/\s/, '')
 end
 
-files = Dir.glob(File.join(SRC, '**', '*.adoc')).reject { |f| File.basename(f) == 'book.adoc' }.sort
+# Exclude the frozen baseline (src/transcription/): it is an archive, not a build
+# input. The annotation gate (tools/check_annotations.rb) compares against it instead.
+files = Dir.glob(File.join(SRC, '**', '*.adoc'))
+           .reject { |f| File.basename(f) == 'book.adoc' }
+           .reject { |f| f.include?("#{File::SEPARATOR}transcription#{File::SEPARATOR}") }
+           .sort
 abort "No .adoc files under #{SRC}" if files.empty?
 
 files.each do |path|

@@ -86,6 +86,13 @@ validate() {
   else
     echo ">> No validator present yet (tools/validate.rb); skipping."
   fi
+  # Gate: every chapter's annotations (@@CX, (((term))), footnotes, verse Arabic)
+  # must still match the frozen baseline in src/transcription/. Fails the build if
+  # a tone/edit pass dropped or altered any of them.
+  if [ -f "$ROOT/tools/check_annotations.rb" ]; then
+    echo ">> Checking annotation preservation vs src/transcription/"
+    "${RUBY[@]}" "$ROOT/tools/check_annotations.rb" "$SRC_DIR"
+  fi
 }
 
 # Build the GitHub Pages site into build/site/: a single-file index.html with the
