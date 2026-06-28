@@ -37,6 +37,10 @@ services:
     <<: *book
     command: bash tools/build.sh html
 
+  site:
+    <<: *book
+    command: bash tools/build.sh site
+
   validate:
     <<: *book
     command: bash tools/build.sh validate

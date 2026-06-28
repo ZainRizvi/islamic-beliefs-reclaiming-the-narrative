@@ -79,13 +79,36 @@ validate() {
   fi
 }
 
+# Build the GitHub Pages site: a single-file index.html with the Amiri web font
+# and verse styling injected via docinfo. Output goes to build/site/.
+build_site() {
+  require_src; prepare_render
+  local site="$OUT/site"
+  mkdir -p "$site"
+  echo ">> Rendering site -> build/site/index.html"
+  asciidoctor "${ext_flags[@]}" \
+    -a toc=left -a sectnums -a sectanchors -a idprefix -a idseparator=- \
+    -a docinfo=shared -a docinfodir="$ROOT/tools/web" \
+    -a 'linkcss!' \
+    -D "$site" -o "index.html" "$RENDER_SRC"
+  # Also drop the standalone downloadable artifacts beside it, if present.
+  for ext in pdf epub; do
+    f="$OUT/${ext}-Islamic-Beliefs-Reclaiming-the-Narrative.${ext}"
+    [ -f "$f" ] && cp "$f" "$site/" || true
+  done
+  # .nojekyll so GitHub Pages serves files as-is (no Jekyll processing).
+  touch "$site/.nojekyll"
+  echo ">> Site ready in build/site/ (index.html + downloads)"
+}
+
 case "${1:-all}" in
   pdf)      build_pdf ;;
   epub)     build_epub ;;
   html)     build_html ;;
+  site)     build_site ;;
   validate) validate ;;
   all)      validate; build_html; build_pdf; build_epub ;;
-  *) echo "Usage: build.sh {pdf|epub|html|validate|all}" >&2; exit 1 ;;
+  *) echo "Usage: build.sh {pdf|epub|html|site|validate|all}" >&2; exit 1 ;;
 esac
 
 echo ">> Done."

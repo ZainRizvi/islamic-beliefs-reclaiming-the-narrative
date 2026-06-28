@@ -1,0 +1,66 @@
+/* Web stylesheet for the GitHub Pages edition.
+   Layered on top of Asciidoctor's default HTML CSS: adds the Amiri web font for
+   Qur'anic Arabic, styles the verse blocks to match the print edition, and makes
+   the reading column comfortable on screens. */
+
+/* Amiri (Arabic) + a readable serif body are pulled from Google Fonts in the
+   page <head> (see the docinfo). These rules just apply them. */
+
+:root {
+  --verse-bg: #f7f5f0;
+  --verse-border: #c9b88a;
+  --muted: #555;
+}
+
+body.book {
+  font-family: "Noto Serif", Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+#content { max-width: 46rem; margin: 0 auto; }
+
+/* Qur'an verse blocks (sidebar role .quranverse). */
+.sidebarblock.quranverse {
+  background: var(--verse-bg);
+  border: 0;
+  border-left: 3px solid var(--verse-border);
+  border-radius: 4px;
+  padding: 0.9rem 1.2rem;
+  margin: 1.4rem 0;
+}
+.sidebarblock.quranverse > .content > .paragraph { margin: 0.5rem 0; }
+
+/* Arabic line: Amiri, right-to-left, larger, generous line-height for diacritics. */
+.arabic, .paragraph.arabic p {
+  font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic", serif;
+  direction: rtl;
+  text-align: right;
+  font-size: 1.5rem;
+  line-height: 2.1;
+}
+
+/* English rendering inside a verse block. */
+.sidebarblock.quranverse .paragraph:not(.arabic):not(.verse-cite) p {
+  font-style: normal;
+}
+
+/* Citation footer: right-aligned, muted, italic. */
+.paragraph.verse-cite p {
+  text-align: right;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+
+/* Inline Arabic (rare, woven-fragment fallback). */
+.arabic-inline { font-family: "Amiri", serif; font-size: 1.15rem; }
+
+/* Quote blocks (hadith / non-verse). */
+.quoteblock blockquote { border-left: 2px solid #bbb; }
+
+/* TOC: keep the three indexes readable. */
+#toc.toc2 { font-size: 0.92rem; }
+
+/* Footnotes a touch smaller. */
+#footnotes .footnote { font-size: 0.88rem; }
